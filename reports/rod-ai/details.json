@@ -1,0 +1,333 @@
+{
+  "data": {
+    "id": 29305,
+    "name": "ROD.AI",
+    "symbol": "RODAI",
+    "slug": "rod-ai",
+    "category": "token",
+    "description": "## What Is RODAI?\n\nRODAI is a memetility token\u2014a meme token packed with utility. The ROD, as a meme, is a metal rod that can transform into anything: rockets, trains, planes\u2014you name it, and the ROD can turn into it. RODAI\u2019s utility, **AEROSOL**, delivers top-tier tools for Solana communities, featuring a token launchpad, token catalog, burner, and a growing set of features to help communities monetize. With better earning tools in hand, **Aerosol** slashes the risk of rug pulls and makes Solana a safer, stronger ecosystem.",
+    "dateAdded": "2024-02-06T15:51:54.000Z",
+    "status": "active",
+    "subStatus": "normal",
+    "notice": "",
+    "alertType": 2,
+    "alertLink": "",
+    "latestUpdateTime": "2024-11-18T01:09:00.000Z",
+    "watchCount": "4093",
+    "watchListRanking": 3681,
+    "dateLaunched": "2024-01-12T00:00:00.000Z",
+    "latestAdded": false,
+    "tags": [
+      {
+        "slug": "memes",
+        "name": "Memes",
+        "category": "INDUSTRY"
+      },
+      {
+        "slug": "solana-ecosystem",
+        "name": "Solana Ecosystem",
+        "category": "PLATFORM"
+      },
+      {
+        "slug": "ai-memes",
+        "name": "AI Memes",
+        "category": "CATEGORY"
+      }
+    ],
+    "selfReportedTags": [
+      "Media",
+      "Platform",
+      "Content Creation",
+      "Memes",
+      "Sharing Economy",
+      "Social Token",
+      "Software",
+      "Solana Ecosystem",
+      "Web3",
+      "Token",
+      "Generative AI"
+    ],
+    "selfReportedCirculatingSupply": "54799095330128.30",
+    "urls": {
+      "website": [
+        "https://www.rodai.meme"
+      ],
+      "technical_doc": [
+        "https://www.rodai.meme/whitepaper.pdf"
+      ],
+      "explorer": [
+        "https://solscan.io/token/GdbyLsNKHKLXTZVEo8QrGKVmrexEeZUYvhpSfuZ9TdkC",
+        "https://solana.fm/address/GdbyLsNKHKLXTZVEo8QrGKVmrexEeZUYvhpSfuZ9TdkC?cluster=mainnet-alpha"
+      ],
+      "source_code": [
+        "https://github.com/rodaisol/rodai"
+      ],
+      "message_board": [],
+      "chat": [
+        "https://t.me/rodaisol",
+        "https://discord.gg/rodai"
+      ],
+      "announcement": [],
+      "reddit": [
+        "https://reddit.com/r/RODAI"
+      ],
+      "facebook": [],
+      "twitter": [
+        "https://twitter.com/rodaimeme"
+      ]
+    },
+    "volume": 82080.99632098,
+    "volumeChangePercentage24h": -22.2893,
+    "cexVolume": 64405.19911625,
+    "dexVolume": 17675.79720473,
+    "statistics": {
+      "price": 1.495370557152665e-08,
+      "priceChangePercentage1h": -0.62558565,
+      "priceChangePercentage24h": -1.56440229,
+      "priceChangePercentage7d": 4.92919619,
+      "priceChangePercentage30d": -24.64740812,
+      "priceChangePercentage60d": 116.64510793,
+      "priceChangePercentage90d": 77.97157499,
+      "priceChangePercentage1y": 498.25901028,
+      "priceChangePercentageAll": 498.259010379037,
+      "marketCap": 819449.54,
+      "marketCapChangePercentage24h": -1.5644,
+      "fullyDilutedMarketCap": 1038086.24,
+      "fullyDilutedMarketCapChangePercentage24h": -1.56,
+      "circulatingSupply": 54799095330128.3,
+      "totalSupply": 69356059317315.3,
+      "maxSupply": 69420000000000.0,
+      "marketCapDominance": 0.0,
+      "rank": 1931,
+      "low24h": 1.420511311e-08,
+      "high24h": 1.6377110305e-08,
+      "low7d": 1.2889853108e-08,
+      "high7d": 2.3863179259e-08,
+      "low30d": 8.876634563e-09,
+      "high30d": 2.3863179259e-08,
+      "low90d": 5.267776379e-09,
+      "high90d": 2.6132593351e-08,
+      "low52w": 2.7328559e-10,
+      "high52w": 1.20975572896e-07,
+      "lowAllTime": 2.7328559e-10,
+      "highAllTime": 1.20975572896e-07,
+      "lowAllTimeChangePercentage": 5371.82,
+      "highAllTimeChangePercentage": -87.64,
+      "lowAllTimeTimestamp": "2024-02-09T05:16:00.000Z",
+      "highAllTimeTimestamp": "2024-03-12T10:08:00.000Z",
+      "lowYesterday": 1.420511311e-08,
+      "highYesterday": 1.6377110305e-08,
+      "openYesterday": 1.4688486666e-08,
+      "closeYesterday": 1.5022594947e-08,
+      "priceChangePercentageYesterday": 2.27,
+      "volumeYesterday": 101796.63,
+      "turnover": 0.10016602,
+      "ytdPriceChangePercentage": 0.0,
+      "volumeRank": 2869,
+      "volumeMcRank": 1871,
+      "mcTotalNum": 10049,
+      "volumeTotalNum": 10049,
+      "volumeMcTotalNum": 10049
+    },
+    "quotes": [],
+    "platforms": [
+      {
+        "contractId": 5426,
+        "contractAddress": "GdbyLsNKHKLXTZVEo8QrGKVmrexEeZUYvhpSfuZ9TdkC",
+        "contractPlatform": "Solana",
+        "contractPlatformId": 16,
+        "contractChainId": -1,
+        "contractRpcUrl": [],
+        "contractNativeCurrencyName": "",
+        "contractNativeCurrencySymbol": "",
+        "contractNativeCurrencyDecimals": 18,
+        "contractBlockExplorerUrl": "",
+        "contractExplorerUrl": "https://solana.fm/address/GdbyLsNKHKLXTZVEo8QrGKVmrexEeZUYvhpSfuZ9TdkC",
+        "contractDecimals": 18,
+        "platformCryptoId": 5426,
+        "sort": 0,
+        "wallets": []
+      }
+    ],
+    "relatedCoins": [
+      {
+        "id": 2513,
+        "name": "GoldMint",
+        "slug": "goldmint",
+        "price": 0.05065701161697734,
+        "priceChangePercentage24h": -0.83488657,
+        "priceChangePercentage7d": 21.70106268
+      },
+      {
+        "id": 4679,
+        "name": "Band Protocol",
+        "slug": "band-protocol",
+        "price": 1.2924689407590508,
+        "priceChangePercentage24h": -5.51284503,
+        "priceChangePercentage7d": 1.82102584
+      },
+      {
+        "id": 7083,
+        "name": "Uniswap",
+        "slug": "uniswap",
+        "price": 8.907804423933275,
+        "priceChangePercentage24h": -4.39447372,
+        "priceChangePercentage7d": -3.90346035
+      },
+      {
+        "id": 1414,
+        "name": "Firo",
+        "slug": "firo",
+        "price": 1.3454938776288508,
+        "priceChangePercentage24h": 0.21867821,
+        "priceChangePercentage7d": 4.03360084
+      },
+      {
+        "id": 1975,
+        "name": "Chainlink",
+        "slug": "chainlink",
+        "price": 14.028344717813509,
+        "priceChangePercentage24h": -5.25786687,
+        "priceChangePercentage7d": -2.46572024
+      },
+      {
+        "id": 7653,
+        "name": "Oasis",
+        "slug": "oasis-network",
+        "price": 0.08025331330873264,
+        "priceChangePercentage24h": -5.30717197,
+        "priceChangePercentage7d": -4.39563858
+      },
+      {
+        "id": 707,
+        "name": "Blocknet",
+        "slug": "blocknet",
+        "price": 0.017113298239738093,
+        "priceChangePercentage24h": -0.68391562,
+        "priceChangePercentage7d": -3.30053472
+      },
+      {
+        "id": 5864,
+        "name": "yearn.finance",
+        "slug": "yearn-finance",
+        "price": 6192.38803639104,
+        "priceChangePercentage24h": -4.43119421,
+        "priceChangePercentage7d": -11.362147
+      },
+      {
+        "id": 4279,
+        "name": "Solar",
+        "slug": "sxp",
+        "price": 0.36376553390538346,
+        "priceChangePercentage24h": 2.1116243,
+        "priceChangePercentage7d": 18.12789401
+      },
+      {
+        "id": 8043,
+        "name": "MAHA.xyz",
+        "slug": "mahadao",
+        "price": 0.9034865737660874,
+        "priceChangePercentage24h": -2.68820884,
+        "priceChangePercentage7d": -9.89747239
+      }
+    ],
+    "isAudited": false,
+    "holders": {},
+    "displayTV": 0,
+    "isInfiniteMaxSupply": 0,
+    "tvCoinSymbol": "RODAI",
+    "supportWalletInfos": [
+      {
+        "id": 9159,
+        "name": "SolFlare",
+        "url": "https://solflare.com/",
+        "chains": "",
+        "decentration": false,
+        "logo": "default.png",
+        "multipleChain": false
+      },
+      {
+        "id": 9209,
+        "name": "Backpack",
+        "url": "https://backpack.app/downloads",
+        "chains": "",
+        "decentration": false,
+        "logo": "https://s3.coinmarketcap.com/static/img/as/2023-12-06T06:55:43.999Z_BackpackLogo_BlackBkg.png",
+        "multipleChain": false
+      },
+      {
+        "id": 9210,
+        "name": "Phantom",
+        "url": "https://phantom.app/",
+        "chains": "",
+        "decentration": false,
+        "logo": "https://s3.coinmarketcap.com/static/img/as/2023-12-06T11:05:16.408Z_4StTDIF4_400x400.png",
+        "multipleChain": false
+      }
+    ],
+    "holdersFlag": false,
+    "ratingsFlag": false,
+    "analysisFlag": false,
+    "socialsFlag": true,
+    "cryptoRating": [
+      {
+        "type": "CertiK",
+        "score": 40.47,
+        "rating": 2.0,
+        "updateTime": "2024-11-17T00:00:00.000Z",
+        "link": "https://cmc.certik-skynet.com/redirect?project=rod-ai&utm_source=CMC&utm_campaign=ScoreByCertiKLink"
+      },
+      {
+        "type": "Cyberscope",
+        "score": 66.0,
+        "rating": 3.3,
+        "updateTime": "2024-11-17T11:30:39.000Z",
+        "link": "https://www.cyberscope.io/audits/coin-rod-ai"
+      },
+      {
+        "type": "Aggregate rating",
+        "score": 53.2,
+        "rating": 2.7,
+        "updateTime": "2024-11-18T01:00:00.226Z"
+      }
+    ],
+    "hasExtraInfoFlag": false,
+    "upcoming": {
+      "status": false
+    },
+    "annotationFlag": false,
+    "similarCoins": [
+      {
+        "id": 27659,
+        "symbol": "MOG"
+      },
+      {
+        "id": 28675,
+        "symbol": "COQ"
+      },
+      {
+        "id": 30126,
+        "symbol": "MEW"
+      },
+      {
+        "id": 28782,
+        "symbol": "POPCAT"
+      },
+      {
+        "id": 23095,
+        "symbol": "BONK"
+      },
+      {
+        "id": 10804,
+        "symbol": "FLOKI"
+      }
+    ]
+  },
+  "status": {
+    "timestamp": "2024-11-18T01:09:59.494Z",
+    "error_code": "0",
+    "error_message": "SUCCESS",
+    "elapsed": "12",
+    "credit_count": 0
+  }
+}

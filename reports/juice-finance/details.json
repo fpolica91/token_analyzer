@@ -1,0 +1,314 @@
+{
+  "data": {
+    "id": 30143,
+    "name": "Juice Finance",
+    "symbol": "JUICE",
+    "slug": "juice-finance",
+    "category": "token",
+    "description": "Juice Finance, is a leading disruptive Cross-Margin DeFi protocol built on the Blast L2.  At its core, Juice innovates with cross-margin lending features, integrating seamlessly with Blast\u2019s unique rebasing tokens and ecosystem ethos.  Our platform is designed to empower users with composable leverage, enabling them to maximize their yield and point farming activities within the Blast ecosystem.",
+    "dateAdded": "2024-03-27T08:05:16.000Z",
+    "status": "active",
+    "subStatus": "normal",
+    "notice": "",
+    "alertType": 2,
+    "alertLink": "",
+    "latestUpdateTime": "2024-11-18T01:09:00.000Z",
+    "watchCount": "1119",
+    "watchListRanking": 5990,
+    "dateLaunched": "2024-02-29T00:00:00.000Z",
+    "latestAdded": false,
+    "tags": [],
+    "selfReportedCirculatingSupply": "1.4E+8",
+    "urls": {
+      "website": [
+        "https://www.juice.finance/",
+        "https://app.juice.finance/"
+      ],
+      "technical_doc": [
+        "https://juice-finance.gitbook.io/juice-finance"
+      ],
+      "explorer": [
+        "https://blastexplorer.io/address/0x818a92bc81Aad0053d72ba753fb5Bc3d0C5C0923",
+        "https://blastscan.io/address/0x818a92bc81Aad0053d72ba753fb5Bc3d0C5C0923"
+      ],
+      "source_code": [],
+      "message_board": [],
+      "chat": [
+        "https://t.co/J44sbp6ROk"
+      ],
+      "announcement": [],
+      "reddit": [],
+      "facebook": [],
+      "twitter": [
+        "https://twitter.com/juice_finance"
+      ]
+    },
+    "volume": 473873.33893572,
+    "volumeChangePercentage24h": -5.1751,
+    "cexVolume": 470225.94080021,
+    "dexVolume": 3647.3981355,
+    "statistics": {
+      "price": 0.004632514134787528,
+      "priceChangePercentage1h": -1.0646852,
+      "priceChangePercentage24h": -2.88519142,
+      "priceChangePercentage7d": 2.43702899,
+      "priceChangePercentage30d": -3.90625397,
+      "priceChangePercentage60d": -21.47700558,
+      "priceChangePercentage90d": -47.03663684,
+      "priceChangePercentage1y": -97.11479368,
+      "priceChangePercentageAll": -97.083583827095,
+      "marketCap": 795762.98,
+      "marketCapChangePercentage24h": -2.8852,
+      "fullyDilutedMarketCap": 4632514.13,
+      "fullyDilutedMarketCapChangePercentage24h": -2.89,
+      "circulatingSupply": 171777777.8,
+      "totalSupply": 1000000000.0,
+      "maxSupply": 1000000000.0,
+      "marketCapDominance": 0.0,
+      "rank": 1936,
+      "low24h": 0.004550793559755877,
+      "high24h": 0.004880901598008087,
+      "low7d": 0.004217190892963297,
+      "high7d": 0.008139932190242493,
+      "low30d": 0.003441273742864807,
+      "high30d": 0.008139932190242493,
+      "low90d": 0.003441273742864807,
+      "high90d": 0.008906250504397492,
+      "low52w": 0.003441273742864807,
+      "high52w": 0.18801696671610219,
+      "lowAllTime": 0.003441273742864807,
+      "highAllTime": 0.18801696671610219,
+      "lowAllTimeChangePercentage": 34.62,
+      "highAllTimeChangePercentage": -97.54,
+      "lowAllTimeTimestamp": "2024-11-05T11:56:00.000Z",
+      "highAllTimeTimestamp": "2024-04-08T13:44:00.000Z",
+      "lowYesterday": 0.004550793559755877,
+      "highYesterday": 0.004880901598008087,
+      "openYesterday": 0.004753464294807057,
+      "closeYesterday": 0.004634254113846194,
+      "priceChangePercentageYesterday": -2.51,
+      "volumeYesterday": 465228.2,
+      "tvl": 71124952.51969,
+      "tvlRatio": 0.01118824,
+      "turnover": 0.59549558,
+      "ytdPriceChangePercentage": 0.0,
+      "volumeRank": 1610,
+      "volumeMcRank": 538,
+      "mcTotalNum": 10049,
+      "volumeTotalNum": 10049,
+      "volumeMcTotalNum": 10049
+    },
+    "quotes": [],
+    "platforms": [
+      {
+        "contractId": 28480,
+        "contractAddress": "0x818a92bc81aad0053d72ba753fb5bc3d0c5c0923",
+        "contractPlatform": "Blast",
+        "contractPlatformId": 210,
+        "contractChainId": 81457,
+        "contractRpcUrl": [],
+        "contractNativeCurrencyName": "",
+        "contractNativeCurrencySymbol": "",
+        "contractNativeCurrencyDecimals": -1,
+        "contractBlockExplorerUrl": "",
+        "contractExplorerUrl": "https://blastscan.io/token/0x818a92bc81aad0053d72ba753fb5bc3d0c5c0923",
+        "contractDecimals": 18,
+        "platformCryptoId": 28480,
+        "sort": 0,
+        "wallets": []
+      }
+    ],
+    "relatedCoins": [
+      {
+        "id": 2513,
+        "name": "GoldMint",
+        "slug": "goldmint",
+        "price": 0.05065701161697734,
+        "priceChangePercentage24h": -0.83488657,
+        "priceChangePercentage7d": 21.70106268
+      },
+      {
+        "id": 4679,
+        "name": "Band Protocol",
+        "slug": "band-protocol",
+        "price": 1.2924689407590508,
+        "priceChangePercentage24h": -5.51284503,
+        "priceChangePercentage7d": 1.82102584
+      },
+      {
+        "id": 7083,
+        "name": "Uniswap",
+        "slug": "uniswap",
+        "price": 8.907804423933275,
+        "priceChangePercentage24h": -4.39447372,
+        "priceChangePercentage7d": -3.90346035
+      },
+      {
+        "id": 1414,
+        "name": "Firo",
+        "slug": "firo",
+        "price": 1.3454938776288508,
+        "priceChangePercentage24h": 0.21867821,
+        "priceChangePercentage7d": 4.03360084
+      },
+      {
+        "id": 1975,
+        "name": "Chainlink",
+        "slug": "chainlink",
+        "price": 14.028344717813509,
+        "priceChangePercentage24h": -5.25786687,
+        "priceChangePercentage7d": -2.46572024
+      },
+      {
+        "id": 7653,
+        "name": "Oasis",
+        "slug": "oasis-network",
+        "price": 0.08025331330873264,
+        "priceChangePercentage24h": -5.30717197,
+        "priceChangePercentage7d": -4.39563858
+      },
+      {
+        "id": 707,
+        "name": "Blocknet",
+        "slug": "blocknet",
+        "price": 0.017113298239738093,
+        "priceChangePercentage24h": -0.68391562,
+        "priceChangePercentage7d": -3.30053472
+      },
+      {
+        "id": 5864,
+        "name": "yearn.finance",
+        "slug": "yearn-finance",
+        "price": 6192.38803639104,
+        "priceChangePercentage24h": -4.43119421,
+        "priceChangePercentage7d": -11.362147
+      },
+      {
+        "id": 4279,
+        "name": "Solar",
+        "slug": "sxp",
+        "price": 0.36376553390538346,
+        "priceChangePercentage24h": 2.1116243,
+        "priceChangePercentage7d": 18.12789401
+      },
+      {
+        "id": 8043,
+        "name": "MAHA.xyz",
+        "slug": "mahadao",
+        "price": 0.9034865737660874,
+        "priceChangePercentage24h": -2.68820884,
+        "priceChangePercentage7d": -9.89747239
+      }
+    ],
+    "isAudited": false,
+    "holders": {},
+    "displayTV": 0,
+    "isInfiniteMaxSupply": 0,
+    "tvCoinSymbol": "JUICE",
+    "supportWalletInfos": [],
+    "holdersFlag": false,
+    "ratingsFlag": false,
+    "analysisFlag": false,
+    "socialsFlag": true,
+    "cryptoRating": [
+      {
+        "type": "CertiK",
+        "score": 73.32,
+        "rating": 3.7,
+        "updateTime": "2024-11-17T00:00:00.000Z",
+        "link": "https://cmc.certik-skynet.com/redirect?project=juice-finance&utm_source=CMC&utm_campaign=ScoreByCertiKLink"
+      },
+      {
+        "type": "Cyberscope",
+        "score": 80.0,
+        "rating": 4.0,
+        "updateTime": "2024-11-17T10:37:03.000Z",
+        "link": "https://www.cyberscope.io/audits/coin-juice-finance"
+      },
+      {
+        "type": "Aggregate rating",
+        "score": 76.7,
+        "rating": 3.9,
+        "updateTime": "2024-11-18T01:00:00.228Z"
+      }
+    ],
+    "tokenUnlockLatest": {
+      "cryptoId": 30143,
+      "totalUnlockedPercentage": 59.87,
+      "tokenUnlockedAmount": 598719500,
+      "tokenLockedAmount": 401280600,
+      "tokenUntrackedAmount": 0,
+      "nextUnlocked": {
+        "tokenAmount": 22251800.0,
+        "tokenAmountUsd": 103081.77802446512,
+        "tokenAmountPercentage": 2.23,
+        "date": 1732579200000
+      },
+      "nextUnlockedDetail": [
+        {
+          "tokenAmount": 10516800.0,
+          "tokenAmountUsd": 48719.22465273347,
+          "allocationName": "Advisors, CEXs, Contributors",
+          "vestingType": "linear"
+        },
+        {
+          "tokenAmount": 3833500.0,
+          "tokenAmountUsd": 17758.74293570799,
+          "allocationName": "Seed Investors",
+          "vestingType": "linear"
+        },
+        {
+          "tokenAmount": 6766500.0,
+          "tokenAmountUsd": 31345.90689303981,
+          "allocationName": "Ecosystem Rounds",
+          "vestingType": "linear"
+        },
+        {
+          "tokenAmount": 1135000.0,
+          "tokenAmountUsd": 5257.903542983844,
+          "allocationName": "Incubation Reward",
+          "vestingType": "linear"
+        }
+      ],
+      "updateTime": "2024-11-18T01:04:08.608Z"
+    },
+    "hasExtraInfoFlag": false,
+    "upcoming": {
+      "status": false
+    },
+    "annotationFlag": false,
+    "similarCoins": [
+      {
+        "id": 28480,
+        "symbol": "BLAST"
+      },
+      {
+        "id": 4956,
+        "symbol": "MAPO"
+      },
+      {
+        "id": 22074,
+        "symbol": "ALEX"
+      },
+      {
+        "id": 30126,
+        "symbol": "MEW"
+      },
+      {
+        "id": 23015,
+        "symbol": "NEON"
+      },
+      {
+        "id": 30171,
+        "symbol": "ENA"
+      }
+    ]
+  },
+  "status": {
+    "timestamp": "2024-11-18T01:09:59.909Z",
+    "error_code": "0",
+    "error_message": "SUCCESS",
+    "elapsed": "12",
+    "credit_count": 0
+  }
+}

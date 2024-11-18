@@ -1,0 +1,872 @@
+{
+  "data": {
+    "id": 1930,
+    "name": "Primas",
+    "symbol": "PST",
+    "slug": "primas",
+    "category": "token",
+    "description": "Primas (PST) is a cryptocurrency and operates on the Ethereum platform. Primas has a current supply of 101,342,465.753 with 0 in circulation. The last known price of Primas is 0.00091944 USD and is down -11.14 over the last 24 hours. It is currently trading on 5 active market(s) with $94.90 traded over the last 24 hours. More information can be found at https://primas.io/.",
+    "dateAdded": "2017-08-28T00:00:00.000Z",
+    "status": "active",
+    "subStatus": "normal",
+    "notice": "",
+    "alertType": 2,
+    "alertLink": "",
+    "latestUpdateTime": "2024-11-18T01:09:00.000Z",
+    "watchCount": "1667",
+    "watchListRanking": 5212,
+    "latestAdded": false,
+    "launchPrice": 0.375866,
+    "tags": [
+      {
+        "slug": "media",
+        "name": "Media",
+        "category": "INDUSTRY"
+      },
+      {
+        "slug": "content-creation",
+        "name": "Content Creation",
+        "category": "INDUSTRY"
+      }
+    ],
+    "urls": {
+      "website": [
+        "https://primas.io/"
+      ],
+      "technical_doc": [
+        "https://yb-public.oss-cn-shanghai.aliyuncs.com/primas/primas-1.2.1.pdf"
+      ],
+      "explorer": [
+        "https://etherscan.io/token/0x5d4abc77b8405ad177d8ac6682d584ecbfd46cec",
+        "https://ethplorer.io/address/0x5d4abc77b8405ad177d8ac6682d584ecbfd46cec"
+      ],
+      "source_code": [],
+      "message_board": [],
+      "chat": [],
+      "announcement": [],
+      "reddit": [
+        "https://reddit.com/r/Primas"
+      ],
+      "facebook": [],
+      "twitter": [
+        "https://twitter.com/PrimasOfficial"
+      ]
+    },
+    "volume": 94.88122604,
+    "volumeChangePercentage24h": 21.5959,
+    "cexVolume": 94.88122604,
+    "dexVolume": 0.0,
+    "statistics": {
+      "price": 0.0009197123840524548,
+      "priceChangePercentage1h": 0.13238546,
+      "priceChangePercentage24h": -11.06723163,
+      "priceChangePercentage7d": -6.5084629,
+      "priceChangePercentage30d": -33.42727322,
+      "priceChangePercentage60d": -33.22223887,
+      "priceChangePercentage90d": -30.36312525,
+      "priceChangePercentage1y": -40.98017263,
+      "priceChangePercentageAll": -99.755308435952,
+      "marketCap": 0.0,
+      "marketCapChangePercentage24h": 0.0,
+      "fullyDilutedMarketCap": 93205.92,
+      "fullyDilutedMarketCapChangePercentage24h": -11.07,
+      "circulatingSupply": 0.0,
+      "totalSupply": 101342465.753,
+      "marketCapDominance": 0.0,
+      "rank": 7574,
+      "roi": -99.75531108,
+      "low24h": 0.000881912123125113,
+      "high24h": 0.001032519474230251,
+      "low7d": 0.000881912123125113,
+      "high7d": 0.001084925161416966,
+      "low30d": 0.00076269334352167,
+      "high30d": 0.002698197955756493,
+      "low90d": 0.00076269334352167,
+      "high90d": 0.002698197955756493,
+      "low52w": 0.00076269334352167,
+      "high52w": 0.004341230119087872,
+      "lowAllTime": 0.00076269334352167,
+      "highAllTime": 1.2234200239181519,
+      "lowAllTimeChangePercentage": 20.59,
+      "highAllTimeChangePercentage": -99.92,
+      "lowAllTimeTimestamp": "2024-10-27T11:25:00.000Z",
+      "highAllTimeTimestamp": "2018-05-17T16:14:14.000Z",
+      "lowYesterday": 0.000881912123125113,
+      "highYesterday": 0.001035312442392265,
+      "openYesterday": 0.001032225281690906,
+      "closeYesterday": 0.000918419222469366,
+      "priceChangePercentageYesterday": -11.03,
+      "volumeYesterday": 94.78,
+      "ytdPriceChangePercentage": -35.0942,
+      "volumeRank": 7386,
+      "volumeMcRank": 8466,
+      "mcTotalNum": 10049,
+      "volumeTotalNum": 10049,
+      "volumeMcTotalNum": 10049
+    },
+    "quotes": [],
+    "platforms": [
+      {
+        "contractId": 1027,
+        "contractAddress": "0x5d4abc77b8405ad177d8ac6682d584ecbfd46cec",
+        "contractPlatform": "Ethereum",
+        "contractPlatformId": 1,
+        "contractChainId": 1,
+        "contractRpcUrl": [
+          "https://bsc-dataseed1.binance.org",
+          "https://bsc-dataseed.binance.org/",
+          "https://bsc-dataseed1.binance.org:443"
+        ],
+        "contractNativeCurrencyName": "Ethereum",
+        "contractNativeCurrencySymbol": "ETH",
+        "contractNativeCurrencyDecimals": 18,
+        "contractBlockExplorerUrl": "https://etherscan.io",
+        "contractExplorerUrl": "https://etherscan.io/token/0x5d4abc77b8405ad177d8ac6682d584ecbfd46cec",
+        "contractDecimals": 18,
+        "platformCryptoId": 1027,
+        "sort": 0,
+        "wallets": [
+          {
+            "id": 9022,
+            "universalLink": "c60_t0x5d4ABC77B8405aD177d8ac6682D584ecbFd46CEc"
+          },
+          {
+            "id": 9025
+          }
+        ]
+      }
+    ],
+    "relatedCoins": [
+      {
+        "id": 2513,
+        "name": "GoldMint",
+        "slug": "goldmint",
+        "price": 0.05065701161697734,
+        "priceChangePercentage24h": -0.83488657,
+        "priceChangePercentage7d": 21.70106268
+      },
+      {
+        "id": 4679,
+        "name": "Band Protocol",
+        "slug": "band-protocol",
+        "price": 1.2924689407590508,
+        "priceChangePercentage24h": -5.51284503,
+        "priceChangePercentage7d": 1.82102584
+      },
+      {
+        "id": 7083,
+        "name": "Uniswap",
+        "slug": "uniswap",
+        "price": 8.907804423933275,
+        "priceChangePercentage24h": -4.39447372,
+        "priceChangePercentage7d": -3.90346035
+      },
+      {
+        "id": 1414,
+        "name": "Firo",
+        "slug": "firo",
+        "price": 1.3454938776288508,
+        "priceChangePercentage24h": 0.21867821,
+        "priceChangePercentage7d": 4.03360084
+      },
+      {
+        "id": 1975,
+        "name": "Chainlink",
+        "slug": "chainlink",
+        "price": 14.028344717813509,
+        "priceChangePercentage24h": -5.25786687,
+        "priceChangePercentage7d": -2.46572024
+      },
+      {
+        "id": 7653,
+        "name": "Oasis",
+        "slug": "oasis-network",
+        "price": 0.08025331330873264,
+        "priceChangePercentage24h": -5.30717197,
+        "priceChangePercentage7d": -4.39563858
+      },
+      {
+        "id": 707,
+        "name": "Blocknet",
+        "slug": "blocknet",
+        "price": 0.017113298239738093,
+        "priceChangePercentage24h": -0.68391562,
+        "priceChangePercentage7d": -3.30053472
+      },
+      {
+        "id": 5864,
+        "name": "yearn.finance",
+        "slug": "yearn-finance",
+        "price": 6192.38803639104,
+        "priceChangePercentage24h": -4.43119421,
+        "priceChangePercentage7d": -11.362147
+      },
+      {
+        "id": 4279,
+        "name": "Solar",
+        "slug": "sxp",
+        "price": 0.36376553390538346,
+        "priceChangePercentage24h": 2.1116243,
+        "priceChangePercentage7d": 18.12789401
+      },
+      {
+        "id": 8043,
+        "name": "MAHA.xyz",
+        "slug": "mahadao",
+        "price": 0.9034865737660874,
+        "priceChangePercentage24h": -2.68820884,
+        "priceChangePercentage7d": -9.89747239
+      }
+    ],
+    "wallets": [
+      {
+        "id": 9022,
+        "name": "Trust Wallet",
+        "tier": 1,
+        "url": "https://www.trustwallet.com/",
+        "chains": "ETH",
+        "types": "app,trade",
+        "introduction": "",
+        "star": 2.0,
+        "security": 3.0,
+        "easyToUse": 3.0,
+        "decentration": true,
+        "focusNumber": 0,
+        "rank": 1000008,
+        "logo": "9022.png",
+        "multipleChain": true
+      },
+      {
+        "id": 9025,
+        "name": "MetaMask",
+        "tier": 1,
+        "url": "https://metamask.io/",
+        "chains": "ETH,ETZ",
+        "types": "pc",
+        "introduction": "",
+        "star": 1.0,
+        "security": 2.0,
+        "easyToUse": 4.0,
+        "decentration": false,
+        "focusNumber": 0,
+        "rank": 1000013,
+        "logo": "9025.png",
+        "multipleChain": true
+      }
+    ],
+    "isAudited": true,
+    "auditInfos": [
+      {
+        "coinId": "1930",
+        "auditor": "SlowMist",
+        "auditStatus": 2,
+        "reportUrl": "https://www.slowmist.com/en/security-audit-certificate.html?id=4bec4ad10ded966bafae36de88bfd010c6efa923629d240aab1030e2d6cf1506"
+      }
+    ],
+    "holders": {
+      "holderCount": 15006,
+      "holderList": [
+        {
+          "address": "0x9bfcd4baed2d44fb8e6d3bd9457012ff62b9de07",
+          "balance": 28649900.0,
+          "share": 22.49
+        },
+        {
+          "address": "0x5c23784c9812873f58ef6d72e492270e0a880781",
+          "balance": 20000001,
+          "share": 15.7
+        },
+        {
+          "address": "0x6e280b66be6193e7aeb6e617364c48883c11a581",
+          "balance": 17913436.657534245,
+          "share": 14.06
+        },
+        {
+          "address": "0x1c4b70a3968436b9a0a9cf5205c787eb81bb558c",
+          "balance": 13369781.255360687,
+          "share": 10.5
+        },
+        {
+          "address": "0x0d0707963952f2fba59dd06f2b425ace40b492fe",
+          "balance": 9879032.413521033,
+          "share": 7.75
+        },
+        {
+          "address": "0x6cc5f688a315f3dc28a7781717a9a798a59fda7b",
+          "balance": 9094163.797751522,
+          "share": 7.14
+        },
+        {
+          "address": "0xa7ddf1f53a58e4dee403911ba5e7b521ff4c5e30",
+          "balance": 4509595.164383561,
+          "share": 3.54
+        },
+        {
+          "address": "0xc14ea0ea4a7f1aa0485e8f4d31c3b148d056324d",
+          "balance": 3463583.68944636,
+          "share": 2.72
+        },
+        {
+          "address": "0xab94f3bfabc26e0e81b237f0d2f2dcfe9dcddcba",
+          "balance": 2366965.90037228,
+          "share": 1.86
+        },
+        {
+          "address": "0xa982937949b88a9652836a605ac23ed4d4b8a363",
+          "balance": 1909706.76138386,
+          "share": 1.5
+        },
+        {
+          "address": "0xe02a4056785478a6466dfbb3e1c921a34f026002",
+          "balance": 1770400.7226692,
+          "share": 1.39
+        },
+        {
+          "address": "0x297611b7accb7f24032c27b3a496465624c7ef50",
+          "balance": 1712320.167,
+          "share": 1.34
+        },
+        {
+          "address": "0x7793cd85c11a924478d358d49b05b37e91b5810f",
+          "balance": 1178951.5482698062,
+          "share": 0.93
+        },
+        {
+          "address": "0x28f32f696fa9420e65bf63d59760350ee88349a4",
+          "balance": 611108.3189199,
+          "share": 0.48
+        },
+        {
+          "address": "0x1cb660b7c97f85f76dcd0a6eb4d476ca1671f019",
+          "balance": 497516.661,
+          "share": 0.39
+        },
+        {
+          "address": "0x17367c0e01b01637bf6f7c19e225aba8babb1983",
+          "balance": 398511.2747554,
+          "share": 0.31
+        },
+        {
+          "address": "0x3a6bf2586ac7994c8f374efa56299e999c7a1748",
+          "balance": 300000.0,
+          "share": 0.24
+        },
+        {
+          "address": "0x9ced804dfa2223ffda7467b0f6b11a839f17918f",
+          "balance": 275509.2313814,
+          "share": 0.22
+        },
+        {
+          "address": "0x6c42de4adec4e3590c3330bf8c12a6df45a9338f",
+          "balance": 272334.75026305,
+          "share": 0.21
+        },
+        {
+          "address": "0x6eaf2e1191220a5af2e7fd6497ac946012ba0396",
+          "balance": 244657.46496167,
+          "share": 0.19
+        },
+        {
+          "address": "0xcbd3a2b8372c9ab9310be313cecbbbfe2c1d7c64",
+          "balance": 238000.0,
+          "share": 0.19
+        },
+        {
+          "address": "0x30a059f18331a7f0246802188e04095e591d68fd",
+          "balance": 235072.22451354,
+          "share": 0.18
+        },
+        {
+          "address": "0xd4dcd2459bb78d7a645aa7e196857d421b10d93f",
+          "balance": 234815.72210767202,
+          "share": 0.18
+        },
+        {
+          "address": "0xe868badb9906106dac6473aa739c72b74f82966b",
+          "balance": 209998,
+          "share": 0.16
+        },
+        {
+          "address": "0xab414ac271b49502e760bb31677997ef37dfbe7a",
+          "balance": 200000.0,
+          "share": 0.16
+        },
+        {
+          "address": "0x9831c9f64399b397594209410be9231e4f3b90b9",
+          "balance": 197370.08832055,
+          "share": 0.15
+        },
+        {
+          "address": "0xc4aaeda31eac1b5817dc804af3a7b61efcbbb2fe",
+          "balance": 190241.09888785,
+          "share": 0.15
+        },
+        {
+          "address": "0x73827924c98ed3c3f645fa322fd61f3c301730f9",
+          "balance": 188670.0,
+          "share": 0.15
+        },
+        {
+          "address": "0x0293a3e24cdb36cd6efea2e456a352e722b2ca59",
+          "balance": 184772.95856651,
+          "share": 0.15
+        },
+        {
+          "address": "0x78f13262bdf3a1a27a79378eb7a5eaf71c0cafea",
+          "balance": 181725.06487478,
+          "share": 0.14
+        },
+        {
+          "address": "0xc74aefadabeb913443f9acc061482ab16099dee6",
+          "balance": 180150.91332869424,
+          "share": 0.14
+        },
+        {
+          "address": "0x88c56e7241783a8cb76dae1ee057112249989574",
+          "balance": 161803.19802786,
+          "share": 0.13
+        },
+        {
+          "address": "0x8b9a4af2fdbf2d438a444e2552ccd85227423bf1",
+          "balance": 150534.1463,
+          "share": 0.12
+        },
+        {
+          "address": "0xc3c2d9e88ae0687805e3c5420c76f609308ab974",
+          "balance": 135398.65521756,
+          "share": 0.11
+        },
+        {
+          "address": "0xfb4f302877892bce9787db26889382ff7f4b5fd2",
+          "balance": 117852.86288067,
+          "share": 0.09
+        },
+        {
+          "address": "0x2578ca8cd3b9613624099ef8bb554f32459f08db",
+          "balance": 117806.58890758,
+          "share": 0.09
+        },
+        {
+          "address": "0xef5ab1cf19575f5727bac67adab63e7a8f86f99f",
+          "balance": 108696.06982263,
+          "share": 0.09
+        },
+        {
+          "address": "0x90e7c407e09e603dd03d8b4b9e1fc8588a067051",
+          "balance": 107846.6429932,
+          "share": 0.08
+        },
+        {
+          "address": "0xcac642c043f508251f3900af80f7992d62064df7",
+          "balance": 107197.87853664,
+          "share": 0.08
+        },
+        {
+          "address": "0x76217297b81a0f49c022fa58e7b4621d04e39d11",
+          "balance": 104796.25103864,
+          "share": 0.08
+        },
+        {
+          "address": "0xa6adb5f4d875b9c4bc5553c191a0ebe7fb51d165",
+          "balance": 100014.92141144,
+          "share": 0.08
+        },
+        {
+          "address": "0x028900c58929159d38dc0d181985602975e1fe46",
+          "balance": 100000.0,
+          "share": 0.08
+        },
+        {
+          "address": "0xb10369cb7b4ac8ca3f83bd50ccfbac3584574548",
+          "balance": 100000.0,
+          "share": 0.08
+        },
+        {
+          "address": "0x5a4493888baa0f0d831b70aad50696dfcd167345",
+          "balance": 92962.96162005,
+          "share": 0.07
+        },
+        {
+          "address": "0x6d4beb94f60ec025e64a375a7df00980afc34bde",
+          "balance": 89214.65249278,
+          "share": 0.07
+        },
+        {
+          "address": "0xbf526b1ba4b43c145d7cbf4e0f920fd98dee516d",
+          "balance": 85518.847,
+          "share": 0.07
+        },
+        {
+          "address": "0xa6a1bd108f48110b20bcbe23d99f946bab5cf695",
+          "balance": 84833.92384417,
+          "share": 0.07
+        },
+        {
+          "address": "0x597bbd885a14d205856e317e4fb35217b75833f2",
+          "balance": 82519.8818728,
+          "share": 0.06
+        },
+        {
+          "address": "0xae8082d3078ffbca157ce66c664b81a0e8bd7bfe",
+          "balance": 82200.68517744,
+          "share": 0.06
+        },
+        {
+          "address": "0x10dce18d6b5c779bc8de620f8d0a561dfc3a51f0",
+          "balance": 80245,
+          "share": 0.06
+        },
+        {
+          "address": "0xe623fcec936e838d1d5de7b4ac958426119954f0",
+          "balance": 80099.09645829,
+          "share": 0.06
+        },
+        {
+          "address": "0xef55092fae2da6dd9fe1c4c98ea9c9427376b0fa",
+          "balance": 78424.43726355,
+          "share": 0.06
+        },
+        {
+          "address": "0x5201ffdb198e85a9f250f4074387f71593dda0d6",
+          "balance": 74337.27276289,
+          "share": 0.06
+        },
+        {
+          "address": "0xa9fab64ba4fb51b1613937f2016e9ccd372c0004",
+          "balance": 70014.91608346,
+          "share": 0.05
+        },
+        {
+          "address": "0xd5a469d6eb609439076c9861cb1ebb60f84f52c8",
+          "balance": 69944,
+          "share": 0.05
+        },
+        {
+          "address": "0x8258b944f08738ab2837b0bf508e87cfebd273bf",
+          "balance": 69353.45601103,
+          "share": 0.05
+        },
+        {
+          "address": "0xda766c43c30ed2e161bc64330309d39e180286c9",
+          "balance": 68081.07485613074,
+          "share": 0.05
+        },
+        {
+          "address": "0xc4d3b05d8a1101bdddbc1c7028164333c48cd3cc",
+          "balance": 67079.034,
+          "share": 0.05
+        },
+        {
+          "address": "0xd266d45de39870853cbf0c5731fb6a1f5b2919d9",
+          "balance": 62271.3281,
+          "share": 0.05
+        },
+        {
+          "address": "0xc211b832f8f08f9dbbc4defb83343767081e668c",
+          "balance": 62049.18903303,
+          "share": 0.05
+        },
+        {
+          "address": "0x6dd4aa7dd8539c7013c1245fc2f540773755e8cc",
+          "balance": 59813.90758762,
+          "share": 0.05
+        },
+        {
+          "address": "0xfa8836a9b4aa248d788aaf8560f763769aaef995",
+          "balance": 55372.87151046,
+          "share": 0.04
+        },
+        {
+          "address": "0xa285be9e4c46009a2562ec96d5ee360e711a0231",
+          "balance": 54625.41193799,
+          "share": 0.04
+        },
+        {
+          "address": "0x8d12a197cb00d4747a1fe03395095ce2a5cc6819",
+          "balance": 53146.7823158755,
+          "share": 0.04
+        },
+        {
+          "address": "0xba47bb6268f67c3f1010eb650f74e9b187f33e01",
+          "balance": 52316.06341258,
+          "share": 0.04
+        },
+        {
+          "address": "0xb6f46c9061f85be2bc50c9b8e7710a543cda4d9d",
+          "balance": 52085.543319,
+          "share": 0.04
+        },
+        {
+          "address": "0x2750cb2d3c7944d52302a6af8629da45cbeaa988",
+          "balance": 51888.88,
+          "share": 0.04
+        },
+        {
+          "address": "0xf1ddc6339a8311112754ed11829f5a7154bdaf87",
+          "balance": 50818.95587192,
+          "share": 0.04
+        },
+        {
+          "address": "0x86f736558e69d4833617ffb14133c0a9427659d8",
+          "balance": 50000.0,
+          "share": 0.04
+        },
+        {
+          "address": "0x93061eef2ad0c59334fbed89d4fe519c3cc652af",
+          "balance": 49341.08650229,
+          "share": 0.04
+        },
+        {
+          "address": "0x66c1b0657f3e3b82d242cdc6b5ca2f7de2a56339",
+          "balance": 47600.82565,
+          "share": 0.04
+        },
+        {
+          "address": "0x807f37671e7e1d59c2946fd92ba26a35e1f7594c",
+          "balance": 44945.72224883,
+          "share": 0.04
+        },
+        {
+          "address": "0x64bbdd4e434295194d33e3b9dd8673ffc640e5c6",
+          "balance": 44396.45314,
+          "share": 0.03
+        },
+        {
+          "address": "0x4a141387e4f34f50d33abd62e7692040dbc0f256",
+          "balance": 42491.76,
+          "share": 0.03
+        },
+        {
+          "address": "0x33ff652a4cfb264ff2d9891e420bdf7f5097558f",
+          "balance": 42070.4298,
+          "share": 0.03
+        },
+        {
+          "address": "0xef48120efd0f159db2d7d414c75986b5b614a453",
+          "balance": 40000.0,
+          "share": 0.03
+        },
+        {
+          "address": "0xc97d990b257a6c48fde803eab98b6720e76acaab",
+          "balance": 39525.368,
+          "share": 0.03
+        },
+        {
+          "address": "0x30ce6f10a617fb8c66b93817adce1379853a7b13",
+          "balance": 37087.79,
+          "share": 0.03
+        },
+        {
+          "address": "0x9d64710174d4fde9919137b2a236eba84b49a603",
+          "balance": 35570.56862753,
+          "share": 0.03
+        },
+        {
+          "address": "0xb26802a210bc09789842a3fdba4265060925d42b",
+          "balance": 35003.2604416999,
+          "share": 0.03
+        },
+        {
+          "address": "0x20065a97442f77437d80d4bd20a2ca9be24dca79",
+          "balance": 33832.554,
+          "share": 0.03
+        },
+        {
+          "address": "0x12a90d4afd40894ed6de3d043851c04732da1a18",
+          "balance": 33324.96111159,
+          "share": 0.03
+        },
+        {
+          "address": "0xcac725bef4f114f728cbcfd744a731c2a463c3fc",
+          "balance": 31000.0,
+          "share": 0.02
+        },
+        {
+          "address": "0x141fef8cd8397a390afe94846c8bd6f4ab981c48",
+          "balance": 31000.0,
+          "share": 0.02
+        },
+        {
+          "address": "0xb66da5089f983761f1d66c9419a138feaf601baf",
+          "balance": 29605.95714564,
+          "share": 0.02
+        },
+        {
+          "address": "0xb727dba20032d39457b1c516b76ee0bf0c259529",
+          "balance": 29103.96187828,
+          "share": 0.02
+        },
+        {
+          "address": "0x2eb7bec12633d4a7135609c1d8d9733fdda97ada",
+          "balance": 26999.9,
+          "share": 0.02
+        },
+        {
+          "address": "0x1e48009fe94b8f95b1c1b15da2bf9b860d72500d",
+          "balance": 26567.747,
+          "share": 0.02
+        },
+        {
+          "address": "0xc3385a8d22cdba9192fff4688803e23e661def89",
+          "balance": 25559,
+          "share": 0.02
+        },
+        {
+          "address": "0xbaaaea4ccb961c4ec45d215d18e6aa7512d684e6",
+          "balance": 25000.7652,
+          "share": 0.02
+        },
+        {
+          "address": "0x5de69a9ac861452013c9e65a330b602c5d8a7302",
+          "balance": 24933.4651432,
+          "share": 0.02
+        },
+        {
+          "address": "0x7141965edc908d61feebe07367a871acb7b700bb",
+          "balance": 24538.94332478147,
+          "share": 0.02
+        },
+        {
+          "address": "0x4bdfa84e40daaba83465240d9e7df9a79e0c957e",
+          "balance": 24131.22197173,
+          "share": 0.02
+        },
+        {
+          "address": "0x008340d24770ae969c38f7a01eaf77905311d66f",
+          "balance": 23956,
+          "share": 0.02
+        },
+        {
+          "address": "0x8da33007a00c32a74c0def2695f89a109bb1af2a",
+          "balance": 22060.107634,
+          "share": 0.02
+        },
+        {
+          "address": "0xd3a1d227fbed94b6eb4e3f2db8d592d1ce4400af",
+          "balance": 21154.997,
+          "share": 0.02
+        },
+        {
+          "address": "0x05b285af3f6f3c1724ba004008317af239d87f62",
+          "balance": 21154.43132875,
+          "share": 0.02
+        },
+        {
+          "address": "0xe47a720928a16debb6c912ec18b9e31660a570c6",
+          "balance": 20579.45354077,
+          "share": 0.02
+        },
+        {
+          "address": "0x2c8d12dbb085aad0dff6669fedc13ac467f751fd",
+          "balance": 20382.19538503623,
+          "share": 0.02
+        },
+        {
+          "address": "0x705a0a59bb9e53d131e903882bf16411f08ec785",
+          "balance": 19984,
+          "share": 0.02
+        }
+      ],
+      "topTenHolderRatio": 87.26,
+      "topTwentyHolderRatio": 92.96,
+      "topFiftyHolderRatio": 96.28,
+      "topHundredHolderRatio": 97.96
+    },
+    "displayTV": 1,
+    "isInfiniteMaxSupply": 0,
+    "tvCoinSymbol": "PST",
+    "supportWalletInfos": [
+      {
+        "id": 9022,
+        "name": "Trust Wallet",
+        "url": "https://www.trustwallet.com/",
+        "chains": "ETH",
+        "decentration": false,
+        "logo": "9022.png",
+        "multipleChain": false
+      },
+      {
+        "id": 9025,
+        "name": "MetaMask",
+        "url": "https://metamask.io/",
+        "chains": "ETH,ETZ",
+        "decentration": false,
+        "logo": "9025.png",
+        "multipleChain": false
+      }
+    ],
+    "holdersFlag": true,
+    "ratingsFlag": false,
+    "analysisFlag": true,
+    "socialsFlag": true,
+    "cryptoRating": [
+      {
+        "type": "CertiK",
+        "score": 62.85,
+        "rating": 3.1,
+        "updateTime": "2024-11-17T00:00:00.000Z",
+        "link": "https://cmc.certik-skynet.com/redirect?project=primas&utm_source=CMC&utm_campaign=ScoreByCertiKLink"
+      },
+      {
+        "type": "Cyberscope",
+        "score": 48.0,
+        "rating": 2.4,
+        "updateTime": "2024-11-17T10:24:48.000Z",
+        "link": "https://www.cyberscope.io/audits/coin-primas"
+      },
+      {
+        "type": "Aggregate rating",
+        "score": 55.4,
+        "rating": 2.8,
+        "updateTime": "2024-11-18T01:00:00.179Z"
+      }
+    ],
+    "analysis": {
+      "holdingWhalesPercent": 90.106981,
+      "holdingAddressesCount": 14426,
+      "addressByTimeHeld": {
+        "holdersPercent": 99.85323922007127,
+        "cruisersPercent": 0.11181773708855,
+        "tradersPercent": 0.03494304284017
+      }
+    },
+    "hasExtraInfoFlag": false,
+    "upcoming": {
+      "status": false
+    },
+    "annotationFlag": false,
+    "similarCoins": [
+      {
+        "id": 1669,
+        "symbol": "HMQ"
+      },
+      {
+        "id": 2476,
+        "symbol": "RUFF"
+      },
+      {
+        "id": 1473,
+        "symbol": "PASC"
+      },
+      {
+        "id": 3334,
+        "symbol": "XCASH"
+      },
+      {
+        "id": 3704,
+        "symbol": "VSYS"
+      },
+      {
+        "id": 5103,
+        "symbol": "IPX"
+      }
+    ]
+  },
+  "status": {
+    "timestamp": "2024-11-18T01:10:08.364Z",
+    "error_code": "0",
+    "error_message": "SUCCESS",
+    "elapsed": "12",
+    "credit_count": 0
+  }
+}

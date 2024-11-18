@@ -1,0 +1,397 @@
+{
+  "data": {
+    "id": 24580,
+    "name": "LitLab Games",
+    "symbol": "LITT",
+    "slug": "litlab-games",
+    "category": "token",
+    "description": "LitLab Games is a AAA video game publisher focused in esports. The company is led by experts in the video game, esports and web3 industry with successes in previous startups. LitLab is the first Esports developer and publisher launching games backed by blockchain technology with a crypto-based economy.\n\nCyber Titans was released in May 2023 after 2 years of development, TOP 1 most played game in Elixir Launcher and also becoming part of DreamHack\u00b4s esports circuit on main panel along with titles like \"League of Legends\".\n\nTHE PROFESIONAL GAMER\n\nWe believe in the independent professional gamer. A player who will be able to monetize his dedication and skill without having to rely on streaming platforms or creating contents as the main way of income, which right now it only applies to a few of the elite influencers.\n\nESPORTS\n\nWe are Esports. We are focused on creating a World Circuit with different stops that will forge the new legends and change gamer's lifes.",
+    "dateAdded": "2023-05-15T03:44:37.000Z",
+    "status": "active",
+    "subStatus": "normal",
+    "notice": "Please note that LitLab Games has undergone a 1:1 swap from BSC to Solana. To bridge to Solana, please visit [this page](https://blog.elixir.app/migration-to-solana-and-10-total-supply-burn-a-new-era-for-litt/).",
+    "alertType": 2,
+    "alertLink": "",
+    "latestUpdateTime": "2024-11-18T01:09:00.000Z",
+    "watchCount": "58885",
+    "watchListRanking": 679,
+    "dateLaunched": "2023-05-10T00:00:00.000Z",
+    "latestAdded": false,
+    "launchPrice": 0.01,
+    "tags": [
+      {
+        "slug": "gaming",
+        "name": "Gaming",
+        "category": "INDUSTRY"
+      },
+      {
+        "slug": "seedify",
+        "name": "Seedify",
+        "category": "CATEGORY"
+      }
+    ],
+    "urls": {
+      "website": [
+        "https://www.litlabgames.com",
+        "https://www.cybertitans.io"
+      ],
+      "technical_doc": [
+        "https://litlabgames.com/Whitepaper.pdf"
+      ],
+      "explorer": [
+        "https://solscan.io/token/GEBUHM7o5T1Ws2rAWjRijtYeh9XFxKrD3B4b9HV7dxLz",
+        "https://litlabgames.com"
+      ],
+      "source_code": [],
+      "message_board": [
+        "https://medium.com/@LitLabGames"
+      ],
+      "chat": [
+        "https://discord.com/invite/QZhFb9nJ8x",
+        "https://t.me/LitLabGames"
+      ],
+      "announcement": [],
+      "reddit": [],
+      "facebook": [],
+      "twitter": [
+        "https://twitter.com/CyberTitansGame"
+      ]
+    },
+    "volume": 188105.69892557,
+    "volumeChangePercentage24h": 22.3575,
+    "cexVolume": 178034.61368118,
+    "dexVolume": 10071.08524439,
+    "statistics": {
+      "price": 0.0025264070179304727,
+      "priceChangePercentage1h": -0.22929046,
+      "priceChangePercentage24h": -1.16756787,
+      "priceChangePercentage7d": 136.97249016,
+      "priceChangePercentage30d": 14.86079602,
+      "priceChangePercentage60d": 11.85065347,
+      "priceChangePercentage90d": -12.51479424,
+      "priceChangePercentage1y": -80.58732425,
+      "priceChangePercentageAll": -70.394112428911,
+      "marketCap": 737268.9,
+      "marketCapChangePercentage24h": -1.1676,
+      "fullyDilutedMarketCap": 6819626.57,
+      "fullyDilutedMarketCapChangePercentage24h": -1.17,
+      "circulatingSupply": 291825068.0,
+      "totalSupply": 2699338041.975,
+      "marketCapDominance": 0.0,
+      "rank": 1963,
+      "roi": -74.73592982,
+      "low24h": 0.002524485932292033,
+      "high24h": 0.00258862864615317,
+      "low7d": 0.001051990143383503,
+      "high7d": 0.002756476213575706,
+      "low30d": 0.001051990143383503,
+      "high30d": 0.002756476213575706,
+      "low90d": 0.001051990143383503,
+      "high90d": 0.002981434682122973,
+      "low52w": 0.001051990143383503,
+      "high52w": 0.058689494743808884,
+      "lowAllTime": 0.001051990143383503,
+      "highAllTime": 0.058689494743808884,
+      "lowAllTimeChangePercentage": 140.16,
+      "highAllTimeChangePercentage": -95.7,
+      "lowAllTimeTimestamp": "2024-11-11T15:49:00.000Z",
+      "highAllTimeTimestamp": "2023-12-07T00:59:00.000Z",
+      "lowYesterday": 0.002527171336557503,
+      "highYesterday": 0.00258862864615317,
+      "openYesterday": 0.002559749200048748,
+      "closeYesterday": 0.002534208378064705,
+      "priceChangePercentageYesterday": -1.0,
+      "volumeYesterday": 188062.95,
+      "turnover": 0.25513852,
+      "ytdPriceChangePercentage": -92.4157,
+      "volumeRank": 2220,
+      "volumeMcRank": 1036,
+      "mcTotalNum": 10049,
+      "volumeTotalNum": 10049,
+      "volumeMcTotalNum": 10049
+    },
+    "quotes": [],
+    "platforms": [
+      {
+        "contractId": 1839,
+        "contractAddress": "0xCEbEf3DF1F3C5Bfd90FDE603E71F31a53B11944D",
+        "contractPlatform": "BNB Smart Chain (BEP20)",
+        "contractPlatformId": 14,
+        "contractChainId": 56,
+        "contractRpcUrl": [
+          "https://bsc-dataseed1.binance.org",
+          "https://bsc-dataseed.binance.org/",
+          "https://bsc-dataseed1.binance.org:443"
+        ],
+        "contractNativeCurrencyName": "Binance Chain Native Token",
+        "contractNativeCurrencySymbol": "BNB",
+        "contractNativeCurrencyDecimals": 18,
+        "contractBlockExplorerUrl": "https://bscscan.com/",
+        "contractExplorerUrl": "https://bscscan.com/token/0xCEbEf3DF1F3C5Bfd90FDE603E71F31a53B11944D",
+        "contractDecimals": 18,
+        "platformCryptoId": 1839,
+        "sort": 0,
+        "wallets": [
+          {
+            "id": 9025
+          }
+        ]
+      },
+      {
+        "contractId": 5426,
+        "contractAddress": "GEBUHM7o5T1Ws2rAWjRijtYeh9XFxKrD3B4b9HV7dxLz",
+        "contractPlatform": "Solana",
+        "contractPlatformId": 16,
+        "contractChainId": -1,
+        "contractRpcUrl": [],
+        "contractNativeCurrencyName": "",
+        "contractNativeCurrencySymbol": "",
+        "contractNativeCurrencyDecimals": 18,
+        "contractBlockExplorerUrl": "",
+        "contractExplorerUrl": "https://solana.fm/address/GEBUHM7o5T1Ws2rAWjRijtYeh9XFxKrD3B4b9HV7dxLz",
+        "contractDecimals": 18,
+        "platformCryptoId": 5426,
+        "sort": 0,
+        "wallets": []
+      }
+    ],
+    "relatedCoins": [
+      {
+        "id": 2513,
+        "name": "GoldMint",
+        "slug": "goldmint",
+        "price": 0.05065701161697734,
+        "priceChangePercentage24h": -0.83488657,
+        "priceChangePercentage7d": 21.70106268
+      },
+      {
+        "id": 4679,
+        "name": "Band Protocol",
+        "slug": "band-protocol",
+        "price": 1.2924689407590508,
+        "priceChangePercentage24h": -5.51284503,
+        "priceChangePercentage7d": 1.82102584
+      },
+      {
+        "id": 7083,
+        "name": "Uniswap",
+        "slug": "uniswap",
+        "price": 8.907804423933275,
+        "priceChangePercentage24h": -4.39447372,
+        "priceChangePercentage7d": -3.90346035
+      },
+      {
+        "id": 1414,
+        "name": "Firo",
+        "slug": "firo",
+        "price": 1.3454938776288508,
+        "priceChangePercentage24h": 0.21867821,
+        "priceChangePercentage7d": 4.03360084
+      },
+      {
+        "id": 1975,
+        "name": "Chainlink",
+        "slug": "chainlink",
+        "price": 14.028344717813509,
+        "priceChangePercentage24h": -5.25786687,
+        "priceChangePercentage7d": -2.46572024
+      },
+      {
+        "id": 7653,
+        "name": "Oasis",
+        "slug": "oasis-network",
+        "price": 0.08025331330873264,
+        "priceChangePercentage24h": -5.30717197,
+        "priceChangePercentage7d": -4.39563858
+      },
+      {
+        "id": 707,
+        "name": "Blocknet",
+        "slug": "blocknet",
+        "price": 0.017113298239738093,
+        "priceChangePercentage24h": -0.68391562,
+        "priceChangePercentage7d": -3.30053472
+      },
+      {
+        "id": 5864,
+        "name": "yearn.finance",
+        "slug": "yearn-finance",
+        "price": 6192.38803639104,
+        "priceChangePercentage24h": -4.43119421,
+        "priceChangePercentage7d": -11.362147
+      },
+      {
+        "id": 4279,
+        "name": "Solar",
+        "slug": "sxp",
+        "price": 0.36376553390538346,
+        "priceChangePercentage24h": 2.1116243,
+        "priceChangePercentage7d": 18.12789401
+      },
+      {
+        "id": 8043,
+        "name": "MAHA.xyz",
+        "slug": "mahadao",
+        "price": 0.9034865737660874,
+        "priceChangePercentage24h": -2.68820884,
+        "priceChangePercentage7d": -9.89747239
+      }
+    ],
+    "isAudited": false,
+    "holders": {},
+    "displayTV": 1,
+    "isInfiniteMaxSupply": 0,
+    "tvCoinSymbol": "LITT",
+    "supportWalletInfos": [
+      {
+        "id": 9159,
+        "name": "SolFlare",
+        "url": "https://solflare.com/",
+        "chains": "",
+        "decentration": false,
+        "logo": "default.png",
+        "multipleChain": false
+      },
+      {
+        "id": 9209,
+        "name": "Backpack",
+        "url": "https://backpack.app/downloads",
+        "chains": "",
+        "decentration": false,
+        "logo": "https://s3.coinmarketcap.com/static/img/as/2023-12-06T06:55:43.999Z_BackpackLogo_BlackBkg.png",
+        "multipleChain": false
+      },
+      {
+        "id": 9210,
+        "name": "Phantom",
+        "url": "https://phantom.app/",
+        "chains": "",
+        "decentration": false,
+        "logo": "https://s3.coinmarketcap.com/static/img/as/2023-12-06T11:05:16.408Z_4StTDIF4_400x400.png",
+        "multipleChain": false
+      }
+    ],
+    "holdersFlag": false,
+    "ratingsFlag": false,
+    "analysisFlag": false,
+    "socialsFlag": true,
+    "cryptoRating": [
+      {
+        "type": "CertiK",
+        "score": 74.99,
+        "rating": 3.7,
+        "updateTime": "2024-11-17T00:00:00.000Z",
+        "link": "https://cmc.certik-skynet.com/redirect?project=litlab-games&utm_source=CMC&utm_campaign=ScoreByCertiKLink"
+      },
+      {
+        "type": "Cyberscope",
+        "score": 73.0,
+        "rating": 3.7,
+        "updateTime": "2024-11-17T10:42:05.000Z",
+        "link": "https://www.cyberscope.io/audits/coin-litlab-games"
+      },
+      {
+        "type": "Aggregate rating",
+        "score": 74.0,
+        "rating": 3.7,
+        "updateTime": "2024-11-18T01:00:00.207Z"
+      }
+    ],
+    "tokenUnlockLatest": {
+      "cryptoId": 24580,
+      "totalUnlockedPercentage": 43.85,
+      "tokenUnlockedAmount": 1183683799.9999998,
+      "tokenLockedAmount": 1041341399.9999995,
+      "tokenUntrackedAmount": 474312841.9750007,
+      "nextUnlocked": {
+        "tokenAmount": 50779899.99999998,
+        "tokenAmountUsd": 128290.69572980756,
+        "tokenAmountPercentage": 1.88,
+        "date": 1733875200000
+      },
+      "nextUnlockedDetail": [
+        {
+          "tokenAmount": 7084000.0,
+          "tokenAmountUsd": 17897.067315019467,
+          "allocationName": "Strategic Round",
+          "vestingType": "linear"
+        },
+        {
+          "tokenAmount": 2479050.0,
+          "tokenAmountUsd": 6263.089317800538,
+          "allocationName": "Angel Round",
+          "vestingType": "linear"
+        },
+        {
+          "tokenAmount": 8000000.0,
+          "tokenAmountUsd": 20211.25614344378,
+          "allocationName": "Advisors",
+          "vestingType": "linear"
+        },
+        {
+          "tokenAmount": 8400000.0,
+          "tokenAmountUsd": 21221.818950615972,
+          "allocationName": "Liquid Reserves",
+          "vestingType": "linear"
+        },
+        {
+          "tokenAmount": 9769199.99999999,
+          "tokenAmountUsd": 24680.975439566348,
+          "allocationName": "Team",
+          "vestingType": "linear"
+        },
+        {
+          "tokenAmount": 10089899.99999999,
+          "tokenAmountUsd": 25491.19417021665,
+          "allocationName": "New Games",
+          "vestingType": "linear"
+        },
+        {
+          "tokenAmount": 4957750.0,
+          "tokenAmountUsd": 12525.2943931448,
+          "allocationName": "Seed Round",
+          "vestingType": "linear"
+        }
+      ],
+      "updateTime": "2024-11-18T01:04:07.967Z"
+    },
+    "hasExtraInfoFlag": false,
+    "upcoming": {
+      "status": false
+    },
+    "annotationFlag": false,
+    "similarCoins": [
+      {
+        "id": 22320,
+        "symbol": "HELLO"
+      },
+      {
+        "id": 22289,
+        "symbol": "MYRIA"
+      },
+      {
+        "id": 12749,
+        "symbol": "NAKA"
+      },
+      {
+        "id": 28298,
+        "symbol": "BEAM"
+      },
+      {
+        "id": 22974,
+        "symbol": "TAO"
+      },
+      {
+        "id": 20396,
+        "symbol": "KAS"
+      }
+    ]
+  },
+  "status": {
+    "timestamp": "2024-11-18T01:10:02.258Z",
+    "error_code": "0",
+    "error_message": "SUCCESS",
+    "elapsed": "15",
+    "credit_count": 0
+  }
+}

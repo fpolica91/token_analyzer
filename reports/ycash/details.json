@@ -1,0 +1,263 @@
+{
+  "data": {
+    "id": 4160,
+    "name": "Ycash",
+    "symbol": "YEC",
+    "slug": "ycash",
+    "category": "coin",
+    "description": "Ycash is a chain fork of Zcash. It has a shared blockchain history. The first 570,000 blocks of the Ycash blockchain are the same as the first 570,000 blocks of the Zcash blockchain. That means that everyone in control of Zcash private keys as of block height 570,000 (around July 18, 2019) will be able to use those private keys to access the same amount of Ycash. Those that currently have a vested interest in the future of Zcash (by holding Zcash) automatically have a vested interest in the future of Ycash.\r\n\r\nBy building upon the Zcash codebase, Ycash leverages Zcash's solution to The Privacy Problem. Through periodic changes to Ycash's mining algorithm, Ycash also aims to address The Distribution Problem by ensuring that 90% of the coins would be distributed via the mining process. With 5% of the coins starting at block height 570,000 going to the Ycash Development Fund (managed by the nonprofit Ycash Foundation), 90% of the total 21 million Ycash coins will be allocated via the free market mining process.",
+    "dateAdded": "2019-07-23T00:00:00.000Z",
+    "status": "active",
+    "subStatus": "normal",
+    "notice": "",
+    "alertType": 2,
+    "alertLink": "",
+    "latestUpdateTime": "2024-11-18T01:09:00.000Z",
+    "watchCount": "1937",
+    "watchListRanking": 4941,
+    "dateLaunched": "2019-07-18T00:00:00.000Z",
+    "latestAdded": false,
+    "launchPrice": 0.0751979,
+    "tags": [],
+    "selfReportedTags": [
+      "PoW",
+      "Equihash",
+      "Store Of Value",
+      "Zero Knowledge Proofs"
+    ],
+    "urls": {
+      "website": [
+        "https://y.cash"
+      ],
+      "technical_doc": [],
+      "explorer": [
+        "https://yec.safe.trade/",
+        "https://yecblockexplorer.com/"
+      ],
+      "source_code": [
+        "https://github.com/YcashFoundation/ycash/"
+      ],
+      "message_board": [
+        "https://ycash.medium.com/"
+      ],
+      "chat": [
+        "https://t.me/ycash"
+      ],
+      "announcement": [],
+      "reddit": [
+        "https://reddit.com/r/ycash"
+      ],
+      "facebook": [],
+      "twitter": [
+        "https://twitter.com/YcashFoundation"
+      ]
+    },
+    "volume": 0.0,
+    "volumeChangePercentage24h": 0.0,
+    "cexVolume": 0.0,
+    "dexVolume": 0.0,
+    "statistics": {
+      "price": 0.054549019799598794,
+      "priceChangePercentage1h": 0.46889897,
+      "priceChangePercentage24h": -0.9929259,
+      "priceChangePercentage7d": 4.51236737,
+      "priceChangePercentage30d": 36.15555868,
+      "priceChangePercentage60d": 0.46702374,
+      "priceChangePercentage90d": 64.52647449,
+      "priceChangePercentage1y": -29.33312608,
+      "priceChangePercentageAll": -27.459385654344,
+      "marketCap": 857418.88,
+      "marketCapChangePercentage24h": -0.9702,
+      "fullyDilutedMarketCap": 1145529.42,
+      "fullyDilutedMarketCapChangePercentage24h": -0.99,
+      "circulatingSupply": 15718318.75,
+      "totalSupply": 15718318.75,
+      "maxSupply": 21000000.0,
+      "marketCapDominance": 0.0,
+      "rank": 1910,
+      "roi": -27.45938411,
+      "low24h": 0.053785157211986914,
+      "high24h": 0.055428041005996416,
+      "low7d": 0.05161767383741269,
+      "high7d": 0.057528991816225505,
+      "low30d": 0.038692904343455556,
+      "high30d": 0.057528991816225505,
+      "low90d": 0.029733677834433203,
+      "high90d": 0.06666824312640798,
+      "low52w": 0.012481609034305837,
+      "high52w": 0.1737544550964628,
+      "lowAllTime": 0.012481609034305837,
+      "highAllTime": 1.1653151530877774,
+      "lowAllTimeChangePercentage": 337.04,
+      "highAllTimeChangePercentage": -95.32,
+      "lowAllTimeTimestamp": "2024-01-08T16:20:00.000Z",
+      "highAllTimeTimestamp": "2021-11-10T13:50:03.000Z",
+      "lowYesterday": 0.053785157211986914,
+      "highYesterday": 0.055428041005996416,
+      "openYesterday": 0.05497635078987653,
+      "closeYesterday": 0.054269667709520505,
+      "priceChangePercentageYesterday": -1.29,
+      "volumeYesterday": 0,
+      "turnover": 0.0,
+      "ytdPriceChangePercentage": -29.4045,
+      "volumeRank": 8650,
+      "volumeMcRank": 7763,
+      "mcTotalNum": 10049,
+      "volumeTotalNum": 10049,
+      "volumeMcTotalNum": 10049
+    },
+    "quotes": [],
+    "relatedCoins": [
+      {
+        "id": 2513,
+        "name": "GoldMint",
+        "slug": "goldmint",
+        "price": 0.05065701161697734,
+        "priceChangePercentage24h": -0.83488657,
+        "priceChangePercentage7d": 21.70106268
+      },
+      {
+        "id": 4679,
+        "name": "Band Protocol",
+        "slug": "band-protocol",
+        "price": 1.2924689407590508,
+        "priceChangePercentage24h": -5.51284503,
+        "priceChangePercentage7d": 1.82102584
+      },
+      {
+        "id": 7083,
+        "name": "Uniswap",
+        "slug": "uniswap",
+        "price": 8.907804423933275,
+        "priceChangePercentage24h": -4.39447372,
+        "priceChangePercentage7d": -3.90346035
+      },
+      {
+        "id": 1414,
+        "name": "Firo",
+        "slug": "firo",
+        "price": 1.3454938776288508,
+        "priceChangePercentage24h": 0.21867821,
+        "priceChangePercentage7d": 4.03360084
+      },
+      {
+        "id": 1975,
+        "name": "Chainlink",
+        "slug": "chainlink",
+        "price": 14.028344717813509,
+        "priceChangePercentage24h": -5.25786687,
+        "priceChangePercentage7d": -2.46572024
+      },
+      {
+        "id": 7653,
+        "name": "Oasis",
+        "slug": "oasis-network",
+        "price": 0.08025331330873264,
+        "priceChangePercentage24h": -5.30717197,
+        "priceChangePercentage7d": -4.39563858
+      },
+      {
+        "id": 707,
+        "name": "Blocknet",
+        "slug": "blocknet",
+        "price": 0.017113298239738093,
+        "priceChangePercentage24h": -0.68391562,
+        "priceChangePercentage7d": -3.30053472
+      },
+      {
+        "id": 5864,
+        "name": "yearn.finance",
+        "slug": "yearn-finance",
+        "price": 6192.38803639104,
+        "priceChangePercentage24h": -4.43119421,
+        "priceChangePercentage7d": -11.362147
+      },
+      {
+        "id": 4279,
+        "name": "Solar",
+        "slug": "sxp",
+        "price": 0.36376553390538346,
+        "priceChangePercentage24h": 2.1116243,
+        "priceChangePercentage7d": 18.12789401
+      },
+      {
+        "id": 8043,
+        "name": "MAHA.xyz",
+        "slug": "mahadao",
+        "price": 0.9034865737660874,
+        "priceChangePercentage24h": -2.68820884,
+        "priceChangePercentage7d": -9.89747239
+      }
+    ],
+    "isAudited": false,
+    "holders": {},
+    "displayTV": 1,
+    "isInfiniteMaxSupply": 0,
+    "tvCoinSymbol": "YEC",
+    "supportWalletInfos": [],
+    "holdersFlag": false,
+    "ratingsFlag": false,
+    "analysisFlag": false,
+    "socialsFlag": true,
+    "cryptoRating": [
+      {
+        "type": "CertiK",
+        "score": 57.46,
+        "rating": 2.9,
+        "updateTime": "2024-11-17T00:00:00.000Z",
+        "link": "https://cmc.certik-skynet.com/redirect?project=ycash&utm_source=CMC&utm_campaign=ScoreByCertiKLink"
+      },
+      {
+        "type": "Cyberscope",
+        "score": 66.0,
+        "rating": 3.3,
+        "updateTime": "2024-11-17T10:57:45.000Z",
+        "link": "https://www.cyberscope.io/audits/coin-ycash"
+      },
+      {
+        "type": "Aggregate rating",
+        "score": 61.7,
+        "rating": 3.1,
+        "updateTime": "2024-11-18T01:00:00.189Z"
+      }
+    ],
+    "hasExtraInfoFlag": false,
+    "upcoming": {
+      "status": false
+    },
+    "annotationFlag": false,
+    "similarCoins": [
+      {
+        "id": 1473,
+        "symbol": "PASC"
+      },
+      {
+        "id": 4388,
+        "symbol": "EXCC"
+      },
+      {
+        "id": 2837,
+        "symbol": "0xBTC"
+      },
+      {
+        "id": 3334,
+        "symbol": "XCASH"
+      },
+      {
+        "id": 2934,
+        "symbol": "KAN"
+      },
+      {
+        "id": 99,
+        "symbol": "VTC"
+      }
+    ]
+  },
+  "status": {
+    "timestamp": "2024-11-18T01:09:57.225Z",
+    "error_code": "0",
+    "error_message": "SUCCESS",
+    "elapsed": "11",
+    "credit_count": 0
+  }
+}

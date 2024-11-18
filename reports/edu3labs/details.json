@@ -1,0 +1,319 @@
+{
+  "data": {
+    "id": 29890,
+    "name": "Edu3Labs",
+    "symbol": "NFE",
+    "slug": "edu3labs",
+    "category": "token",
+    "description": "At Edu3Labs, we believe in the power of technology to revolutionize the way we learn. That\u2019s why we\u2019ve integrated artificial intelligence into our personalized learning platform, allowing us to create customized learning experiences for each individual student. With our advanced AI algorithms, we can identify a student\u2019s strengths and weaknesses, tailor the learning material to their specific needs, and provide real-time feedback and support. We\u2019re constantly exploring new ways to use AI to enhance education, from virtual tutoring assistants to automated grading systems. Our mission is to use cutting-edge technology to make learning more accessible, efficient, and effective for everyone.",
+    "dateAdded": "2024-03-15T15:10:59.000Z",
+    "status": "active",
+    "subStatus": "normal",
+    "notice": "",
+    "alertType": 2,
+    "alertLink": "",
+    "latestUpdateTime": "2024-11-18T01:09:00.000Z",
+    "watchCount": "3104",
+    "watchListRanking": 4134,
+    "dateLaunched": "2024-02-23T00:00:00.000Z",
+    "latestAdded": false,
+    "tags": [
+      {
+        "slug": "marketing",
+        "name": "Marketing",
+        "category": "INDUSTRY"
+      },
+      {
+        "slug": "education",
+        "name": "Education",
+        "category": "INDUSTRY"
+      },
+      {
+        "slug": "binance-smart-chain",
+        "name": "BNB Smart Chain",
+        "category": "PLATFORM"
+      }
+    ],
+    "selfReportedCirculatingSupply": "104375043.614570536448135596",
+    "urls": {
+      "website": [
+        "https://about.edu3labs.com/"
+      ],
+      "technical_doc": [
+        "https://docs.edu3labs.com/"
+      ],
+      "explorer": [
+        "https://bscscan.com/token/0xf03ca04dd56d695a410f46f14fef4028b22fb79a"
+      ],
+      "source_code": [],
+      "message_board": [],
+      "chat": [
+        "https://t.me/edu3labscommunity",
+        "https://t.me/+GdUT7KAiPoAyNTdk"
+      ],
+      "announcement": [],
+      "reddit": [],
+      "facebook": [],
+      "twitter": [
+        "https://twitter.com/Edu3Labs"
+      ]
+    },
+    "volume": 375572.59979084,
+    "volumeChangePercentage24h": 24.1593,
+    "cexVolume": 367621.52246282,
+    "dexVolume": 7951.07732802,
+    "statistics": {
+      "price": 0.008860816640030288,
+      "priceChangePercentage1h": -1.66695396,
+      "priceChangePercentage24h": -2.92747205,
+      "priceChangePercentage7d": -15.52489418,
+      "priceChangePercentage30d": -30.42544872,
+      "priceChangePercentage60d": -16.20993091,
+      "priceChangePercentage90d": -17.33201103,
+      "priceChangePercentage1y": -91.33536475,
+      "priceChangePercentageAll": -90.9822462244,
+      "marketCap": 924848.12,
+      "marketCapChangePercentage24h": -2.9275,
+      "fullyDilutedMarketCap": 7974734.98,
+      "fullyDilutedMarketCapChangePercentage24h": -2.93,
+      "circulatingSupply": 104375043.61457054,
+      "totalSupply": 899599999.28,
+      "maxSupply": 900000000.0,
+      "marketCapDominance": 0.0,
+      "rank": 1893,
+      "low24h": 0.00872985594895607,
+      "high24h": 0.009237135188938263,
+      "low7d": 0.008646999162796626,
+      "high7d": 0.011176335819865345,
+      "low30d": 0.00817509885460817,
+      "high30d": 0.015312536491017,
+      "low90d": 0.00817509885460817,
+      "high90d": 0.0195413493864192,
+      "low52w": 0.00817509885460817,
+      "high52w": 0.35603402476610446,
+      "lowAllTime": 0.00817509885460817,
+      "highAllTime": 0.35603402476610446,
+      "lowAllTimeChangePercentage": 8.39,
+      "highAllTimeChangePercentage": -97.51,
+      "lowAllTimeTimestamp": "2024-11-06T02:28:00.000Z",
+      "highAllTimeTimestamp": "2024-03-21T05:34:00.000Z",
+      "lowYesterday": 0.00872985594895607,
+      "highYesterday": 0.009247719362474567,
+      "openYesterday": 0.009247440759085264,
+      "closeYesterday": 0.009019614089439779,
+      "priceChangePercentageYesterday": -2.46,
+      "volumeYesterday": 366175.83,
+      "turnover": 0.40609111,
+      "ytdPriceChangePercentage": 0.0,
+      "volumeRank": 1744,
+      "volumeMcRank": 742,
+      "mcTotalNum": 10049,
+      "volumeTotalNum": 10049,
+      "volumeMcTotalNum": 10049
+    },
+    "quotes": [],
+    "platforms": [
+      {
+        "contractId": 1839,
+        "contractAddress": "0xf03Ca04Dd56D695a410f46F14feF4028B22FB79A",
+        "contractPlatform": "BNB Smart Chain (BEP20)",
+        "contractPlatformId": 14,
+        "contractChainId": 56,
+        "contractRpcUrl": [
+          "https://bsc-dataseed1.binance.org",
+          "https://bsc-dataseed.binance.org/",
+          "https://bsc-dataseed1.binance.org:443"
+        ],
+        "contractNativeCurrencyName": "Binance Chain Native Token",
+        "contractNativeCurrencySymbol": "BNB",
+        "contractNativeCurrencyDecimals": 18,
+        "contractBlockExplorerUrl": "https://bscscan.com/",
+        "contractExplorerUrl": "https://bscscan.com/token/0xf03Ca04Dd56D695a410f46F14feF4028B22FB79A",
+        "contractDecimals": 18,
+        "platformCryptoId": 1839,
+        "sort": 0,
+        "wallets": [
+          {
+            "id": 9025
+          }
+        ]
+      }
+    ],
+    "relatedCoins": [
+      {
+        "id": 2513,
+        "name": "GoldMint",
+        "slug": "goldmint",
+        "price": 0.05065701161697734,
+        "priceChangePercentage24h": -0.83488657,
+        "priceChangePercentage7d": 21.70106268
+      },
+      {
+        "id": 4679,
+        "name": "Band Protocol",
+        "slug": "band-protocol",
+        "price": 1.2924689407590508,
+        "priceChangePercentage24h": -5.51284503,
+        "priceChangePercentage7d": 1.82102584
+      },
+      {
+        "id": 7083,
+        "name": "Uniswap",
+        "slug": "uniswap",
+        "price": 8.907804423933275,
+        "priceChangePercentage24h": -4.39447372,
+        "priceChangePercentage7d": -3.90346035
+      },
+      {
+        "id": 1414,
+        "name": "Firo",
+        "slug": "firo",
+        "price": 1.3454938776288508,
+        "priceChangePercentage24h": 0.21867821,
+        "priceChangePercentage7d": 4.03360084
+      },
+      {
+        "id": 1975,
+        "name": "Chainlink",
+        "slug": "chainlink",
+        "price": 14.028344717813509,
+        "priceChangePercentage24h": -5.25786687,
+        "priceChangePercentage7d": -2.46572024
+      },
+      {
+        "id": 7653,
+        "name": "Oasis",
+        "slug": "oasis-network",
+        "price": 0.08025331330873264,
+        "priceChangePercentage24h": -5.30717197,
+        "priceChangePercentage7d": -4.39563858
+      },
+      {
+        "id": 707,
+        "name": "Blocknet",
+        "slug": "blocknet",
+        "price": 0.017113298239738093,
+        "priceChangePercentage24h": -0.68391562,
+        "priceChangePercentage7d": -3.30053472
+      },
+      {
+        "id": 5864,
+        "name": "yearn.finance",
+        "slug": "yearn-finance",
+        "price": 6192.38803639104,
+        "priceChangePercentage24h": -4.43119421,
+        "priceChangePercentage7d": -11.362147
+      },
+      {
+        "id": 4279,
+        "name": "Solar",
+        "slug": "sxp",
+        "price": 0.36376553390538346,
+        "priceChangePercentage24h": 2.1116243,
+        "priceChangePercentage7d": 18.12789401
+      },
+      {
+        "id": 8043,
+        "name": "MAHA.xyz",
+        "slug": "mahadao",
+        "price": 0.9034865737660874,
+        "priceChangePercentage24h": -2.68820884,
+        "priceChangePercentage7d": -9.89747239
+      }
+    ],
+    "isAudited": true,
+    "auditInfos": [
+      {
+        "coinId": "29890",
+        "auditor": "CertiK",
+        "auditStatus": 2,
+        "auditTime": "2024-01-18T04:46:46.369Z",
+        "reportUrl": "https://cmc.certik-skynet.com/redirect?project=edu3labs"
+      }
+    ],
+    "holders": {},
+    "displayTV": 1,
+    "isInfiniteMaxSupply": 0,
+    "tvCoinSymbol": "NFE",
+    "supportWalletInfos": [],
+    "holdersFlag": false,
+    "ratingsFlag": false,
+    "analysisFlag": false,
+    "socialsFlag": true,
+    "cryptoRating": [
+      {
+        "type": "CertiK",
+        "score": 92.05,
+        "rating": 4.6,
+        "updateTime": "2024-11-17T00:00:00.000Z",
+        "link": "https://cmc.certik-skynet.com/redirect?project=edu3labs&utm_source=CMC&utm_campaign=ScoreByCertiKLink"
+      },
+      {
+        "type": "Cyberscope",
+        "score": 75.0,
+        "rating": 3.8,
+        "updateTime": "2024-11-17T08:40:09.000Z",
+        "link": "https://www.cyberscope.io/audits/coin-edu3labs"
+      },
+      {
+        "type": "Aggregate rating",
+        "score": 83.5,
+        "rating": 4.2,
+        "updateTime": "2024-11-18T01:00:00.228Z"
+      }
+    ],
+    "tokenUnlockLatest": {
+      "cryptoId": 29890,
+      "totalUnlockedPercentage": 11.71,
+      "tokenUnlockedAmount": 105389225.1,
+      "tokenLockedAmount": 663605458.1999997,
+      "tokenUntrackedAmount": 131005316.7000003,
+      "nextUnlocked": {
+        "tokenAmount": 9147161.7,
+        "tokenAmountUsd": 81051.32260040774,
+        "tokenAmountPercentage": 1.02,
+        "date": 1733529600000
+      },
+      "nextUnlockedDetail": [
+        {
+          "tokenAmount": 692280.0,
+          "tokenAmountUsd": 6134.166143560168,
+          "allocationName": "Airdrop",
+          "vestingType": "linear"
+        },
+        {
+          "tokenAmount": 2992500.0,
+          "tokenAmountUsd": 26515.993795290637,
+          "allocationName": "Private Sale",
+          "vestingType": "linear"
+        },
+        {
+          "tokenAmount": 2204280.0,
+          "tokenAmountUsd": 19531.720903285965,
+          "allocationName": "Marketing",
+          "vestingType": "linear"
+        },
+        {
+          "tokenAmount": 3258101.7,
+          "tokenAmountUsd": 28869.44175827097,
+          "allocationName": "Liquidity Pool",
+          "vestingType": "linear"
+        }
+      ],
+      "updateTime": "2024-11-18T01:04:08.529Z"
+    },
+    "hasExtraInfoFlag": false,
+    "upcoming": {
+      "status": false
+    },
+    "annotationFlag": false,
+    "similarCoins": []
+  },
+  "status": {
+    "timestamp": "2024-11-18T01:09:55.762Z",
+    "error_code": "0",
+    "error_message": "SUCCESS",
+    "elapsed": "11",
+    "credit_count": 0
+  }
+}

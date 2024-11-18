@@ -1,0 +1,249 @@
+{
+  "data": {
+    "id": 24638,
+    "name": "Nordek",
+    "symbol": "NRK",
+    "slug": "nordek",
+    "category": "coin",
+    "description": "NORDEK, the pioneering platform in the realm of blockchain technology, is rewriting the rules of the GameFi and Web3 Payments industries with its groundbreaking solutions and zero gas fees. With its remarkable rise and innovative token utility, NORDEK is poised to revolutionize the landscape of blockchain adoption.\n\nLeveraging the power of the Delegated Proof of Stake (DPoS) blockchain technology, NORDEK has quickly emerged as an avant-garde initiative that commands attention. Since its launch, it has become an industry leader, transforming cryptocurrencies into an integral part of everyday life.\n\nAt its core, NORDEK offers a transformative platform that operates with zero gas fees, setting it apart from its competitors. The NORDEK ecosystem is driven by its native token, $NRK, which holds significant utility and value within the platform. The value of $NRK has experienced a remarkable surge, skyrocketing by an astonishing 1000% in just two months.\n\nOne of the key factors contributing to NORDEK's success is its standout offerings, including Norpay, a crypto banking solution that provides Crypto Debit Cards. This innovative solution propels mainstream adoption of cryptocurrencies by offering seamless integration of digital assets into daily transactions. By eliminating the barriers imposed by gas fees, NORDEK empowers users to embrace cryptocurrencies easily and conveniently.\nThe demand for $NRK tokens within the NORDEK ecosystem is expected to soar, driven by the platform's utilities and strategic partnerships. NORDEK has forged alliances with industry leaders such as Web3 Protocol, Offchain ,CrowdFundJunction, Hypersign, Minterest, Sopay, Plena finance, SummitX, and many others. These partnerships enhance NORDEK's visibility and further solidify its position as a trailblazer in the blockchain arena.\n\n",
+    "dateAdded": "2023-04-27T05:33:44.000Z",
+    "status": "active",
+    "subStatus": "normal",
+    "notice": "",
+    "alertType": 2,
+    "alertLink": "",
+    "latestUpdateTime": "2024-11-17T23:30:00.000Z",
+    "watchCount": "43027",
+    "watchListRanking": 862,
+    "latestAdded": false,
+    "tags": [
+      {
+        "slug": "layer-2",
+        "name": "Layer 2",
+        "category": "CATEGORY"
+      }
+    ],
+    "selfReportedTags": [
+      "DPoS",
+      "Payments",
+      "Ethereum Ecosystem",
+      "Layer 2",
+      "Web3"
+    ],
+    "urls": {
+      "website": [
+        "https://nordek.io"
+      ],
+      "technical_doc": [
+        "https://nordek.io/NORDEK%20WHITEPAPER.pdf"
+      ],
+      "explorer": [
+        "https://nordekscan.com/"
+      ],
+      "source_code": [
+        "https://github.com/Officialnordek"
+      ],
+      "message_board": [
+        "https://www.instagram.com/officialnordek/",
+        "https://www.instagram.com/officialnordek/"
+      ],
+      "chat": [
+        "https://t.me/officialnordek",
+        "https://medium.com/@officialnordek"
+      ],
+      "announcement": [
+        "https://t.me/nordeknews"
+      ],
+      "reddit": [],
+      "facebook": [],
+      "twitter": [
+        "https://twitter.com/officialnordek"
+      ]
+    },
+    "volume": 392189.62992459,
+    "volumeChangePercentage24h": 0.5171,
+    "cexVolume": 392189.62992459,
+    "dexVolume": 0.0,
+    "statistics": {
+      "price": 0.001066513551090984,
+      "priceChangePercentage1h": -8.12542345,
+      "priceChangePercentage24h": 14.36652805,
+      "priceChangePercentage7d": 17.31101256,
+      "priceChangePercentage30d": 127.66281764,
+      "priceChangePercentage60d": 52.59194282,
+      "priceChangePercentage90d": 42.59101292,
+      "priceChangePercentage1y": -90.18682427,
+      "priceChangePercentageAll": -97.540413894266,
+      "marketCap": 679116.25,
+      "marketCapChangePercentage24h": 14.3665,
+      "fullyDilutedMarketCap": 2239678.46,
+      "fullyDilutedMarketCapChangePercentage24h": 14.37,
+      "circulatingSupply": 636762888.0,
+      "totalSupply": 2100000000.0,
+      "maxSupply": 2100000000.0,
+      "marketCapDominance": 0.0,
+      "rank": 1991,
+      "low24h": 0.000754372691147105,
+      "high24h": 0.001796687433935155,
+      "low7d": 0.000450017675479362,
+      "high7d": 0.001637434904114059,
+      "low30d": 0.000398849843447003,
+      "high30d": 0.001637434904114059,
+      "low90d": 0.000356160403878966,
+      "high90d": 0.001796687433935155,
+      "low52w": 0.000356160403878966,
+      "high52w": 0.02333289149470136,
+      "lowAllTime": 0.000356160403878966,
+      "highAllTime": 0.297396251776661,
+      "lowAllTimeChangePercentage": 199.45,
+      "highAllTimeChangePercentage": -99.64,
+      "lowAllTimeTimestamp": "2024-10-18T08:10:00.000Z",
+      "highAllTimeTimestamp": "2023-05-21T05:37:00.000Z",
+      "lowYesterday": 0.000613290144377007,
+      "highYesterday": 0.001230647992746596,
+      "openYesterday": 0.000908598521341326,
+      "closeYesterday": 0.001121775126859885,
+      "priceChangePercentageYesterday": 23.46,
+      "volumeYesterday": 393540.22,
+      "turnover": 0.57749999,
+      "ytdPriceChangePercentage": -86.7478,
+      "volumeRank": 1700,
+      "volumeMcRank": 561,
+      "mcTotalNum": 10049,
+      "volumeTotalNum": 10049,
+      "volumeMcTotalNum": 10049
+    },
+    "quotes": [],
+    "relatedCoins": [
+      {
+        "id": 2513,
+        "name": "GoldMint",
+        "slug": "goldmint",
+        "price": 0.050373095792819844,
+        "priceChangePercentage24h": -1.17082459,
+        "priceChangePercentage7d": 21.16304368
+      },
+      {
+        "id": 4679,
+        "name": "Band Protocol",
+        "slug": "band-protocol",
+        "price": 1.2814496513695044,
+        "priceChangePercentage24h": -5.65008698,
+        "priceChangePercentage7d": 2.06720593
+      },
+      {
+        "id": 7083,
+        "name": "Uniswap",
+        "slug": "uniswap",
+        "price": 8.67107812286967,
+        "priceChangePercentage24h": -4.12598431,
+        "priceChangePercentage7d": -5.33532546
+      },
+      {
+        "id": 1414,
+        "name": "Firo",
+        "slug": "firo",
+        "price": 1.326887994202149,
+        "priceChangePercentage24h": -0.01815792,
+        "priceChangePercentage7d": 3.57156349
+      },
+      {
+        "id": 1975,
+        "name": "Chainlink",
+        "slug": "chainlink",
+        "price": 13.740961361151227,
+        "priceChangePercentage24h": -5.26925947,
+        "priceChangePercentage7d": -3.33139597
+      },
+      {
+        "id": 7653,
+        "name": "Oasis",
+        "slug": "oasis-network",
+        "price": 0.07918764787708935,
+        "priceChangePercentage24h": -6.77941812,
+        "priceChangePercentage7d": -2.77160392
+      },
+      {
+        "id": 707,
+        "name": "Blocknet",
+        "slug": "blocknet",
+        "price": 0.017045179027667664,
+        "priceChangePercentage24h": -0.88664542,
+        "priceChangePercentage7d": -3.64008789
+      },
+      {
+        "id": 5864,
+        "name": "yearn.finance",
+        "slug": "yearn-finance",
+        "price": 6102.461195876597,
+        "priceChangePercentage24h": -5.64922802,
+        "priceChangePercentage7d": -12.35650653
+      },
+      {
+        "id": 4279,
+        "name": "Solar",
+        "slug": "sxp",
+        "price": 0.34633148160058497,
+        "priceChangePercentage24h": -3.68372451,
+        "priceChangePercentage7d": 12.29481375
+      },
+      {
+        "id": 8043,
+        "name": "MAHA.xyz",
+        "slug": "mahadao",
+        "price": 0.9008778972539175,
+        "priceChangePercentage24h": -2.97153888,
+        "priceChangePercentage7d": -10.01352549
+      }
+    ],
+    "isAudited": false,
+    "holders": {},
+    "displayTV": 1,
+    "isInfiniteMaxSupply": 0,
+    "tvCoinSymbol": "NRK",
+    "supportWalletInfos": [],
+    "holdersFlag": false,
+    "ratingsFlag": false,
+    "analysisFlag": false,
+    "socialsFlag": true,
+    "cryptoRating": [],
+    "hasExtraInfoFlag": false,
+    "upcoming": {
+      "status": false
+    },
+    "annotationFlag": false,
+    "similarCoins": [
+      {
+        "id": 2572,
+        "symbol": "BAX"
+      },
+      {
+        "id": 2305,
+        "symbol": "NGC"
+      },
+      {
+        "id": 5221,
+        "symbol": "HNS"
+      },
+      {
+        "id": 4956,
+        "symbol": "MAPO"
+      },
+      {
+        "id": 11079,
+        "symbol": "BRISE"
+      },
+      {
+        "id": 23246,
+        "symbol": "TOMI"
+      }
+    ]
+  },
+  "status": {
+    "timestamp": "2024-11-17T23:31:18.927Z",
+    "error_code": "0",
+    "error_message": "SUCCESS",
+    "elapsed": "12",
+    "credit_count": 0
+  }
+}

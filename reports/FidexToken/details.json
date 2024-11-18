@@ -1,0 +1,230 @@
+{
+  "data": {
+    "id": 1878,
+    "name": "Shadow Token",
+    "symbol": "SHDW",
+    "slug": "shadow-token",
+    "category": "token",
+    "description": "Shadow Token (SHDW) is a cryptocurrency . Shadow Token has a current supply of 10,000,000 with 0 in circulation. The last known price of Shadow Token is 0.00359833 USD and is down -0.96 over the last 24 hours. It is currently trading on 1 active market(s) with $0.00 traded over the last 24 hours. More information can be found at http://www.shadowera.com.",
+    "dateAdded": "2017-08-12T00:00:00.000Z",
+    "status": "active",
+    "subStatus": "normal",
+    "notice": "",
+    "alertType": 2,
+    "alertLink": "",
+    "latestUpdateTime": "2024-11-18T01:09:00.000Z",
+    "watchCount": "1323",
+    "watchListRanking": 5664,
+    "latestAdded": false,
+    "launchPrice": 0.0562931,
+    "tags": [],
+    "selfReportedCirculatingSupply": "7000000.0",
+    "urls": {
+      "website": [
+        "http://www.shadowera.com"
+      ],
+      "technical_doc": [
+        "http://shadowtoken.io/shadowtoken_whitepaper.pdf"
+      ],
+      "explorer": [
+        "http://www.wavesgo.com/assets.html?ETLzrCpBqTrpyuMGdiVLBPZnUoKwte88oVdJjoFi5R2h"
+      ],
+      "source_code": [],
+      "message_board": [],
+      "chat": [],
+      "announcement": [
+        "https://bitcointalk.org/index.php?topic=2025929.0"
+      ],
+      "reddit": [],
+      "facebook": [],
+      "twitter": [
+        "https://twitter.com/iShadowEra"
+      ]
+    },
+    "volume": 0.0,
+    "volumeChangePercentage24h": 0.0,
+    "cexVolume": 0.0,
+    "dexVolume": 0.0,
+    "statistics": {
+      "price": 0.0036030253312253928,
+      "priceChangePercentage1h": 0.23635057,
+      "priceChangePercentage24h": -0.67769385,
+      "priceChangePercentage7d": 11.97461816,
+      "priceChangePercentage30d": 31.71178889,
+      "priceChangePercentage60d": 44.98442362,
+      "priceChangePercentage90d": 48.39653235,
+      "priceChangePercentage1y": -38.23371896,
+      "priceChangePercentageAll": -93.599525832416,
+      "marketCap": 0.0,
+      "marketCapChangePercentage24h": 0.0,
+      "fullyDilutedMarketCap": 36030.25,
+      "fullyDilutedMarketCapChangePercentage24h": -0.68,
+      "circulatingSupply": 0.0,
+      "totalSupply": 10000000.0,
+      "marketCapDominance": 0.0,
+      "rank": 8745,
+      "roi": -93.59952582,
+      "low24h": 0.003556786286507511,
+      "high24h": 0.003655300352482796,
+      "low7d": 0.003412192114401531,
+      "high7d": 0.003737142261399643,
+      "low30d": 0.002609554172756654,
+      "high30d": 0.003737142261399643,
+      "low90d": 0.002110505121588151,
+      "high90d": 0.003737142261399643,
+      "low52w": 0.001839034196038179,
+      "high52w": 0.011133944347649442,
+      "lowAllTime": 0.001514246147043327,
+      "highAllTime": 0.36360999941825867,
+      "lowAllTimeChangePercentage": 137.94,
+      "highAllTimeChangePercentage": -99.01,
+      "lowAllTimeTimestamp": "2023-04-18T11:49:00.000Z",
+      "highAllTimeTimestamp": "2017-12-15T22:29:49.000Z",
+      "lowYesterday": 0.003556786286507511,
+      "highYesterday": 0.003655300352482796,
+      "openYesterday": 0.003623194481010441,
+      "closeYesterday": 0.003593686603948541,
+      "priceChangePercentageYesterday": -0.81,
+      "volumeYesterday": 0,
+      "turnover": 0.0,
+      "ytdPriceChangePercentage": 36.0088,
+      "volumeRank": 8893,
+      "volumeMcRank": 8893,
+      "mcTotalNum": 10049,
+      "volumeTotalNum": 10049,
+      "volumeMcTotalNum": 10049
+    },
+    "quotes": [],
+    "relatedCoins": [
+      {
+        "id": 2513,
+        "name": "GoldMint",
+        "slug": "goldmint",
+        "price": 0.05065701161697734,
+        "priceChangePercentage24h": -0.83488657,
+        "priceChangePercentage7d": 21.70106268
+      },
+      {
+        "id": 4679,
+        "name": "Band Protocol",
+        "slug": "band-protocol",
+        "price": 1.2924689407590508,
+        "priceChangePercentage24h": -5.51284503,
+        "priceChangePercentage7d": 1.82102584
+      },
+      {
+        "id": 7083,
+        "name": "Uniswap",
+        "slug": "uniswap",
+        "price": 8.907804423933275,
+        "priceChangePercentage24h": -4.39447372,
+        "priceChangePercentage7d": -3.90346035
+      },
+      {
+        "id": 1414,
+        "name": "Firo",
+        "slug": "firo",
+        "price": 1.3454938776288508,
+        "priceChangePercentage24h": 0.21867821,
+        "priceChangePercentage7d": 4.03360084
+      },
+      {
+        "id": 1975,
+        "name": "Chainlink",
+        "slug": "chainlink",
+        "price": 14.028344717813509,
+        "priceChangePercentage24h": -5.25786687,
+        "priceChangePercentage7d": -2.46572024
+      },
+      {
+        "id": 7653,
+        "name": "Oasis",
+        "slug": "oasis-network",
+        "price": 0.08025331330873264,
+        "priceChangePercentage24h": -5.30717197,
+        "priceChangePercentage7d": -4.39563858
+      },
+      {
+        "id": 707,
+        "name": "Blocknet",
+        "slug": "blocknet",
+        "price": 0.017113298239738093,
+        "priceChangePercentage24h": -0.68391562,
+        "priceChangePercentage7d": -3.30053472
+      },
+      {
+        "id": 5864,
+        "name": "yearn.finance",
+        "slug": "yearn-finance",
+        "price": 6192.38803639104,
+        "priceChangePercentage24h": -4.43119421,
+        "priceChangePercentage7d": -11.362147
+      },
+      {
+        "id": 4279,
+        "name": "Solar",
+        "slug": "sxp",
+        "price": 0.36376553390538346,
+        "priceChangePercentage24h": 2.1116243,
+        "priceChangePercentage7d": 18.12789401
+      },
+      {
+        "id": 8043,
+        "name": "MAHA.xyz",
+        "slug": "mahadao",
+        "price": 0.9034865737660874,
+        "priceChangePercentage24h": -2.68820884,
+        "priceChangePercentage7d": -9.89747239
+      }
+    ],
+    "isAudited": false,
+    "holders": {},
+    "displayTV": 0,
+    "isInfiniteMaxSupply": 0,
+    "tvCoinSymbol": "SHDW",
+    "supportWalletInfos": [],
+    "holdersFlag": false,
+    "ratingsFlag": false,
+    "analysisFlag": false,
+    "socialsFlag": true,
+    "cryptoRating": [],
+    "hasExtraInfoFlag": false,
+    "upcoming": {
+      "status": false
+    },
+    "annotationFlag": false,
+    "similarCoins": [
+      {
+        "id": 2894,
+        "symbol": "OTB"
+      },
+      {
+        "id": 2717,
+        "symbol": "BOUTS"
+      },
+      {
+        "id": 2247,
+        "symbol": "BCDN"
+      },
+      {
+        "id": 3334,
+        "symbol": "XCASH"
+      },
+      {
+        "id": 3759,
+        "symbol": "JNB"
+      },
+      {
+        "id": 3625,
+        "symbol": "EQUAD"
+      }
+    ]
+  },
+  "status": {
+    "timestamp": "2024-11-18T01:10:03.848Z",
+    "error_code": "0",
+    "error_message": "SUCCESS",
+    "elapsed": "53",
+    "credit_count": 0
+  }
+}

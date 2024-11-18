@@ -1,0 +1,263 @@
+{
+  "data": {
+    "id": 3364,
+    "name": "PLATINCOIN",
+    "symbol": "PLC",
+    "slug": "platincoin",
+    "category": "coin",
+    "description": "PLATINCOIN (PLC) is a cryptocurrency . PLATINCOIN has a current supply of 743,881,175.36235 with 5,001,073 in circulation. The last known price of PLATINCOIN is 0.03876478 USD and is down -9.58 over the last 24 hours. It is currently trading on 8 active market(s) with $65.09 traded over the last 24 hours. More information can be found at https://platincoin.com/.",
+    "dateAdded": "2018-10-01T00:00:00.000Z",
+    "status": "active",
+    "subStatus": "normal",
+    "notice": "",
+    "alertType": 2,
+    "alertLink": "",
+    "latestUpdateTime": "2024-11-18T01:09:00.000Z",
+    "watchCount": "7960",
+    "watchListRanking": 2744,
+    "latestAdded": false,
+    "launchPrice": 4.90602,
+    "tags": [
+      {
+        "slug": "medium-of-exchange",
+        "name": "Medium of Exchange",
+        "category": "INDUSTRY"
+      },
+      {
+        "slug": "payments",
+        "name": "Payments",
+        "category": "INDUSTRY"
+      }
+    ],
+    "urls": {
+      "website": [
+        "https://platincoin.com/"
+      ],
+      "technical_doc": [
+        "http://www.platincoin.site/wp-content/uploads/2018/02/PlatinCoin_Technical_Whitepaper.pdf"
+      ],
+      "explorer": [
+        "https://smartexplorer.com/token20/sXXR5k9yz6gqHwrAnkQUznFYLevRT2cDTz"
+      ],
+      "source_code": [
+        "https://github.com/platincoin-project"
+      ],
+      "message_board": [],
+      "chat": [
+        "https://t.me/PLCTrader"
+      ],
+      "announcement": [],
+      "reddit": [],
+      "facebook": [],
+      "twitter": [
+        "https://twitter.com/plc_coin"
+      ]
+    },
+    "volume": 0.0,
+    "volumeChangePercentage24h": -100.0,
+    "cexVolume": 0.0,
+    "dexVolume": 0.0,
+    "statistics": {
+      "price": 0.17000515472685407,
+      "priceChangePercentage1h": 0.00238095,
+      "priceChangePercentage24h": -0.02746809,
+      "priceChangePercentage7d": 25.85565922,
+      "priceChangePercentage30d": 43.13894402,
+      "priceChangePercentage60d": 50.55051753,
+      "priceChangePercentage90d": -18.62077165,
+      "priceChangePercentage1y": 933.07659419,
+      "priceChangePercentageAll": -96.534764335921,
+      "marketCap": 850208.19,
+      "marketCapChangePercentage24h": -0.0275,
+      "fullyDilutedMarketCap": 126646142.25,
+      "fullyDilutedMarketCapChangePercentage24h": -0.03,
+      "circulatingSupply": 5001073.0,
+      "totalSupply": 744954718.91851,
+      "marketCapDominance": 0.0,
+      "rank": 1912,
+      "roi": -96.53476434,
+      "low24h": 0.16993987356230128,
+      "high24h": 0.1700938968148079,
+      "low7d": 0.12097606793843008,
+      "high7d": 0.17011924046520266,
+      "low30d": 0.1187491657134131,
+      "high30d": 0.17011924046520266,
+      "low90d": 0.11283598864631218,
+      "high90d": 0.2302596786871539,
+      "low52w": 0.003679766934267683,
+      "high52w": 717.4253186341862,
+      "lowAllTime": 0.003679766934267683,
+      "highAllTime": 717.4253186341862,
+      "lowAllTimeChangePercentage": 4520.0,
+      "highAllTimeChangePercentage": -99.98,
+      "lowAllTimeTimestamp": "2024-01-15T05:46:00.000Z",
+      "highAllTimeTimestamp": "2024-04-25T06:25:00.000Z",
+      "lowYesterday": 0.16993987356230128,
+      "highYesterday": 0.1700938968148079,
+      "openYesterday": 0.1700398490144147,
+      "closeYesterday": 0.17002669256968922,
+      "priceChangePercentageYesterday": -0.01,
+      "volumeYesterday": 0,
+      "turnover": 0.0,
+      "ytdPriceChangePercentage": 1523.2075,
+      "volumeRank": 8651,
+      "volumeMcRank": 7764,
+      "mcTotalNum": 10049,
+      "volumeTotalNum": 10049,
+      "volumeMcTotalNum": 10049
+    },
+    "quotes": [],
+    "relatedCoins": [
+      {
+        "id": 2513,
+        "name": "GoldMint",
+        "slug": "goldmint",
+        "price": 0.05065701161697734,
+        "priceChangePercentage24h": -0.83488657,
+        "priceChangePercentage7d": 21.70106268
+      },
+      {
+        "id": 4679,
+        "name": "Band Protocol",
+        "slug": "band-protocol",
+        "price": 1.2924689407590508,
+        "priceChangePercentage24h": -5.51284503,
+        "priceChangePercentage7d": 1.82102584
+      },
+      {
+        "id": 7083,
+        "name": "Uniswap",
+        "slug": "uniswap",
+        "price": 8.907804423933275,
+        "priceChangePercentage24h": -4.39447372,
+        "priceChangePercentage7d": -3.90346035
+      },
+      {
+        "id": 1414,
+        "name": "Firo",
+        "slug": "firo",
+        "price": 1.3454938776288508,
+        "priceChangePercentage24h": 0.21867821,
+        "priceChangePercentage7d": 4.03360084
+      },
+      {
+        "id": 1975,
+        "name": "Chainlink",
+        "slug": "chainlink",
+        "price": 14.028344717813509,
+        "priceChangePercentage24h": -5.25786687,
+        "priceChangePercentage7d": -2.46572024
+      },
+      {
+        "id": 7653,
+        "name": "Oasis",
+        "slug": "oasis-network",
+        "price": 0.08025331330873264,
+        "priceChangePercentage24h": -5.30717197,
+        "priceChangePercentage7d": -4.39563858
+      },
+      {
+        "id": 707,
+        "name": "Blocknet",
+        "slug": "blocknet",
+        "price": 0.017113298239738093,
+        "priceChangePercentage24h": -0.68391562,
+        "priceChangePercentage7d": -3.30053472
+      },
+      {
+        "id": 5864,
+        "name": "yearn.finance",
+        "slug": "yearn-finance",
+        "price": 6192.38803639104,
+        "priceChangePercentage24h": -4.43119421,
+        "priceChangePercentage7d": -11.362147
+      },
+      {
+        "id": 4279,
+        "name": "Solar",
+        "slug": "sxp",
+        "price": 0.36376553390538346,
+        "priceChangePercentage24h": 2.1116243,
+        "priceChangePercentage7d": 18.12789401
+      },
+      {
+        "id": 8043,
+        "name": "MAHA.xyz",
+        "slug": "mahadao",
+        "price": 0.9034865737660874,
+        "priceChangePercentage24h": -2.68820884,
+        "priceChangePercentage7d": -9.89747239
+      }
+    ],
+    "isAudited": false,
+    "holders": {},
+    "displayTV": 1,
+    "isInfiniteMaxSupply": 0,
+    "tvCoinSymbol": "PLC",
+    "supportWalletInfos": [],
+    "holdersFlag": false,
+    "ratingsFlag": false,
+    "analysisFlag": false,
+    "socialsFlag": true,
+    "cryptoRating": [
+      {
+        "type": "CertiK",
+        "score": 59.04,
+        "rating": 3.0,
+        "updateTime": "2024-11-17T00:00:00.000Z",
+        "link": "https://cmc.certik-skynet.com/redirect?project=platincoin&utm_source=CMC&utm_campaign=ScoreByCertiKLink"
+      },
+      {
+        "type": "Cyberscope",
+        "score": 64.0,
+        "rating": 3.2,
+        "updateTime": "2024-11-17T10:43:45.000Z",
+        "link": "https://www.cyberscope.io/audits/coin-platincoin"
+      },
+      {
+        "type": "Aggregate rating",
+        "score": 61.5,
+        "rating": 3.1,
+        "updateTime": "2024-11-18T01:00:00.186Z"
+      }
+    ],
+    "hasExtraInfoFlag": false,
+    "upcoming": {
+      "status": false
+    },
+    "annotationFlag": false,
+    "similarCoins": [
+      {
+        "id": 5103,
+        "symbol": "IPX"
+      },
+      {
+        "id": 1669,
+        "symbol": "HMQ"
+      },
+      {
+        "id": 2837,
+        "symbol": "0xBTC"
+      },
+      {
+        "id": 1903,
+        "symbol": "HC"
+      },
+      {
+        "id": 2934,
+        "symbol": "KAN"
+      },
+      {
+        "id": 2345,
+        "symbol": "HPB"
+      }
+    ]
+  },
+  "status": {
+    "timestamp": "2024-11-18T01:09:57.389Z",
+    "error_code": "0",
+    "error_message": "SUCCESS",
+    "elapsed": "13",
+    "credit_count": 0
+  }
+}

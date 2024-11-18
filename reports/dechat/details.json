@@ -1,0 +1,352 @@
+{
+  "data": {
+    "id": 29580,
+    "name": "Dechat",
+    "symbol": "DECHAT",
+    "slug": "dechat",
+    "category": "token",
+    "description": "Dechat (DECHAT) introduces a pioneering web3 communications protocol, designed to facilitate secure and decentralized interactions among users. Officially launched on February 26, 2024, by a collaborative team based in the United States and the United Kingdom, Dechat also garners notable support from the Casimi royal family in the UAE, boasting connections with various royal families. This innovative platform operates on the Binance Smart Chain.\n\nDechat has actively sought and established partnerships with various SocialFi and IDO platforms, aiming to broaden its ecosystem and enrich user engagement. In terms of market presence, Dechat is accessible through several leading cryptocurrency exchanges, including Pancakeswap, MEXC, Kucoin, Huobi, Gate.io, and Bybit.\n\nAs Dechat continues to evolve and expand its capabilities, it remains dedicated to its founding principles of security, decentralization, and user empowerment. This dedication is reflected in the continuous efforts to innovate and adapt in response to the dynamic needs of the digital community, ensuring that Dechat remains at the forefront of enabling meaningful and secure user interactions in the web3 era.\n",
+    "dateAdded": "2024-02-29T04:36:42.000Z",
+    "status": "active",
+    "subStatus": "normal",
+    "notice": "",
+    "alertType": 2,
+    "alertLink": "",
+    "latestUpdateTime": "2024-11-18T01:09:00.000Z",
+    "watchCount": "9645",
+    "watchListRanking": 2536,
+    "dateLaunched": "2023-11-09T00:00:00.000Z",
+    "latestAdded": false,
+    "launchPrice": 0.55,
+    "tags": [
+      {
+        "slug": "communications-social-media",
+        "name": "Communications & Social Media",
+        "category": "INDUSTRY"
+      },
+      {
+        "slug": "web3",
+        "name": "Web3",
+        "category": "INDUSTRY"
+      }
+    ],
+    "selfReportedTags": [
+      "Marketplace",
+      "Communications & Social Media",
+      "AI & Big Data",
+      "Reputation",
+      "DApp",
+      "BNB Smart Chain",
+      "Social Token"
+    ],
+    "selfReportedCirculatingSupply": "6410973.0",
+    "urls": {
+      "website": [
+        "https://www.dechat.io/"
+      ],
+      "technical_doc": [
+        "https://dechat.gitbook.io/dechat/"
+      ],
+      "explorer": [
+        "https://bscscan.com/token/0xd69ee2e508363fed57f89917d5ca03e715ee5519"
+      ],
+      "source_code": [],
+      "message_board": [],
+      "chat": [
+        "https://discord.com/invite/dechat"
+      ],
+      "announcement": [],
+      "reddit": [],
+      "facebook": [],
+      "twitter": [
+        "https://twitter.com/dechat_io"
+      ]
+    },
+    "volume": 2604187.83288525,
+    "volumeChangePercentage24h": 7.3015,
+    "cexVolume": 2583819.45469737,
+    "dexVolume": 20368.37818788,
+    "statistics": {
+      "price": 0.16802325073988508,
+      "priceChangePercentage1h": 1.40997023,
+      "priceChangePercentage24h": -9.39792594,
+      "priceChangePercentage7d": 5.93232753,
+      "priceChangePercentage30d": 6.1445202,
+      "priceChangePercentage60d": -47.03029357,
+      "priceChangePercentage90d": -24.2743236,
+      "priceChangePercentage1y": -90.55586984,
+      "priceChangePercentageAll": -90.555869837808,
+      "marketCap": 822481.65,
+      "marketCapChangePercentage24h": -9.3979,
+      "fullyDilutedMarketCap": 4200581.27,
+      "fullyDilutedMarketCapChangePercentage24h": -9.4,
+      "circulatingSupply": 4895046.6689,
+      "totalSupply": 25000000.0,
+      "maxSupply": 25000000.0,
+      "marketCapDominance": 0.0,
+      "rank": 1932,
+      "roi": -69.57015085,
+      "low24h": 0.15931365814719728,
+      "high24h": 0.1863271998589646,
+      "low7d": 0.1526381997817866,
+      "high7d": 0.3247036549698399,
+      "low30d": 0.12681644455140265,
+      "high30d": 0.3247036549698399,
+      "low90d": 0.12681644455140265,
+      "high90d": 0.41986362928535015,
+      "low52w": 0.12681644455140265,
+      "high52w": 8.743363868481442,
+      "lowAllTime": 0.12681644455140265,
+      "highAllTime": 8.743363868481442,
+      "lowAllTimeChangePercentage": 32.49,
+      "highAllTimeChangePercentage": -98.08,
+      "lowAllTimeTimestamp": "2024-10-28T00:52:00.000Z",
+      "highAllTimeTimestamp": "2024-03-11T20:16:00.000Z",
+      "lowYesterday": 0.15931365814719728,
+      "highYesterday": 0.18833986691323976,
+      "openYesterday": 0.18665978517559836,
+      "closeYesterday": 0.16562434167061135,
+      "priceChangePercentageYesterday": -11.27,
+      "volumeYesterday": 2576317.43,
+      "turnover": 3.16625645,
+      "ytdPriceChangePercentage": 0.0,
+      "volumeRank": 868,
+      "volumeMcRank": 155,
+      "mcTotalNum": 10049,
+      "volumeTotalNum": 10049,
+      "volumeMcTotalNum": 10049
+    },
+    "quotes": [],
+    "platforms": [
+      {
+        "contractId": 1839,
+        "contractAddress": "0xD69ee2e508363FEd57f89917D5ca03e715ee5519",
+        "contractPlatform": "BNB Smart Chain (BEP20)",
+        "contractPlatformId": 14,
+        "contractChainId": 56,
+        "contractRpcUrl": [
+          "https://bsc-dataseed1.binance.org",
+          "https://bsc-dataseed.binance.org/",
+          "https://bsc-dataseed1.binance.org:443"
+        ],
+        "contractNativeCurrencyName": "Binance Chain Native Token",
+        "contractNativeCurrencySymbol": "BNB",
+        "contractNativeCurrencyDecimals": 18,
+        "contractBlockExplorerUrl": "https://bscscan.com/",
+        "contractExplorerUrl": "https://bscscan.com/token/0xD69ee2e508363FEd57f89917D5ca03e715ee5519",
+        "contractDecimals": 18,
+        "platformCryptoId": 1839,
+        "sort": 0,
+        "wallets": [
+          {
+            "id": 9025
+          }
+        ]
+      }
+    ],
+    "relatedCoins": [
+      {
+        "id": 2513,
+        "name": "GoldMint",
+        "slug": "goldmint",
+        "price": 0.05065701161697734,
+        "priceChangePercentage24h": -0.83488657,
+        "priceChangePercentage7d": 21.70106268
+      },
+      {
+        "id": 4679,
+        "name": "Band Protocol",
+        "slug": "band-protocol",
+        "price": 1.2924689407590508,
+        "priceChangePercentage24h": -5.51284503,
+        "priceChangePercentage7d": 1.82102584
+      },
+      {
+        "id": 7083,
+        "name": "Uniswap",
+        "slug": "uniswap",
+        "price": 8.907804423933275,
+        "priceChangePercentage24h": -4.39447372,
+        "priceChangePercentage7d": -3.90346035
+      },
+      {
+        "id": 1414,
+        "name": "Firo",
+        "slug": "firo",
+        "price": 1.3454938776288508,
+        "priceChangePercentage24h": 0.21867821,
+        "priceChangePercentage7d": 4.03360084
+      },
+      {
+        "id": 1975,
+        "name": "Chainlink",
+        "slug": "chainlink",
+        "price": 14.028344717813509,
+        "priceChangePercentage24h": -5.25786687,
+        "priceChangePercentage7d": -2.46572024
+      },
+      {
+        "id": 7653,
+        "name": "Oasis",
+        "slug": "oasis-network",
+        "price": 0.08025331330873264,
+        "priceChangePercentage24h": -5.30717197,
+        "priceChangePercentage7d": -4.39563858
+      },
+      {
+        "id": 707,
+        "name": "Blocknet",
+        "slug": "blocknet",
+        "price": 0.017113298239738093,
+        "priceChangePercentage24h": -0.68391562,
+        "priceChangePercentage7d": -3.30053472
+      },
+      {
+        "id": 5864,
+        "name": "yearn.finance",
+        "slug": "yearn-finance",
+        "price": 6192.38803639104,
+        "priceChangePercentage24h": -4.43119421,
+        "priceChangePercentage7d": -11.362147
+      },
+      {
+        "id": 4279,
+        "name": "Solar",
+        "slug": "sxp",
+        "price": 0.36376553390538346,
+        "priceChangePercentage24h": 2.1116243,
+        "priceChangePercentage7d": 18.12789401
+      },
+      {
+        "id": 8043,
+        "name": "MAHA.xyz",
+        "slug": "mahadao",
+        "price": 0.9034865737660874,
+        "priceChangePercentage24h": -2.68820884,
+        "priceChangePercentage7d": -9.89747239
+      }
+    ],
+    "isAudited": false,
+    "holders": {},
+    "displayTV": 0,
+    "isInfiniteMaxSupply": 0,
+    "tvCoinSymbol": "DECHAT",
+    "supportWalletInfos": [],
+    "holdersFlag": false,
+    "ratingsFlag": false,
+    "analysisFlag": false,
+    "socialsFlag": true,
+    "cryptoRating": [
+      {
+        "type": "CertiK",
+        "score": 69.25,
+        "rating": 3.5,
+        "updateTime": "2024-11-17T00:00:00.000Z",
+        "link": "https://cmc.certik-skynet.com/redirect?project=dechat&utm_source=CMC&utm_campaign=ScoreByCertiKLink"
+      },
+      {
+        "type": "Cyberscope",
+        "score": 74.0,
+        "rating": 3.7,
+        "updateTime": "2024-11-17T08:14:36.000Z",
+        "link": "https://www.cyberscope.io/audits/coin-dechat"
+      },
+      {
+        "type": "Aggregate rating",
+        "score": 71.6,
+        "rating": 3.6,
+        "updateTime": "2024-11-18T01:00:00.227Z"
+      }
+    ],
+    "tokenUnlockLatest": {
+      "cryptoId": 29580,
+      "totalUnlockedPercentage": 36.05,
+      "tokenUnlockedAmount": 9011869.4,
+      "tokenLockedAmount": 15575784.69999999,
+      "tokenUntrackedAmount": 412345.90000001,
+      "nextUnlocked": {
+        "tokenAmount": 1003733.675,
+        "tokenAmountUsd": 168650.59495059133,
+        "tokenAmountPercentage": 4.01,
+        "date": 1732579200000
+      },
+      "nextUnlockedDetail": [
+        {
+          "tokenAmount": 214275.0,
+          "tokenAmountUsd": 36003.182052288874,
+          "allocationName": "Liquidity & MM & Incentives",
+          "vestingType": "linear"
+        },
+        {
+          "tokenAmount": 208300.0,
+          "tokenAmountUsd": 34999.24312911806,
+          "allocationName": "Chat-To-Earn",
+          "vestingType": "linear"
+        },
+        {
+          "tokenAmount": 300000.0,
+          "tokenAmountUsd": 50406.97522196553,
+          "allocationName": "Private",
+          "vestingType": "linear"
+        },
+        {
+          "tokenAmount": 78112.5,
+          "tokenAmountUsd": 13124.716173419274,
+          "allocationName": "Node Rewards",
+          "vestingType": "linear"
+        },
+        {
+          "tokenAmount": 125546.175,
+          "tokenAmountUsd": 21094.67644145849,
+          "allocationName": "Public Sale",
+          "vestingType": "linear"
+        },
+        {
+          "tokenAmount": 77500.0,
+          "tokenAmountUsd": 13021.801932341094,
+          "allocationName": "Seed",
+          "vestingType": "linear"
+        }
+      ],
+      "updateTime": "2024-11-18T01:04:08.431Z"
+    },
+    "hasExtraInfoFlag": false,
+    "upcoming": {
+      "status": false
+    },
+    "annotationFlag": false,
+    "similarCoins": [
+      {
+        "id": 23756,
+        "symbol": "CGPT"
+      },
+      {
+        "id": 28933,
+        "symbol": "XAI"
+      },
+      {
+        "id": 28675,
+        "symbol": "COQ"
+      },
+      {
+        "id": 28674,
+        "symbol": "ACE"
+      },
+      {
+        "id": 29870,
+        "symbol": "BOME"
+      },
+      {
+        "id": 22320,
+        "symbol": "HELLO"
+      }
+    ]
+  },
+  "status": {
+    "timestamp": "2024-11-18T01:09:59.065Z",
+    "error_code": "0",
+    "error_message": "SUCCESS",
+    "elapsed": "11",
+    "credit_count": 0
+  }
+}

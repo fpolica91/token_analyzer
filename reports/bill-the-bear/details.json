@@ -1,0 +1,280 @@
+{
+  "data": {
+    "id": 32297,
+    "name": "BILL THE BEAR",
+    "symbol": "BILL",
+    "slug": "bill-the-bear",
+    "category": "token",
+    "description": "MEET BILL THE BEAR!\r\nBill is your favorite internet bestie! He got lost at a young age and ended up being raised by a peculiar set of parents. Join him as he looks to make frens on his journey exploring the internet.\r\n\r\nHOW DID BILL BECOME SUCH A VIRAL SENSATION?\r\nBill is one of the most relatable and loveable bears on the internet. He loves to document his journey in discovering different pockets of the internet and applying his newly learned lessons to his every day life!\r\n\r\nHOW CAN I BECOME BESTIES WITH BILL?\r\nBill loves to hang out with all of his besties in a variety of different social media rooms. You can find all of his socials from X (twitter) to TG on this website. He is also working on launching other social media accounts over the next month.",
+    "dateAdded": "2024-07-19T11:16:53.000Z",
+    "status": "active",
+    "subStatus": "normal",
+    "notice": "",
+    "alertType": 2,
+    "alertLink": "",
+    "latestUpdateTime": "2024-11-18T01:09:00.000Z",
+    "watchCount": "1246",
+    "watchListRanking": 5792,
+    "dateLaunched": "2024-07-18T00:00:00.000Z",
+    "latestAdded": false,
+    "tags": [
+      {
+        "slug": "memes",
+        "name": "Memes",
+        "category": "INDUSTRY"
+      }
+    ],
+    "selfReportedTags": [
+      "Memes"
+    ],
+    "selfReportedCirculatingSupply": "852776516178",
+    "urls": {
+      "website": [
+        "https://www.billthebear.com/"
+      ],
+      "technical_doc": [],
+      "explorer": [
+        "https://solscan.io/token/5o817YNoR97F1h5suzBghwc8dP53oureRuFbgJiaCFuZ"
+      ],
+      "source_code": [],
+      "message_board": [],
+      "chat": [
+        "https://t.me/billthebear"
+      ],
+      "announcement": [],
+      "reddit": [],
+      "facebook": [],
+      "twitter": [
+        "https://twitter.com/billthebearmeme"
+      ]
+    },
+    "volume": 44246.98573498,
+    "volumeChangePercentage24h": 222.9925,
+    "cexVolume": 14577.7846039,
+    "dexVolume": 29669.20113108,
+    "statistics": {
+      "price": 8.600673090731179e-07,
+      "priceChangePercentage1h": 1.12256645,
+      "priceChangePercentage24h": 6.17325057,
+      "priceChangePercentage7d": 8.70437374,
+      "priceChangePercentage30d": -33.8219683,
+      "priceChangePercentage60d": -57.85143865,
+      "priceChangePercentage90d": -75.19537934,
+      "priceChangePercentage1y": -95.75151858,
+      "priceChangePercentageAll": -95.340020269804,
+      "marketCap": 764493.41,
+      "marketCapChangePercentage24h": 6.1733,
+      "fullyDilutedMarketCap": 764504.27,
+      "fullyDilutedMarketCapChangePercentage24h": 6.17,
+      "circulatingSupply": 888876257499.5731,
+      "totalSupply": 888876257499.5731,
+      "maxSupply": 888888888888.0,
+      "marketCapDominance": 0.0,
+      "rank": 1957,
+      "low24h": 7.80314808331e-07,
+      "high24h": 9.70240322385e-07,
+      "low7d": 7.20569366919e-07,
+      "high7d": 9.60942673384e-07,
+      "low30d": 7.20569366919e-07,
+      "high30d": 1.624280154046e-06,
+      "low90d": 7.02740163062e-07,
+      "high90d": 3.967849856574e-06,
+      "low52w": 7.02740163062e-07,
+      "high52w": 5.3294196134523e-05,
+      "lowAllTime": 7.02740163062e-07,
+      "highAllTime": 5.3294196134523e-05,
+      "lowAllTimeChangePercentage": 22.39,
+      "highAllTimeChangePercentage": -98.39,
+      "lowAllTimeTimestamp": "2024-10-05T05:23:00.000Z",
+      "highAllTimeTimestamp": "2024-07-26T22:52:00.000Z",
+      "lowYesterday": 7.80314808331e-07,
+      "highYesterday": 9.70240322385e-07,
+      "openYesterday": 8.00151066345e-07,
+      "closeYesterday": 8.60401132998e-07,
+      "priceChangePercentageYesterday": 7.53,
+      "volumeYesterday": 43847.21,
+      "turnover": 0.05787752,
+      "ytdPriceChangePercentage": 0.0,
+      "volumeRank": 3446,
+      "volumeMcRank": 2509,
+      "mcTotalNum": 10049,
+      "volumeTotalNum": 10049,
+      "volumeMcTotalNum": 10049
+    },
+    "quotes": [],
+    "platforms": [
+      {
+        "contractId": 5426,
+        "contractAddress": "5o817YNoR97F1h5suzBghwc8dP53oureRuFbgJiaCFuZ",
+        "contractPlatform": "Solana",
+        "contractPlatformId": 16,
+        "contractChainId": -1,
+        "contractRpcUrl": [],
+        "contractNativeCurrencyName": "",
+        "contractNativeCurrencySymbol": "",
+        "contractNativeCurrencyDecimals": 18,
+        "contractBlockExplorerUrl": "",
+        "contractExplorerUrl": "https://solana.fm/address/5o817YNoR97F1h5suzBghwc8dP53oureRuFbgJiaCFuZ",
+        "contractDecimals": 6,
+        "platformCryptoId": 5426,
+        "sort": 0,
+        "wallets": []
+      }
+    ],
+    "relatedCoins": [
+      {
+        "id": 2513,
+        "name": "GoldMint",
+        "slug": "goldmint",
+        "price": 0.05065701161697734,
+        "priceChangePercentage24h": -0.83488657,
+        "priceChangePercentage7d": 21.70106268
+      },
+      {
+        "id": 4679,
+        "name": "Band Protocol",
+        "slug": "band-protocol",
+        "price": 1.2924689407590508,
+        "priceChangePercentage24h": -5.51284503,
+        "priceChangePercentage7d": 1.82102584
+      },
+      {
+        "id": 7083,
+        "name": "Uniswap",
+        "slug": "uniswap",
+        "price": 8.907804423933275,
+        "priceChangePercentage24h": -4.39447372,
+        "priceChangePercentage7d": -3.90346035
+      },
+      {
+        "id": 1414,
+        "name": "Firo",
+        "slug": "firo",
+        "price": 1.3454938776288508,
+        "priceChangePercentage24h": 0.21867821,
+        "priceChangePercentage7d": 4.03360084
+      },
+      {
+        "id": 1975,
+        "name": "Chainlink",
+        "slug": "chainlink",
+        "price": 14.028344717813509,
+        "priceChangePercentage24h": -5.25786687,
+        "priceChangePercentage7d": -2.46572024
+      },
+      {
+        "id": 7653,
+        "name": "Oasis",
+        "slug": "oasis-network",
+        "price": 0.08025331330873264,
+        "priceChangePercentage24h": -5.30717197,
+        "priceChangePercentage7d": -4.39563858
+      },
+      {
+        "id": 707,
+        "name": "Blocknet",
+        "slug": "blocknet",
+        "price": 0.017113298239738093,
+        "priceChangePercentage24h": -0.68391562,
+        "priceChangePercentage7d": -3.30053472
+      },
+      {
+        "id": 5864,
+        "name": "yearn.finance",
+        "slug": "yearn-finance",
+        "price": 6192.38803639104,
+        "priceChangePercentage24h": -4.43119421,
+        "priceChangePercentage7d": -11.362147
+      },
+      {
+        "id": 4279,
+        "name": "Solar",
+        "slug": "sxp",
+        "price": 0.36376553390538346,
+        "priceChangePercentage24h": 2.1116243,
+        "priceChangePercentage7d": 18.12789401
+      },
+      {
+        "id": 8043,
+        "name": "MAHA.xyz",
+        "slug": "mahadao",
+        "price": 0.9034865737660874,
+        "priceChangePercentage24h": -2.68820884,
+        "priceChangePercentage7d": -9.89747239
+      }
+    ],
+    "isAudited": false,
+    "holders": {},
+    "displayTV": 1,
+    "isInfiniteMaxSupply": 0,
+    "tvCoinSymbol": "BILL",
+    "supportWalletInfos": [
+      {
+        "id": 9159,
+        "name": "SolFlare",
+        "url": "https://solflare.com/",
+        "chains": "",
+        "decentration": false,
+        "logo": "default.png",
+        "multipleChain": false
+      },
+      {
+        "id": 9209,
+        "name": "Backpack",
+        "url": "https://backpack.app/downloads",
+        "chains": "",
+        "decentration": false,
+        "logo": "https://s3.coinmarketcap.com/static/img/as/2023-12-06T06:55:43.999Z_BackpackLogo_BlackBkg.png",
+        "multipleChain": false
+      },
+      {
+        "id": 9210,
+        "name": "Phantom",
+        "url": "https://phantom.app/",
+        "chains": "",
+        "decentration": false,
+        "logo": "https://s3.coinmarketcap.com/static/img/as/2023-12-06T11:05:16.408Z_4StTDIF4_400x400.png",
+        "multipleChain": false
+      }
+    ],
+    "holdersFlag": false,
+    "ratingsFlag": false,
+    "analysisFlag": false,
+    "socialsFlag": true,
+    "cryptoRating": [
+      {
+        "type": "CertiK",
+        "score": 60.05,
+        "rating": 3.0,
+        "updateTime": "2024-11-17T00:00:00.000Z",
+        "link": "https://cmc.certik-skynet.com/redirect?project=bill-the-bear&utm_source=CMC&utm_campaign=ScoreByCertiKLink"
+      },
+      {
+        "type": "Cyberscope",
+        "score": 59.0,
+        "rating": 3.0,
+        "updateTime": "2024-11-17T11:30:39.000Z",
+        "link": "https://www.cyberscope.io/audits/coin-bill-the-bear"
+      },
+      {
+        "type": "Aggregate rating",
+        "score": 59.5,
+        "rating": 3.0,
+        "updateTime": "2024-11-18T01:00:00.235Z"
+      }
+    ],
+    "hasExtraInfoFlag": false,
+    "upcoming": {
+      "status": false
+    },
+    "annotationFlag": false,
+    "similarCoins": []
+  },
+  "status": {
+    "timestamp": "2024-11-18T01:10:01.716Z",
+    "error_code": "0",
+    "error_message": "SUCCESS",
+    "elapsed": "12",
+    "credit_count": 0
+  }
+}

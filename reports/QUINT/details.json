@@ -1,0 +1,287 @@
+{
+  "data": {
+    "id": 1908,
+    "name": "Nebulas",
+    "symbol": "NAS",
+    "slug": "nebulas-token",
+    "category": "coin",
+    "description": "Nebulas describes itself as an autonomous metanet, which focuses on on-chain data, interactions, and collaboration. Its hyper-mapped structural metadata can reportedly handle increasingly complex on-chain data and describe these interactions. On 15 April 2019, the team released Nebulas NOVA, a blockchain network with native on-chain incentive. After Nebulas NOVA goes live, developers and users will be able to participate in the development of the Nebulas ecosystem to realize its vision  - let everyone benefit fairly from decentralized collaboration. To facilitate ecosystem development, asset management, and promote the \u201cautonomous metanet\u201d, the founding team of Nebulas will form the \u201cNebulas Community Group\u201d together with the community. The Nebulas Community Group comprises 3 organizations - Nebulas Council, Nebulas Foundation, and Nebulas Technical Committee. These organizations will supervise each other and support the sustainable development of Nebulas.",
+    "dateAdded": "2017-08-23T00:00:00.000Z",
+    "status": "active",
+    "subStatus": "normal",
+    "notice": "",
+    "alertType": 2,
+    "alertLink": "",
+    "latestUpdateTime": "2024-11-18T01:09:00.000Z",
+    "watchCount": "12105",
+    "watchListRanking": 2034,
+    "latestAdded": false,
+    "launchPrice": 4.5762,
+    "tags": [
+      {
+        "slug": "platform",
+        "name": "Platform",
+        "category": "CATEGORY"
+      },
+      {
+        "slug": "search-engine",
+        "name": "Search Engine",
+        "category": "INDUSTRY"
+      },
+      {
+        "slug": "dragonfly-capital-portfolio",
+        "name": "DragonFly Capital Portfolio",
+        "category": "CATEGORY"
+      }
+    ],
+    "urls": {
+      "website": [
+        "https://nebulas.io/"
+      ],
+      "technical_doc": [
+        "https://nebulas.io/docs/NebulasWhitepaper.pdf"
+      ],
+      "explorer": [
+        "https://explorer.nebulas.io/"
+      ],
+      "source_code": [
+        "https://github.com/nebulasio"
+      ],
+      "message_board": [
+        "https://medium.com/nebulasio"
+      ],
+      "chat": [
+        "https://t.me/nebulasen"
+      ],
+      "announcement": [],
+      "reddit": [
+        "https://reddit.com/r/nebulas"
+      ],
+      "facebook": [],
+      "twitter": [
+        "https://twitter.com/nebulasio"
+      ]
+    },
+    "volume": 658.08902235,
+    "volumeChangePercentage24h": -14.6228,
+    "cexVolume": 658.08902235,
+    "dexVolume": 0.0,
+    "statistics": {
+      "price": 0.00586908670122687,
+      "priceChangePercentage1h": -9.03965127,
+      "priceChangePercentage24h": -7.39156664,
+      "priceChangePercentage7d": 0.24662156,
+      "priceChangePercentage30d": 22.90842542,
+      "priceChangePercentage60d": 6.65680685,
+      "priceChangePercentage90d": 1.74289052,
+      "priceChangePercentage1y": -47.13400062,
+      "priceChangePercentageAll": -99.871747592097,
+      "marketCap": 0.0,
+      "marketCapChangePercentage24h": 0.0,
+      "fullyDilutedMarketCap": 479874.1,
+      "fullyDilutedMarketCapChangePercentage24h": -7.39,
+      "circulatingSupply": 0.0,
+      "totalSupply": 81762994.05126,
+      "marketCapDominance": 0.0,
+      "rank": 6645,
+      "roi": -99.87176215,
+      "low24h": 0.005685203951948719,
+      "high24h": 0.006453343547156392,
+      "low7d": 0.004615085048411255,
+      "high7d": 0.006870985555661411,
+      "low30d": 0.004211626724781156,
+      "high30d": 0.006870985555661411,
+      "low90d": 0.004211626724781156,
+      "high90d": 0.006913956014424297,
+      "low52w": 0.004211626724781156,
+      "high52w": 0.018714580104816973,
+      "lowAllTime": 0.004211626724781156,
+      "highAllTime": 16.641700744628906,
+      "lowAllTimeChangePercentage": 39.35,
+      "highAllTimeChangePercentage": -99.96,
+      "lowAllTimeTimestamp": "2024-11-07T04:50:00.000Z",
+      "highAllTimeTimestamp": "2018-01-09T23:34:13.000Z",
+      "lowYesterday": 0.005685203951948719,
+      "highYesterday": 0.006452956091090048,
+      "openYesterday": 0.006337098687953814,
+      "closeYesterday": 0.006452366372219373,
+      "priceChangePercentageYesterday": 1.82,
+      "volumeYesterday": 646.05,
+      "ytdPriceChangePercentage": -55.5069,
+      "volumeRank": 6278,
+      "volumeMcRank": 8292,
+      "mcTotalNum": 10049,
+      "volumeTotalNum": 10049,
+      "volumeMcTotalNum": 10049
+    },
+    "quotes": [],
+    "relatedCoins": [
+      {
+        "id": 2513,
+        "name": "GoldMint",
+        "slug": "goldmint",
+        "price": 0.05065701161697734,
+        "priceChangePercentage24h": -0.83488657,
+        "priceChangePercentage7d": 21.70106268
+      },
+      {
+        "id": 4679,
+        "name": "Band Protocol",
+        "slug": "band-protocol",
+        "price": 1.2924689407590508,
+        "priceChangePercentage24h": -5.51284503,
+        "priceChangePercentage7d": 1.82102584
+      },
+      {
+        "id": 7083,
+        "name": "Uniswap",
+        "slug": "uniswap",
+        "price": 8.907804423933275,
+        "priceChangePercentage24h": -4.39447372,
+        "priceChangePercentage7d": -3.90346035
+      },
+      {
+        "id": 1414,
+        "name": "Firo",
+        "slug": "firo",
+        "price": 1.3454938776288508,
+        "priceChangePercentage24h": 0.21867821,
+        "priceChangePercentage7d": 4.03360084
+      },
+      {
+        "id": 1975,
+        "name": "Chainlink",
+        "slug": "chainlink",
+        "price": 14.028344717813509,
+        "priceChangePercentage24h": -5.25786687,
+        "priceChangePercentage7d": -2.46572024
+      },
+      {
+        "id": 7653,
+        "name": "Oasis",
+        "slug": "oasis-network",
+        "price": 0.08025331330873264,
+        "priceChangePercentage24h": -5.30717197,
+        "priceChangePercentage7d": -4.39563858
+      },
+      {
+        "id": 707,
+        "name": "Blocknet",
+        "slug": "blocknet",
+        "price": 0.017113298239738093,
+        "priceChangePercentage24h": -0.68391562,
+        "priceChangePercentage7d": -3.30053472
+      },
+      {
+        "id": 5864,
+        "name": "yearn.finance",
+        "slug": "yearn-finance",
+        "price": 6192.38803639104,
+        "priceChangePercentage24h": -4.43119421,
+        "priceChangePercentage7d": -11.362147
+      },
+      {
+        "id": 4279,
+        "name": "Solar",
+        "slug": "sxp",
+        "price": 0.36376553390538346,
+        "priceChangePercentage24h": 2.1116243,
+        "priceChangePercentage7d": 18.12789401
+      },
+      {
+        "id": 8043,
+        "name": "MAHA.xyz",
+        "slug": "mahadao",
+        "price": 0.9034865737660874,
+        "priceChangePercentage24h": -2.68820884,
+        "priceChangePercentage7d": -9.89747239
+      }
+    ],
+    "isAudited": false,
+    "holders": {},
+    "displayTV": 1,
+    "isInfiniteMaxSupply": 0,
+    "tvCoinSymbol": "NAS",
+    "supportWalletInfos": [],
+    "holdersFlag": false,
+    "ratingsFlag": false,
+    "analysisFlag": true,
+    "socialsFlag": true,
+    "cryptoRating": [
+      {
+        "type": "CertiK",
+        "score": 59.23,
+        "rating": 3.0,
+        "updateTime": "2024-11-17T00:00:00.000Z",
+        "link": "https://cmc.certik-skynet.com/redirect?project=nebulas-token&utm_source=CMC&utm_campaign=ScoreByCertiKLink"
+      },
+      {
+        "type": "Cyberscope",
+        "score": 60.0,
+        "rating": 3.0,
+        "updateTime": "2024-11-17T08:18:59.000Z",
+        "link": "https://www.cyberscope.io/audits/coin-nebulas-token"
+      },
+      {
+        "type": "TokenInsight",
+        "score": 58.22,
+        "rating": 2.9,
+        "updateTime": "2022-11-01T07:51:02.000Z",
+        "link": "https://tokeninsight.com/en/coins/nebulas/rating?utm_source=CMC&utm_medium=ratingwidget"
+      },
+      {
+        "type": "Aggregate rating",
+        "score": 59.2,
+        "rating": 3.0,
+        "updateTime": "2024-11-18T01:00:00.179Z"
+      }
+    ],
+    "analysis": {
+      "holdingWhalesPercent": 96.208785,
+      "holdingAddressesCount": 13649,
+      "addressByTimeHeld": {
+        "holdersPercent": 99.91639431481342,
+        "cruisersPercent": 0.08360568518659,
+        "tradersPercent": 0
+      }
+    },
+    "hasExtraInfoFlag": false,
+    "upcoming": {
+      "status": false
+    },
+    "annotationFlag": false,
+    "similarCoins": [
+      {
+        "id": 2346,
+        "symbol": "WICC"
+      },
+      {
+        "id": 2861,
+        "symbol": "GO"
+      },
+      {
+        "id": 2299,
+        "symbol": "ELF"
+      },
+      {
+        "id": 1521,
+        "symbol": "KMD"
+      },
+      {
+        "id": 2099,
+        "symbol": "ICX"
+      },
+      {
+        "id": 7230,
+        "symbol": "OPIUM"
+      }
+    ]
+  },
+  "status": {
+    "timestamp": "2024-11-18T01:10:06.504Z",
+    "error_code": "0",
+    "error_message": "SUCCESS",
+    "elapsed": "14",
+    "credit_count": 0
+  }
+}

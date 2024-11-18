@@ -1,0 +1,285 @@
+{
+  "data": {
+    "id": 30071,
+    "name": "Milady Wif Hat",
+    "symbol": "LADYF",
+    "slug": "milady-wif-hat",
+    "category": "token",
+    "description": "In the legendary meme realms of Solana, where the echoes of Achi still reverberate, the ascent of the wif hat heralds a new era for $LADYS. Embracing the essence of memeness, the arrival of Milady wif hat was simply destiny. Embrace the hat, for Milady now adorns its splendid charm!",
+    "dateAdded": "2024-03-22T09:31:59.000Z",
+    "status": "active",
+    "subStatus": "normal",
+    "notice": "",
+    "alertType": 2,
+    "alertLink": "",
+    "latestUpdateTime": "2024-11-18T01:09:00.000Z",
+    "watchCount": "1814",
+    "watchListRanking": 5053,
+    "dateLaunched": "2024-03-21T00:00:00.000Z",
+    "latestAdded": false,
+    "tags": [
+      {
+        "slug": "memes",
+        "name": "Memes",
+        "category": "INDUSTRY"
+      },
+      {
+        "slug": "solana-ecosystem",
+        "name": "Solana Ecosystem",
+        "category": "PLATFORM"
+      }
+    ],
+    "urls": {
+      "website": [
+        "https://ladyf.xyz/"
+      ],
+      "technical_doc": [],
+      "explorer": [
+        "https://solscan.io/token/3X8GcLiH2HttjyqePg7MazpMbwbgq5URUMTyDz5tkmdE",
+        "https://solana.fm/address/3X8GcLiH2HttjyqePg7MazpMbwbgq5URUMTyDz5tkmdE"
+      ],
+      "source_code": [],
+      "message_board": [],
+      "chat": [
+        "https://t.me/miladymemecoin"
+      ],
+      "announcement": [],
+      "reddit": [],
+      "facebook": [],
+      "twitter": [
+        "https://twitter.com/miladymemecoin"
+      ]
+    },
+    "volume": 6581.72361838,
+    "volumeChangePercentage24h": 35.413,
+    "cexVolume": 2744.35069816,
+    "dexVolume": 3837.37292022,
+    "statistics": {
+      "price": 3.8719542143701344e-06,
+      "priceChangePercentage1h": 15.19345352,
+      "priceChangePercentage24h": 14.93275225,
+      "priceChangePercentage7d": -74.78360808,
+      "priceChangePercentage30d": -73.76805019,
+      "priceChangePercentage60d": -71.76645261,
+      "priceChangePercentage90d": -68.30238255,
+      "priceChangePercentage1y": -95.57531421,
+      "priceChangePercentageAll": -95.59315912691,
+      "marketCap": 967977.97,
+      "marketCapChangePercentage24h": 14.9327,
+      "fullyDilutedMarketCap": 3871943.63,
+      "fullyDilutedMarketCapChangePercentage24h": 14.93,
+      "circulatingSupply": 249997267013.2174,
+      "totalSupply": 999997267013.2174,
+      "marketCapDominance": 0.0,
+      "rank": 1874,
+      "low24h": 3.234969797545e-06,
+      "high24h": 3.895759947555e-06,
+      "low7d": 3.184700687049e-06,
+      "high7d": 1.5349799684077e-05,
+      "low30d": 3.184700687049e-06,
+      "high30d": 1.7951156316361e-05,
+      "low90d": 3.184700687049e-06,
+      "high90d": 1.7951156316361e-05,
+      "low52w": 3.184700687049e-06,
+      "high52w": 9.3331018497434e-05,
+      "lowAllTime": 3.184700687049e-06,
+      "highAllTime": 9.3331018497434e-05,
+      "lowAllTimeChangePercentage": 21.58,
+      "highAllTimeChangePercentage": -95.85,
+      "lowAllTimeTimestamp": "2024-11-15T17:13:00.000Z",
+      "highAllTimeTimestamp": "2024-03-22T10:26:00.000Z",
+      "lowYesterday": 3.234969797545e-06,
+      "highYesterday": 3.621211903011e-06,
+      "openYesterday": 3.365280083402e-06,
+      "closeYesterday": 3.361334819546e-06,
+      "priceChangePercentageYesterday": -0.12,
+      "volumeYesterday": 3990.25,
+      "turnover": 0.00679946,
+      "ytdPriceChangePercentage": 0.0,
+      "volumeRank": 4780,
+      "volumeMcRank": 4955,
+      "mcTotalNum": 10049,
+      "volumeTotalNum": 10049,
+      "volumeMcTotalNum": 10049
+    },
+    "quotes": [],
+    "platforms": [
+      {
+        "contractId": 5426,
+        "contractAddress": "3X8GcLiH2HttjyqePg7MazpMbwbgq5URUMTyDz5tkmdE",
+        "contractPlatform": "Solana",
+        "contractPlatformId": 16,
+        "contractChainId": -1,
+        "contractRpcUrl": [],
+        "contractNativeCurrencyName": "",
+        "contractNativeCurrencySymbol": "",
+        "contractNativeCurrencyDecimals": 18,
+        "contractBlockExplorerUrl": "",
+        "contractExplorerUrl": "https://solana.fm/address/3X8GcLiH2HttjyqePg7MazpMbwbgq5URUMTyDz5tkmdE",
+        "contractDecimals": 6,
+        "platformCryptoId": 5426,
+        "sort": 0,
+        "wallets": []
+      }
+    ],
+    "relatedCoins": [
+      {
+        "id": 2513,
+        "name": "GoldMint",
+        "slug": "goldmint",
+        "price": 0.05065701161697734,
+        "priceChangePercentage24h": -0.83488657,
+        "priceChangePercentage7d": 21.70106268
+      },
+      {
+        "id": 4679,
+        "name": "Band Protocol",
+        "slug": "band-protocol",
+        "price": 1.2924689407590508,
+        "priceChangePercentage24h": -5.51284503,
+        "priceChangePercentage7d": 1.82102584
+      },
+      {
+        "id": 7083,
+        "name": "Uniswap",
+        "slug": "uniswap",
+        "price": 8.907804423933275,
+        "priceChangePercentage24h": -4.39447372,
+        "priceChangePercentage7d": -3.90346035
+      },
+      {
+        "id": 1414,
+        "name": "Firo",
+        "slug": "firo",
+        "price": 1.3454938776288508,
+        "priceChangePercentage24h": 0.21867821,
+        "priceChangePercentage7d": 4.03360084
+      },
+      {
+        "id": 1975,
+        "name": "Chainlink",
+        "slug": "chainlink",
+        "price": 14.028344717813509,
+        "priceChangePercentage24h": -5.25786687,
+        "priceChangePercentage7d": -2.46572024
+      },
+      {
+        "id": 7653,
+        "name": "Oasis",
+        "slug": "oasis-network",
+        "price": 0.08025331330873264,
+        "priceChangePercentage24h": -5.30717197,
+        "priceChangePercentage7d": -4.39563858
+      },
+      {
+        "id": 707,
+        "name": "Blocknet",
+        "slug": "blocknet",
+        "price": 0.017113298239738093,
+        "priceChangePercentage24h": -0.68391562,
+        "priceChangePercentage7d": -3.30053472
+      },
+      {
+        "id": 5864,
+        "name": "yearn.finance",
+        "slug": "yearn-finance",
+        "price": 6192.38803639104,
+        "priceChangePercentage24h": -4.43119421,
+        "priceChangePercentage7d": -11.362147
+      },
+      {
+        "id": 4279,
+        "name": "Solar",
+        "slug": "sxp",
+        "price": 0.36376553390538346,
+        "priceChangePercentage24h": 2.1116243,
+        "priceChangePercentage7d": 18.12789401
+      },
+      {
+        "id": 8043,
+        "name": "MAHA.xyz",
+        "slug": "mahadao",
+        "price": 0.9034865737660874,
+        "priceChangePercentage24h": -2.68820884,
+        "priceChangePercentage7d": -9.89747239
+      }
+    ],
+    "isAudited": false,
+    "holders": {},
+    "displayTV": 0,
+    "isInfiniteMaxSupply": 0,
+    "tvCoinSymbol": "LADYF",
+    "supportWalletInfos": [
+      {
+        "id": 9159,
+        "name": "SolFlare",
+        "url": "https://solflare.com/",
+        "chains": "",
+        "decentration": false,
+        "logo": "default.png",
+        "multipleChain": false
+      },
+      {
+        "id": 9209,
+        "name": "Backpack",
+        "url": "https://backpack.app/downloads",
+        "chains": "",
+        "decentration": false,
+        "logo": "https://s3.coinmarketcap.com/static/img/as/2023-12-06T06:55:43.999Z_BackpackLogo_BlackBkg.png",
+        "multipleChain": false
+      },
+      {
+        "id": 9210,
+        "name": "Phantom",
+        "url": "https://phantom.app/",
+        "chains": "",
+        "decentration": false,
+        "logo": "https://s3.coinmarketcap.com/static/img/as/2023-12-06T11:05:16.408Z_4StTDIF4_400x400.png",
+        "multipleChain": false
+      }
+    ],
+    "holdersFlag": false,
+    "ratingsFlag": false,
+    "analysisFlag": false,
+    "socialsFlag": true,
+    "cryptoRating": [],
+    "hasExtraInfoFlag": false,
+    "upcoming": {
+      "status": false
+    },
+    "annotationFlag": false,
+    "similarCoins": [
+      {
+        "id": 30126,
+        "symbol": "MEW"
+      },
+      {
+        "id": 29150,
+        "symbol": "PONKE"
+      },
+      {
+        "id": 29870,
+        "symbol": "BOME"
+      },
+      {
+        "id": 28782,
+        "symbol": "POPCAT"
+      },
+      {
+        "id": 23095,
+        "symbol": "BONK"
+      },
+      {
+        "id": 10804,
+        "symbol": "FLOKI"
+      }
+    ]
+  },
+  "status": {
+    "timestamp": "2024-11-18T01:09:54.123Z",
+    "error_code": "0",
+    "error_message": "SUCCESS",
+    "elapsed": "157",
+    "credit_count": 0
+  }
+}

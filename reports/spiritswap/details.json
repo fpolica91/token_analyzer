@@ -1,0 +1,305 @@
+{
+  "data": {
+    "id": 10239,
+    "name": "SpiritSwap",
+    "symbol": "SPIRIT",
+    "slug": "spiritswap",
+    "category": "token",
+    "description": "Spiritswap Token is a exchange token of Spiritswap DEX that offers trading, farming, staking, and more to come.",
+    "dateAdded": "2021-06-02T00:00:00.000Z",
+    "status": "active",
+    "subStatus": "normal",
+    "notice": "",
+    "alertType": 2,
+    "alertLink": "https://twitter.com/WuBlockchain/status/1689188206645055488?s=20",
+    "latestUpdateTime": "2024-11-18T01:09:00.000Z",
+    "watchCount": "21839",
+    "watchListRanking": 1365,
+    "latestAdded": false,
+    "tags": [
+      {
+        "slug": "fantom-ecosystem",
+        "name": "Fantom Ecosystem",
+        "category": "PLATFORM"
+      },
+      {
+        "slug": "olympus-pro-ecosystem",
+        "name": "Olympus Pro Ecosystem",
+        "category": "PLATFORM"
+      }
+    ],
+    "urls": {
+      "website": [
+        "https://www.spiritswap.finance/"
+      ],
+      "technical_doc": [],
+      "explorer": [
+        "https://ftmscan.com/token/0x5cc61a78f164885776aa610fb0fe1257df78e59b"
+      ],
+      "source_code": [],
+      "message_board": [],
+      "chat": [
+        "https://discord.com/invite/jhGYjp2gfw"
+      ],
+      "announcement": [],
+      "reddit": [],
+      "facebook": [],
+      "twitter": []
+    },
+    "volume": 5368.78992007,
+    "volumeChangePercentage24h": 71.2693,
+    "cexVolume": 928.44108902,
+    "dexVolume": 4440.34883105,
+    "statistics": {
+      "price": 0.001400324726394895,
+      "priceChangePercentage1h": 0.85727829,
+      "priceChangePercentage24h": -8.38240715,
+      "priceChangePercentage7d": -14.72961286,
+      "priceChangePercentage30d": -29.11934489,
+      "priceChangePercentage60d": -47.32791174,
+      "priceChangePercentage90d": -19.27937635,
+      "priceChangePercentage1y": -50.17451978,
+      "priceChangePercentageAll": -99.999670910402,
+      "marketCap": 796572.76,
+      "marketCapChangePercentage24h": -8.3829,
+      "fullyDilutedMarketCap": 1400324.73,
+      "fullyDilutedMarketCapChangePercentage24h": -8.38,
+      "circulatingSupply": 568848596.8526684,
+      "totalSupply": 1000000000.0,
+      "maxSupply": 1000000000.0,
+      "marketCapDominance": 0.0,
+      "rank": 1937,
+      "low24h": 0.001380314094073896,
+      "high24h": 0.001512980242581573,
+      "low7d": 0.00131449030543295,
+      "high7d": 0.001726669460464196,
+      "low30d": 0.001170755570598006,
+      "high30d": 0.002013084456004916,
+      "low90d": 0.001170755570598006,
+      "high90d": 0.002818677931093803,
+      "low52w": 0.001150582206183912,
+      "high52w": 0.012449038650571218,
+      "lowAllTime": 0.000589158019108283,
+      "highAllTime": 582.48337883,
+      "lowAllTimeChangePercentage": 137.68,
+      "highAllTimeChangePercentage": -100.0,
+      "lowAllTimeTimestamp": "2023-08-14T02:26:00.000Z",
+      "highAllTimeTimestamp": "2021-06-03T02:42:09.000Z",
+      "lowYesterday": 0.001380314094073896,
+      "highYesterday": 0.001535374792785885,
+      "openYesterday": 0.001530540006728451,
+      "closeYesterday": 0.001388432133404018,
+      "priceChangePercentageYesterday": -9.28,
+      "volumeYesterday": 5413.76,
+      "turnover": 0.00673986,
+      "ytdPriceChangePercentage": -83.7276,
+      "volumeRank": 4905,
+      "volumeMcRank": 4968,
+      "mcTotalNum": 10049,
+      "volumeTotalNum": 10049,
+      "volumeMcTotalNum": 10049
+    },
+    "quotes": [],
+    "platforms": [
+      {
+        "contractId": 3513,
+        "contractAddress": "0x5cc61a78f164885776aa610fb0fe1257df78e59b",
+        "contractPlatform": "Fantom",
+        "contractPlatformId": 24,
+        "contractChainId": 250,
+        "contractRpcUrl": [
+          "https://rpc.fantom.network",
+          "https://fantomscan.io/rpc"
+        ],
+        "contractNativeCurrencyName": "Fantom Opera",
+        "contractNativeCurrencySymbol": "FTM",
+        "contractNativeCurrencyDecimals": 18,
+        "contractBlockExplorerUrl": "https://ftmscan.com/",
+        "contractExplorerUrl": "https://ftmscan.com/token/0x5cc61a78f164885776aa610fb0fe1257df78e59b",
+        "contractDecimals": 18,
+        "platformCryptoId": 3513,
+        "sort": 0,
+        "wallets": []
+      }
+    ],
+    "relatedCoins": [
+      {
+        "id": 2513,
+        "name": "GoldMint",
+        "slug": "goldmint",
+        "price": 0.05065701161697734,
+        "priceChangePercentage24h": -0.83488657,
+        "priceChangePercentage7d": 21.70106268
+      },
+      {
+        "id": 4679,
+        "name": "Band Protocol",
+        "slug": "band-protocol",
+        "price": 1.2924689407590508,
+        "priceChangePercentage24h": -5.51284503,
+        "priceChangePercentage7d": 1.82102584
+      },
+      {
+        "id": 7083,
+        "name": "Uniswap",
+        "slug": "uniswap",
+        "price": 8.907804423933275,
+        "priceChangePercentage24h": -4.39447372,
+        "priceChangePercentage7d": -3.90346035
+      },
+      {
+        "id": 1414,
+        "name": "Firo",
+        "slug": "firo",
+        "price": 1.3454938776288508,
+        "priceChangePercentage24h": 0.21867821,
+        "priceChangePercentage7d": 4.03360084
+      },
+      {
+        "id": 1975,
+        "name": "Chainlink",
+        "slug": "chainlink",
+        "price": 14.028344717813509,
+        "priceChangePercentage24h": -5.25786687,
+        "priceChangePercentage7d": -2.46572024
+      },
+      {
+        "id": 7653,
+        "name": "Oasis",
+        "slug": "oasis-network",
+        "price": 0.08025331330873264,
+        "priceChangePercentage24h": -5.30717197,
+        "priceChangePercentage7d": -4.39563858
+      },
+      {
+        "id": 707,
+        "name": "Blocknet",
+        "slug": "blocknet",
+        "price": 0.017113298239738093,
+        "priceChangePercentage24h": -0.68391562,
+        "priceChangePercentage7d": -3.30053472
+      },
+      {
+        "id": 5864,
+        "name": "yearn.finance",
+        "slug": "yearn-finance",
+        "price": 6192.38803639104,
+        "priceChangePercentage24h": -4.43119421,
+        "priceChangePercentage7d": -11.362147
+      },
+      {
+        "id": 4279,
+        "name": "Solar",
+        "slug": "sxp",
+        "price": 0.36376553390538346,
+        "priceChangePercentage24h": 2.1116243,
+        "priceChangePercentage7d": 18.12789401
+      },
+      {
+        "id": 8043,
+        "name": "MAHA.xyz",
+        "slug": "mahadao",
+        "price": 0.9034865737660874,
+        "priceChangePercentage24h": -2.68820884,
+        "priceChangePercentage7d": -9.89747239
+      }
+    ],
+    "wallets": [
+      {
+        "id": 9053,
+        "name": "HyperPay",
+        "url": "http://www.hyperpay.tech/",
+        "chains": "BTC,ETH,XRP,LTC,BCH,ADA,BSV,EOS,XTZ,VET,DOGE,NEO",
+        "types": "app,financing,hardware,trade",
+        "introduction": "",
+        "star": 3.0,
+        "security": 3.0,
+        "easyToUse": 1.0,
+        "decentration": true,
+        "focusNumber": 999999,
+        "logo": "9053.png",
+        "multipleChain": true
+      }
+    ],
+    "isAudited": false,
+    "holders": {},
+    "displayTV": 0,
+    "isInfiniteMaxSupply": 0,
+    "tvCoinSymbol": "SPIRIT",
+    "supportWalletInfos": [
+      {
+        "id": 9053,
+        "name": "HyperPay",
+        "url": "http://www.hyperpay.tech/",
+        "chains": "BTC,ETH,XRP,LTC,BCH,ADA,BSV,EOS,XTZ,VET,DOGE,NEO",
+        "decentration": false,
+        "logo": "9053.png",
+        "multipleChain": false
+      }
+    ],
+    "holdersFlag": false,
+    "ratingsFlag": false,
+    "analysisFlag": false,
+    "socialsFlag": false,
+    "cryptoRating": [
+      {
+        "type": "CertiK",
+        "score": 63.11,
+        "rating": 3.2,
+        "updateTime": "2024-11-17T00:00:00.000Z",
+        "link": "https://cmc.certik-skynet.com/redirect?project=spiritswap&utm_source=CMC&utm_campaign=ScoreByCertiKLink"
+      },
+      {
+        "type": "Cyberscope",
+        "score": 75.0,
+        "rating": 3.8,
+        "updateTime": "2024-11-17T10:50:06.000Z",
+        "link": "https://www.cyberscope.io/audits/coin-spiritswap"
+      },
+      {
+        "type": "Aggregate rating",
+        "score": 69.1,
+        "rating": 3.5,
+        "updateTime": "2024-11-18T01:00:00.214Z"
+      }
+    ],
+    "hasExtraInfoFlag": false,
+    "upcoming": {
+      "status": false
+    },
+    "annotationFlag": false,
+    "similarCoins": [
+      {
+        "id": 11396,
+        "symbol": "JOE"
+      },
+      {
+        "id": 8206,
+        "symbol": "QUICK"
+      },
+      {
+        "id": 11289,
+        "symbol": "SPELL"
+      },
+      {
+        "id": 5604,
+        "symbol": "SCRT"
+      },
+      {
+        "id": 8526,
+        "symbol": "RAY"
+      },
+      {
+        "id": 3513,
+        "symbol": "FTM"
+      }
+    ]
+  },
+  "status": {
+    "timestamp": "2024-11-18T01:09:59.823Z",
+    "error_code": "0",
+    "error_message": "SUCCESS",
+    "elapsed": "12",
+    "credit_count": 0
+  }
+}

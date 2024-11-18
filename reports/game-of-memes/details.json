@@ -1,0 +1,289 @@
+{
+  "data": {
+    "id": 31261,
+    "name": "Game of Memes",
+    "symbol": "GOME",
+    "slug": "game-of-memes",
+    "category": "token",
+    "description": "Where can you buy Game Of Memes?\r\nGOME tokens can be traded on decentralized exchanges and centralized crypto exchanges. The most popular exchange to buy and trade Game Of Memes is Raydium, where the most active trading pair GOME/SOL has a trading volume of $592,793 in the last 24 hours. Other popular options include BingX and Orca.\r\n\r\nWhat is the daily trading volume of Game Of Memes (GOME)?\r\nThe trading volume of Game Of Memes (GOME) is $1,001,307 in the last 24 hours, representing a -20.80% decrease from one day ago and signalling a recent fall in market activity.\r\n\r\nWhat is the all-time high for Game Of Memes (GOME)?\r\nThe highest price paid for Game Of Memes (GOME) is $0.01271, which was recorded on Apr 28, 2024 (7 days). Comparatively, the current price is 85.03% lower than the all-time high price.\r\n\r\nWhat is the all-time low for Game Of Memes (GOME)?\r\nThe lowest price paid for Game Of Memes (GOME) is $0.001785, which was recorded on May 05, 2024 (about 3 hours). Comparatively, the current price is 6.63% higher than the all-time low price.\r\n\r\nWhat is the fully diluted valuation of Game Of Memes (GOME)?\r\nThe fully diluted valuation (FDV) of Game Of Memes (GOME) is $1,242,100. This is a statistical representation of the maximum market cap, assuming the maximum number of 650 Million GOME tokens are in circulation today. Depending on how the emission schedule of GOME tokens are designed, it might take multiple years before FDV is realized.\r\n\r\nHow does the price performance of Game Of Memes compare against its peers?\r\nWith a price increase of 0.00% in the last 7 days, Game Of Memes (GOME) is outperforming the global cryptocurrency market which is down -0.40%, while underperforming when compared to similar Meme cryptocurrencies which are up 6.40%.",
+    "dateAdded": "2024-05-15T07:42:42.000Z",
+    "status": "active",
+    "subStatus": "normal",
+    "notice": "",
+    "alertType": 2,
+    "alertLink": "",
+    "latestUpdateTime": "2024-11-18T01:09:00.000Z",
+    "watchCount": "2016",
+    "watchListRanking": 4874,
+    "dateLaunched": "2024-04-26T00:00:00.000Z",
+    "latestAdded": false,
+    "tags": [
+      {
+        "slug": "memes",
+        "name": "Memes",
+        "category": "INDUSTRY"
+      }
+    ],
+    "selfReportedTags": [
+      "Gaming",
+      "Entertainment",
+      "Memes",
+      "Solana Ecosystem",
+      "Token",
+      "Gaming Guild"
+    ],
+    "selfReportedCirculatingSupply": "651476206",
+    "urls": {
+      "website": [
+        "https://gome.lol/",
+        "https://solana.fm/address/8ULCkCTUa3XXrNXaDVzPcja2tdJtRdxRr8T4eZjVKqk"
+      ],
+      "technical_doc": [],
+      "explorer": [
+        "https://solscan.io/token/8ULCkCTUa3XXrNXaDVzPcja2tdJtRdxRr8T4eZjVKqk"
+      ],
+      "source_code": [],
+      "message_board": [],
+      "chat": [
+        "https://t.me/gomeonsol"
+      ],
+      "announcement": [],
+      "reddit": [],
+      "facebook": [],
+      "twitter": [
+        "https://twitter.com/gomeonsol_"
+      ]
+    },
+    "volume": 117427.46922962,
+    "volumeChangePercentage24h": -20.8613,
+    "cexVolume": 68098.94626597,
+    "dexVolume": 49328.52296365,
+    "statistics": {
+      "price": 0.0014835979656978749,
+      "priceChangePercentage1h": -0.92185267,
+      "priceChangePercentage24h": 3.25216653,
+      "priceChangePercentage7d": -7.49284026,
+      "priceChangePercentage30d": -31.00241044,
+      "priceChangePercentage60d": 92.30245377,
+      "priceChangePercentage90d": 55.37824956,
+      "priceChangePercentage1y": -4.89284523,
+      "priceChangePercentageAll": -6.574870868881,
+      "marketCap": 966012.68,
+      "marketCapChangePercentage24h": 3.2522,
+      "fullyDilutedMarketCap": 966012.68,
+      "fullyDilutedMarketCapChangePercentage24h": 3.25,
+      "circulatingSupply": 651128339.0,
+      "totalSupply": 651128339.0,
+      "marketCapDominance": 0.0,
+      "rank": 1875,
+      "low24h": 0.001434681662361115,
+      "high24h": 0.001627272269128539,
+      "low7d": 0.001415057821804676,
+      "high7d": 0.002040265131306432,
+      "low30d": 0.001016479657491488,
+      "high30d": 0.002258229989392985,
+      "low90d": 0.000652748268378399,
+      "high90d": 0.002434218634254561,
+      "low52w": 0.000652748268378399,
+      "high52w": 0.011934155923062023,
+      "lowAllTime": 0.000652748268378399,
+      "highAllTime": 0.011934155923062023,
+      "lowAllTimeChangePercentage": 127.28,
+      "highAllTimeChangePercentage": -87.57,
+      "lowAllTimeTimestamp": "2024-09-08T22:01:00.000Z",
+      "highAllTimeTimestamp": "2024-05-20T09:49:00.000Z",
+      "lowYesterday": 0.001404477078630608,
+      "highYesterday": 0.001627272269128539,
+      "openYesterday": 0.001415057821804676,
+      "closeYesterday": 0.001497264494458054,
+      "priceChangePercentageYesterday": 5.81,
+      "volumeYesterday": 119630.95,
+      "turnover": 0.12155893,
+      "ytdPriceChangePercentage": 0.0,
+      "volumeRank": 2600,
+      "volumeMcRank": 1667,
+      "mcTotalNum": 10049,
+      "volumeTotalNum": 10049,
+      "volumeMcTotalNum": 10049
+    },
+    "quotes": [],
+    "platforms": [
+      {
+        "contractId": 5426,
+        "contractAddress": "8ULCkCTUa3XXrNXaDVzPcja2tdJtRdxRr8T4eZjVKqk",
+        "contractPlatform": "Solana",
+        "contractPlatformId": 16,
+        "contractChainId": -1,
+        "contractRpcUrl": [],
+        "contractNativeCurrencyName": "",
+        "contractNativeCurrencySymbol": "",
+        "contractNativeCurrencyDecimals": 18,
+        "contractBlockExplorerUrl": "",
+        "contractExplorerUrl": "https://solana.fm/address/8ULCkCTUa3XXrNXaDVzPcja2tdJtRdxRr8T4eZjVKqk",
+        "contractDecimals": 18,
+        "platformCryptoId": 5426,
+        "sort": 0,
+        "wallets": []
+      }
+    ],
+    "relatedCoins": [
+      {
+        "id": 2513,
+        "name": "GoldMint",
+        "slug": "goldmint",
+        "price": 0.05065701161697734,
+        "priceChangePercentage24h": -0.83488657,
+        "priceChangePercentage7d": 21.70106268
+      },
+      {
+        "id": 4679,
+        "name": "Band Protocol",
+        "slug": "band-protocol",
+        "price": 1.2924689407590508,
+        "priceChangePercentage24h": -5.51284503,
+        "priceChangePercentage7d": 1.82102584
+      },
+      {
+        "id": 7083,
+        "name": "Uniswap",
+        "slug": "uniswap",
+        "price": 8.907804423933275,
+        "priceChangePercentage24h": -4.39447372,
+        "priceChangePercentage7d": -3.90346035
+      },
+      {
+        "id": 1414,
+        "name": "Firo",
+        "slug": "firo",
+        "price": 1.3454938776288508,
+        "priceChangePercentage24h": 0.21867821,
+        "priceChangePercentage7d": 4.03360084
+      },
+      {
+        "id": 1975,
+        "name": "Chainlink",
+        "slug": "chainlink",
+        "price": 14.028344717813509,
+        "priceChangePercentage24h": -5.25786687,
+        "priceChangePercentage7d": -2.46572024
+      },
+      {
+        "id": 7653,
+        "name": "Oasis",
+        "slug": "oasis-network",
+        "price": 0.08025331330873264,
+        "priceChangePercentage24h": -5.30717197,
+        "priceChangePercentage7d": -4.39563858
+      },
+      {
+        "id": 707,
+        "name": "Blocknet",
+        "slug": "blocknet",
+        "price": 0.017113298239738093,
+        "priceChangePercentage24h": -0.68391562,
+        "priceChangePercentage7d": -3.30053472
+      },
+      {
+        "id": 5864,
+        "name": "yearn.finance",
+        "slug": "yearn-finance",
+        "price": 6192.38803639104,
+        "priceChangePercentage24h": -4.43119421,
+        "priceChangePercentage7d": -11.362147
+      },
+      {
+        "id": 4279,
+        "name": "Solar",
+        "slug": "sxp",
+        "price": 0.36376553390538346,
+        "priceChangePercentage24h": 2.1116243,
+        "priceChangePercentage7d": 18.12789401
+      },
+      {
+        "id": 8043,
+        "name": "MAHA.xyz",
+        "slug": "mahadao",
+        "price": 0.9034865737660874,
+        "priceChangePercentage24h": -2.68820884,
+        "priceChangePercentage7d": -9.89747239
+      }
+    ],
+    "isAudited": false,
+    "holders": {},
+    "displayTV": 0,
+    "isInfiniteMaxSupply": 0,
+    "tvCoinSymbol": "GOME",
+    "supportWalletInfos": [
+      {
+        "id": 9159,
+        "name": "SolFlare",
+        "url": "https://solflare.com/",
+        "chains": "",
+        "decentration": false,
+        "logo": "default.png",
+        "multipleChain": false
+      },
+      {
+        "id": 9209,
+        "name": "Backpack",
+        "url": "https://backpack.app/downloads",
+        "chains": "",
+        "decentration": false,
+        "logo": "https://s3.coinmarketcap.com/static/img/as/2023-12-06T06:55:43.999Z_BackpackLogo_BlackBkg.png",
+        "multipleChain": false
+      },
+      {
+        "id": 9210,
+        "name": "Phantom",
+        "url": "https://phantom.app/",
+        "chains": "",
+        "decentration": false,
+        "logo": "https://s3.coinmarketcap.com/static/img/as/2023-12-06T11:05:16.408Z_4StTDIF4_400x400.png",
+        "multipleChain": false
+      }
+    ],
+    "holdersFlag": false,
+    "ratingsFlag": false,
+    "analysisFlag": false,
+    "socialsFlag": true,
+    "cryptoRating": [],
+    "hasExtraInfoFlag": false,
+    "upcoming": {
+      "status": false
+    },
+    "annotationFlag": false,
+    "similarCoins": [
+      {
+        "id": 29150,
+        "symbol": "PONKE"
+      },
+      {
+        "id": 24911,
+        "symbol": "TURBO"
+      },
+      {
+        "id": 30126,
+        "symbol": "MEW"
+      },
+      {
+        "id": 28782,
+        "symbol": "POPCAT"
+      },
+      {
+        "id": 23095,
+        "symbol": "BONK"
+      },
+      {
+        "id": 33566,
+        "symbol": "ACT"
+      }
+    ]
+  },
+  "status": {
+    "timestamp": "2024-11-18T01:09:54.222Z",
+    "error_code": "0",
+    "error_message": "SUCCESS",
+    "elapsed": "11",
+    "credit_count": 0
+  }
+}

@@ -1,0 +1,284 @@
+{
+  "data": {
+    "id": 33400,
+    "name": "twurtle the turtle",
+    "symbol": "TWURTLE",
+    "slug": "twurtle-the-turtle",
+    "category": "token",
+    "description": "The world is supported on the back of a baby twurtle \u25e1\u0308. \r\n\r\n$TWURTLE is airdropping 50% of its supply to 4.2 million Solana wallets. The airdrop will be locked in the #1 holding wallet until users claim theirs. Check if you made the list and claim on Helius Airship: https://airship.helius.dev",
+    "dateAdded": "2024-10-11T08:24:58.000Z",
+    "status": "active",
+    "subStatus": "normal",
+    "notice": "",
+    "alertType": 2,
+    "alertLink": "",
+    "latestUpdateTime": "2024-11-18T01:09:00.000Z",
+    "watchCount": "535",
+    "watchListRanking": 7288,
+    "dateLaunched": "2024-10-09T00:00:00.000Z",
+    "latestAdded": false,
+    "tags": [
+      {
+        "slug": "memes",
+        "name": "Memes",
+        "category": "INDUSTRY"
+      },
+      {
+        "slug": "solana-ecosystem",
+        "name": "Solana Ecosystem",
+        "category": "PLATFORM"
+      }
+    ],
+    "selfReportedCirculatingSupply": "999998117.9",
+    "urls": {
+      "website": [
+        "https://linktr.ee/soltwurtle"
+      ],
+      "technical_doc": [],
+      "explorer": [
+        "https://solscan.io/token/EWx3xDR76YfxF3VHwTLgwU9WYrwANw3yxX5vvk8Kpump"
+      ],
+      "source_code": [
+        "https://solscan.io/token/EWx3xDR76YfxF3VHwTLgwU9WYrwANw3yxX5vvk8Kpump#metadata"
+      ],
+      "message_board": [],
+      "chat": [
+        "https://t.me/soltwurtle"
+      ],
+      "announcement": [],
+      "reddit": [],
+      "facebook": [],
+      "twitter": [
+        "https://twitter.com/soltwurtle"
+      ]
+    },
+    "volume": 20785.4786694,
+    "volumeChangePercentage24h": -38.3994,
+    "cexVolume": 14953.87031884,
+    "dexVolume": 5831.60835057,
+    "statistics": {
+      "price": 0.0007415858605303501,
+      "priceChangePercentage1h": -1.14584301,
+      "priceChangePercentage24h": 6.87269162,
+      "priceChangePercentage7d": -36.53166184,
+      "priceChangePercentage30d": -28.74721375,
+      "priceChangePercentage60d": 443.1571181,
+      "priceChangePercentage90d": 443.1571181,
+      "priceChangePercentage1y": 443.1571181,
+      "priceChangePercentageAll": 362.191317916488,
+      "marketCap": 741584.46,
+      "marketCapChangePercentage24h": 6.8727,
+      "fullyDilutedMarketCap": 741584.46,
+      "fullyDilutedMarketCapChangePercentage24h": 6.87,
+      "circulatingSupply": 999998117.9,
+      "totalSupply": 999998117.9,
+      "maxSupply": 999998117.9,
+      "marketCapDominance": 0.0,
+      "rank": 1961,
+      "low24h": 0.000673412369397134,
+      "high24h": 0.000774664554462186,
+      "low7d": 0.000639079464026872,
+      "high7d": 0.001244480184212725,
+      "low30d": 0.000639079464026872,
+      "high30d": 0.002698407198716207,
+      "low90d": 0.00012851683660081,
+      "high90d": 0.005723898203965369,
+      "low52w": 0.00012851683660081,
+      "high52w": 0.005723898203965369,
+      "lowAllTime": 0.00012851683660081,
+      "highAllTime": 0.005723898203965369,
+      "lowAllTimeChangePercentage": 477.03,
+      "highAllTimeChangePercentage": -87.04,
+      "lowAllTimeTimestamp": "2024-10-11T10:36:00.000Z",
+      "highAllTimeTimestamp": "2024-10-11T23:41:00.000Z",
+      "lowYesterday": 0.000673412369397134,
+      "highYesterday": 0.000774664554462186,
+      "openYesterday": 0.000707659378294246,
+      "closeYesterday": 0.000742275408956758,
+      "priceChangePercentageYesterday": 4.89,
+      "volumeYesterday": 29702.66,
+      "turnover": 0.02802847,
+      "ytdPriceChangePercentage": 0.0,
+      "volumeRank": 3969,
+      "volumeMcRank": 3402,
+      "mcTotalNum": 10049,
+      "volumeTotalNum": 10049,
+      "volumeMcTotalNum": 10049
+    },
+    "quotes": [],
+    "platforms": [
+      {
+        "contractId": 5426,
+        "contractAddress": "EWx3xDR76YfxF3VHwTLgwU9WYrwANw3yxX5vvk8Kpump",
+        "contractPlatform": "Solana",
+        "contractPlatformId": 16,
+        "contractChainId": -1,
+        "contractRpcUrl": [],
+        "contractNativeCurrencyName": "",
+        "contractNativeCurrencySymbol": "",
+        "contractNativeCurrencyDecimals": 18,
+        "contractBlockExplorerUrl": "",
+        "contractExplorerUrl": "https://solana.fm/address/EWx3xDR76YfxF3VHwTLgwU9WYrwANw3yxX5vvk8Kpump",
+        "contractDecimals": 6,
+        "platformCryptoId": 5426,
+        "sort": 0,
+        "wallets": []
+      }
+    ],
+    "relatedCoins": [
+      {
+        "id": 2513,
+        "name": "GoldMint",
+        "slug": "goldmint",
+        "price": 0.05065701161697734,
+        "priceChangePercentage24h": -0.83488657,
+        "priceChangePercentage7d": 21.70106268
+      },
+      {
+        "id": 4679,
+        "name": "Band Protocol",
+        "slug": "band-protocol",
+        "price": 1.2924689407590508,
+        "priceChangePercentage24h": -5.51284503,
+        "priceChangePercentage7d": 1.82102584
+      },
+      {
+        "id": 7083,
+        "name": "Uniswap",
+        "slug": "uniswap",
+        "price": 8.907804423933275,
+        "priceChangePercentage24h": -4.39447372,
+        "priceChangePercentage7d": -3.90346035
+      },
+      {
+        "id": 1414,
+        "name": "Firo",
+        "slug": "firo",
+        "price": 1.3454938776288508,
+        "priceChangePercentage24h": 0.21867821,
+        "priceChangePercentage7d": 4.03360084
+      },
+      {
+        "id": 1975,
+        "name": "Chainlink",
+        "slug": "chainlink",
+        "price": 14.028344717813509,
+        "priceChangePercentage24h": -5.25786687,
+        "priceChangePercentage7d": -2.46572024
+      },
+      {
+        "id": 7653,
+        "name": "Oasis",
+        "slug": "oasis-network",
+        "price": 0.08025331330873264,
+        "priceChangePercentage24h": -5.30717197,
+        "priceChangePercentage7d": -4.39563858
+      },
+      {
+        "id": 707,
+        "name": "Blocknet",
+        "slug": "blocknet",
+        "price": 0.017113298239738093,
+        "priceChangePercentage24h": -0.68391562,
+        "priceChangePercentage7d": -3.30053472
+      },
+      {
+        "id": 5864,
+        "name": "yearn.finance",
+        "slug": "yearn-finance",
+        "price": 6192.38803639104,
+        "priceChangePercentage24h": -4.43119421,
+        "priceChangePercentage7d": -11.362147
+      },
+      {
+        "id": 4279,
+        "name": "Solar",
+        "slug": "sxp",
+        "price": 0.36376553390538346,
+        "priceChangePercentage24h": 2.1116243,
+        "priceChangePercentage7d": 18.12789401
+      },
+      {
+        "id": 8043,
+        "name": "MAHA.xyz",
+        "slug": "mahadao",
+        "price": 0.9034865737660874,
+        "priceChangePercentage24h": -2.68820884,
+        "priceChangePercentage7d": -9.89747239
+      }
+    ],
+    "isAudited": false,
+    "holders": {},
+    "displayTV": 0,
+    "isInfiniteMaxSupply": 0,
+    "tvCoinSymbol": "TWURTLE",
+    "supportWalletInfos": [
+      {
+        "id": 9159,
+        "name": "SolFlare",
+        "url": "https://solflare.com/",
+        "chains": "",
+        "decentration": false,
+        "logo": "default.png",
+        "multipleChain": false
+      },
+      {
+        "id": 9209,
+        "name": "Backpack",
+        "url": "https://backpack.app/downloads",
+        "chains": "",
+        "decentration": false,
+        "logo": "https://s3.coinmarketcap.com/static/img/as/2023-12-06T06:55:43.999Z_BackpackLogo_BlackBkg.png",
+        "multipleChain": false
+      },
+      {
+        "id": 9210,
+        "name": "Phantom",
+        "url": "https://phantom.app/",
+        "chains": "",
+        "decentration": false,
+        "logo": "https://s3.coinmarketcap.com/static/img/as/2023-12-06T11:05:16.408Z_4StTDIF4_400x400.png",
+        "multipleChain": false
+      }
+    ],
+    "holdersFlag": false,
+    "ratingsFlag": false,
+    "analysisFlag": false,
+    "socialsFlag": true,
+    "cryptoRating": [
+      {
+        "type": "CertiK",
+        "score": 58.88,
+        "rating": 2.9,
+        "updateTime": "2024-11-17T00:00:00.000Z",
+        "link": "https://cmc.certik-skynet.com/redirect?project=twurtle-the-turtle&utm_source=CMC&utm_campaign=ScoreByCertiKLink"
+      },
+      {
+        "type": "Cyberscope",
+        "score": 71.0,
+        "rating": 3.6,
+        "updateTime": "2024-11-17T11:15:01.000Z",
+        "link": "https://www.cyberscope.io/audits/coin-twurtle-the-turtle"
+      },
+      {
+        "type": "Aggregate rating",
+        "score": 64.9,
+        "rating": 3.3,
+        "updateTime": "2024-11-18T01:00:00.174Z"
+      }
+    ],
+    "hasExtraInfoFlag": false,
+    "upcoming": {
+      "status": false
+    },
+    "annotationFlag": false,
+    "similarCoins": []
+  },
+  "status": {
+    "timestamp": "2024-11-18T01:10:02.081Z",
+    "error_code": "0",
+    "error_message": "SUCCESS",
+    "elapsed": "10",
+    "credit_count": 0
+  }
+}

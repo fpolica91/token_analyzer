@@ -1,0 +1,306 @@
+{
+  "data": {
+    "id": 1881,
+    "name": "DeepOnion",
+    "symbol": "ONION",
+    "slug": "deeponion",
+    "category": "coin",
+    "description": "**DeepOnion (ONION)** describes itself as a decentralised, open-source, community-driven cryptocurrency that offers multi-layered privacy and everyday use cases. It uses an x13 hybrid PoW/PoS to secure the network. DeepOnion claims to be one of the earliest cryptos to integrate the Tor network into the DeepOnion wallet, which has reportedly not leaked any IP addresses since its release on 12 July 2017.\n\n\n## Features delivered by the DeepOnion team:\n\n\n* DeepSend as a base solution for private and untraceable payments without relying on cryptographic encryption.\n* DeepVault to register and verify digital files with the DeepOnion blockchain.\n* VoteCentral, a balanced and non-biased voting platform for the community.\n* WooCommerce, Shopify and OpenCart payment plugins for merchants.\n\n\nMore info can be found at [https://DeepOnion.org](https://DeepOnion.org)  \n\n\n## Who Are the Founders of DeepOnion?\n\n\nAs a privacy oriented cryptocurrency, the founders of DeepOnion decided to respect the right to remain anonymous for any team member who does not wish to reveal their identity. More info can be found on the page of the DeepOnion team members.\n\n## What Makes DeepOnion Unique?\n\nThe developers gave away 10 million coins of the pre-mine to the public for free via airdrop without conducting funding rounds or crowd-sale. As promised, all the airdrop coins have been distributed and all the transactions from the airdrop wallet are [available for review](https://deeponion.org/airdropslog.php).\n\n## How Many DeepOnion (ONION) Coins Are There in Circulation?\n\nOn December 5, 2020 16:00 (UTC) the total circulation of DeepOnion reached 22,374,207 ONION for PoW and PoS mining.\n\n## How Is the DeepOnion Network Secured?\n\nDeepOnion uses a hybrid x13 PoW/PoS algo to secure the network from attacks.\n\n## Where Can You Buy DeepOnion (ONION) from?\n\nThe team behind DeepOnion recommends using decentralised exchanges such as [Bisq.network](Bisq.network) and [xbts.io](xbts.io) however, DeepOnion is also listed at other exchanges. Here is a list of exchanges where DeepOnion is listed. [https://deeponion.org/own-onion.html](https://deeponion.org/own-onion.html)\n\n",
+    "dateAdded": "2017-08-12T00:00:00.000Z",
+    "status": "active",
+    "subStatus": "normal",
+    "notice": "",
+    "alertType": 2,
+    "alertLink": "",
+    "latestUpdateTime": "2024-11-18T01:09:00.000Z",
+    "watchCount": "5263",
+    "watchListRanking": 3337,
+    "dateLaunched": "2017-07-12T00:00:00.000Z",
+    "latestAdded": false,
+    "launchPrice": 0.115178,
+    "tags": [
+      {
+        "slug": "mineable",
+        "name": "Mineable",
+        "category": "OTHERS"
+      },
+      {
+        "slug": "hybrid-pow-pos",
+        "name": "Hybrid - PoW & PoS",
+        "category": "ALGORITHM"
+      },
+      {
+        "slug": "x13",
+        "name": "X13",
+        "category": "ALGORITHM"
+      },
+      {
+        "slug": "marketplace",
+        "name": "Marketplace",
+        "category": "INDUSTRY"
+      },
+      {
+        "slug": "medium-of-exchange",
+        "name": "Medium of Exchange",
+        "category": "INDUSTRY"
+      },
+      {
+        "slug": "privacy",
+        "name": "Privacy",
+        "category": "CATEGORY"
+      },
+      {
+        "slug": "payments",
+        "name": "Payments",
+        "category": "INDUSTRY"
+      },
+      {
+        "slug": "staking",
+        "name": "Staking",
+        "category": "CATEGORY"
+      }
+    ],
+    "selfReportedTags": [
+      "Zero Knowledge Proofs"
+    ],
+    "urls": {
+      "website": [
+        "https://deeponion.org/"
+      ],
+      "technical_doc": [
+        "https://deeponion.org/White-Paper.pdf"
+      ],
+      "explorer": [
+        "http://explorer.deeponion.org/",
+        "https://chainz.cryptoid.info/onion/",
+        "https://prohashing.com/explorer/Deeponion/"
+      ],
+      "source_code": [
+        "https://github.com/deeponion/deeponion"
+      ],
+      "message_board": [
+        "https://deeponion.org/community/"
+      ],
+      "chat": [
+        "https://t.me/getdeeponion"
+      ],
+      "announcement": [
+        "https://bitcointalk.org/index.php?topic=2683530.0"
+      ],
+      "reddit": [
+        "https://reddit.com/r/DeepOnion"
+      ],
+      "facebook": [
+        "https://www.facebook.com/deeponionx"
+      ],
+      "twitter": [
+        "https://twitter.com/TheDeepOnion"
+      ]
+    },
+    "volume": 0.0,
+    "volumeChangePercentage24h": 0.0,
+    "cexVolume": 0.0,
+    "dexVolume": 0.0,
+    "statistics": {
+      "price": 0.027020997220639095,
+      "priceChangePercentage1h": 0.20090738,
+      "priceChangePercentage24h": -0.68391562,
+      "priceChangePercentage7d": 11.96780191,
+      "priceChangePercentage30d": -50.61035674,
+      "priceChangePercentage60d": -45.80076769,
+      "priceChangePercentage90d": -14.39197897,
+      "priceChangePercentage1y": 19.63419871,
+      "priceChangePercentageAll": -76.53979227637,
+      "marketCap": 0.0,
+      "marketCapChangePercentage24h": 0.0,
+      "fullyDilutedMarketCap": 621436.84,
+      "fullyDilutedMarketCapChangePercentage24h": -0.68,
+      "circulatingSupply": 0.0,
+      "totalSupply": 22998294.02878585,
+      "marketCapDominance": 0.0,
+      "rank": 8746,
+      "roi": -76.539793,
+      "low24h": 0.026675897148806336,
+      "high24h": 0.027261083901964217,
+      "low7d": 0.025593297798570853,
+      "high7d": 0.027999885145410384,
+      "low30d": 0.020042628089462076,
+      "high30d": 0.0570948703279965,
+      "low90d": 0.014525425345618044,
+      "high90d": 0.0570948703279965,
+      "low52w": 0.011986391298023586,
+      "high52w": 0.2099632648713178,
+      "lowAllTime": 0.011986391298023586,
+      "highAllTime": 19.247400283813477,
+      "lowAllTimeChangePercentage": 125.43,
+      "highAllTimeChangePercentage": -99.86,
+      "lowAllTimeTimestamp": "2023-12-09T08:46:00.000Z",
+      "highAllTimeTimestamp": "2018-01-10T01:29:13.000Z",
+      "lowYesterday": 0.026675897148806336,
+      "highYesterday": 0.027262845598599227,
+      "openYesterday": 0.02717395860757831,
+      "closeYesterday": 0.026950554745823252,
+      "priceChangePercentageYesterday": -0.82,
+      "volumeYesterday": 0,
+      "ytdPriceChangePercentage": -23.4971,
+      "volumeRank": 8894,
+      "volumeMcRank": 8894,
+      "mcTotalNum": 10049,
+      "volumeTotalNum": 10049,
+      "volumeMcTotalNum": 10049
+    },
+    "quotes": [],
+    "relatedCoins": [
+      {
+        "id": 2513,
+        "name": "GoldMint",
+        "slug": "goldmint",
+        "price": 0.05065701161697734,
+        "priceChangePercentage24h": -0.83488657,
+        "priceChangePercentage7d": 21.70106268
+      },
+      {
+        "id": 4679,
+        "name": "Band Protocol",
+        "slug": "band-protocol",
+        "price": 1.2924689407590508,
+        "priceChangePercentage24h": -5.51284503,
+        "priceChangePercentage7d": 1.82102584
+      },
+      {
+        "id": 7083,
+        "name": "Uniswap",
+        "slug": "uniswap",
+        "price": 8.907804423933275,
+        "priceChangePercentage24h": -4.39447372,
+        "priceChangePercentage7d": -3.90346035
+      },
+      {
+        "id": 1414,
+        "name": "Firo",
+        "slug": "firo",
+        "price": 1.3454938776288508,
+        "priceChangePercentage24h": 0.21867821,
+        "priceChangePercentage7d": 4.03360084
+      },
+      {
+        "id": 1975,
+        "name": "Chainlink",
+        "slug": "chainlink",
+        "price": 14.028344717813509,
+        "priceChangePercentage24h": -5.25786687,
+        "priceChangePercentage7d": -2.46572024
+      },
+      {
+        "id": 7653,
+        "name": "Oasis",
+        "slug": "oasis-network",
+        "price": 0.08025331330873264,
+        "priceChangePercentage24h": -5.30717197,
+        "priceChangePercentage7d": -4.39563858
+      },
+      {
+        "id": 707,
+        "name": "Blocknet",
+        "slug": "blocknet",
+        "price": 0.017113298239738093,
+        "priceChangePercentage24h": -0.68391562,
+        "priceChangePercentage7d": -3.30053472
+      },
+      {
+        "id": 5864,
+        "name": "yearn.finance",
+        "slug": "yearn-finance",
+        "price": 6192.38803639104,
+        "priceChangePercentage24h": -4.43119421,
+        "priceChangePercentage7d": -11.362147
+      },
+      {
+        "id": 4279,
+        "name": "Solar",
+        "slug": "sxp",
+        "price": 0.36376553390538346,
+        "priceChangePercentage24h": 2.1116243,
+        "priceChangePercentage7d": 18.12789401
+      },
+      {
+        "id": 8043,
+        "name": "MAHA.xyz",
+        "slug": "mahadao",
+        "price": 0.9034865737660874,
+        "priceChangePercentage24h": -2.68820884,
+        "priceChangePercentage7d": -9.89747239
+      }
+    ],
+    "isAudited": false,
+    "holders": {},
+    "displayTV": 0,
+    "isInfiniteMaxSupply": 0,
+    "tvCoinSymbol": "ONION",
+    "supportWalletInfos": [],
+    "holdersFlag": false,
+    "ratingsFlag": false,
+    "analysisFlag": false,
+    "socialsFlag": true,
+    "cryptoRating": [
+      {
+        "type": "CertiK",
+        "score": 44.88,
+        "rating": 2.2,
+        "updateTime": "2024-11-17T00:00:00.000Z",
+        "link": "https://cmc.certik-skynet.com/redirect?project=deeponion&utm_source=CMC&utm_campaign=ScoreByCertiKLink"
+      },
+      {
+        "type": "Cyberscope",
+        "score": 63.0,
+        "rating": 3.2,
+        "updateTime": "2024-11-17T11:30:39.000Z",
+        "link": "https://www.cyberscope.io/audits/coin-deeponion"
+      },
+      {
+        "type": "Aggregate rating",
+        "score": 53.9,
+        "rating": 2.7,
+        "updateTime": "2024-11-18T01:00:00.179Z"
+      }
+    ],
+    "hasExtraInfoFlag": false,
+    "upcoming": {
+      "status": false
+    },
+    "annotationFlag": false,
+    "similarCoins": [
+      {
+        "id": 4160,
+        "symbol": "YEC"
+      },
+      {
+        "id": 1473,
+        "symbol": "PASC"
+      },
+      {
+        "id": 5103,
+        "symbol": "IPX"
+      },
+      {
+        "id": 3709,
+        "symbol": "GRIN"
+      },
+      {
+        "id": 3581,
+        "symbol": "PNK"
+      },
+      {
+        "id": 99,
+        "symbol": "VTC"
+      }
+    ]
+  },
+  "status": {
+    "timestamp": "2024-11-18T01:10:04.086Z",
+    "error_code": "0",
+    "error_message": "SUCCESS",
+    "elapsed": "12",
+    "credit_count": 0
+  }
+}

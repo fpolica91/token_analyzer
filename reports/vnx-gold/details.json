@@ -1,0 +1,681 @@
+{
+  "data": {
+    "id": 22492,
+    "name": "VNX Gold",
+    "symbol": "VNXAU",
+    "slug": "vnx-gold",
+    "category": "token",
+    "description": "VNX Gold (VNXAU) is a multichain token fully backed by physical gold that is certified by the London Bullion Market Association (LBMA). 1 VNXAU token equals 1 gram of physical gold.\n\nThis token represents individual ownership of the physical gold that is stored in segregated storage in a high-security vault in Liechtenstein, a country with a stable economy with an S&P AAA rating, and a member of the EEA.\n\nSince VNX Gold tokens are linked to an actual physical gold, they offer the same benefits as gold, such as store of value, protection against volatility and inflation, and high liquidity \u2013 with complete digital convenience and freedom.\n\nVNXAU token generation and all services in respect of the tokens are carried out by VNX Commodities, a company registered with the Liechtenstein Financial Market Authority (FMA) under the Tokens and TT Services Providers Law (TVTG)  (https://fmaregister.fma-li.li/search?searchText=&number=310339&category=)",
+    "dateAdded": "2022-11-01T05:09:43.000Z",
+    "status": "active",
+    "subStatus": "normal",
+    "notice": "",
+    "alertType": 2,
+    "alertLink": "",
+    "latestUpdateTime": "2024-11-18T01:09:00.000Z",
+    "watchCount": "785",
+    "watchListRanking": 6627,
+    "dateLaunched": "2021-12-14T00:00:00.000Z",
+    "latestAdded": false,
+    "tags": [
+      {
+        "slug": "commodities",
+        "name": "Commodities",
+        "category": "INDUSTRY"
+      },
+      {
+        "slug": "asset-backed-token",
+        "name": "Asset-Backed Token",
+        "category": "PLATFORM"
+      },
+      {
+        "slug": "solana-ecosystem",
+        "name": "Solana Ecosystem",
+        "category": "PLATFORM"
+      },
+      {
+        "slug": "tezos-ecosystem",
+        "name": "Tezos Ecosystem",
+        "category": "PLATFORM"
+      },
+      {
+        "slug": "tokenized-gold",
+        "name": "Tokenized Gold",
+        "category": "CATEGORY"
+      }
+    ],
+    "selfReportedCirculatingSupply": "15100.0",
+    "urls": {
+      "website": [
+        "https://vnx.li/"
+      ],
+      "technical_doc": [
+        "https://vnx.li/wp-content/uploads/2022/03/VNX-Gold-Whitepaper.pdf"
+      ],
+      "explorer": [
+        "https://solscan.io/token/9TPL8droGJ7jThsq4momaoz6uhTcvX2SeMqipoPmNa8R",
+        "https://etherscan.io/token/0x6d57b2e05f26c26b549231c866bdd39779e4a488",
+        "https://explorer.q.org/address/0xe4fadBBF24F118b1E63d65f1aAC2A825A07F7619/transactions#address-tabs",
+        "https://polygonscan.com/token/0xc8bb8eda94931ca2f20ef43ea7dbd58e68400400",
+        "https://tzkt.io/KT1LSH97386CURN9FgRNqdQJoHaHY6e1vxUv/operations/"
+      ],
+      "source_code": [],
+      "message_board": [
+        "https://medium.com/@vnx"
+      ],
+      "chat": [
+        "https://t.me/vnx_li",
+        "https://discord.com/invite/5jCaPYwr3f"
+      ],
+      "announcement": [
+        "https://instagram.com/vnxexchange?igshid=YmMyMTA2M2Y="
+      ],
+      "reddit": [],
+      "facebook": [
+        "https://www.facebook.com/vnx.io"
+      ],
+      "twitter": [
+        "https://twitter.com/VNX_Platform"
+      ]
+    },
+    "volume": 30314.74329241,
+    "volumeChangePercentage24h": 111.8104,
+    "cexVolume": 30293.19627054,
+    "dexVolume": 21.54702186,
+    "statistics": {
+      "price": 83.27588357664995,
+      "priceChangePercentage1h": 0.24839668,
+      "priceChangePercentage24h": 0.81336392,
+      "priceChangePercentage7d": -2.82288779,
+      "priceChangePercentage30d": -4.61638588,
+      "priceChangePercentage60d": 1.29646984,
+      "priceChangePercentage90d": 3.09627318,
+      "priceChangePercentage1y": 31.26105965,
+      "priceChangePercentageAll": 59.817222223955,
+      "marketCap": 841086.42,
+      "marketCapChangePercentage24h": 0.8134,
+      "fullyDilutedMarketCap": 841086.42,
+      "fullyDilutedMarketCapChangePercentage24h": 0.81,
+      "circulatingSupply": 10100.0,
+      "totalSupply": 10100.0,
+      "marketCapDominance": 0.0,
+      "rank": 1916,
+      "low24h": 81.14080351871519,
+      "high24h": 83.66398623601285,
+      "low7d": 81.092202291176,
+      "high7d": 85.28999530007744,
+      "low30d": 81.092202291176,
+      "high30d": 90.50620868189088,
+      "low90d": 79.60229882316187,
+      "high90d": 90.50620868189088,
+      "low52w": 62.96497622439293,
+      "high52w": 90.50620868189088,
+      "lowAllTime": 47.854086220654985,
+      "highAllTime": 90.50620868189088,
+      "lowAllTimeChangePercentage": 74.02,
+      "highAllTimeChangePercentage": -7.99,
+      "lowAllTimeTimestamp": "2022-11-09T23:09:00.000Z",
+      "highAllTimeTimestamp": "2024-10-30T21:01:00.000Z",
+      "lowYesterday": 81.14080351871519,
+      "highYesterday": 83.66398623601285,
+      "openYesterday": 82.58698116043865,
+      "closeYesterday": 82.65815342642674,
+      "priceChangePercentageYesterday": 0.09,
+      "volumeYesterday": 29072.25,
+      "turnover": 0.03604236,
+      "ytdPriceChangePercentage": 25.2603,
+      "volumeRank": 3715,
+      "volumeMcRank": 3078,
+      "mcTotalNum": 10049,
+      "volumeTotalNum": 10049,
+      "volumeMcTotalNum": 10049
+    },
+    "quotes": [],
+    "platforms": [
+      {
+        "contractId": 1027,
+        "contractAddress": "0x6d57B2E05F26C26b549231c866bdd39779e4a488",
+        "contractPlatform": "Ethereum",
+        "contractPlatformId": 1,
+        "contractChainId": 1,
+        "contractRpcUrl": [
+          "https://bsc-dataseed1.binance.org",
+          "https://bsc-dataseed.binance.org/",
+          "https://bsc-dataseed1.binance.org:443"
+        ],
+        "contractNativeCurrencyName": "Ethereum",
+        "contractNativeCurrencySymbol": "ETH",
+        "contractNativeCurrencyDecimals": 18,
+        "contractBlockExplorerUrl": "https://etherscan.io",
+        "contractExplorerUrl": "https://etherscan.io/token/0x6d57B2E05F26C26b549231c866bdd39779e4a488",
+        "contractDecimals": 18,
+        "platformCryptoId": 1027,
+        "sort": 0,
+        "wallets": [
+          {
+            "id": 9025
+          }
+        ]
+      },
+      {
+        "contractId": 5426,
+        "contractAddress": "9TPL8droGJ7jThsq4momaoz6uhTcvX2SeMqipoPmNa8R",
+        "contractPlatform": "Solana",
+        "contractPlatformId": 16,
+        "contractChainId": -1,
+        "contractRpcUrl": [],
+        "contractNativeCurrencyName": "",
+        "contractNativeCurrencySymbol": "",
+        "contractNativeCurrencyDecimals": 18,
+        "contractBlockExplorerUrl": "",
+        "contractExplorerUrl": "https://solana.fm/address/9TPL8droGJ7jThsq4momaoz6uhTcvX2SeMqipoPmNa8R",
+        "contractDecimals": 18,
+        "platformCryptoId": 5426,
+        "sort": 0,
+        "wallets": []
+      },
+      {
+        "contractId": 3890,
+        "contractAddress": "0xc8bb8eda94931ca2f20ef43ea7dbd58e68400400",
+        "contractPlatform": "Polygon",
+        "contractPlatformId": 25,
+        "contractChainId": 137,
+        "contractRpcUrl": [
+          "https://rpc-mainnet.maticvigil.com"
+        ],
+        "contractNativeCurrencyName": "MATIC",
+        "contractNativeCurrencySymbol": "MATIC",
+        "contractNativeCurrencyDecimals": 18,
+        "contractBlockExplorerUrl": "https://polygonscan.com",
+        "contractExplorerUrl": "https://polygonscan.com/token/0xc8bb8eda94931ca2f20ef43ea7dbd58e68400400",
+        "contractDecimals": 18,
+        "platformCryptoId": 3890,
+        "sort": 0,
+        "wallets": [
+          {
+            "id": 9025
+          }
+        ]
+      },
+      {
+        "contractId": 2011,
+        "contractAddress": "KT1LSH97386CURN9FgRNqdQJoHaHY6e1vxUv",
+        "contractPlatform": "Tezos",
+        "contractPlatformId": 57,
+        "contractChainId": -1,
+        "contractRpcUrl": [],
+        "contractNativeCurrencyName": "",
+        "contractNativeCurrencySymbol": "",
+        "contractNativeCurrencyDecimals": -1,
+        "contractBlockExplorerUrl": "",
+        "contractExplorerUrl": "",
+        "contractDecimals": 18,
+        "platformCryptoId": 2011,
+        "sort": 0,
+        "wallets": []
+      }
+    ],
+    "relatedCoins": [
+      {
+        "id": 2513,
+        "name": "GoldMint",
+        "slug": "goldmint",
+        "price": 0.05065701161697734,
+        "priceChangePercentage24h": -0.83488657,
+        "priceChangePercentage7d": 21.70106268
+      },
+      {
+        "id": 4679,
+        "name": "Band Protocol",
+        "slug": "band-protocol",
+        "price": 1.2924689407590508,
+        "priceChangePercentage24h": -5.51284503,
+        "priceChangePercentage7d": 1.82102584
+      },
+      {
+        "id": 7083,
+        "name": "Uniswap",
+        "slug": "uniswap",
+        "price": 8.907804423933275,
+        "priceChangePercentage24h": -4.39447372,
+        "priceChangePercentage7d": -3.90346035
+      },
+      {
+        "id": 1414,
+        "name": "Firo",
+        "slug": "firo",
+        "price": 1.3454938776288508,
+        "priceChangePercentage24h": 0.21867821,
+        "priceChangePercentage7d": 4.03360084
+      },
+      {
+        "id": 1975,
+        "name": "Chainlink",
+        "slug": "chainlink",
+        "price": 14.028344717813509,
+        "priceChangePercentage24h": -5.25786687,
+        "priceChangePercentage7d": -2.46572024
+      },
+      {
+        "id": 7653,
+        "name": "Oasis",
+        "slug": "oasis-network",
+        "price": 0.08025331330873264,
+        "priceChangePercentage24h": -5.30717197,
+        "priceChangePercentage7d": -4.39563858
+      },
+      {
+        "id": 707,
+        "name": "Blocknet",
+        "slug": "blocknet",
+        "price": 0.017113298239738093,
+        "priceChangePercentage24h": -0.68391562,
+        "priceChangePercentage7d": -3.30053472
+      },
+      {
+        "id": 5864,
+        "name": "yearn.finance",
+        "slug": "yearn-finance",
+        "price": 6192.38803639104,
+        "priceChangePercentage24h": -4.43119421,
+        "priceChangePercentage7d": -11.362147
+      },
+      {
+        "id": 4279,
+        "name": "Solar",
+        "slug": "sxp",
+        "price": 0.36376553390538346,
+        "priceChangePercentage24h": 2.1116243,
+        "priceChangePercentage7d": 18.12789401
+      },
+      {
+        "id": 8043,
+        "name": "MAHA.xyz",
+        "slug": "mahadao",
+        "price": 0.9034865737660874,
+        "priceChangePercentage24h": -2.68820884,
+        "priceChangePercentage7d": -9.89747239
+      }
+    ],
+    "isAudited": false,
+    "holders": {
+      "holderCount": 55,
+      "holderList": [
+        {
+          "address": "0xf10e0ddd9d778f90c3276246caf07779b829e01d",
+          "balance": 6442.236391592361,
+          "share": 97.53
+        },
+        {
+          "address": "0xc64f4bbe18a8d7d12fbd1488966162c68364992b",
+          "balance": 52.9862619757,
+          "share": 0.8
+        },
+        {
+          "address": "0xdb3ded7731c781224ec292e2163d9554c094fd7c",
+          "balance": 44.10370047757805,
+          "share": 0.67
+        },
+        {
+          "address": "0xe9759406924477c8a7923f78c40cf40d483d50d1",
+          "balance": 17.608,
+          "share": 0.27
+        },
+        {
+          "address": "0x120051a72966950b8ce12eb5496b5d1eeec1541b",
+          "balance": 14.310795134817317,
+          "share": 0.22
+        },
+        {
+          "address": "0x8e5145e7078535ec182084ec9d10325d4301ea1b",
+          "balance": 5.125391927856811,
+          "share": 0.08
+        },
+        {
+          "address": "0xe73d728ec2ba964c703844c4b03c299d5a7beddf",
+          "balance": 3.087846324430725,
+          "share": 0.05
+        },
+        {
+          "address": "0x35714b60168c916d5942b18fa86141b53a33fc71",
+          "balance": 3.074154453175896,
+          "share": 0.05
+        },
+        {
+          "address": "0x1bedef9f762c3f90f4a26e30fee94da5f97b7fb0",
+          "balance": 3,
+          "share": 0.05
+        },
+        {
+          "address": "0xaae14d685d178124113b1c77465b8fcd4d78f855",
+          "balance": 2.511876846676244,
+          "share": 0.04
+        },
+        {
+          "address": "0xcc6d961c6a677bca7362ad9b437f6b071380b9dc",
+          "balance": 1.94114,
+          "share": 0.03
+        },
+        {
+          "address": "0x66d1b94f81fba13efbd5307db63dde8cc810ffdf",
+          "balance": 1.8226751780455923,
+          "share": 0.03
+        },
+        {
+          "address": "0xaf7950129fb54ec329ebeed7bf23774ee3c811dd",
+          "balance": 1.6535180534016543,
+          "share": 0.03
+        },
+        {
+          "address": "0x344e8c1885ceed6b124c46614827a0ee83a5c53f",
+          "balance": 1.616261540173512,
+          "share": 0.02
+        },
+        {
+          "address": "0xc1542e6d96f16fd9b9bba467a57d4d68576339ed",
+          "balance": 1.4179634525191953,
+          "share": 0.02
+        },
+        {
+          "address": "0x80addde5f56ad11655772976ef69bc2220c97ea3",
+          "balance": 1.4,
+          "share": 0.02
+        },
+        {
+          "address": "0xfe863106836767d1cb038a6c7deba09aa3512030",
+          "balance": 1.16,
+          "share": 0.02
+        },
+        {
+          "address": "0x556d33a9b63963da0892ddc3eccb1c86a776be2f",
+          "balance": 1,
+          "share": 0.02
+        },
+        {
+          "address": "0x2388ed4a0c9669da4e6bb291e68e64df51dfca2a",
+          "balance": 0.9830833343,
+          "share": 0.01
+        },
+        {
+          "address": "0x3ec3f80ae7ad10f9aab36dc6f2bb1e9263ecdc85",
+          "balance": 0.6346573608263799,
+          "share": 0.01
+        },
+        {
+          "address": "0x218fa284f0116dbc6daa5d010f81113c9981589f",
+          "balance": 0.63332,
+          "share": 0.01
+        },
+        {
+          "address": "0xa9911bc14924b27bf88e468e76b7543165fa2114",
+          "balance": 0.4,
+          "share": 0.01
+        },
+        {
+          "address": "0x17c7d124ade26284bc3dee1aa69ce09f1bc5069d",
+          "balance": 0.3755198820281252,
+          "share": 0.01
+        },
+        {
+          "address": "0xc50b2bea68b7d6d1140f0b84769067c74f427503",
+          "balance": 0.2981990200941947,
+          "share": 0
+        },
+        {
+          "address": "0xd800d4be61e2f382aa132bc8f7f09e3696b02486",
+          "balance": 0.26651,
+          "share": 0
+        },
+        {
+          "address": "0x93eb4fa3c1c10c353062101c6f5cf1443008f743",
+          "balance": 0.25712009037434397,
+          "share": 0
+        },
+        {
+          "address": "0xbded201240808782ccfdb7bc619a9d71f9f27fdf",
+          "balance": 0.24668794889540366,
+          "share": 0
+        },
+        {
+          "address": "0xe6315d1295fe0ff793e76510c063a70bacec0523",
+          "balance": 0.19420527468146864,
+          "share": 0
+        },
+        {
+          "address": "0x3bf8f0ff3efc8d9ac3c3f69a58b4a6fac32c0a86",
+          "balance": 0.1780373065583057,
+          "share": 0
+        },
+        {
+          "address": "0xcd3e407dd14b6f0919cade3196d053296feef37e",
+          "balance": 0.15092866576118835,
+          "share": 0
+        },
+        {
+          "address": "0xce611bd889838b9009527a20448cdb387709af28",
+          "balance": 0.13,
+          "share": 0
+        },
+        {
+          "address": "0xe0a616c3659be29567e08819772e6905307adf21",
+          "balance": 0.10007601934317696,
+          "share": 0
+        },
+        {
+          "address": "0x20f870cc681cc75c66754fbe6a26ee440daac8be",
+          "balance": 0.08946017642300706,
+          "share": 0
+        },
+        {
+          "address": "0x975ea04fb854f0c103de970dffdda1e6cfd01878",
+          "balance": 0.06497137980187404,
+          "share": 0
+        },
+        {
+          "address": "0xde8364338822b1cbbe355e8ab0d005b4a9020589",
+          "balance": 0.0615,
+          "share": 0
+        },
+        {
+          "address": "0x382ffce2287252f930e1c8dc9328dac5bf282ba1",
+          "balance": 0.05177163563491728,
+          "share": 0
+        },
+        {
+          "address": "0xfd01d48bc6ab11ecced587b6f129ca36cb38f0fa",
+          "balance": 0.04,
+          "share": 0
+        },
+        {
+          "address": "0x000000fee13a103a10d593b9ae06b3e05f2e7e1c",
+          "balance": 0.026953565842867983,
+          "share": 0
+        },
+        {
+          "address": "0x3517e962d56a5961b624c33be74cae355ed6b967",
+          "balance": 0.02,
+          "share": 0
+        },
+        {
+          "address": "0x8bc86006ed9fd7e9abaadcf04a1733ae24557e91",
+          "balance": 0.01,
+          "share": 0
+        },
+        {
+          "address": "0xd0ce021bceff33ca74c7b26a108fbbef75bc060d",
+          "balance": 0.007,
+          "share": 0
+        },
+        {
+          "address": "0xad5244921f0376448681bf4a40a55d49d5af8102",
+          "balance": 0.005042188715979705,
+          "share": 0
+        },
+        {
+          "address": "0x72b8709ca4ae4434e65b223d9749850fa2f7b760",
+          "balance": 0.0043,
+          "share": 0
+        },
+        {
+          "address": "0xc5e2e63e538c512fe00f76359049d0544482c695",
+          "balance": 0.001991097725277148,
+          "share": 0
+        },
+        {
+          "address": "0x6b3c9281e34a3ac10a8a434649fa70475e9717bd",
+          "balance": 0.001115717822494265,
+          "share": 0
+        },
+        {
+          "address": "0x2ff24fe8a524e9a86b1c2da9666053ac1151c8c0",
+          "balance": 0.000175600395058206,
+          "share": 0
+        },
+        {
+          "address": "0xbf008c9685aa82f17f0f4b298b72abc8ecedd475",
+          "balance": 9.181536953091e-06,
+          "share": 0
+        },
+        {
+          "address": "0xdfc8e6c966a598fc5acf9672967ab5a7e705b7aa",
+          "balance": 6.744718995393e-06,
+          "share": 0
+        },
+        {
+          "address": "0xddfbb1b78076821a23f35f7f7584e3f2aad0180f",
+          "balance": 7.21702605244e-07,
+          "share": 0
+        },
+        {
+          "address": "0xc4de6107681b2ed33dd453e5749461f90a599ad3",
+          "balance": 1.00439351962e-07,
+          "share": 0
+        },
+        {
+          "address": "0x6b75d8af000000e20b7a7ddf000ba900b4009a80",
+          "balance": 2.9640616243e-08,
+          "share": 0
+        },
+        {
+          "address": "0xc852922b95b6b19850046d42db28ac09a1cfde70",
+          "balance": 5.73161e-13,
+          "share": 0
+        },
+        {
+          "address": "0xc3a890c79cb09b191344566aace787c6006af5a1",
+          "balance": 4.669e-15,
+          "share": 0
+        },
+        {
+          "address": "0x9cac81e4912062b3db3f756db2e2fce778b2caef",
+          "balance": 1e-18,
+          "share": 0
+        },
+        {
+          "address": "0x1111111254eeb25477b68fb85ed929f73a960582",
+          "balance": 1e-18,
+          "share": 0
+        }
+      ],
+      "topTenHolderRatio": 99.76,
+      "topTwentyHolderRatio": 99.97,
+      "topFiftyHolderRatio": 100.0
+    },
+    "displayTV": 0,
+    "isInfiniteMaxSupply": 0,
+    "tvCoinSymbol": "VNXAU",
+    "supportWalletInfos": [
+      {
+        "id": 9159,
+        "name": "SolFlare",
+        "url": "https://solflare.com/",
+        "chains": "",
+        "decentration": false,
+        "logo": "default.png",
+        "multipleChain": false
+      },
+      {
+        "id": 9209,
+        "name": "Backpack",
+        "url": "https://backpack.app/downloads",
+        "chains": "",
+        "decentration": false,
+        "logo": "https://s3.coinmarketcap.com/static/img/as/2023-12-06T06:55:43.999Z_BackpackLogo_BlackBkg.png",
+        "multipleChain": false
+      },
+      {
+        "id": 9210,
+        "name": "Phantom",
+        "url": "https://phantom.app/",
+        "chains": "",
+        "decentration": false,
+        "logo": "https://s3.coinmarketcap.com/static/img/as/2023-12-06T11:05:16.408Z_4StTDIF4_400x400.png",
+        "multipleChain": false
+      }
+    ],
+    "holdersFlag": true,
+    "ratingsFlag": false,
+    "analysisFlag": false,
+    "socialsFlag": true,
+    "cryptoRating": [
+      {
+        "type": "CertiK",
+        "score": 67.27,
+        "rating": 3.4,
+        "updateTime": "2024-11-17T00:00:00.000Z",
+        "link": "https://cmc.certik-skynet.com/redirect?project=vnx-gold&utm_source=CMC&utm_campaign=ScoreByCertiKLink"
+      },
+      {
+        "type": "Cyberscope",
+        "score": 56.0,
+        "rating": 2.8,
+        "updateTime": "2024-11-17T10:40:18.000Z",
+        "link": "https://www.cyberscope.io/audits/coin-vnx-gold"
+      },
+      {
+        "type": "Aggregate rating",
+        "score": 61.6,
+        "rating": 3.1,
+        "updateTime": "2024-11-18T01:00:00.198Z"
+      }
+    ],
+    "hasExtraInfoFlag": false,
+    "upcoming": {
+      "status": false
+    },
+    "annotationFlag": false,
+    "similarCoins": [
+      {
+        "id": 4160,
+        "symbol": "YEC"
+      },
+      {
+        "id": 4119,
+        "symbol": "VD"
+      },
+      {
+        "id": 3759,
+        "symbol": "JNB"
+      },
+      {
+        "id": 2291,
+        "symbol": "GNX"
+      },
+      {
+        "id": 2540,
+        "symbol": "LCC"
+      },
+      {
+        "id": 6655,
+        "symbol": "KSS"
+      }
+    ]
+  },
+  "status": {
+    "timestamp": "2024-11-18T01:09:57.713Z",
+    "error_code": "0",
+    "error_message": "SUCCESS",
+    "elapsed": "11",
+    "credit_count": 0
+  }
+}

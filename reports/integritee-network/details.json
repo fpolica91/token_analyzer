@@ -1,0 +1,300 @@
+{
+  "data": {
+    "id": 13323,
+    "name": "Integritee Network",
+    "symbol": "TEER",
+    "slug": "integritee-network",
+    "category": "token",
+    "description": "The Integritee platform enables firms and dApps to process their users\u2019 data in a privacy-preserving manner that aids compliance with GDPR and other privacy regulations. Moreover, Integritee enables using its service to prove that all privacy-related requirements have been respected. By combining the trust of Polkadot, the scalability of second-layer sidechains, and the confidentiality of Trusted Execution Environment (TEE) hardware, Integritee aims to power a new generation of data-driven dApps and services. Achieving this will depend on establishing trustworthy public auditability and transparency, to allow everybody to verify that the correct code is executed on genuine TEE hardware. Since Integritee may not be a trusted intermediary, the firm will deploy a remote attestation (RA) registry on a public blockchain.",
+    "dateAdded": "2021-10-26T15:04:11.000Z",
+    "status": "active",
+    "subStatus": "normal",
+    "notice": "",
+    "alertType": 2,
+    "alertLink": "",
+    "latestUpdateTime": "2024-11-17T23:47:00.000Z",
+    "watchCount": "5540",
+    "watchListRanking": 3251,
+    "dateLaunched": "2021-11-30T00:00:00.000Z",
+    "latestAdded": false,
+    "launchPrice": 7.0,
+    "tags": [
+      {
+        "slug": "privacy",
+        "name": "Privacy",
+        "category": "CATEGORY"
+      },
+      {
+        "slug": "interoperability",
+        "name": "Interoperability",
+        "category": "CATEGORY"
+      },
+      {
+        "slug": "oracles",
+        "name": "Oracles",
+        "category": "CATEGORY"
+      },
+      {
+        "slug": "polkadot-ecosystem",
+        "name": "Polkadot Ecosystem",
+        "category": "PLATFORM"
+      },
+      {
+        "slug": "okx-ventures-portfolio",
+        "name": "OKX Ventures Portfolio",
+        "category": "CATEGORY"
+      },
+      {
+        "slug": "layer-1",
+        "name": "Layer 1",
+        "category": "CATEGORY"
+      }
+    ],
+    "selfReportedTags": [
+      "Cybersecurity",
+      "Enterprise Solutions",
+      "Privacy",
+      "Interoperability",
+      "Oracles",
+      "Scaling",
+      "Polkadot Ecosystem",
+      "Sidechain",
+      "Web3",
+      "OKX Ventures Portfolio",
+      "Opensource"
+    ],
+    "selfReportedCirculatingSupply": "13370.0",
+    "urls": {
+      "website": [
+        "https://integritee.network/"
+      ],
+      "technical_doc": [
+        "https://www.integritee.network/docs/Integritee_%20Lightpaper_2021.pdf"
+      ],
+      "explorer": [
+        "https://integritee.subscan.io/"
+      ],
+      "source_code": [
+        "https://github.com/integritee-network"
+      ],
+      "message_board": [
+        "https://medium.com/integritee"
+      ],
+      "chat": [
+        "https://t.me/Integritee_Official"
+      ],
+      "announcement": [],
+      "reddit": [],
+      "facebook": [],
+      "twitter": [
+        "https://twitter.com/integri_t_e_e"
+      ]
+    },
+    "volume": 3094.34712618,
+    "volumeChangePercentage24h": -0.3795,
+    "cexVolume": 3094.34712618,
+    "dexVolume": 0.0,
+    "statistics": {
+      "price": 0.2476586244445366,
+      "priceChangePercentage1h": 0.00060654,
+      "priceChangePercentage24h": -0.0526978,
+      "priceChangePercentage7d": 2.46387066,
+      "priceChangePercentage30d": -20.92238501,
+      "priceChangePercentage60d": -19.27049509,
+      "priceChangePercentage90d": -15.25887894,
+      "priceChangePercentage1y": -33.26703978,
+      "priceChangePercentageAll": -94.913444030503,
+      "marketCap": 985197.59,
+      "marketCapChangePercentage24h": -0.0527,
+      "fullyDilutedMarketCap": 2476586.24,
+      "fullyDilutedMarketCapChangePercentage24h": -0.05,
+      "circulatingSupply": 3978046.76,
+      "totalSupply": 10000000.0,
+      "marketCapDominance": 0.0,
+      "rank": 1871,
+      "roi": -96.46161354,
+      "low24h": 0.2466296534159383,
+      "high24h": 0.24912472263932942,
+      "low7d": 0.23578187205848156,
+      "high7d": 0.2715641489336974,
+      "low30d": 0.21845599230901577,
+      "high30d": 0.3258775961573881,
+      "low90d": 0.21845599230901577,
+      "high90d": 0.5735441791713815,
+      "low52w": 0.2037020182883304,
+      "high52w": 1.7124087265981103,
+      "lowAllTime": 0.13228244456244487,
+      "highAllTime": 5.08523059248381,
+      "lowAllTimeChangePercentage": 87.22,
+      "highAllTimeChangePercentage": -95.13,
+      "lowAllTimeTimestamp": "2023-09-04T14:20:00.000Z",
+      "highAllTimeTimestamp": "2022-01-13T09:43:00.000Z",
+      "lowYesterday": 0.245635035027029,
+      "highYesterday": 0.25009516153129463,
+      "openYesterday": 0.2500686512180494,
+      "closeYesterday": 0.24772751998579182,
+      "priceChangePercentageYesterday": -0.94,
+      "volumeYesterday": 2947.21,
+      "turnover": 0.00314084,
+      "ytdPriceChangePercentage": -76.7671,
+      "volumeRank": 5265,
+      "volumeMcRank": 5805,
+      "mcTotalNum": 10049,
+      "volumeTotalNum": 10049,
+      "volumeMcTotalNum": 10049
+    },
+    "quotes": [],
+    "relatedCoins": [
+      {
+        "id": 2513,
+        "name": "GoldMint",
+        "slug": "goldmint",
+        "price": 0.05036503221709936,
+        "priceChangePercentage24h": -1.09054812,
+        "priceChangePercentage7d": 21.26411099
+      },
+      {
+        "id": 4679,
+        "name": "Band Protocol",
+        "slug": "band-protocol",
+        "price": 1.279090886177098,
+        "priceChangePercentage24h": -5.60623775,
+        "priceChangePercentage7d": 2.39025411
+      },
+      {
+        "id": 7083,
+        "name": "Uniswap",
+        "slug": "uniswap",
+        "price": 8.696076146946854,
+        "priceChangePercentage24h": -3.83931382,
+        "priceChangePercentage7d": -5.26954718
+      },
+      {
+        "id": 1414,
+        "name": "Firo",
+        "slug": "firo",
+        "price": 1.3288054368339033,
+        "priceChangePercentage24h": 0.18384145,
+        "priceChangePercentage7d": 3.60973441
+      },
+      {
+        "id": 1975,
+        "name": "Chainlink",
+        "slug": "chainlink",
+        "price": 13.73054261936686,
+        "priceChangePercentage24h": -5.21590889,
+        "priceChangePercentage7d": -3.58555709
+      },
+      {
+        "id": 7653,
+        "name": "Oasis",
+        "slug": "oasis-network",
+        "price": 0.07934966892452106,
+        "priceChangePercentage24h": -6.38183285,
+        "priceChangePercentage7d": -2.48654756
+      },
+      {
+        "id": 707,
+        "name": "Blocknet",
+        "slug": "blocknet",
+        "price": 0.01703911271008137,
+        "priceChangePercentage24h": -0.86395507,
+        "priceChangePercentage7d": -3.57077752
+      },
+      {
+        "id": 5864,
+        "name": "yearn.finance",
+        "slug": "yearn-finance",
+        "price": 6097.993169195552,
+        "priceChangePercentage24h": -5.63474367,
+        "priceChangePercentage7d": -12.53626117
+      },
+      {
+        "id": 4279,
+        "name": "Solar",
+        "slug": "sxp",
+        "price": 0.34779669451454925,
+        "priceChangePercentage24h": -3.13319141,
+        "priceChangePercentage7d": 12.69395207
+      },
+      {
+        "id": 8043,
+        "name": "MAHA.xyz",
+        "slug": "mahadao",
+        "price": 0.9028063178326886,
+        "priceChangePercentage24h": -2.86784234,
+        "priceChangePercentage7d": -9.90388521
+      }
+    ],
+    "isAudited": false,
+    "holders": {},
+    "displayTV": 0,
+    "isInfiniteMaxSupply": 0,
+    "tvCoinSymbol": "TEER",
+    "supportWalletInfos": [],
+    "holdersFlag": false,
+    "ratingsFlag": false,
+    "analysisFlag": false,
+    "socialsFlag": true,
+    "cryptoRating": [
+      {
+        "type": "CertiK",
+        "score": 79.41,
+        "rating": 4.0,
+        "updateTime": "2024-11-17T00:00:00.000Z",
+        "link": "https://cmc.certik-skynet.com/redirect?project=integritee-network&utm_source=CMC&utm_campaign=ScoreByCertiKLink"
+      },
+      {
+        "type": "Cyberscope",
+        "score": 71.0,
+        "rating": 3.6,
+        "updateTime": "2024-11-17T06:47:13.000Z",
+        "link": "https://www.cyberscope.io/audits/coin-integritee-network"
+      },
+      {
+        "type": "Aggregate rating",
+        "score": 75.2,
+        "rating": 3.8,
+        "updateTime": "2024-11-17T23:30:00.187Z"
+      }
+    ],
+    "hasExtraInfoFlag": false,
+    "upcoming": {
+      "status": false
+    },
+    "annotationFlag": false,
+    "similarCoins": [
+      {
+        "id": 10042,
+        "symbol": "KAR"
+      },
+      {
+        "id": 6756,
+        "symbol": "ACA"
+      },
+      {
+        "id": 6748,
+        "symbol": "CFG"
+      },
+      {
+        "id": 9417,
+        "symbol": "MPL"
+      },
+      {
+        "id": 6836,
+        "symbol": "GLMR"
+      },
+      {
+        "id": 7411,
+        "symbol": "CQT"
+      }
+    ]
+  },
+  "status": {
+    "timestamp": "2024-11-17T23:48:10.565Z",
+    "error_code": "0",
+    "error_message": "SUCCESS",
+    "elapsed": "13",
+    "credit_count": 0
+  }
+}

@@ -1,0 +1,258 @@
+{
+  "data": {
+    "id": 1956,
+    "name": "Vivo",
+    "symbol": "VIVO",
+    "slug": "vivo",
+    "category": "coin",
+    "description": "Vivo is an advanced, decentralized and secure digital currency, an enhanced further development of Dash, featuring the masternode technology, near-instant & secure payments, and superior anonymous transactions. With a fast block time of only 2 minutes, transactions will usually confirm and be successfully processed very quickly. Vivo's blockchain is encrypted using the advanced NeoScrypt Proof of Work algorithm. NeoScrypt is the newer, improved version of Scrypt. NeoScrypt is ASIC resistant and ensures a fair return on investment to all looking to mine the Vivo coin. Vivo also puts greats value on the mining being ASIC resistant by utilizing the NeoScrypt Hashing Algorithm, the new and improved version of the popular Scrypt algorithm.\n\nVivo values masternode holders, offering 50% of the block reward to masternodes. Masternodes are the backbone of the Vivo network including PrivateSend and InstantSend technologies. They provide the infrastructure for instant and anonymous transactions, and reward their owners with a passive income. Vivo provides the most beneficial reward policy for masternode holders known to date, with 50% of block reward being apportioned to masternodes.\n\nMore information can be found at http://www.vivoproject.net/.",
+    "dateAdded": "2017-09-12T00:00:00.000Z",
+    "status": "active",
+    "subStatus": "normal",
+    "notice": "",
+    "alertType": 2,
+    "alertLink": "",
+    "latestUpdateTime": "2024-11-18T01:09:00.000Z",
+    "watchCount": "230",
+    "watchListRanking": 8583,
+    "dateLaunched": "2017-08-22T00:00:00.000Z",
+    "latestAdded": false,
+    "launchPrice": 1.72202,
+    "tags": [
+      {
+        "slug": "mineable",
+        "name": "Mineable",
+        "category": "OTHERS"
+      },
+      {
+        "slug": "masternodes",
+        "name": "Masternodes",
+        "category": "CATEGORY"
+      }
+    ],
+    "selfReportedTags": [
+      "PoW",
+      "Scrypt",
+      "Store Of Value",
+      "Privacy"
+    ],
+    "urls": {
+      "website": [
+        "http://www.vivoproject.net/"
+      ],
+      "technical_doc": [
+        "https://vivoproject.net/whitepaper.html"
+      ],
+      "explorer": [
+        "http://explorer.vivoproject.net/",
+        "http://explorer6.vivocoin.net/"
+      ],
+      "source_code": [
+        "https://github.com/vivocoin/vivo/"
+      ],
+      "message_board": [
+        "https://join.slack.com/t/vivocoin/shared_invite/MjM3MTQzNjgzOTIwLTE1MDQ4MDg4MDAtMmVkNTRjOGM1Yg"
+      ],
+      "chat": [
+        "https://t.me/VivoProjectOfficial",
+        "https://discord.gg/jUC5W2W"
+      ],
+      "announcement": [
+        "https://bitcointalk.org/index.php?topic=2110690.0"
+      ],
+      "reddit": [
+        "https://reddit.com/r/VIVOcoin"
+      ],
+      "facebook": [],
+      "twitter": [
+        "https://twitter.com/_VivoProject"
+      ]
+    },
+    "volume": 0.0,
+    "volumeChangePercentage24h": 0.0,
+    "cexVolume": 0.0,
+    "dexVolume": 0.0,
+    "statistics": {
+      "price": 0.0004784163627075134,
+      "priceChangePercentage1h": -0.34540159,
+      "priceChangePercentage24h": 6.75991188,
+      "priceChangePercentage7d": -4.00059673,
+      "priceChangePercentage30d": -8.25713977,
+      "priceChangePercentage60d": -59.38949803,
+      "priceChangePercentage90d": -76.76844622,
+      "priceChangePercentage1y": -91.17428482,
+      "priceChangePercentageAll": -91.174284818054,
+      "marketCap": 2579.52,
+      "marketCapChangePercentage24h": 6.7599,
+      "fullyDilutedMarketCap": 13012.93,
+      "fullyDilutedMarketCapChangePercentage24h": 6.76,
+      "circulatingSupply": 5391794.42237302,
+      "totalSupply": 6211794.42237302,
+      "maxSupply": 27200000.0,
+      "marketCapDominance": 0.0,
+      "rank": 2752,
+      "roi": -99.97221772,
+      "low24h": 0.000417892412319192,
+      "high24h": 0.000505383719405542,
+      "low7d": 0.000417892412319192,
+      "high7d": 0.000538829256051117,
+      "low30d": 0.000417892412319192,
+      "high30d": 0.00055955050882657,
+      "low90d": 0.000417892412319192,
+      "high90d": 0.002701319686134635,
+      "low52w": 0.000417892412319192,
+      "high52w": 0.01703853238472362,
+      "lowAllTime": 0.00021716,
+      "highAllTime": 7.19103527,
+      "lowAllTimeChangePercentage": 120.31,
+      "highAllTimeChangePercentage": -99.99,
+      "lowAllTimeTimestamp": "2019-12-10T20:40:04.000Z",
+      "highAllTimeTimestamp": "2017-12-25T21:14:14.000Z",
+      "lowYesterday": 0.000417892412319192,
+      "highYesterday": 0.000505383719405542,
+      "openYesterday": 0.000448138426485614,
+      "closeYesterday": 0.000480074547822371,
+      "priceChangePercentageYesterday": 7.13,
+      "volumeYesterday": 0,
+      "turnover": 0.0,
+      "ytdPriceChangePercentage": 0.0,
+      "volumeRank": 8754,
+      "volumeMcRank": 7867,
+      "mcTotalNum": 10049,
+      "volumeTotalNum": 10049,
+      "volumeMcTotalNum": 10049
+    },
+    "quotes": [],
+    "relatedCoins": [
+      {
+        "id": 2513,
+        "name": "GoldMint",
+        "slug": "goldmint",
+        "price": 0.05065701161697734,
+        "priceChangePercentage24h": -0.83488657,
+        "priceChangePercentage7d": 21.70106268
+      },
+      {
+        "id": 4679,
+        "name": "Band Protocol",
+        "slug": "band-protocol",
+        "price": 1.2924689407590508,
+        "priceChangePercentage24h": -5.51284503,
+        "priceChangePercentage7d": 1.82102584
+      },
+      {
+        "id": 7083,
+        "name": "Uniswap",
+        "slug": "uniswap",
+        "price": 8.907804423933275,
+        "priceChangePercentage24h": -4.39447372,
+        "priceChangePercentage7d": -3.90346035
+      },
+      {
+        "id": 1414,
+        "name": "Firo",
+        "slug": "firo",
+        "price": 1.3454938776288508,
+        "priceChangePercentage24h": 0.21867821,
+        "priceChangePercentage7d": 4.03360084
+      },
+      {
+        "id": 1975,
+        "name": "Chainlink",
+        "slug": "chainlink",
+        "price": 14.028344717813509,
+        "priceChangePercentage24h": -5.25786687,
+        "priceChangePercentage7d": -2.46572024
+      },
+      {
+        "id": 7653,
+        "name": "Oasis",
+        "slug": "oasis-network",
+        "price": 0.08025331330873264,
+        "priceChangePercentage24h": -5.30717197,
+        "priceChangePercentage7d": -4.39563858
+      },
+      {
+        "id": 707,
+        "name": "Blocknet",
+        "slug": "blocknet",
+        "price": 0.017113298239738093,
+        "priceChangePercentage24h": -0.68391562,
+        "priceChangePercentage7d": -3.30053472
+      },
+      {
+        "id": 5864,
+        "name": "yearn.finance",
+        "slug": "yearn-finance",
+        "price": 6192.38803639104,
+        "priceChangePercentage24h": -4.43119421,
+        "priceChangePercentage7d": -11.362147
+      },
+      {
+        "id": 4279,
+        "name": "Solar",
+        "slug": "sxp",
+        "price": 0.36376553390538346,
+        "priceChangePercentage24h": 2.1116243,
+        "priceChangePercentage7d": 18.12789401
+      },
+      {
+        "id": 8043,
+        "name": "MAHA.xyz",
+        "slug": "mahadao",
+        "price": 0.9034865737660874,
+        "priceChangePercentage24h": -2.68820884,
+        "priceChangePercentage7d": -9.89747239
+      }
+    ],
+    "isAudited": false,
+    "holders": {},
+    "displayTV": 1,
+    "isInfiniteMaxSupply": 0,
+    "tvCoinSymbol": "VIVO",
+    "supportWalletInfos": [],
+    "holdersFlag": false,
+    "ratingsFlag": false,
+    "analysisFlag": false,
+    "socialsFlag": true,
+    "cryptoRating": [],
+    "hasExtraInfoFlag": false,
+    "upcoming": {
+      "status": false
+    },
+    "annotationFlag": false,
+    "similarCoins": [
+      {
+        "id": 1473,
+        "symbol": "PASC"
+      },
+      {
+        "id": 4160,
+        "symbol": "YEC"
+      },
+      {
+        "id": 1164,
+        "symbol": "FRN"
+      },
+      {
+        "id": 3334,
+        "symbol": "XCASH"
+      },
+      {
+        "id": 16817,
+        "symbol": "WEGLD"
+      },
+      {
+        "id": 99,
+        "symbol": "VTC"
+      }
+    ]
+  },
+  "status": {
+    "timestamp": "2024-11-18T01:10:10.888Z",
+    "error_code": "0",
+    "error_message": "SUCCESS",
+    "elapsed": "11",
+    "credit_count": 0
+  }
+}

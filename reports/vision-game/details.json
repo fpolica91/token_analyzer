@@ -1,0 +1,328 @@
+{
+  "data": {
+    "id": 18330,
+    "name": "VisionGame",
+    "symbol": "VISION",
+    "slug": "vision-game",
+    "category": "token",
+    "description": "VisionGame brings the traditional game publishing experience to the blockchain world.\n",
+    "dateAdded": "2022-02-24T03:45:43.000Z",
+    "status": "active",
+    "subStatus": "normal",
+    "icoStatus": "active_ico",
+    "notice": "VisionGame has migrated from [old contract address](https://solscan.io/token/HVkFqcMHevVPb4XKrf4XowjEaVVsBoqJ2U1EG59Dfk5j) to a [new one](https://bscscan.com/token/0x332e78c687c3fcd91494c6b13f0fc685b2a57434). For official announcement, kindly visit [here](https://medium.com/@visiongame/vision-to-binance-smart-chain-why-and-what-it-means-for-holders-d60e003f0c63).",
+    "alertType": 2,
+    "alertLink": "",
+    "latestUpdateTime": "2024-11-18T01:09:00.000Z",
+    "watchCount": "7003",
+    "watchListRanking": 2910,
+    "latestAdded": false,
+    "tags": [
+      {
+        "slug": "gaming",
+        "name": "Gaming",
+        "category": "INDUSTRY"
+      },
+      {
+        "slug": "solana-ecosystem",
+        "name": "Solana Ecosystem",
+        "category": "PLATFORM"
+      },
+      {
+        "slug": "huobi-capital-portfolio",
+        "name": "Huobi Capital Portfolio",
+        "category": "CATEGORY"
+      },
+      {
+        "slug": "exnetwork-capital-portfolio",
+        "name": "Exnetwork Capital Portfolio",
+        "category": "CATEGORY"
+      }
+    ],
+    "selfReportedCirculatingSupply": "53415568",
+    "urls": {
+      "website": [
+        "https://visiongame.io/"
+      ],
+      "technical_doc": [],
+      "explorer": [
+        "https://bscscan.com/token/0x332e78c687c3fcd91494c6b13f0fc685b2a57434"
+      ],
+      "source_code": [],
+      "message_board": [
+        "https://medium.com/@visiongame"
+      ],
+      "chat": [
+        "https://t.me/visiongame_official"
+      ],
+      "announcement": [],
+      "reddit": [],
+      "facebook": [],
+      "twitter": [
+        "https://twitter.com/visiongame_"
+      ]
+    },
+    "volume": 305717.22079129,
+    "volumeChangePercentage24h": -4.5835,
+    "cexVolume": 303369.24043692,
+    "dexVolume": 2347.98035436,
+    "statistics": {
+      "price": 0.0016271305012756975,
+      "priceChangePercentage1h": 1.59410938,
+      "priceChangePercentage24h": -0.20821726,
+      "priceChangePercentage7d": -1.5861928,
+      "priceChangePercentage30d": 6.91016539,
+      "priceChangePercentage60d": 0.16062498,
+      "priceChangePercentage90d": -13.98838911,
+      "priceChangePercentage1y": -28.63138568,
+      "priceChangePercentageAll": -99.264025111586,
+      "marketCap": 894921.78,
+      "marketCapChangePercentage24h": -0.2082,
+      "fullyDilutedMarketCap": 1627130.5,
+      "fullyDilutedMarketCapChangePercentage24h": -0.21,
+      "circulatingSupply": 550000000.0,
+      "totalSupply": 950000000.0,
+      "maxSupply": 1000000000.0,
+      "marketCapDominance": 0.0,
+      "rank": 1902,
+      "low24h": 0.001584765818506866,
+      "high24h": 0.001746909349420349,
+      "low7d": 0.001399249536885794,
+      "high7d": 0.001746909349420349,
+      "low30d": 0.001036672417074672,
+      "high30d": 0.001877721176729618,
+      "low90d": 0.000896596007418722,
+      "high90d": 0.00251475856035925,
+      "low52w": 0.000896596007418722,
+      "high52w": 0.00879250947196518,
+      "lowAllTime": 0.000525070613639683,
+      "highAllTime": 0.2554378865088781,
+      "lowAllTimeChangePercentage": 209.89,
+      "highAllTimeChangePercentage": -99.36,
+      "lowAllTimeTimestamp": "2023-09-22T06:56:00.000Z",
+      "highAllTimeTimestamp": "2022-04-14T15:44:00.000Z",
+      "lowYesterday": 0.001584765818506866,
+      "highYesterday": 0.001746909349420349,
+      "openYesterday": 0.001628376142155945,
+      "closeYesterday": 0.001598150284995704,
+      "priceChangePercentageYesterday": -1.86,
+      "volumeYesterday": 302794.84,
+      "turnover": 0.34161334,
+      "ytdPriceChangePercentage": -70.8447,
+      "volumeRank": 1861,
+      "volumeMcRank": 840,
+      "mcTotalNum": 10049,
+      "volumeTotalNum": 10049,
+      "volumeMcTotalNum": 10049
+    },
+    "quotes": [],
+    "platforms": [
+      {
+        "contractId": 1839,
+        "contractAddress": "0x332e78c687c3fcd91494c6b13f0fc685b2a57434",
+        "contractPlatform": "BNB Smart Chain (BEP20)",
+        "contractPlatformId": 14,
+        "contractChainId": 56,
+        "contractRpcUrl": [
+          "https://bsc-dataseed1.binance.org",
+          "https://bsc-dataseed.binance.org/",
+          "https://bsc-dataseed1.binance.org:443"
+        ],
+        "contractNativeCurrencyName": "Binance Chain Native Token",
+        "contractNativeCurrencySymbol": "BNB",
+        "contractNativeCurrencyDecimals": 18,
+        "contractBlockExplorerUrl": "https://bscscan.com/",
+        "contractExplorerUrl": "https://bscscan.com/token/0x332e78c687c3fcd91494c6b13f0fc685b2a57434",
+        "contractDecimals": 18,
+        "platformCryptoId": 1839,
+        "sort": 0,
+        "wallets": [
+          {
+            "id": 9025
+          }
+        ]
+      }
+    ],
+    "relatedCoins": [
+      {
+        "id": 2513,
+        "name": "GoldMint",
+        "slug": "goldmint",
+        "price": 0.05065701161697734,
+        "priceChangePercentage24h": -0.83488657,
+        "priceChangePercentage7d": 21.70106268
+      },
+      {
+        "id": 4679,
+        "name": "Band Protocol",
+        "slug": "band-protocol",
+        "price": 1.2924689407590508,
+        "priceChangePercentage24h": -5.51284503,
+        "priceChangePercentage7d": 1.82102584
+      },
+      {
+        "id": 7083,
+        "name": "Uniswap",
+        "slug": "uniswap",
+        "price": 8.907804423933275,
+        "priceChangePercentage24h": -4.39447372,
+        "priceChangePercentage7d": -3.90346035
+      },
+      {
+        "id": 1414,
+        "name": "Firo",
+        "slug": "firo",
+        "price": 1.3454938776288508,
+        "priceChangePercentage24h": 0.21867821,
+        "priceChangePercentage7d": 4.03360084
+      },
+      {
+        "id": 1975,
+        "name": "Chainlink",
+        "slug": "chainlink",
+        "price": 14.028344717813509,
+        "priceChangePercentage24h": -5.25786687,
+        "priceChangePercentage7d": -2.46572024
+      },
+      {
+        "id": 7653,
+        "name": "Oasis",
+        "slug": "oasis-network",
+        "price": 0.08025331330873264,
+        "priceChangePercentage24h": -5.30717197,
+        "priceChangePercentage7d": -4.39563858
+      },
+      {
+        "id": 707,
+        "name": "Blocknet",
+        "slug": "blocknet",
+        "price": 0.017113298239738093,
+        "priceChangePercentage24h": -0.68391562,
+        "priceChangePercentage7d": -3.30053472
+      },
+      {
+        "id": 5864,
+        "name": "yearn.finance",
+        "slug": "yearn-finance",
+        "price": 6192.38803639104,
+        "priceChangePercentage24h": -4.43119421,
+        "priceChangePercentage7d": -11.362147
+      },
+      {
+        "id": 4279,
+        "name": "Solar",
+        "slug": "sxp",
+        "price": 0.36376553390538346,
+        "priceChangePercentage24h": 2.1116243,
+        "priceChangePercentage7d": 18.12789401
+      },
+      {
+        "id": 8043,
+        "name": "MAHA.xyz",
+        "slug": "mahadao",
+        "price": 0.9034865737660874,
+        "priceChangePercentage24h": -2.68820884,
+        "priceChangePercentage7d": -9.89747239
+      }
+    ],
+    "ico": {
+      "cryptoId": 18330,
+      "cryptoSymbol": "VISION",
+      "status": "Ended",
+      "cryptoStatus": 8,
+      "name": "VisionGame",
+      "statistic": {
+        "tokensForSale": 20000000.0,
+        "raisedInUsd": 0.0
+      },
+      "stages": [
+        {
+          "start": "2022-02-23T00:29:05.000Z",
+          "end": "2022-02-27T23:59:59.000Z",
+          "status": "Ended",
+          "type": "IDO",
+          "tokenForSale": 20000000,
+          "icoPriceUsd": "0.03",
+          "personalCap": "TBA",
+          "distributedInIcoPercentage": 0,
+          "access": "Public",
+          "comments": "VisionGame will held their IDO on Solanium. Kindly visit this link to participate: https://www.solanium.io/project/visiongame/",
+          "fundraisingGoalUsd": "600000",
+          "whereToBuyName": "Solanium",
+          "whereToBuyUrl": "https://www.solanium.io/project/visiongame/",
+          "acceptedCurrency": ""
+        }
+      ]
+    },
+    "isAudited": false,
+    "holders": {},
+    "displayTV": 0,
+    "isInfiniteMaxSupply": 0,
+    "tvCoinSymbol": "VISION",
+    "supportWalletInfos": [],
+    "holdersFlag": false,
+    "ratingsFlag": false,
+    "analysisFlag": false,
+    "socialsFlag": true,
+    "cryptoRating": [
+      {
+        "type": "CertiK",
+        "score": 78.0,
+        "rating": 3.9,
+        "updateTime": "2024-11-17T00:00:00.000Z",
+        "link": "https://cmc.certik-skynet.com/redirect?project=vision-game&utm_source=CMC&utm_campaign=ScoreByCertiKLink"
+      },
+      {
+        "type": "Cyberscope",
+        "score": 68.0,
+        "rating": 3.4,
+        "updateTime": "2024-11-17T10:48:47.000Z",
+        "link": "https://www.cyberscope.io/audits/coin-vision-game"
+      },
+      {
+        "type": "Aggregate rating",
+        "score": 73.0,
+        "rating": 3.7,
+        "updateTime": "2024-11-18T01:00:00.179Z"
+      }
+    ],
+    "hasExtraInfoFlag": false,
+    "upcoming": {
+      "status": false
+    },
+    "annotationFlag": false,
+    "similarCoins": [
+      {
+        "id": 12749,
+        "symbol": "NAKA"
+      },
+      {
+        "id": 22289,
+        "symbol": "MYRIA"
+      },
+      {
+        "id": 11367,
+        "symbol": "AURY"
+      },
+      {
+        "id": 10688,
+        "symbol": "YGG"
+      },
+      {
+        "id": 3816,
+        "symbol": "VRA"
+      },
+      {
+        "id": 28230,
+        "symbol": "BIGTIME"
+      }
+    ]
+  },
+  "status": {
+    "timestamp": "2024-11-18T01:09:56.502Z",
+    "error_code": "0",
+    "error_message": "SUCCESS",
+    "elapsed": "11",
+    "credit_count": 0
+  }
+}

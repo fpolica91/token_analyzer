@@ -1,0 +1,1221 @@
+{
+  "data": {
+    "id": 1958,
+    "name": "TRON",
+    "symbol": "TRX",
+    "slug": "tron",
+    "category": "coin",
+    "description": "## What Is TRON (TRX)?\n\nTRON (TRX) is a decentralized blockchain-based operating system developed by the Tron Foundation and launched in 2017. Originally TRX tokens were [ERC-20](https://coinmarketcap.com/alexandria/glossary/erc-20)-based tokens deployed on [Ethereum](https://coinmarketcap.com/currencies/ethereum/), but a year later they were moved to their own network.\n\nInitially, the project was created with the aim of providing full ownership rights to makers of digital content. The main goal is to help content creators (who receive only a small part of the income) and encourage them with more rewards for their work. How: invite content consumers to reward content makers directly (without intermediaries like YouTube, Facebook or Apple). \n\nThe TRON software supports [smart contracts](https://coinmarketcap.com/alexandria/glossary/smart-contract), various kinds of blockchain systems, and decentralized applications aka dApps. The cryptocurrency platform uses a transaction model similar to [Bitcoin (BTC)](https://coinmarketcap.com/currencies/bitcoin/), namely UTXO. Transactions take place in a public ledger, where users can track the history of operations. \n\nTherefore, the platform was built to create a decentralized Internet and serves as a tool for developers to create dApps, acting as an alternative to Ethereum. Anyone can create [dApps](https://coinmarketcap.com/alexandria/glossary/decentralized-applications-dapps) on the TRON network, offer content, and in return receive digital assets as compensation for their efforts. The ability to create content and share it openly without hesitation regarding transaction fees is an undeniable advantage of TRON.\n\n**Network principles:**\n\nThe data hosted on the TRON network is free with no central authority. Content creators receive TRX tokens - a reward for their intellectual labour;\n\nTRON supports the creation of coins by content makers, which can be used in their own developed applications;\n\nTRON also carries out decentralized games on the network, players can encourage and reward creators with digital assets directly.\n\nThe ecosystem is based on three levels, which ensure the smooth and powerful operation of TRON. The architecture is as follows:\n\n\n\n* Storage Layer, where network data, blockchain state and history data are securely stored. In general, its purpose is to segment all kinds of ecosystem data;\n* Application Layer, where developers are key figures and where TRX is utilized to develop applications and create wallets;\n* Core Layer, where various instructions are processed (which can be written only in two programming languages \u200b\u200b- Solidity and Java). Principle of operation: the core layer computes instructions, processes them, and sends them to the Tron Virtual Machine, where the logic happens, and dApps are executed.\n\nThe main network protection tool, as well as one of the special features, is a delegated Proof-of-Stake ([dPoS](https://coinmarketcap.com/alexandria/glossary/delegated-proof-of-stake-dpos)) system, an alternative to the Proof-of-Stake and Proof-of-Work consensus algorithms. This is a competitive advantage of TRON, because it means that the network is far more energy-efficient. Furthermore, due to its layered architecture, TRON processes more transactions at once than Proof-of-Work ([PoW](https://coinmarketcap.com/alexandria/article/proof-of-work-vs-proof-of-stake)) systems. According to the development team, TRON has the higher throughput and is able to process up to 2000 operations per second without fees, thus, transactions on the network are feeless.\n\n\nTRON is a blockchain-based operating system that aims to ensure this technology is suitable for daily use. Whereas Bitcoin can handle up to six transactions per second, and Ethereum up to 25, TRON claims that its network has capacity for 2,000 TPS.\n\nTo learn more about this project, check out our deep dive of [Tron](https://coinmarketcap.com/alexandria/article/what-is-tron).\n\nThis project is best described as a decentralized platform focused on content sharing and entertainment \u2014 and to this end, one of its biggest acquisitions was the file sharing service BitTorrent back in 2018.\n\nOverall, TRON has divided its goals into six phases. These include delivering simple distributed file sharing, driving content creation through financial rewards, allowing content creators to launch their own personal tokens and decentralizing the gaming industry.\n\nTRON is also one of the most popular blockchains for building [DApps](https://coinmarketcap.com/alexandria/glossary/decentralized-applications-dapps).\n\n## USDD Stablecoin\n\nIn April 2022, the CEO of Tron, Justin Sun, announced plans to launch an [algorithmic stablecoin](https://coinmarketcap.com/alexandria/glossary/algorithmic-stablecoin), dubbed Decentralized USD or [USDD](https://coinmarketcap.com/currencies/usdd/). It requires an automated balancing technique that burns $1 worth of TRX to mint 1 USDD. Tron DAO Reserve is responsible for managing USDD and ensuring that its value is stable relative to the value of its underlying collateral. Also, it sets the [APY](https://coinmarketcap.com/alexandria/glossary/annual-percentage-yield-apy) offered to users [staking](https://coinmarketcap.com/alexandria/glossary/staking) USDD. At the time of writing, users earn a 30% yield on staked USDD.\n\nWhile USDD has been criticized for borrowing heavily from the design of [UST](https://coinmarketcap.com/currencies/terrausd/) \u2014 [Terra](https://coinmarketcap.com/currencies/terra-luna/)\u2019s algorithmic stablecoin which set off what was essentially a bank run and crash of the Terra ecosystem \u2014 certain elements set it apart. Perhaps the most notable is the decision to opt for a guaranteed over-collateralized framework, in contrast to the undercollateralized model of UST. The cryptocurrencies used as collateral on the USDD protocol include Tron, [Bitcoin](https://coinmarketcap.com/currencies/bitcoin/), [USDC](https://coinmarketcap.com/currencies/usd-coin/) and [Tether](https://coinmarketcap.com/currencies/tether/). \n\nThe minimum collateral ratio of USDD has been set at 130%. Hence, the value of collateral deposited in the protocol's cryptocurrency reserves would, in practice, be higher than the value of USDD in circulation. With this, the possibility of a sustained depeg of USDD could be perceived as low. Despite its 130% minimum collateral ratio, USDD is at the time of writing backed by collateral reserves collectively worth over thrice the value of USDD in circulation. For the Tron DAO Reserve, the goal is to build a $10 billion treasury to back the value of USDD. \n\nAnother core element that is key to the stability of USDD is the operation of Super Representatives, which are Tron's institutional partners. The super representatives are incentivized entities that influence either side of the trade to absorb the potential volatility of the price of USDD. For instance, when the price of USDD falls below $1, the super representatives burn part of their USDD holding to mint TRX. This will, in turn, bring the value of USDD to the target price.\n\nHowever, all these stability mechanisms have not stopped USDD from facing its fair share of volatility as the stablecoin. In June 2022, it experienced a 9% fall in its price relative to the value of 1 USD. In response, Tron DAO Reserve infused $650 million worth of USDC into USDD's collateral reserve.\n\n## Who Are the Founders of TRON?\n\nTRON was founded by Justin Sun, who now serves as CEO. Educated at Peking University and the University of Pennsylvania, he was recognized by Forbes Asia in its 30 Under 30 series for entrepreneurs.\n\nBorn in 1990, he was also associated with Ripple in the past \u2014 serving as its chief representative in the Greater China area.\n\n### What Makes TRON Unique?\n\nTRON has positioned itself as an environment where content creators can connect with their audiences directly. By eliminating centralized platforms \u2014 whether they are streaming services, app stores or music sites \u2014 it is hoped that creators won\u2019t end up losing as much commission to middlemen. In turn, this could also make content less expensive for consumers. Given how the entertainment sector is increasingly becoming digitized, TRON could have a headstart in applying blockchain technology to this industry.\n\nThe company also says that it has a talented and experienced developer team, based around the world, that has been drawn from major companies such as Ripple Labs.\n\nLast but not least, whereas some other blockchain projects can be opaque about their plans for development, TRON offers a point of difference by delivering a roadmap that shows its intentions for the coming years.\n\n####Related Pages:\n\n[Find out about BitTorrent Token (BTT)](https://coinmarketcap.com/currencies/bittorrent/)\n\n[Nine things to know before investing in cryptocurrency](https://coinmarketcap.com/alexandria/article/9-things-to-know-before-investing-in-cryptocurrency)\n\n[Learn about cryptocurrency with CMC Alexandria](https://coinmarketcap.com/alexandria/article/9-things-to-know-before-investing-in-cryptocurrency)\n\n[Read the latest posts on the CoinMarketCap blog](https://blog.coinmarketcap.com/)\n\n[What Is A Crypto Faucet?](https://coinmarketcap.com/alexandria/article/what-is-a-crypto-faucet)\n\n### How Many TRON (TRX) Coins Are There in Circulation?\n\nTRON has a total supply of just over 100 billion tokens \u2014 and at the time of writing, about 71.6 billion of these are in circulation.\n\nWhen a token sale was held in 2017, 15.75 billion TRX was allocated to private investors, while an additional 40 billion were earmarked for initial coin offering participants. The Tron Foundation was given 34 billion, and a company owned by Justin Sun got 10 billion.\n\nAll in all, this meant that 45% of TRX supply went to the founder and the project itself, while 55% was distributed among investors. Critics argue that this is a much higher ratio than what has been seen with other cryptocurrency projects.\n\n### How Is the TRON Network Secured?\n\nTRON uses a consensus mechanism that is known as [delegated proof-of-stake](https://coinmarketcap.com/alexandria/glossary/delegated-proof-of-stake-dpos).\n\nTRX owners can freeze their cryptocurrency in order to get Tron Power, which means that they can vote for \u201csuper representatives\u201d who serve as block producers.\n\nThese block producers receive TRX rewards in exchange for verifying transactions, and these rewards are then distributed among the people who voted for them.\n\nAccording to TRON, this approach helps its blockchain to achieve higher levels of throughput. \n\n### Where Can You Buy TRON (TRX)?\n\nIt is possible to [buy Tron](https://www.binance.com/en/buy-TRON) from dozens of the exchanges it is listed on - including Poloniex, Bancor, KuCoin, Binance, Bitfinex, Coinbene and others. However, it is not supported by Coinbase.\n\nLearn about converting your[ fiat to Bitcoin here](https://coinmarketcap.com/how-to-buy-bitcoin/) \u2014 the perfect gateway to purchasing altcoins.",
+    "dateAdded": "2017-09-13T00:00:00.000Z",
+    "status": "active",
+    "subStatus": "normal",
+    "notice": "Let's Learn About [\"TRON\"](https://coinmarketcap.com/earn/project/tron) on the Learn & Earn Page!",
+    "alertType": 3,
+    "alertLink": "",
+    "latestUpdateTime": "2024-11-18T01:09:00.000Z",
+    "watchCount": "950238",
+    "watchListRanking": 98,
+    "latestAdded": false,
+    "launchPrice": 0.00205124,
+    "tags": [
+      {
+        "slug": "media",
+        "name": "Media",
+        "category": "INDUSTRY"
+      },
+      {
+        "slug": "payments",
+        "name": "Payments",
+        "category": "INDUSTRY"
+      },
+      {
+        "slug": "tron-ecosystem",
+        "name": "TRON Ecosystem",
+        "category": "PLATFORM"
+      },
+      {
+        "slug": "layer-1",
+        "name": "Layer 1",
+        "category": "CATEGORY"
+      },
+      {
+        "slug": "dwf-labs-portfolio",
+        "name": "DWF Labs Portfolio",
+        "category": "CATEGORY"
+      },
+      {
+        "slug": "sec-security-token",
+        "name": "SEC Security Token",
+        "category": "CATEGORY"
+      },
+      {
+        "slug": "alleged-sec-securities",
+        "name": "Alleged SEC Securities",
+        "category": "CATEGORY"
+      }
+    ],
+    "selfReportedTags": [
+      "DPoS",
+      "Platform",
+      "DeFi",
+      "Smart Contracts",
+      "Staking",
+      "DAO",
+      "TRON Ecosystem",
+      "Governance",
+      "Web3",
+      "Layer 1"
+    ],
+    "urls": {
+      "website": [
+        "https://trondao.org/",
+        "https://tron.network/"
+      ],
+      "technical_doc": [
+        "https://developers.tron.network/docs"
+      ],
+      "explorer": [
+        "https://tronscan.org/#/",
+        "https://www.okx.com/web3/explorer/trx",
+        "https://etherscan.io/token/0x50327c6c5a14dcade707abad2e27eb517df87ab5"
+      ],
+      "source_code": [
+        "https://github.com/tronprotocol/java-tron"
+      ],
+      "message_board": [
+        "https://medium.com/@Tronfoundation"
+      ],
+      "chat": [
+        "http://t.me/tronnetworkEN"
+      ],
+      "announcement": [],
+      "reddit": [
+        "https://reddit.com/r/Tronix"
+      ],
+      "facebook": [
+        "https://www.facebook.com/trondaoofficial"
+      ],
+      "twitter": [
+        "https://twitter.com/trondao"
+      ]
+    },
+    "volume": 766624351.1509478,
+    "volumeChangePercentage24h": -28.709,
+    "cexVolume": 766478364.5645216,
+    "dexVolume": 145986.58642628,
+    "statistics": {
+      "price": 0.20171268695644046,
+      "priceChangePercentage1h": 0.86225476,
+      "priceChangePercentage24h": 0.69527265,
+      "priceChangePercentage7d": 22.42858751,
+      "priceChangePercentage30d": 27.34073431,
+      "priceChangePercentage60d": 34.73077793,
+      "priceChangePercentage90d": 41.07612362,
+      "priceChangePercentage1y": 94.85062683,
+      "priceChangePercentageAll": 9733.694763151749,
+      "marketCap": 17423147118.11,
+      "marketCapChangePercentage24h": 0.6928,
+      "fullyDilutedMarketCap": 17423145914.27,
+      "fullyDilutedMarketCapChangePercentage24h": 0.7,
+      "circulatingSupply": 86376059835.40286,
+      "totalSupply": 86376053867.3208,
+      "marketCapDominance": 0.5762,
+      "rank": 10,
+      "roi": 9732.71600282,
+      "low24h": 0.1929287567203839,
+      "high24h": 0.20169260373624462,
+      "low7d": 0.16381267328167912,
+      "high7d": 0.20412500756680263,
+      "low30d": 0.1557267969348181,
+      "high30d": 0.20412500756680263,
+      "low90d": 0.14268938366354333,
+      "high90d": 0.20412500756680263,
+      "low52w": 0.09599670296204696,
+      "high52w": 0.20412500756680263,
+      "lowAllTime": 0.001091259997338057,
+      "highAllTime": 0.3003630042076111,
+      "lowAllTimeChangePercentage": 18384.38,
+      "highAllTimeChangePercentage": -32.84,
+      "lowAllTimeTimestamp": "2017-09-15T04:35:05.000Z",
+      "highAllTimeTimestamp": "2018-01-05T02:24:15.000Z",
+      "lowYesterday": 0.1929287567203839,
+      "highYesterday": 0.20128118693367747,
+      "openYesterday": 0.20006251134607453,
+      "closeYesterday": 0.19948823934652002,
+      "priceChangePercentageYesterday": -0.29,
+      "volumeYesterday": 766910954.7,
+      "turnover": 0.04400034,
+      "ytdPriceChangePercentage": 87.0964,
+      "volumeRank": 27,
+      "volumeMcRank": 2849,
+      "mcTotalNum": 10049,
+      "volumeTotalNum": 10049,
+      "volumeMcTotalNum": 10049
+    },
+    "quotes": [],
+    "platforms": [
+      {
+        "contractId": 1027,
+        "contractAddress": "0x50327c6c5a14dcade707abad2e27eb517df87ab5",
+        "contractPlatform": "Ethereum",
+        "contractPlatformId": 1,
+        "contractChainId": 1,
+        "contractRpcUrl": [
+          "https://bsc-dataseed1.binance.org",
+          "https://bsc-dataseed.binance.org/",
+          "https://bsc-dataseed1.binance.org:443"
+        ],
+        "contractNativeCurrencyName": "Ethereum",
+        "contractNativeCurrencySymbol": "ETH",
+        "contractNativeCurrencyDecimals": 18,
+        "contractBlockExplorerUrl": "https://etherscan.io",
+        "contractExplorerUrl": "https://etherscan.io/token/0x50327c6c5a14dcade707abad2e27eb517df87ab5",
+        "contractDecimals": 18,
+        "platformCryptoId": 1027,
+        "sort": 0,
+        "wallets": [
+          {
+            "id": 9025
+          }
+        ]
+      },
+      {
+        "contractId": 1839,
+        "contractAddress": "0xCE7de646e7208a4Ef112cb6ed5038FA6cC6b12e3",
+        "contractPlatform": "BNB Smart Chain (BEP20)",
+        "contractPlatformId": 14,
+        "contractChainId": 56,
+        "contractRpcUrl": [
+          "https://bsc-dataseed1.binance.org",
+          "https://bsc-dataseed.binance.org/",
+          "https://bsc-dataseed1.binance.org:443"
+        ],
+        "contractNativeCurrencyName": "Binance Chain Native Token",
+        "contractNativeCurrencySymbol": "BNB",
+        "contractNativeCurrencyDecimals": 18,
+        "contractBlockExplorerUrl": "https://bscscan.com/",
+        "contractExplorerUrl": "https://bscscan.com/token/0xCE7de646e7208a4Ef112cb6ed5038FA6cC6b12e3",
+        "contractDecimals": 18,
+        "platformCryptoId": 1839,
+        "sort": 0,
+        "wallets": [
+          {
+            "id": 9025
+          }
+        ]
+      },
+      {
+        "contractId": 1958,
+        "contractAddress": "0",
+        "contractPlatform": "Tron20",
+        "contractPlatformId": 47,
+        "contractChainId": -1,
+        "contractRpcUrl": [],
+        "contractNativeCurrencyName": "",
+        "contractNativeCurrencySymbol": "",
+        "contractNativeCurrencyDecimals": -1,
+        "contractBlockExplorerUrl": "",
+        "contractExplorerUrl": "https://tronscan.org/#/token/0/transfers",
+        "contractDecimals": 18,
+        "platformCryptoId": 1958,
+        "sort": 0,
+        "wallets": []
+      }
+    ],
+    "relatedCoins": [
+      {
+        "id": 5864,
+        "name": "yearn.finance",
+        "slug": "yearn-finance",
+        "price": 6192.38803639104,
+        "priceChangePercentage24h": -4.43119421,
+        "priceChangePercentage7d": -11.362147
+      },
+      {
+        "id": 4030,
+        "name": "Algorand",
+        "slug": "algorand",
+        "price": 0.18333080020372622,
+        "priceChangePercentage24h": -6.08112133,
+        "priceChangePercentage7d": 25.72985425
+      },
+      {
+        "id": 6950,
+        "name": "Perpetual Protocol",
+        "slug": "perpetual-protocol",
+        "price": 0.7285723464416717,
+        "priceChangePercentage24h": -2.90313486,
+        "priceChangePercentage7d": -0.25172654
+      },
+      {
+        "id": 6949,
+        "name": "Hedget",
+        "slug": "hedget",
+        "price": 0.1229931315699616,
+        "priceChangePercentage24h": -0.04198582,
+        "priceChangePercentage7d": -0.06970472
+      },
+      {
+        "id": 5031,
+        "name": "MimbleWimbleCoin",
+        "slug": "mimblewimblecoin",
+        "price": 28.62443248263543,
+        "priceChangePercentage24h": -0.91615063,
+        "priceChangePercentage7d": 13.20707104
+      },
+      {
+        "id": 6928,
+        "name": "Bella Protocol",
+        "slug": "bella-protocol",
+        "price": 0.5774763745129355,
+        "priceChangePercentage24h": -2.68232944,
+        "priceChangePercentage7d": -3.23572186
+      },
+      {
+        "id": 4679,
+        "name": "Band Protocol",
+        "slug": "band-protocol",
+        "price": 1.2924689407590508,
+        "priceChangePercentage24h": -5.51284503,
+        "priceChangePercentage7d": 1.82102584
+      },
+      {
+        "id": 4757,
+        "name": "Robonomics.network",
+        "slug": "robonomics-network",
+        "price": 2.13143505669152,
+        "priceChangePercentage24h": -10.02943959,
+        "priceChangePercentage7d": -32.58463709
+      },
+      {
+        "id": 2777,
+        "name": "IoTeX",
+        "slug": "iotex",
+        "price": 0.04102977461646254,
+        "priceChangePercentage24h": -3.30429832,
+        "priceChangePercentage7d": -7.33956268
+      },
+      {
+        "id": 4051,
+        "name": "Parachute",
+        "slug": "parachute",
+        "price": 0.0004968718754933227,
+        "priceChangePercentage24h": -0.74541556,
+        "priceChangePercentage7d": 10.33893464
+      }
+    ],
+    "wallets": [
+      {
+        "id": 9017,
+        "name": "Ledger",
+        "tier": 1,
+        "url": "https://www.ledger.com/",
+        "chains": "BTC,ETH,NEO,ZEC,QTUM,BAN",
+        "types": "hardware",
+        "introduction": "",
+        "star": 3.0,
+        "security": 4.0,
+        "easyToUse": 3.0,
+        "decentration": false,
+        "focusNumber": 0,
+        "rank": 2,
+        "logo": "9017.png",
+        "multipleChain": true
+      },
+      {
+        "id": 9020,
+        "name": "Trezor",
+        "tier": 1,
+        "url": "https://www.trezor.io/",
+        "chains": "BTC,ETH,LTC,ETC,ZEC,AXE,ETZ",
+        "types": "hardware",
+        "introduction": "",
+        "star": 2.0,
+        "security": 4.0,
+        "easyToUse": 3.0,
+        "decentration": false,
+        "focusNumber": 0,
+        "rank": 1000004,
+        "logo": "9020.png",
+        "multipleChain": true
+      },
+      {
+        "id": 9058,
+        "name": "Math Wallet",
+        "url": "http://www.mathwallet.org/cn/",
+        "chains": "BTC,ETH,EOS,NEO,ONT,IRIS,EVT,ESN,YAS",
+        "types": "app,trade",
+        "introduction": "",
+        "star": 2.0,
+        "security": 3.0,
+        "easyToUse": 3.0,
+        "decentration": false,
+        "focusNumber": 2,
+        "rank": 1000005,
+        "logo": "9058.png",
+        "multipleChain": true
+      },
+      {
+        "id": 9022,
+        "name": "Trust Wallet",
+        "tier": 1,
+        "url": "https://www.trustwallet.com/",
+        "chains": "ETH",
+        "types": "app,trade",
+        "introduction": "",
+        "star": 2.0,
+        "security": 3.0,
+        "easyToUse": 3.0,
+        "decentration": true,
+        "focusNumber": 0,
+        "rank": 1000008,
+        "logo": "9022.png",
+        "multipleChain": true
+      },
+      {
+        "id": 9025,
+        "name": "MetaMask",
+        "tier": 1,
+        "url": "https://metamask.io/",
+        "chains": "ETH,ETZ",
+        "types": "pc",
+        "introduction": "",
+        "star": 1.0,
+        "security": 2.0,
+        "easyToUse": 4.0,
+        "decentration": false,
+        "focusNumber": 0,
+        "rank": 1000013,
+        "logo": "9025.png",
+        "multipleChain": true
+      },
+      {
+        "id": 9018,
+        "name": "Cobo",
+        "tier": 1,
+        "url": "https://cobo.com/",
+        "chains": "BTC,ETH,XRP,LTC,BCH,BNB,EOS,DOGE,DASH,ETC,ZEC,FIRO?XZC)",
+        "types": "app,financing,hardware,trade",
+        "introduction": "",
+        "star": 3.0,
+        "security": 4.0,
+        "easyToUse": 0.0,
+        "decentration": true,
+        "focusNumber": 1000000,
+        "logo": "9018.png",
+        "multipleChain": true
+      },
+      {
+        "id": 9053,
+        "name": "HyperPay",
+        "url": "http://www.hyperpay.tech/",
+        "chains": "BTC,ETH,XRP,LTC,BCH,ADA,BSV,EOS,XTZ,VET,DOGE,NEO",
+        "types": "app,financing,hardware,trade",
+        "introduction": "",
+        "star": 3.0,
+        "security": 3.0,
+        "easyToUse": 1.0,
+        "decentration": true,
+        "focusNumber": 999999,
+        "logo": "9053.png",
+        "multipleChain": true
+      },
+      {
+        "id": 9138,
+        "name": "Safepal",
+        "url": "https://www.safepal.io/",
+        "chains": "DOT",
+        "types": "",
+        "introduction": "",
+        "star": 0.0,
+        "security": 0.0,
+        "easyToUse": 0.0,
+        "decentration": false,
+        "focusNumber": 0,
+        "logo": "9138.png",
+        "multipleChain": false
+      },
+      {
+        "id": 9146,
+        "name": "Tronlink",
+        "url": "https://www.tronlink.org/",
+        "chains": "TRON",
+        "types": "",
+        "introduction": "",
+        "star": 0.0,
+        "security": 0.0,
+        "easyToUse": 0.0,
+        "decentration": false,
+        "focusNumber": 0,
+        "logo": "default.png",
+        "multipleChain": false
+      },
+      {
+        "id": 9152,
+        "name": "Binance Chain Wallet",
+        "url": "https://www.binance.org/en/blog/binance-extension-wallet/",
+        "chains": "BNB",
+        "types": "",
+        "introduction": "",
+        "star": 0.0,
+        "security": 0.0,
+        "easyToUse": 0.0,
+        "decentration": false,
+        "focusNumber": 0,
+        "logo": "9152.png",
+        "multipleChain": false
+      },
+      {
+        "id": 9188,
+        "name": "Atomic wallet",
+        "url": "https://atomicwallet.io/",
+        "chains": "",
+        "types": "",
+        "introduction": "",
+        "star": 0.0,
+        "security": 0.0,
+        "easyToUse": 0.0,
+        "decentration": false,
+        "focusNumber": 0,
+        "logo": "9188.png",
+        "multipleChain": false
+      }
+    ],
+    "isAudited": false,
+    "holders": {
+      "holderCount": 11180,
+      "holderList": [
+        {
+          "address": "0x9277a463a508f45115fdeaf22ffeda1b16352433",
+          "balance": 7.0176137156995e-05,
+          "share": 47.95
+        },
+        {
+          "address": "0x18709e89bd403f470088abdacebe86cc60dda12e",
+          "balance": 5.1119131090378e-05,
+          "share": 34.93
+        },
+        {
+          "address": "0x4fb312915b779b1339388e14b6d079741ca83128",
+          "balance": 6.78451e-06,
+          "share": 4.64
+        },
+        {
+          "address": "0xaca1973a26692742a783d63dc198c99fb0fdc98d",
+          "balance": 6.538032709765e-06,
+          "share": 4.47
+        },
+        {
+          "address": "0x9a84a1852bc7fb608794960960adb04666a12b41",
+          "balance": 1.355310240036e-06,
+          "share": 0.93
+        },
+        {
+          "address": "0xa03400e098f4421b34a3a44a1b4e571419517687",
+          "balance": 4.35311388929e-07,
+          "share": 0.3
+        },
+        {
+          "address": "0xd7ba9fcfc699b86d54d128afced50f6c62f26a8b",
+          "balance": 1.96024116076e-07,
+          "share": 0.13
+        },
+        {
+          "address": "0xfbfec4e2a76e03860880486286e9c113ce69a753",
+          "balance": 1.67624836512e-07,
+          "share": 0.11
+        },
+        {
+          "address": "0xc68030969e07fb297d8bff8ed3721e23c719c598",
+          "balance": 1.46692295864e-07,
+          "share": 0.1
+        },
+        {
+          "address": "0x74aa8b5c64b6ed67bba8eac1ae0f0e69db34ae27",
+          "balance": 1.3432545481e-07,
+          "share": 0.09
+        },
+        {
+          "address": "0x2c2320181c2226370c017deaf8976786dd0c8329",
+          "balance": 1.20751620685e-07,
+          "share": 0.08
+        },
+        {
+          "address": "0x05798fb11fafb9604b6ab2223f9c5e6be9932d4d",
+          "balance": 1.15437295864e-07,
+          "share": 0.08
+        },
+        {
+          "address": "0xe262141f823406e58489e4e4858f1813a57c5277",
+          "balance": 1e-07,
+          "share": 0.07
+        },
+        {
+          "address": "0xa5d7d2512d930c6df5f7745f7511d9022a072745",
+          "balance": 9.9752000005e-08,
+          "share": 0.07
+        },
+        {
+          "address": "0xcf4ba571c2569f5748a0b4801a8ef7e933e03c45",
+          "balance": 9.1236844008e-08,
+          "share": 0.06
+        },
+        {
+          "address": "0xdd3d72c53ff982ff59853da71158bf1538b3ceee",
+          "balance": 8.2426047851e-08,
+          "share": 0.06
+        },
+        {
+          "address": "0xa46406a88fcf50564ab21c7ded1a08b2eb0433cc",
+          "balance": 7.9940169508e-08,
+          "share": 0.05
+        },
+        {
+          "address": "0x1c3a8934d4ac825001d15accaf507ee46af5008a",
+          "balance": 7.618746779e-08,
+          "share": 0.05
+        },
+        {
+          "address": "0x3e7976df26cee8b5c9defdf65a4dc9ad115a3612",
+          "balance": 7.61006e-08,
+          "share": 0.05
+        },
+        {
+          "address": "0x29a88a873e78bef614d765ddbfc5e938bbdea6cf",
+          "balance": 7.4959672538e-08,
+          "share": 0.05
+        },
+        {
+          "address": "0xab4a82db95a48e072b1fb260b1e2634c6c8110c3",
+          "balance": 7.4525785917e-08,
+          "share": 0.05
+        },
+        {
+          "address": "0x2b6e7c1b0744025ef04c1c1976ffb4b9c80ed515",
+          "balance": 7.4294331268e-08,
+          "share": 0.05
+        },
+        {
+          "address": "0xc90702df8893aebc227910b129e7fde671262ffb",
+          "balance": 7.2948193695e-08,
+          "share": 0.05
+        },
+        {
+          "address": "0xb34a8a9fdb86706602606425d67d5bb37e36cf2c",
+          "balance": 6.2806055765e-08,
+          "share": 0.04
+        },
+        {
+          "address": "0xba48fb65bb79968d87ed0e8633fa20e44ee87270",
+          "balance": 5.8736422988e-08,
+          "share": 0.04
+        },
+        {
+          "address": "0x1d3682b5e926ea62d42de7853199155f88ce0a9d",
+          "balance": 5.8453781514e-08,
+          "share": 0.04
+        },
+        {
+          "address": "0x77c50fbb6239c5584ec18c102af4c10a11270557",
+          "balance": 5.5767585097e-08,
+          "share": 0.04
+        },
+        {
+          "address": "0xa581f7156f5f83e79769dd7ac062d13ba9ceb237",
+          "balance": 5.2856345738e-08,
+          "share": 0.04
+        },
+        {
+          "address": "0xa9c366b5e5c0f9c577238b1d8ca0cbaa8fdef93c",
+          "balance": 5.2131889191e-08,
+          "share": 0.04
+        },
+        {
+          "address": "0x82d5577b7735f88f632698b0fff05ee620bf645b",
+          "balance": 5.1572251467e-08,
+          "share": 0.04
+        },
+        {
+          "address": "0x26042cd5712ac2c72219ed9fe6abf53febb8361e",
+          "balance": 5.0000000005e-08,
+          "share": 0.03
+        },
+        {
+          "address": "0x32e64ec05ade0c8ffbdf5cee0047aef8627aab78",
+          "balance": 4.5137407184e-08,
+          "share": 0.03
+        },
+        {
+          "address": "0x50f0b5ca05ca200515110c7d900fc62a98bac1bf",
+          "balance": 4.3743891279e-08,
+          "share": 0.03
+        },
+        {
+          "address": "0xb879e2f41ab24b2b08cf249b3a214a29a00e4fe1",
+          "balance": 4.2992732092e-08,
+          "share": 0.03
+        },
+        {
+          "address": "0x9db10e0a408086c9ae9366932440845501f5c92a",
+          "balance": 4.2416596796e-08,
+          "share": 0.03
+        },
+        {
+          "address": "0x6321055070a056c01bae6903956be997b74200d6",
+          "balance": 3.8615254796e-08,
+          "share": 0.03
+        },
+        {
+          "address": "0x7a082f34519306057d644f87c7c95474717b643d",
+          "balance": 3.6515450658e-08,
+          "share": 0.02
+        },
+        {
+          "address": "0x9f7513e3399cae0d6b2eb6c233536b5b1100fab9",
+          "balance": 3.6180097821e-08,
+          "share": 0.02
+        },
+        {
+          "address": "0xf7758d28b3437a1bfd84f2542070078733a250cd",
+          "balance": 3.6049348032e-08,
+          "share": 0.02
+        },
+        {
+          "address": "0x0d59b9d6978814ec27c4d3426949f5373f6dcf65",
+          "balance": 3.3994497544e-08,
+          "share": 0.02
+        },
+        {
+          "address": "0xe0910f9ed63b2ed4ac6b1c65f982387148bf16e9",
+          "balance": 3.3696310706e-08,
+          "share": 0.02
+        },
+        {
+          "address": "0x655c20b801f70a169f45a5b91ad1d416d42941e4",
+          "balance": 3.3326525651e-08,
+          "share": 0.02
+        },
+        {
+          "address": "0x12b1cd23a925efe7bc7584e26f6e7f33494755db",
+          "balance": 3.3181781e-08,
+          "share": 0.02
+        },
+        {
+          "address": "0xde47b18b31daf77f20156b665bd92b5fb2e414a2",
+          "balance": 3.2801479471e-08,
+          "share": 0.02
+        },
+        {
+          "address": "0xb6647cae065c321e75775b50a25fd54e9ac5c436",
+          "balance": 3.175746963e-08,
+          "share": 0.02
+        },
+        {
+          "address": "0xb4cee14b06c870a47184b6cbfebc4e469cd2cf38",
+          "balance": 3.1622493494e-08,
+          "share": 0.02
+        },
+        {
+          "address": "0xbeb314c406e9c1bad7e4556ad2a0c5efa96064ee",
+          "balance": 2.9883280481e-08,
+          "share": 0.02
+        },
+        {
+          "address": "0x18353d12ef20a9aa8d317adecae534e6ea377250",
+          "balance": 2.9644416502e-08,
+          "share": 0.02
+        },
+        {
+          "address": "0xebd5a9bd804b4d9da58d6df793c21ed75e8d33f5",
+          "balance": 2.9390118748e-08,
+          "share": 0.02
+        },
+        {
+          "address": "0x661608370578a7ffdda22e111f947f8ce60a0ae1",
+          "balance": 2.9254514394e-08,
+          "share": 0.02
+        },
+        {
+          "address": "0xa2b398fcb151a0cf127d2a46297815f0f6c82c78",
+          "balance": 2.8813665776e-08,
+          "share": 0.02
+        },
+        {
+          "address": "0x08328999fd5cd97e079e77291674f9f5eaaab947",
+          "balance": 2.8287591269e-08,
+          "share": 0.02
+        },
+        {
+          "address": "0xfbca2523241e0164868638e4398861de4948813b",
+          "balance": 2.8011181462e-08,
+          "share": 0.02
+        },
+        {
+          "address": "0xdc90a30d30d0d51ab0689026435dc73b34d9ace1",
+          "balance": 2.7479490003e-08,
+          "share": 0.02
+        },
+        {
+          "address": "0x8b0ab49d8b64c528c3663fa8f31488eae454e058",
+          "balance": 2.7194654116e-08,
+          "share": 0.02
+        },
+        {
+          "address": "0xde176cbc9c8d322d43e3ed6e7bd2554e7dd94634",
+          "balance": 2.6647930107e-08,
+          "share": 0.02
+        },
+        {
+          "address": "0xd4f65b9e04ca2c5e06c66b3518729b8a767b8296",
+          "balance": 2.6577405256e-08,
+          "share": 0.02
+        },
+        {
+          "address": "0x25d43d944cadce1b2e25de3ee05e49b59a9017ab",
+          "balance": 2.652109052e-08,
+          "share": 0.02
+        },
+        {
+          "address": "0xba28bc67a8ab587eea21cf3a59d661dcdca4b6c8",
+          "balance": 2.5442336689e-08,
+          "share": 0.02
+        },
+        {
+          "address": "0x4ea6c8a9e22b39debda9de33a880de89b564484d",
+          "balance": 2.5221203338e-08,
+          "share": 0.02
+        },
+        {
+          "address": "0x6a36d0feb51a663b0603598a03862746be0f5564",
+          "balance": 2.5172554354e-08,
+          "share": 0.02
+        },
+        {
+          "address": "0xadc7d1dbbeffba2fff7b4f4188a95d5bcb4bac91",
+          "balance": 2.4460362917e-08,
+          "share": 0.02
+        },
+        {
+          "address": "0x835f9b1c5128701261634e54ece3dd47ce12f7d2",
+          "balance": 2.4313097904e-08,
+          "share": 0.02
+        },
+        {
+          "address": "0x7a041f59931fba8fff28de035f1550cc5770fb3b",
+          "balance": 2.3768118023e-08,
+          "share": 0.02
+        },
+        {
+          "address": "0x5364290eafc20bd1c40527caf6f7e3511ebd1c93",
+          "balance": 2.3674677531e-08,
+          "share": 0.02
+        },
+        {
+          "address": "0x6f5a6ef9c76b3869b0411e31d4f1555ae0d44927",
+          "balance": 2.3232931758e-08,
+          "share": 0.02
+        },
+        {
+          "address": "0x017054c064bc1b21e8ef961577968108d8e720cd",
+          "balance": 2.2666631824e-08,
+          "share": 0.02
+        },
+        {
+          "address": "0x8d309e350d7700c1f8ca3a72c95018f5859182d9",
+          "balance": 2.225715521e-08,
+          "share": 0.02
+        },
+        {
+          "address": "0x6eece8431e5aa363a97d4c2123911aaa60b59ead",
+          "balance": 2.2229606508e-08,
+          "share": 0.02
+        },
+        {
+          "address": "0x9e0dc16ac5c6a624ce1dcd5e90e19dddfaa45282",
+          "balance": 2.1780813627e-08,
+          "share": 0.01
+        },
+        {
+          "address": "0x1b7535937b38f679b1f2b218f74cc0ff889fa4b8",
+          "balance": 2.1151321723e-08,
+          "share": 0.01
+        },
+        {
+          "address": "0xa2e48bf15780c0d2bde3c6c4abf9b54c2e169741",
+          "balance": 2.105588534e-08,
+          "share": 0.01
+        },
+        {
+          "address": "0xb10a360d3db570896e36fd83364d12101bbf1a8e",
+          "balance": 2.0802627238e-08,
+          "share": 0.01
+        },
+        {
+          "address": "0x99f65240689c8c221011d40d35a9b1d64382f5ba",
+          "balance": 2.062743968e-08,
+          "share": 0.01
+        },
+        {
+          "address": "0x3fedd86251060947a0a22c64a1624ee8a9995794",
+          "balance": 2.05673582e-08,
+          "share": 0.01
+        },
+        {
+          "address": "0xbdd4c01b14468b6686b6ef1b0399705c94fb63fe",
+          "balance": 2.0417599345e-08,
+          "share": 0.01
+        },
+        {
+          "address": "0x330c0f7fd73d41d9915bdbe8448d490a397fbea2",
+          "balance": 2.0300903515e-08,
+          "share": 0.01
+        },
+        {
+          "address": "0xd4e3200b84fe32a98b267d09e6d4a5f484259758",
+          "balance": 2.024931103e-08,
+          "share": 0.01
+        },
+        {
+          "address": "0xc481a275197cd84d4a08942fe3b3c6e577a3e491",
+          "balance": 2.0193747654e-08,
+          "share": 0.01
+        },
+        {
+          "address": "0x8759f1dc524f1305cbdfa1025d08eeb6c1158186",
+          "balance": 1.9914668128e-08,
+          "share": 0.01
+        },
+        {
+          "address": "0xdd32b431432b097bf126faeb6cf9148e091e6f8d",
+          "balance": 1.9705972019e-08,
+          "share": 0.01
+        },
+        {
+          "address": "0xa672bb0e65ff1489cb2bc48edb25ed2fdc9756b7",
+          "balance": 1.9681339881e-08,
+          "share": 0.01
+        },
+        {
+          "address": "0x1a1e9e2696684e3aa94283c19ffe0f6fbbbc7d6c",
+          "balance": 1.9387018091e-08,
+          "share": 0.01
+        },
+        {
+          "address": "0x0da456a6a9b9477920a61ec8da07b674e4ea2efe",
+          "balance": 1.9260320203e-08,
+          "share": 0.01
+        },
+        {
+          "address": "0xc2d829ce4226a968e7f251adeccd44e1decc9c59",
+          "balance": 1.9222465902e-08,
+          "share": 0.01
+        },
+        {
+          "address": "0x648ffd8031fa7b3adf89673faf2cee286043f5c2",
+          "balance": 1.9196608917e-08,
+          "share": 0.01
+        },
+        {
+          "address": "0xe753a1baae7ac1813a8dd489066508f2193d3d5a",
+          "balance": 1.8009242691e-08,
+          "share": 0.01
+        },
+        {
+          "address": "0x060253f772bb050ad5439e5c980356df02cf0725",
+          "balance": 1.7827212536e-08,
+          "share": 0.01
+        },
+        {
+          "address": "0x06bb0c9bedb4096cbb7acaea34b73fcec3c8a156",
+          "balance": 1.7107037379e-08,
+          "share": 0.01
+        },
+        {
+          "address": "0x79312e61d23ad64ee024a561e819dd468f9bc2bc",
+          "balance": 1.6581248483e-08,
+          "share": 0.01
+        },
+        {
+          "address": "0x56954b3497acb0ac71099a7d92af30b217ab5fda",
+          "balance": 1.6438601692e-08,
+          "share": 0.01
+        },
+        {
+          "address": "0xf7649c8436a107a72846bc169a4ef971bb704cb3",
+          "balance": 1.6313073127e-08,
+          "share": 0.01
+        },
+        {
+          "address": "0x57e04b8797c87c6769b3aece83eb3f0dd93c6b3f",
+          "balance": 1.6268309543e-08,
+          "share": 0.01
+        },
+        {
+          "address": "0xd7ad6607aeffcfd3663a764a0a1e891915d1341b",
+          "balance": 1.62276152e-08,
+          "share": 0.01
+        },
+        {
+          "address": "0x62099ab0eeee03de0a36561eac64357effc85eb9",
+          "balance": 1.6129603302e-08,
+          "share": 0.01
+        },
+        {
+          "address": "0xf00fc79179d347bd29336e15de1d5411d7bcb4db",
+          "balance": 1.6074341094e-08,
+          "share": 0.01
+        },
+        {
+          "address": "0xc0ab97b2bbf95dc796b3741d17324d51113d4a60",
+          "balance": 1.5944788423e-08,
+          "share": 0.01
+        },
+        {
+          "address": "0x6a20bc9a739a7aba86405a68916d2a10621e7d11",
+          "balance": 1.5646299512e-08,
+          "share": 0.01
+        },
+        {
+          "address": "0x62109c16494009ff4da8a59762e7a2e396a0c6b9",
+          "balance": 1.5607045162e-08,
+          "share": 0.01
+        },
+        {
+          "address": "0x35bb6b2757c004a1662e83fda9a034f4afbbedb3",
+          "balance": 1.5380369425e-08,
+          "share": 0.01
+        }
+      ],
+      "topTenHolderRatio": 93.65,
+      "topTwentyHolderRatio": 94.27,
+      "topFiftyHolderRatio": 95.16,
+      "topHundredHolderRatio": 95.85
+    },
+    "displayTV": 1,
+    "isInfiniteMaxSupply": 1,
+    "tvCoinSymbol": "TRX",
+    "supportWalletInfos": [
+      {
+        "id": 9017,
+        "name": "Ledger",
+        "url": "https://www.ledger.com/",
+        "chains": "BTC,ETH,NEO,ZEC,QTUM,BAN",
+        "decentration": false,
+        "logo": "9017.png",
+        "multipleChain": false
+      },
+      {
+        "id": 9020,
+        "name": "Trezor",
+        "url": "https://www.trezor.io/",
+        "chains": "BTC,ETH,LTC,ETC,ZEC,AXE,ETZ",
+        "decentration": false,
+        "logo": "9020.png",
+        "multipleChain": false
+      },
+      {
+        "id": 9022,
+        "name": "Trust Wallet",
+        "url": "https://www.trustwallet.com/",
+        "chains": "ETH",
+        "decentration": false,
+        "logo": "9022.png",
+        "multipleChain": false
+      },
+      {
+        "id": 9058,
+        "name": "Math Wallet",
+        "url": "http://www.mathwallet.org/cn/",
+        "chains": "BTC,ETH,EOS,NEO,ONT,IRIS,EVT,ESN,YAS",
+        "decentration": false,
+        "logo": "9058.png",
+        "multipleChain": false
+      },
+      {
+        "id": 9146,
+        "name": "Tronlink",
+        "url": "https://www.tronlink.org/",
+        "chains": "TRON",
+        "decentration": false,
+        "logo": "default.png",
+        "multipleChain": false
+      },
+      {
+        "id": 9018,
+        "name": "Cobo",
+        "url": "https://cobo.com/",
+        "chains": "BTC,ETH,XRP,LTC,BCH,BNB,EOS,DOGE,DASH,ETC,ZEC,FIRO?XZC)",
+        "decentration": false,
+        "logo": "9018.png",
+        "multipleChain": false
+      },
+      {
+        "id": 9138,
+        "name": "Safepal",
+        "url": "https://www.safepal.io/",
+        "chains": "DOT",
+        "decentration": false,
+        "logo": "9138.png",
+        "multipleChain": false
+      },
+      {
+        "id": 9053,
+        "name": "HyperPay",
+        "url": "http://www.hyperpay.tech/",
+        "chains": "BTC,ETH,XRP,LTC,BCH,ADA,BSV,EOS,XTZ,VET,DOGE,NEO",
+        "decentration": false,
+        "logo": "9053.png",
+        "multipleChain": false
+      },
+      {
+        "id": 9025,
+        "name": "MetaMask",
+        "url": "https://metamask.io/",
+        "chains": "ETH,ETZ",
+        "decentration": false,
+        "logo": "9025.png",
+        "multipleChain": false
+      },
+      {
+        "id": 9152,
+        "name": "Binance Chain Wallet",
+        "url": "https://www.binance.org/en/blog/binance-extension-wallet/",
+        "chains": "BNB",
+        "decentration": false,
+        "logo": "9152.png",
+        "multipleChain": false
+      }
+    ],
+    "holdersFlag": true,
+    "ratingsFlag": false,
+    "analysisFlag": true,
+    "socialsFlag": true,
+    "cryptoRating": [
+      {
+        "type": "CertiK",
+        "score": 87.87,
+        "rating": 4.4,
+        "updateTime": "2024-11-17T00:00:00.000Z",
+        "link": "https://cmc.certik-skynet.com/redirect?project=tron&utm_source=CMC&utm_campaign=ScoreByCertiKLink"
+      },
+      {
+        "type": "Cyberscope",
+        "score": 88.0,
+        "rating": 4.4,
+        "updateTime": "2024-11-17T07:43:55.000Z",
+        "link": "https://www.cyberscope.io/audits/coin-tron"
+      },
+      {
+        "type": "Aggregate rating",
+        "score": 87.9,
+        "rating": 4.4,
+        "updateTime": "2024-11-18T01:00:00.179Z"
+      }
+    ],
+    "analysis": {
+      "holdingWhalesPercent": 57.858497,
+      "holdingAddressesCount": 156779515,
+      "addressByTimeHeld": {
+        "holdersPercent": 61.62306927056496,
+        "cruisersPercent": 33.127538667657,
+        "tradersPercent": 5.24939206177804
+      }
+    },
+    "coinBitesVideo": {
+      "id": "644b4b9d61634a35bb1fb0ac7d668491",
+      "category": "CoinBites",
+      "videoUrl": "https://www.youtube.com/embed/roXq2kHPnNs?si=RKte9_dkEXlKRZAC",
+      "title": "CoinBites: TRON - The Blockchain That's Giving Power Back to Creators",
+      "description": "CoinBites by CMC: Your 3-Minute Crypto Crash Course! \ud83d\ude80\ud83d\udca1\n\nExplore TRON's impact on \ud83c\udfa8 content creation, its \ud83c\udf0a BitTorrent acquisition, and \ud83d\udcb0 DeFi ecosystem.\n\nExplore TRON and every crypto at CoinMarketCap.com. \ud83d\udd0d",
+      "previewImage": "https://s3.coinmarketcap.com/static-gravity/image/a6e0886624dc4f22a52f6ecf2202a732.png"
+    },
+    "hasExtraInfoFlag": false,
+    "earnList": [
+      {
+        "id": "665845605e41f3c9a5b908fd",
+        "rank": 1,
+        "provider": {
+          "id": 3,
+          "name": "Binance"
+        },
+        "apr": [
+          2.0,
+          2.1999999999999997,
+          2.5,
+          2.8000000000000003
+        ],
+        "netApy": [
+          2.0,
+          2.1999999999999997,
+          2.5,
+          2.8000000000000003
+        ],
+        "fee": [
+          0.0
+        ],
+        "typeName": "Earn (Locked)",
+        "type": "exchange_earn",
+        "subType": "earn_locked",
+        "ecosystem": "cefi"
+      },
+      {
+        "id": "665845605e41f3c9a5b908fa",
+        "rank": 2,
+        "provider": {
+          "id": 3,
+          "name": "Binance"
+        },
+        "apr": [
+          2.516523
+        ],
+        "netApy": [
+          2.516523
+        ],
+        "fee": [
+          0.0
+        ],
+        "typeName": "Earn (Flexi)",
+        "type": "exchange_earn",
+        "subType": "earn_flexi",
+        "ecosystem": "cefi"
+      }
+    ],
+    "upcoming": {
+      "status": false
+    },
+    "annotationFlag": false,
+    "similarCoins": [
+      {
+        "id": 2010,
+        "symbol": "ADA"
+      },
+      {
+        "id": 52,
+        "symbol": "XRP"
+      },
+      {
+        "id": 1839,
+        "symbol": "BNB"
+      },
+      {
+        "id": 5426,
+        "symbol": "SOL"
+      },
+      {
+        "id": 1,
+        "symbol": "BTC"
+      },
+      {
+        "id": 7083,
+        "symbol": "UNI"
+      }
+    ]
+  },
+  "status": {
+    "timestamp": "2024-11-18T01:10:11.031Z",
+    "error_code": "0",
+    "error_message": "SUCCESS",
+    "elapsed": "2",
+    "credit_count": 0
+  }
+}

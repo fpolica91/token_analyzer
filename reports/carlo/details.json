@@ -1,0 +1,240 @@
+{
+  "data": {
+    "id": 31036,
+    "name": "Carlo",
+    "symbol": "CARLO",
+    "slug": "carlo",
+    "category": "token",
+    "description": "Meet Carlo, the dog with a pink asshole. Clinically insane? You bet. But that's what makes him a legend at flipping profits. \r\n\r\nNow, he\u2019s got his sights on dominating Base... And he wants you in on the scheme. Think of it as strapping into a decommissioned Soviet rollercoaster \u2014 downright psychotic but man will you have a story to tell. \r\n\r\nSo if you\u2019re game, better buckle up cause this dog's about to drag his big balls all over Base.\r\n\r\n (Just one rule... NEVER ask about his past)",
+    "dateAdded": "2024-05-02T12:04:37.000Z",
+    "status": "active",
+    "subStatus": "normal",
+    "notice": "",
+    "alertType": 2,
+    "alertLink": "",
+    "latestUpdateTime": "2024-11-18T01:09:00.000Z",
+    "watchCount": "1413",
+    "watchListRanking": 5536,
+    "dateLaunched": "2024-04-23T00:00:00.000Z",
+    "latestAdded": false,
+    "tags": [
+      {
+        "slug": "memes",
+        "name": "Memes",
+        "category": "INDUSTRY"
+      },
+      {
+        "slug": "base-ecosystem",
+        "name": "Base Ecosystem",
+        "category": "PLATFORM"
+      }
+    ],
+    "selfReportedTags": [
+      "Memes"
+    ],
+    "selfReportedCirculatingSupply": "1.0E+9",
+    "urls": {
+      "website": [
+        "https://www.carlo.dog/"
+      ],
+      "technical_doc": [
+        "https://www.carlo.dog/blog/first-roadmap"
+      ],
+      "explorer": [
+        "https://basescan.org/token/0x38d513ec43dda20f323f26c7bef74c5cf80b6477"
+      ],
+      "source_code": [],
+      "message_board": [
+        "https://www.carlo.dog/blog"
+      ],
+      "chat": [
+        "https://t.me/redacteddog"
+      ],
+      "announcement": [],
+      "reddit": [],
+      "facebook": [],
+      "twitter": [
+        "https://twitter.com/carlo_thedog"
+      ]
+    },
+    "volume": 36467.28251669,
+    "volumeChangePercentage24h": -61.3764,
+    "cexVolume": 0.0,
+    "dexVolume": 36467.28251669,
+    "statistics": {
+      "price": 0.0009530193069836712,
+      "priceChangePercentage1h": 1.20647168,
+      "priceChangePercentage24h": -6.4494658,
+      "priceChangePercentage7d": -0.01170707,
+      "priceChangePercentage30d": 17.55458071,
+      "priceChangePercentage60d": 77.22022131,
+      "priceChangePercentage90d": -60.12779195,
+      "priceChangePercentage1y": -35.17424189,
+      "priceChangePercentageAll": -36.611676468591,
+      "marketCap": 883383.92,
+      "marketCapChangePercentage24h": -6.4495,
+      "fullyDilutedMarketCap": 953019.31,
+      "fullyDilutedMarketCapChangePercentage24h": -6.45,
+      "circulatingSupply": 926931816.0,
+      "totalSupply": 1000000000.0,
+      "maxSupply": 1000000000.0,
+      "marketCapDominance": 0.0,
+      "rank": 1905,
+      "low24h": 0.000907477044565972,
+      "high24h": 0.001075127312458468,
+      "low7d": 0.000621750314061023,
+      "high7d": 0.001325784736973654,
+      "low30d": 0.000296456304058857,
+      "high30d": 0.001325784736973654,
+      "low90d": 0.000238692384867248,
+      "high90d": 0.002491693644169829,
+      "low52w": 0.000238692384867248,
+      "high52w": 0.020239780280500136,
+      "lowAllTime": 0.000238692384867248,
+      "highAllTime": 0.020239780280500136,
+      "lowAllTimeChangePercentage": 299.27,
+      "highAllTimeChangePercentage": -95.29,
+      "lowAllTimeTimestamp": "2024-09-19T05:21:00.000Z",
+      "highAllTimeTimestamp": "2024-06-12T20:33:00.000Z",
+      "lowYesterday": 0.000907477044565972,
+      "highYesterday": 0.001115509339244637,
+      "openYesterday": 0.001115509339244637,
+      "closeYesterday": 0.000941659517643741,
+      "priceChangePercentageYesterday": -15.58,
+      "volumeYesterday": 42155.49,
+      "turnover": 0.04128135,
+      "ytdPriceChangePercentage": 0.0,
+      "volumeRank": 3578,
+      "volumeMcRank": 2926,
+      "mcTotalNum": 10049,
+      "volumeTotalNum": 10049,
+      "volumeMcTotalNum": 10049
+    },
+    "quotes": [],
+    "platforms": [
+      {
+        "contractId": 27716,
+        "contractAddress": "0x38d513Ec43ddA20f323f26c7bef74c5cF80b6477",
+        "contractPlatform": "Base",
+        "contractPlatformId": 199,
+        "contractChainId": 8453,
+        "contractRpcUrl": [],
+        "contractNativeCurrencyName": "",
+        "contractNativeCurrencySymbol": "",
+        "contractNativeCurrencyDecimals": -1,
+        "contractBlockExplorerUrl": "",
+        "contractExplorerUrl": "https://basescan.org/token/0x38d513Ec43ddA20f323f26c7bef74c5cF80b6477",
+        "contractDecimals": 18,
+        "platformCryptoId": 27716,
+        "sort": 0,
+        "wallets": []
+      }
+    ],
+    "relatedCoins": [
+      {
+        "id": 2513,
+        "name": "GoldMint",
+        "slug": "goldmint",
+        "price": 0.05065701161697734,
+        "priceChangePercentage24h": -0.83488657,
+        "priceChangePercentage7d": 21.70106268
+      },
+      {
+        "id": 4679,
+        "name": "Band Protocol",
+        "slug": "band-protocol",
+        "price": 1.2924689407590508,
+        "priceChangePercentage24h": -5.51284503,
+        "priceChangePercentage7d": 1.82102584
+      },
+      {
+        "id": 7083,
+        "name": "Uniswap",
+        "slug": "uniswap",
+        "price": 8.907804423933275,
+        "priceChangePercentage24h": -4.39447372,
+        "priceChangePercentage7d": -3.90346035
+      },
+      {
+        "id": 1414,
+        "name": "Firo",
+        "slug": "firo",
+        "price": 1.3454938776288508,
+        "priceChangePercentage24h": 0.21867821,
+        "priceChangePercentage7d": 4.03360084
+      },
+      {
+        "id": 1975,
+        "name": "Chainlink",
+        "slug": "chainlink",
+        "price": 14.028344717813509,
+        "priceChangePercentage24h": -5.25786687,
+        "priceChangePercentage7d": -2.46572024
+      },
+      {
+        "id": 7653,
+        "name": "Oasis",
+        "slug": "oasis-network",
+        "price": 0.08025331330873264,
+        "priceChangePercentage24h": -5.30717197,
+        "priceChangePercentage7d": -4.39563858
+      },
+      {
+        "id": 707,
+        "name": "Blocknet",
+        "slug": "blocknet",
+        "price": 0.017113298239738093,
+        "priceChangePercentage24h": -0.68391562,
+        "priceChangePercentage7d": -3.30053472
+      },
+      {
+        "id": 5864,
+        "name": "yearn.finance",
+        "slug": "yearn-finance",
+        "price": 6192.38803639104,
+        "priceChangePercentage24h": -4.43119421,
+        "priceChangePercentage7d": -11.362147
+      },
+      {
+        "id": 4279,
+        "name": "Solar",
+        "slug": "sxp",
+        "price": 0.36376553390538346,
+        "priceChangePercentage24h": 2.1116243,
+        "priceChangePercentage7d": 18.12789401
+      },
+      {
+        "id": 8043,
+        "name": "MAHA.xyz",
+        "slug": "mahadao",
+        "price": 0.9034865737660874,
+        "priceChangePercentage24h": -2.68820884,
+        "priceChangePercentage7d": -9.89747239
+      }
+    ],
+    "isAudited": false,
+    "holders": {},
+    "displayTV": 0,
+    "isInfiniteMaxSupply": 0,
+    "tvCoinSymbol": "CARLO",
+    "supportWalletInfos": [],
+    "holdersFlag": false,
+    "ratingsFlag": false,
+    "analysisFlag": false,
+    "socialsFlag": true,
+    "cryptoRating": [],
+    "hasExtraInfoFlag": false,
+    "upcoming": {
+      "status": false
+    },
+    "annotationFlag": false,
+    "similarCoins": []
+  },
+  "status": {
+    "timestamp": "2024-11-18T01:09:56.790Z",
+    "error_code": "0",
+    "error_message": "SUCCESS",
+    "elapsed": "10",
+    "credit_count": 0
+  }
+}

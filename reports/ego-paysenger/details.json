@@ -1,0 +1,330 @@
+{
+  "data": {
+    "id": 21513,
+    "name": "EGO",
+    "symbol": "EGO",
+    "slug": "ego-paysenger",
+    "category": "token",
+    "description": "EGO is an internal token of the Paysenger service.\n\nPaysenger is a collaboration platform for content creators, fans and brands, bringing together the best tools for content monetization and audience engagement. Paysenger uses state-of-the-art technology as well as proprietary AI. Project is developed by an experienced team and is supported by major blockchain platforms such as BNB chain and ConsenSys.\n\nOn the platform, users can send authors paid requests for exclusive content, tips or expert opinions as well as consume paid content on a subscription basis.\n\nPaysenger expands the paid creator audience by allowing users to support creators and commission their content with EGO tokens that can be earned by completing tasks on the platform.\n\nPaysenger also allows idea creators (such as sponsors and brands) to collaborate with creators, leading to the creation of new content and bringing ideas to life. Fans get to support creators, communicate with them and order media content.\n\nMany artists find AI tools unethical because they often use datasets containing artwork taken from the Internet without permission. This can lead to visible watermarks or signatures. In addition, AI art can undermine the skills of human artists and use their labor for profit when selling generative art. Paysenger introduces a personalized AI model, an exclusive, artist-specific AI model that learns and generates art in the creator's unique style.\n\nPaysenger aims to bridge the gap between Web2 and Web3, creating an ideal environment for the mass adoption of blockchain technologies and attracting millions of Web2 users to Web3 technologies.",
+    "dateAdded": "2022-08-22T11:30:51.000Z",
+    "status": "active",
+    "subStatus": "normal",
+    "notice": "",
+    "alertType": 2,
+    "alertLink": "",
+    "latestUpdateTime": "2024-11-18T01:09:00.000Z",
+    "watchCount": "130421",
+    "watchListRanking": 397,
+    "dateLaunched": "2023-07-06T00:00:00.000Z",
+    "latestAdded": false,
+    "launchPrice": 0.06,
+    "tags": [
+      {
+        "slug": "binance-chain",
+        "name": "Binance Chain",
+        "category": "PLATFORM"
+      }
+    ],
+    "selfReportedTags": [
+      "Art",
+      "Education",
+      "Marketplace",
+      "Media",
+      "AI & Big Data",
+      "DeFi",
+      "DApp",
+      "Fan Token"
+    ],
+    "selfReportedCirculatingSupply": "1.69E+8",
+    "urls": {
+      "website": [
+        "https://egoco.in/en/",
+        "https://paysenger.com/"
+      ],
+      "technical_doc": [
+        "https://docs.paysenger.com/"
+      ],
+      "explorer": [
+        "https://bscscan.com/address/0x44a21B3577924DCD2e9C81A3347D204C36a55466"
+      ],
+      "source_code": [],
+      "message_board": [
+        "https://medium.com/@ego_paysenger"
+      ],
+      "chat": [
+        "https://t.me/egocoin_en",
+        "https://discord.gg/nFKwRFKvpm"
+      ],
+      "announcement": [],
+      "reddit": [],
+      "facebook": [],
+      "twitter": [
+        "https://twitter.com/Ego_Paysenger"
+      ]
+    },
+    "volume": 1027613.1412277,
+    "volumeChangePercentage24h": -24.0685,
+    "cexVolume": 946546.06203039,
+    "dexVolume": 81067.07919732,
+    "statistics": {
+      "price": 0.014577084184075526,
+      "priceChangePercentage1h": -7.0415738,
+      "priceChangePercentage24h": -21.28229684,
+      "priceChangePercentage7d": 96.80325625,
+      "priceChangePercentage30d": 53.50707326,
+      "priceChangePercentage60d": 47.8021746,
+      "priceChangePercentage90d": 33.78824466,
+      "priceChangePercentage1y": -29.26580997,
+      "priceChangePercentageAll": -78.520834476351,
+      "marketCap": 825191.53,
+      "marketCapChangePercentage24h": -21.2823,
+      "fullyDilutedMarketCap": 4708398.19,
+      "fullyDilutedMarketCapChangePercentage24h": -21.28,
+      "circulatingSupply": 56608820.0,
+      "totalSupply": 323000000.0,
+      "marketCapDominance": 0.0,
+      "rank": 1926,
+      "roi": -75.71176294,
+      "low24h": 0.014099990473912909,
+      "high24h": 0.01817442494056213,
+      "low7d": 0.007905382899239847,
+      "high7d": 0.03566456635266091,
+      "low30d": 0.006319393343181213,
+      "high30d": 0.03566456635266091,
+      "low90d": 0.006319393343181213,
+      "high90d": 0.03566456635266091,
+      "low52w": 0.006319393343181213,
+      "high52w": 0.1315824884726725,
+      "lowAllTime": 0.006319393343181213,
+      "highAllTime": 0.1315824884726725,
+      "lowAllTimeChangePercentage": 130.67,
+      "highAllTimeChangePercentage": -88.92,
+      "lowAllTimeTimestamp": "2024-11-04T08:36:00.000Z",
+      "highAllTimeTimestamp": "2024-03-20T08:23:00.000Z",
+      "lowYesterday": 0.014099990473912909,
+      "highYesterday": 0.019374484439922353,
+      "openYesterday": 0.019102978178506213,
+      "closeYesterday": 0.01571444821622192,
+      "priceChangePercentageYesterday": -17.74,
+      "volumeYesterday": 1178192.04,
+      "turnover": 1.24530258,
+      "ytdPriceChangePercentage": -61.1847,
+      "volumeRank": 1193,
+      "volumeMcRank": 291,
+      "mcTotalNum": 10049,
+      "volumeTotalNum": 10049,
+      "volumeMcTotalNum": 10049
+    },
+    "quotes": [],
+    "platforms": [
+      {
+        "contractId": 1839,
+        "contractAddress": "0x44a21B3577924DCD2e9C81A3347D204C36a55466",
+        "contractPlatform": "BNB Smart Chain (BEP20)",
+        "contractPlatformId": 14,
+        "contractChainId": 56,
+        "contractRpcUrl": [
+          "https://bsc-dataseed1.binance.org",
+          "https://bsc-dataseed.binance.org/",
+          "https://bsc-dataseed1.binance.org:443"
+        ],
+        "contractNativeCurrencyName": "Binance Chain Native Token",
+        "contractNativeCurrencySymbol": "BNB",
+        "contractNativeCurrencyDecimals": 18,
+        "contractBlockExplorerUrl": "https://bscscan.com/",
+        "contractExplorerUrl": "https://bscscan.com/token/0x44a21B3577924DCD2e9C81A3347D204C36a55466",
+        "contractDecimals": 18,
+        "platformCryptoId": 1839,
+        "sort": 0,
+        "wallets": [
+          {
+            "id": 9025
+          }
+        ]
+      }
+    ],
+    "relatedCoins": [
+      {
+        "id": 2513,
+        "name": "GoldMint",
+        "slug": "goldmint",
+        "price": 0.05065701161697734,
+        "priceChangePercentage24h": -0.83488657,
+        "priceChangePercentage7d": 21.70106268
+      },
+      {
+        "id": 4679,
+        "name": "Band Protocol",
+        "slug": "band-protocol",
+        "price": 1.2924689407590508,
+        "priceChangePercentage24h": -5.51284503,
+        "priceChangePercentage7d": 1.82102584
+      },
+      {
+        "id": 7083,
+        "name": "Uniswap",
+        "slug": "uniswap",
+        "price": 8.907804423933275,
+        "priceChangePercentage24h": -4.39447372,
+        "priceChangePercentage7d": -3.90346035
+      },
+      {
+        "id": 1414,
+        "name": "Firo",
+        "slug": "firo",
+        "price": 1.3454938776288508,
+        "priceChangePercentage24h": 0.21867821,
+        "priceChangePercentage7d": 4.03360084
+      },
+      {
+        "id": 1975,
+        "name": "Chainlink",
+        "slug": "chainlink",
+        "price": 14.028344717813509,
+        "priceChangePercentage24h": -5.25786687,
+        "priceChangePercentage7d": -2.46572024
+      },
+      {
+        "id": 7653,
+        "name": "Oasis",
+        "slug": "oasis-network",
+        "price": 0.08025331330873264,
+        "priceChangePercentage24h": -5.30717197,
+        "priceChangePercentage7d": -4.39563858
+      },
+      {
+        "id": 707,
+        "name": "Blocknet",
+        "slug": "blocknet",
+        "price": 0.017113298239738093,
+        "priceChangePercentage24h": -0.68391562,
+        "priceChangePercentage7d": -3.30053472
+      },
+      {
+        "id": 5864,
+        "name": "yearn.finance",
+        "slug": "yearn-finance",
+        "price": 6192.38803639104,
+        "priceChangePercentage24h": -4.43119421,
+        "priceChangePercentage7d": -11.362147
+      },
+      {
+        "id": 4279,
+        "name": "Solar",
+        "slug": "sxp",
+        "price": 0.36376553390538346,
+        "priceChangePercentage24h": 2.1116243,
+        "priceChangePercentage7d": 18.12789401
+      },
+      {
+        "id": 8043,
+        "name": "MAHA.xyz",
+        "slug": "mahadao",
+        "price": 0.9034865737660874,
+        "priceChangePercentage24h": -2.68820884,
+        "priceChangePercentage7d": -9.89747239
+      }
+    ],
+    "isAudited": true,
+    "auditInfos": [
+      {
+        "coinId": "21513",
+        "auditor": "CertiK",
+        "auditStatus": 2,
+        "auditTime": "2023-05-04T15:45:01.350Z",
+        "reportUrl": "https://cmc.certik-skynet.com/redirect?project=ego"
+      }
+    ],
+    "holders": {},
+    "displayTV": 1,
+    "isInfiniteMaxSupply": 0,
+    "tvCoinSymbol": "EGO",
+    "supportWalletInfos": [],
+    "holdersFlag": false,
+    "ratingsFlag": false,
+    "analysisFlag": false,
+    "socialsFlag": true,
+    "cryptoRating": [
+      {
+        "type": "CertiK",
+        "score": 84.14,
+        "rating": 4.2,
+        "updateTime": "2024-11-17T00:00:00.000Z",
+        "link": "https://cmc.certik-skynet.com/redirect?project=ego&utm_source=CMC&utm_campaign=ScoreByCertiKLink"
+      },
+      {
+        "type": "Cyberscope",
+        "score": 75.0,
+        "rating": 3.8,
+        "updateTime": "2024-11-17T09:52:18.000Z",
+        "link": "https://www.cyberscope.io/audits/coin-ego-paysenger"
+      },
+      {
+        "type": "Aggregate rating",
+        "score": 79.6,
+        "rating": 4.0,
+        "updateTime": "2024-11-18T01:00:00.193Z"
+      }
+    ],
+    "tokenUnlockLatest": {
+      "cryptoId": 21513,
+      "totalUnlockedPercentage": 40.58,
+      "tokenUnlockedAmount": 135132439.17255318,
+      "tokenLockedAmount": 197868013.7074466,
+      "tokenUntrackedAmount": 0,
+      "nextUnlocked": {
+        "tokenAmount": 2093648.93617021,
+        "tokenAmountUsd": 30519.29679445332,
+        "tokenAmountPercentage": 0.63,
+        "date": 1732060800000
+      },
+      "nextUnlockedDetail": [
+        {
+          "tokenAmount": 2093648.93617021,
+          "tokenAmountUsd": 30519.29679445332,
+          "allocationName": "Marketing & Ecosystem",
+          "vestingType": "linear"
+        }
+      ],
+      "updateTime": "2024-11-18T01:04:07.750Z"
+    },
+    "hasExtraInfoFlag": false,
+    "upcoming": {
+      "status": false
+    },
+    "annotationFlag": false,
+    "similarCoins": [
+      {
+        "id": 2572,
+        "symbol": "BAX"
+      },
+      {
+        "id": 23756,
+        "symbol": "CGPT"
+      },
+      {
+        "id": 28675,
+        "symbol": "COQ"
+      },
+      {
+        "id": 10804,
+        "symbol": "FLOKI"
+      },
+      {
+        "id": 29870,
+        "symbol": "BOME"
+      },
+      {
+        "id": 2305,
+        "symbol": "NGC"
+      }
+    ]
+  },
+  "status": {
+    "timestamp": "2024-11-18T01:09:58.973Z",
+    "error_code": "0",
+    "error_message": "SUCCESS",
+    "elapsed": "9",
+    "credit_count": 0
+  }
+}

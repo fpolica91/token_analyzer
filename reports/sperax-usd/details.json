@@ -1,0 +1,303 @@
+{
+  "data": {
+    "id": 17285,
+    "name": "Sperax USD",
+    "symbol": "USDs",
+    "slug": "sperax-usd",
+    "category": "token",
+    "description": "Sperax USD (USDs) is a stablecoin which generates auto-yield natively. Currently, USDs is live on Arbitrum, the largest Layer-2 Ecosystem of Ethereum. Eventually, Sperax will build a system of interoperability so that USDs will be natively deployed to all major blockchain platforms.\n\n**The highlights of USDS protocol:**\n\n**Auto-yield.**\nUsers holding USDs in their wallets automatically earn organic yield. Neither staking not claiming required by the end user. Users do not need to spend gas and their time calling the smart contract to claim their yield - the yield is distributed directly to the wallets of USDs holders.\n\n**Layer2-native**\nCheaper transaction fees on Arbitrum make this protocol retail investor-friendly\n\n**Fully Backed Model**\n USDs is 100% backed by a diversified basket of whitelisted stablecoins.",
+    "dateAdded": "2022-01-14T04:28:57.000Z",
+    "status": "active",
+    "subStatus": "normal",
+    "notice": "",
+    "alertType": 2,
+    "alertLink": "",
+    "latestUpdateTime": "2024-11-18T01:09:00.000Z",
+    "watchCount": "508",
+    "watchListRanking": 7360,
+    "dateLaunched": "2021-12-22T00:00:00.000Z",
+    "latestAdded": false,
+    "tags": [
+      {
+        "slug": "stablecoin",
+        "name": "Stablecoin",
+        "category": "CATEGORY"
+      },
+      {
+        "slug": "arbitrum-ecosytem",
+        "name": "Arbitrum Ecosystem",
+        "category": "PLATFORM"
+      }
+    ],
+    "selfReportedTags": [
+      "Stablecoin",
+      "Arbitrum Ecosystem"
+    ],
+    "selfReportedCirculatingSupply": "1726306.0",
+    "urls": {
+      "website": [
+        "http://sperax.io/",
+        "https://sperax.io/USDs"
+      ],
+      "technical_doc": [
+        "https://docs.sperax.io"
+      ],
+      "explorer": [
+        "https://arbiscan.io/token/0xd74f5255d557944cf7dd0e45ff521520002d5748"
+      ],
+      "source_code": [
+        "https://github.com/Sperax"
+      ],
+      "message_board": [
+        "https://medium.com/sperax",
+        "https://sperax169.substack.com/"
+      ],
+      "chat": [
+        "https://discord.gg/cFdcvj9jMm",
+        "https://t.me/SperaxUSD"
+      ],
+      "announcement": [
+        "https://twitter.com/SperaxUSD/status/1474242087839096832"
+      ],
+      "reddit": [],
+      "facebook": [],
+      "twitter": [
+        "https://twitter.com/SperaxUSD"
+      ]
+    },
+    "volume": 54527.8006925,
+    "volumeChangePercentage24h": -18.7386,
+    "cexVolume": 32586.86121397,
+    "dexVolume": 21940.93947853,
+    "statistics": {
+      "price": 1.0017915697555728,
+      "priceChangePercentage1h": 0.0907216,
+      "priceChangePercentage24h": 0.18227959,
+      "priceChangePercentage7d": 0.07927303,
+      "priceChangePercentage30d": 0.51522848,
+      "priceChangePercentage60d": 0.16594231,
+      "priceChangePercentage90d": 0.1322294,
+      "priceChangePercentage1y": 0.27656701,
+      "priceChangePercentageAll": -0.490007989827,
+      "marketCap": 820689.0,
+      "marketCapChangePercentage24h": 0.1767,
+      "fullyDilutedMarketCap": 820689.0,
+      "fullyDilutedMarketCapChangePercentage24h": 0.18,
+      "circulatingSupply": 819221.30859679,
+      "totalSupply": 819221.30859679,
+      "marketCapDominance": 0.0,
+      "rank": 1929,
+      "low24h": 0.9982386733245971,
+      "high24h": 1.0076704541579724,
+      "low7d": 0.9966755227628429,
+      "high7d": 1.0128456174293352,
+      "low30d": 0.9914302412094292,
+      "high30d": 1.0161430339590432,
+      "low90d": 0.9904508116805161,
+      "high90d": 1.0161430339590432,
+      "low52w": 0.9862144100064362,
+      "high52w": 1.0161430339590432,
+      "lowAllTime": 0.0,
+      "highAllTime": 1468.6347326731118,
+      "lowAllTimeChangePercentage": 0,
+      "highAllTimeChangePercentage": -99.93,
+      "lowAllTimeTimestamp": "2022-08-17T09:44:04.000Z",
+      "highAllTimeTimestamp": "2022-01-26T17:13:00.000Z",
+      "lowYesterday": 0.9966755227628429,
+      "highYesterday": 1.0076704541579724,
+      "openYesterday": 1.0005135490400014,
+      "closeYesterday": 1.0008425974600608,
+      "priceChangePercentageYesterday": 0.03,
+      "volumeYesterday": 57096.48,
+      "turnover": 0.06644149,
+      "ytdPriceChangePercentage": 0.0572,
+      "volumeRank": 3276,
+      "volumeMcRank": 2343,
+      "mcTotalNum": 10049,
+      "volumeTotalNum": 10049,
+      "volumeMcTotalNum": 10049
+    },
+    "quotes": [],
+    "platforms": [
+      {
+        "contractId": 11841,
+        "contractAddress": "0xd74f5255d557944cf7dd0e45ff521520002d5748",
+        "contractPlatform": "Arbitrum",
+        "contractPlatformId": 51,
+        "contractChainId": 42161,
+        "contractRpcUrl": [],
+        "contractNativeCurrencyName": "",
+        "contractNativeCurrencySymbol": "",
+        "contractNativeCurrencyDecimals": -1,
+        "contractBlockExplorerUrl": "",
+        "contractExplorerUrl": "https://arbiscan.io/token/0xd74f5255d557944cf7dd0e45ff521520002d5748",
+        "contractDecimals": 18,
+        "platformCryptoId": 11841,
+        "sort": 0,
+        "wallets": []
+      }
+    ],
+    "relatedCoins": [
+      {
+        "id": 2513,
+        "name": "GoldMint",
+        "slug": "goldmint",
+        "price": 0.05065701161697734,
+        "priceChangePercentage24h": -0.83488657,
+        "priceChangePercentage7d": 21.70106268
+      },
+      {
+        "id": 4679,
+        "name": "Band Protocol",
+        "slug": "band-protocol",
+        "price": 1.2924689407590508,
+        "priceChangePercentage24h": -5.51284503,
+        "priceChangePercentage7d": 1.82102584
+      },
+      {
+        "id": 7083,
+        "name": "Uniswap",
+        "slug": "uniswap",
+        "price": 8.907804423933275,
+        "priceChangePercentage24h": -4.39447372,
+        "priceChangePercentage7d": -3.90346035
+      },
+      {
+        "id": 1414,
+        "name": "Firo",
+        "slug": "firo",
+        "price": 1.3454938776288508,
+        "priceChangePercentage24h": 0.21867821,
+        "priceChangePercentage7d": 4.03360084
+      },
+      {
+        "id": 1975,
+        "name": "Chainlink",
+        "slug": "chainlink",
+        "price": 14.028344717813509,
+        "priceChangePercentage24h": -5.25786687,
+        "priceChangePercentage7d": -2.46572024
+      },
+      {
+        "id": 7653,
+        "name": "Oasis",
+        "slug": "oasis-network",
+        "price": 0.08025331330873264,
+        "priceChangePercentage24h": -5.30717197,
+        "priceChangePercentage7d": -4.39563858
+      },
+      {
+        "id": 707,
+        "name": "Blocknet",
+        "slug": "blocknet",
+        "price": 0.017113298239738093,
+        "priceChangePercentage24h": -0.68391562,
+        "priceChangePercentage7d": -3.30053472
+      },
+      {
+        "id": 5864,
+        "name": "yearn.finance",
+        "slug": "yearn-finance",
+        "price": 6192.38803639104,
+        "priceChangePercentage24h": -4.43119421,
+        "priceChangePercentage7d": -11.362147
+      },
+      {
+        "id": 4279,
+        "name": "Solar",
+        "slug": "sxp",
+        "price": 0.36376553390538346,
+        "priceChangePercentage24h": 2.1116243,
+        "priceChangePercentage7d": 18.12789401
+      },
+      {
+        "id": 8043,
+        "name": "MAHA.xyz",
+        "slug": "mahadao",
+        "price": 0.9034865737660874,
+        "priceChangePercentage24h": -2.68820884,
+        "priceChangePercentage7d": -9.89747239
+      }
+    ],
+    "isAudited": true,
+    "auditInfos": [
+      {
+        "coinId": "17285",
+        "auditor": "Quantstamp",
+        "auditStatus": 2,
+        "score": "N/A",
+        "auditTime": "2024-01-22",
+        "reportUrl": "https://certificate.quantstamp.com/full/sperax-us-ds/0612feed-ab51-4cb5-a2b2-32ed244dc385/index.html"
+      }
+    ],
+    "holders": {},
+    "displayTV": 1,
+    "isInfiniteMaxSupply": 0,
+    "tvCoinSymbol": "USDs",
+    "supportWalletInfos": [],
+    "holdersFlag": false,
+    "ratingsFlag": false,
+    "analysisFlag": false,
+    "socialsFlag": true,
+    "cryptoRating": [
+      {
+        "type": "CertiK",
+        "score": 73.5,
+        "rating": 3.7,
+        "updateTime": "2024-11-17T00:00:00.000Z",
+        "link": "https://cmc.certik-skynet.com/redirect?project=sperax-usd&utm_source=CMC&utm_campaign=ScoreByCertiKLink"
+      },
+      {
+        "type": "Cyberscope",
+        "score": 75.0,
+        "rating": 3.8,
+        "updateTime": "2024-11-17T10:38:18.000Z",
+        "link": "https://www.cyberscope.io/audits/coin-sperax-usd"
+      },
+      {
+        "type": "Aggregate rating",
+        "score": 74.3,
+        "rating": 3.8,
+        "updateTime": "2024-11-18T01:00:00.175Z"
+      }
+    ],
+    "hasExtraInfoFlag": false,
+    "upcoming": {
+      "status": false
+    },
+    "annotationFlag": false,
+    "similarCoins": [
+      {
+        "id": 2927,
+        "symbol": "SUSD"
+      },
+      {
+        "id": 12439,
+        "symbol": "BRCP"
+      },
+      {
+        "id": 3759,
+        "symbol": "JNB"
+      },
+      {
+        "id": 1903,
+        "symbol": "HC"
+      },
+      {
+        "id": 2563,
+        "symbol": "TUSD"
+      },
+      {
+        "id": 7236,
+        "symbol": "CUSD"
+      }
+    ]
+  },
+  "status": {
+    "timestamp": "2024-11-18T01:09:59.333Z",
+    "error_code": "0",
+    "error_message": "SUCCESS",
+    "elapsed": "10",
+    "credit_count": 0
+  }
+}

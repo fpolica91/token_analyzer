@@ -1,0 +1,168 @@
+{
+  "data": {
+    "id": 1924,
+    "name": "Aureus",
+    "symbol": "AURS",
+    "slug": "aureus",
+    "category": "coin",
+    "description": "Aureus (AURS) is a cryptocurrency . Aureus has a current supply of 0. The last known price of Aureus is 13.72327709 USD and is up 0.00 over the last 24 hours. More information can be found at http://aureus.cc/.",
+    "dateAdded": "2017-08-27T00:00:00.000Z",
+    "status": "inactive",
+    "notice": "",
+    "alertType": 2,
+    "alertLink": "",
+    "latestUpdateTime": "2017-11-10T21:54:24.000Z",
+    "watchCount": "21",
+    "watchListRanking": -1,
+    "latestAdded": false,
+    "tags": [],
+    "urls": {
+      "website": [
+        "http://aureus.cc/"
+      ],
+      "technical_doc": [],
+      "explorer": [],
+      "source_code": [
+        "https://github.com/aureus22/aureus-sourcecode"
+      ],
+      "message_board": [],
+      "chat": [],
+      "announcement": [
+        "https://bitcointalk.org/index.php?topic=1865911.0"
+      ],
+      "reddit": [],
+      "facebook": [],
+      "twitter": [
+        "https://twitter.com/AureusCC"
+      ]
+    },
+    "volume": 0.0,
+    "volumeChangePercentage24h": 0.0,
+    "cexVolume": 0.0,
+    "dexVolume": 0.0,
+    "statistics": {
+      "priceChangePercentage1h": 0.0,
+      "priceChangePercentage24h": 0.0,
+      "priceChangePercentage7d": 0.0,
+      "priceChangePercentage30d": 0.0,
+      "priceChangePercentage60d": 0.0,
+      "priceChangePercentage90d": 0.0,
+      "priceChangePercentage1y": 0.0,
+      "marketCap": 0.0,
+      "marketCapChangePercentage24h": 0.0,
+      "fullyDilutedMarketCap": 0.0,
+      "fullyDilutedMarketCapChangePercentage24h": 0.0,
+      "circulatingSupply": 0.0,
+      "totalSupply": 0.0,
+      "marketCapDominance": 0.0,
+      "ytdPriceChangePercentage": 0.0
+    },
+    "quotes": [],
+    "relatedCoins": [
+      {
+        "id": 2513,
+        "name": "GoldMint",
+        "slug": "goldmint",
+        "price": 0.05065701161697734,
+        "priceChangePercentage24h": -0.83488657,
+        "priceChangePercentage7d": 21.70106268
+      },
+      {
+        "id": 4679,
+        "name": "Band Protocol",
+        "slug": "band-protocol",
+        "price": 1.2924689407590508,
+        "priceChangePercentage24h": -5.51284503,
+        "priceChangePercentage7d": 1.82102584
+      },
+      {
+        "id": 7083,
+        "name": "Uniswap",
+        "slug": "uniswap",
+        "price": 8.907804423933275,
+        "priceChangePercentage24h": -4.39447372,
+        "priceChangePercentage7d": -3.90346035
+      },
+      {
+        "id": 1414,
+        "name": "Firo",
+        "slug": "firo",
+        "price": 1.3454938776288508,
+        "priceChangePercentage24h": 0.21867821,
+        "priceChangePercentage7d": 4.03360084
+      },
+      {
+        "id": 1975,
+        "name": "Chainlink",
+        "slug": "chainlink",
+        "price": 14.028344717813509,
+        "priceChangePercentage24h": -5.25786687,
+        "priceChangePercentage7d": -2.46572024
+      },
+      {
+        "id": 7653,
+        "name": "Oasis",
+        "slug": "oasis-network",
+        "price": 0.08025331330873264,
+        "priceChangePercentage24h": -5.30717197,
+        "priceChangePercentage7d": -4.39563858
+      },
+      {
+        "id": 707,
+        "name": "Blocknet",
+        "slug": "blocknet",
+        "price": 0.017113298239738093,
+        "priceChangePercentage24h": -0.68391562,
+        "priceChangePercentage7d": -3.30053472
+      },
+      {
+        "id": 5864,
+        "name": "yearn.finance",
+        "slug": "yearn-finance",
+        "price": 6192.38803639104,
+        "priceChangePercentage24h": -4.43119421,
+        "priceChangePercentage7d": -11.362147
+      },
+      {
+        "id": 4279,
+        "name": "Solar",
+        "slug": "sxp",
+        "price": 0.36376553390538346,
+        "priceChangePercentage24h": 2.1116243,
+        "priceChangePercentage7d": 18.12789401
+      },
+      {
+        "id": 8043,
+        "name": "MAHA.xyz",
+        "slug": "mahadao",
+        "price": 0.9034865737660874,
+        "priceChangePercentage24h": -2.68820884,
+        "priceChangePercentage7d": -9.89747239
+      }
+    ],
+    "isAudited": false,
+    "holders": {},
+    "displayTV": 0,
+    "isInfiniteMaxSupply": 0,
+    "tvCoinSymbol": "AURS",
+    "supportWalletInfos": [],
+    "holdersFlag": false,
+    "ratingsFlag": false,
+    "analysisFlag": false,
+    "socialsFlag": true,
+    "cryptoRating": [],
+    "hasExtraInfoFlag": false,
+    "upcoming": {
+      "status": false
+    },
+    "annotationFlag": false,
+    "similarCoins": []
+  },
+  "status": {
+    "timestamp": "2024-11-18T01:10:07.821Z",
+    "error_code": "0",
+    "error_message": "SUCCESS",
+    "elapsed": "7",
+    "credit_count": 0
+  }
+}

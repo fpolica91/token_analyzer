@@ -1,0 +1,895 @@
+{
+  "data": {
+    "id": 7301,
+    "name": "AurusX",
+    "symbol": "AX",
+    "slug": "aurusx",
+    "category": "token",
+    "description": "## What Is AurusX (AX)?\nAurusX (AX) is an Ethereum token limited to a total supply of 30 million that powers the Aurus Ecosystem, a decentralized network of precious metals-backed tokens. AurusX can be used to create and vote on proposals governing Aurus and can be staked to earn a portion of transactions fees: 50% from [tGOLD (tXAU)](https://coinmarketcap.com/currencies/tgold/), and 30% from [tSILVER (tXAG)](https://coinmarketcap.com/currencies/tsilver/) and tPLATINUM (tXPT).\n\n\n## What are the benefits of AurusX?\nAurusX (AX) tokens are scarce and represent a stake in the Aurus ecosystem. With a limited total supply of 30 million tokens, only 50% of AurusX is reserved for investors. *The more AurusX you own, the higher percentage of rewards you receive and voting power you have.*\n\n**Earn rewards paid in Gold, Silver and Platinum**\nAurusX (AX)  holders receive a share of the fees generated within the Aurus Ecosystem. As people around the world trade Aurus precious metals-backed tokens, a portion of the fees generated are distributed among AurusX token holders, paid in gold (tGOLD), silver (tSILVER), and platinum (tPLATINUM).\n*\u2192 Stake AurusX and claim rewards via the [Aurus Mobile App](https://aurus.io/mobile-app)\n\n \n**Vote on ecosystem proposals**\nAurusX offers its holders rights to governance voting. Community members with a stake in the ecosystem can implement changes by voting on proposals. Have a say as to how the Aurus ecosystem moves forward with AurusX.\n*\u2192 Create and vote on proposals via the [Aurus Mobile App](https://aurus.io/mobile-app) in Q2 2024*\n\n\n## Where Can You Buy AurusX?\nAurusX can be bought from various Aurus partnered exchanges with multiple fiat and crypto trading pairs available.\n\nExchanges: [MEXC (AX/USDT)](https://www.mexc.com/exchange/AX_USDT), [AscendEX (AX/USDT)](https://ascendex.com/en/cashtrade-spottrading/usdt/ax), [CEX.IO (AWX/EUR)](https://plus.cex.io/market/AX-USD)\n\n\n## What Is Aurus? \nAurus, the company behind AurusX (AX), was founded in 2018 and provides the software, network and blockchain infrastructure for global precious metals businesses and financial institutions to merge with the future of finance, in the form of DeFi and Web3 applications. The Aurus platform empowers a global network of precious metals providers, vaults and dealers to autonomously tokenize physical gold, silver, and platinum bullions into tGOLD, tSILVER and tPLATINUM.\n \nAurus is setting out to create a more inclusive and efficient precious metals market - democratizing access to gold, silver, and platinum for retail and institutional investors alike.\n\n\n## The Aurus Ecosystem \nThe Aurus Ecosystem is a highly scalable, self-sustaining global network of precious metals providers, vaults and distributors that interact with the Aurus blockchain platform to independently mint and distribute precious metals-backed tokens globally.\n\n\n## Value proposition and the pain point that Aurus solves:\nB2C - Previously, the only way to invest in precious metals involved buying from a bullion dealer for a premium and paying storage fees, or through an ETF. While ETFs provide price exposure, they do not represent ownership of physically allocated metals and cannot be redeemed. Aurus leverages blockchain to allow for: 24/7 trading; fiat/crypto exchange listings; peer-to-peer transfers; instantaneous settlement on all transactions.\n \nB2B - Aurus doesn\u2019t compete, it collaborates with traditional precious metals industry players, providing access to high-tech products, a huge addressable market, and passive revenues. Aurus empowers bullion dealers to offer new and innovative digital products and execute frictionless instant settlements, enabling them to expand into new market geographics and demographics, and to access new recurring revenue streams (instead of one-off premiums).  \n\n\n## The Aurus Team\nAurus is led by a strong team of commodity and financial industry veterans. See full team [here](https://aurus.io/about-us).\n \nDirectors:\n* Guido van Stijn - Managing Director\n* Mark Gesterkamp - Business Development\n* Dan Cearnau - Chief Technological Officer\n* Jonathan Boyd - Global Institutional Markets\n\n\nBoard of Non-executive Advisors:\n* Tony Dobra - Tony is a 40-year veteran of the precious metals industry. Working as a physical and derivatives trader in London, Frankfurt, Hong Kong and Luxembourg. He was then the Director of UK\u2019s largest gold refinery, Baird & Co. for ten years.\n* Jason Toussaint - Jason has deep experience in asset management, precious metals, and fintech industries. He was previously CEO of SPDR Gold Shares (GLD), the world\u2019s largest gold ETF, where he led the growth in assets to over $78 billion. He was also Managing Director and Global Head of Investment at the World Gold Council.\n* Grant Angwin - Grant is a 30+ year precious metals industry veteran, having held senior management positions at Johnson Matthey, including President of the North American gold and silver business. He was President of Asahi Refining and has held various roles at global industry associations, including Chairman of the LBMA.\n* Rex Johnson - Rex has extensive experience working in the Finance industry holding a number of senior trading and broking positions. He has been involved in multiple cryptocurrency start-ups and was previously a board member of an FCA-regulated physical Gold trading company.",
+    "dateAdded": "2020-10-05T00:00:00.000Z",
+    "status": "active",
+    "subStatus": "normal",
+    "notice": "",
+    "alertType": 2,
+    "alertLink": "",
+    "latestUpdateTime": "2024-11-18T01:09:00.000Z",
+    "watchCount": "1630",
+    "watchListRanking": 5254,
+    "latestAdded": false,
+    "launchPrice": 2.59364,
+    "tags": [
+      {
+        "slug": "commodities",
+        "name": "Commodities",
+        "category": "INDUSTRY"
+      },
+      {
+        "slug": "ethereum-ecosystem",
+        "name": "Ethereum Ecosystem",
+        "category": "PLATFORM"
+      }
+    ],
+    "selfReportedTags": [
+      "PoW",
+      "Commodities",
+      "Store Of Value",
+      "DeFi",
+      "Ethereum Ecosystem",
+      "Yield Farming",
+      "Polygon Ecosystem",
+      "Token"
+    ],
+    "selfReportedCirculatingSupply": "539352118",
+    "urls": {
+      "website": [
+        "https://www.aurus.io/"
+      ],
+      "technical_doc": [
+        "https://aurus.io/resources/whitepaper.pdf"
+      ],
+      "explorer": [
+        "https://etherscan.io/token/0xcb0d82f4dfa503c9e3b8abc7a3caa01175b2da39",
+        "https://polygonscan.com/token/0x1a763170b96f23f15576d0fa0b2619d1254c437d"
+      ],
+      "source_code": [
+        "https://github.com/aurus-gold"
+      ],
+      "message_board": [
+        "https://aurus.io/news"
+      ],
+      "chat": [
+        "https://t.me/AurusOfficial"
+      ],
+      "announcement": [],
+      "reddit": [
+        "https://reddit.com/r/Aurus"
+      ],
+      "facebook": [
+        "https://www.facebook.com/aurusofficial"
+      ],
+      "twitter": [
+        "https://twitter.com/AurusOfficial"
+      ]
+    },
+    "volume": 3008.24338031,
+    "volumeChangePercentage24h": -61.4385,
+    "cexVolume": 1307.02810697,
+    "dexVolume": 1701.21527335,
+    "statistics": {
+      "price": 0.27209506220688834,
+      "priceChangePercentage1h": -0.64343613,
+      "priceChangePercentage24h": -2.48161325,
+      "priceChangePercentage7d": -9.04598128,
+      "priceChangePercentage30d": -17.97864886,
+      "priceChangePercentage60d": -9.79493437,
+      "priceChangePercentage90d": 1.14237633,
+      "priceChangePercentage1y": 7.19507036,
+      "priceChangePercentageAll": -89.129876388316,
+      "marketCap": 776529.65,
+      "marketCapChangePercentage24h": -2.4816,
+      "fullyDilutedMarketCap": 8162851.87,
+      "fullyDilutedMarketCapChangePercentage24h": -2.48,
+      "circulatingSupply": 2853891.0,
+      "totalSupply": 30000000.0,
+      "maxSupply": 30000000.0,
+      "marketCapDominance": 0.0,
+      "rank": 1949,
+      "roi": -89.50914305,
+      "low24h": 0.26310448624477,
+      "high24h": 0.2877991689445219,
+      "low7d": 0.1919988786677265,
+      "high7d": 0.33956242143228554,
+      "low30d": 0.1919988786677265,
+      "high30d": 0.3961285712995486,
+      "low90d": 0.1919988786677265,
+      "high90d": 0.496509200881313,
+      "low52w": 0.1919988786677265,
+      "high52w": 1.7292862154492623,
+      "lowAllTime": 0.0,
+      "highAllTime": 28.62682125,
+      "lowAllTimeChangePercentage": 0,
+      "highAllTimeChangePercentage": -99.05,
+      "lowAllTimeTimestamp": "2021-02-10T15:55:04.000Z",
+      "highAllTimeTimestamp": "2021-04-09T13:43:03.000Z",
+      "lowYesterday": 0.26310448624477,
+      "highYesterday": 0.2877991689445219,
+      "openYesterday": 0.27901336263678134,
+      "closeYesterday": 0.2739689480319383,
+      "priceChangePercentageYesterday": -1.81,
+      "volumeYesterday": 3139.47,
+      "turnover": 0.00387396,
+      "ytdPriceChangePercentage": -29.4503,
+      "volumeRank": 5257,
+      "volumeMcRank": 5508,
+      "mcTotalNum": 10049,
+      "volumeTotalNum": 10049,
+      "volumeMcTotalNum": 10049
+    },
+    "quotes": [],
+    "platforms": [
+      {
+        "contractId": 1027,
+        "contractAddress": "0xCB0D82f4DFA503C9e3b8Abc7A3Caa01175b2dA39",
+        "contractPlatform": "Ethereum",
+        "contractPlatformId": 1,
+        "contractChainId": 1,
+        "contractRpcUrl": [
+          "https://bsc-dataseed1.binance.org",
+          "https://bsc-dataseed.binance.org/",
+          "https://bsc-dataseed1.binance.org:443"
+        ],
+        "contractNativeCurrencyName": "Ethereum",
+        "contractNativeCurrencySymbol": "ETH",
+        "contractNativeCurrencyDecimals": 18,
+        "contractBlockExplorerUrl": "https://etherscan.io",
+        "contractExplorerUrl": "https://etherscan.io/token/0xCB0D82f4DFA503C9e3b8Abc7A3Caa01175b2dA39",
+        "contractDecimals": 18,
+        "platformCryptoId": 1027,
+        "sort": 0,
+        "wallets": [
+          {
+            "id": 9025
+          }
+        ]
+      },
+      {
+        "contractId": 3890,
+        "contractAddress": "0x1a763170B96F23f15576D0fa0b2619d1254c437d",
+        "contractPlatform": "Polygon",
+        "contractPlatformId": 25,
+        "contractChainId": 137,
+        "contractRpcUrl": [
+          "https://rpc-mainnet.maticvigil.com"
+        ],
+        "contractNativeCurrencyName": "MATIC",
+        "contractNativeCurrencySymbol": "MATIC",
+        "contractNativeCurrencyDecimals": 18,
+        "contractBlockExplorerUrl": "https://polygonscan.com",
+        "contractExplorerUrl": "https://polygonscan.com/token/0x1a763170B96F23f15576D0fa0b2619d1254c437d",
+        "contractDecimals": 18,
+        "platformCryptoId": 3890,
+        "sort": 0,
+        "wallets": [
+          {
+            "id": 9025
+          }
+        ]
+      }
+    ],
+    "relatedCoins": [
+      {
+        "id": 2513,
+        "name": "GoldMint",
+        "slug": "goldmint",
+        "price": 0.05065701161697734,
+        "priceChangePercentage24h": -0.83488657,
+        "priceChangePercentage7d": 21.70106268
+      },
+      {
+        "id": 4679,
+        "name": "Band Protocol",
+        "slug": "band-protocol",
+        "price": 1.2924689407590508,
+        "priceChangePercentage24h": -5.51284503,
+        "priceChangePercentage7d": 1.82102584
+      },
+      {
+        "id": 7083,
+        "name": "Uniswap",
+        "slug": "uniswap",
+        "price": 8.907804423933275,
+        "priceChangePercentage24h": -4.39447372,
+        "priceChangePercentage7d": -3.90346035
+      },
+      {
+        "id": 1414,
+        "name": "Firo",
+        "slug": "firo",
+        "price": 1.3454938776288508,
+        "priceChangePercentage24h": 0.21867821,
+        "priceChangePercentage7d": 4.03360084
+      },
+      {
+        "id": 1975,
+        "name": "Chainlink",
+        "slug": "chainlink",
+        "price": 14.028344717813509,
+        "priceChangePercentage24h": -5.25786687,
+        "priceChangePercentage7d": -2.46572024
+      },
+      {
+        "id": 7653,
+        "name": "Oasis",
+        "slug": "oasis-network",
+        "price": 0.08025331330873264,
+        "priceChangePercentage24h": -5.30717197,
+        "priceChangePercentage7d": -4.39563858
+      },
+      {
+        "id": 707,
+        "name": "Blocknet",
+        "slug": "blocknet",
+        "price": 0.017113298239738093,
+        "priceChangePercentage24h": -0.68391562,
+        "priceChangePercentage7d": -3.30053472
+      },
+      {
+        "id": 5864,
+        "name": "yearn.finance",
+        "slug": "yearn-finance",
+        "price": 6192.38803639104,
+        "priceChangePercentage24h": -4.43119421,
+        "priceChangePercentage7d": -11.362147
+      },
+      {
+        "id": 4279,
+        "name": "Solar",
+        "slug": "sxp",
+        "price": 0.36376553390538346,
+        "priceChangePercentage24h": 2.1116243,
+        "priceChangePercentage7d": 18.12789401
+      },
+      {
+        "id": 8043,
+        "name": "MAHA.xyz",
+        "slug": "mahadao",
+        "price": 0.9034865737660874,
+        "priceChangePercentage24h": -2.68820884,
+        "priceChangePercentage7d": -9.89747239
+      }
+    ],
+    "wallets": [
+      {
+        "id": 9022,
+        "name": "Trust Wallet",
+        "tier": 1,
+        "url": "https://www.trustwallet.com/",
+        "chains": "ETH",
+        "types": "app,trade",
+        "introduction": "",
+        "star": 2.0,
+        "security": 3.0,
+        "easyToUse": 3.0,
+        "decentration": true,
+        "focusNumber": 0,
+        "rank": 1000008,
+        "logo": "9022.png",
+        "multipleChain": true
+      },
+      {
+        "id": 9025,
+        "name": "MetaMask",
+        "tier": 1,
+        "url": "https://metamask.io/",
+        "chains": "ETH,ETZ",
+        "types": "pc",
+        "introduction": "",
+        "star": 1.0,
+        "security": 2.0,
+        "easyToUse": 4.0,
+        "decentration": false,
+        "focusNumber": 0,
+        "rank": 1000013,
+        "logo": "9025.png",
+        "multipleChain": true
+      }
+    ],
+    "isAudited": false,
+    "holders": {
+      "holderCount": 179,
+      "holderList": [
+        {
+          "address": "0xaaac83942c10a3743a5f383d8b1746cb0ed1fd2e",
+          "balance": 14441215,
+          "share": 48.14
+        },
+        {
+          "address": "0x40ec5b33f54e0e8a33a975908c5ba1c14e5bbbdf",
+          "balance": 12939756.8640842,
+          "share": 43.13
+        },
+        {
+          "address": "0x9ab15876749285dc4e228b9d763e53cd33d7dcf9",
+          "balance": 838255.29,
+          "share": 2.79
+        },
+        {
+          "address": "0xbb28b3b801929ae29dccd3874907f46a1fbf2010",
+          "balance": 388406.60286261,
+          "share": 1.29
+        },
+        {
+          "address": "0x75e89d5979e4f6fba9f97c104c2f0afb3f1dcb88",
+          "balance": 313033.5758128877,
+          "share": 1.04
+        },
+        {
+          "address": "0xc844cc10c9b7f7cae3cdb65d497ea75d65092525",
+          "balance": 219386.04,
+          "share": 0.73
+        },
+        {
+          "address": "0xd0853f6ce16283d0d4c5d01a17d4186ddcde8908",
+          "balance": 217000.0,
+          "share": 0.72
+        },
+        {
+          "address": "0x9642b23ed1e01df1092b92641051881a322f5d4e",
+          "balance": 193800.22747876286,
+          "share": 0.65
+        },
+        {
+          "address": "0x7fa673c072ef5dde6838569462861c9580386784",
+          "balance": 107250.0,
+          "share": 0.36
+        },
+        {
+          "address": "0x8ed27b156b136796fd5e556bba64e518043b0a01",
+          "balance": 92177.9,
+          "share": 0.31
+        },
+        {
+          "address": "0xe571b2bcdb0e9ff49f0c42e8ad141f68cc90cd03",
+          "balance": 50453.52879120226,
+          "share": 0.17
+        },
+        {
+          "address": "0x8529320772f5aa491f66f8a665151db732483fea",
+          "balance": 31150.36,
+          "share": 0.1
+        },
+        {
+          "address": "0x24d987191fcf14b371d04d1f3df86281aaad2d2e",
+          "balance": 25360.94,
+          "share": 0.08
+        },
+        {
+          "address": "0x983873529f95132bd1812a3b52c98fb271d2f679",
+          "balance": 17530.03425197415,
+          "share": 0.06
+        },
+        {
+          "address": "0x0a605869a4fdd858b9085d789ea7f4e6fce77e63",
+          "balance": 17286.53,
+          "share": 0.06
+        },
+        {
+          "address": "0xb4c4ec70eed2f59971bc409c1dadb9ad63a8763f",
+          "balance": 14166.23,
+          "share": 0.05
+        },
+        {
+          "address": "0x0437181cff84eafbed2faba2cc779303f8d65396",
+          "balance": 10499.56,
+          "share": 0.03
+        },
+        {
+          "address": "0x7f8388d826f7f580c3f59d1dbde619ee713f83f4",
+          "balance": 7119.615757656858,
+          "share": 0.02
+        },
+        {
+          "address": "0xc5fdbbc6adf3df0623aaff1a6c6295cc87d73de8",
+          "balance": 5199.56,
+          "share": 0.02
+        },
+        {
+          "address": "0xccb600d24f6f0633275208700bf09ecabf386bca",
+          "balance": 5075.77,
+          "share": 0.02
+        },
+        {
+          "address": "0xce5334669941a53e1af2d82a5f00854bd7563e5e",
+          "balance": 4837.64,
+          "share": 0.02
+        },
+        {
+          "address": "0xab0985499f93344c16c36737b112609ff5a380bd",
+          "balance": 4560.47,
+          "share": 0.02
+        },
+        {
+          "address": "0xc04fcb8e49643b8554f03aff370daac38e8abd96",
+          "balance": 4007.63,
+          "share": 0.01
+        },
+        {
+          "address": "0xef36de8cdf0a55cb06566c291195cc2960175fa5",
+          "balance": 3980.71,
+          "share": 0.01
+        },
+        {
+          "address": "0x656cc5e38128135f1e2d82f0e44d8e28fa00e59f",
+          "balance": 3156.71,
+          "share": 0.01
+        },
+        {
+          "address": "0xc9f5296eb3ac266c94568d790b6e91eba7d76a11",
+          "balance": 2807.918149800068,
+          "share": 0.01
+        },
+        {
+          "address": "0xa017f69b045c2a7bf8df7cf9e05a4f3d0e1be988",
+          "balance": 2234.458464,
+          "share": 0.01
+        },
+        {
+          "address": "0x012cc638e678549539be7653f29d8cc0b10c07be",
+          "balance": 1927.9910613374998,
+          "share": 0.01
+        },
+        {
+          "address": "0xbe82378a35b8a4c2cd63379c96addea86688ee44",
+          "balance": 1902.71,
+          "share": 0.01
+        },
+        {
+          "address": "0x55fd0a570711875587e216186b0ad91407208134",
+          "balance": 1852.67,
+          "share": 0.01
+        },
+        {
+          "address": "0xbd1f68a9e7beb960363a1e5cac1e4319ba8bf2e9",
+          "balance": 1500.0,
+          "share": 0.01
+        },
+        {
+          "address": "0x56b371c269b795d33c019bf340b97cc731c55613",
+          "balance": 1436.19,
+          "share": 0
+        },
+        {
+          "address": "0x957699ac5a6d1c7cb6d7a596d7c85eba3b114c99",
+          "balance": 1436.17,
+          "share": 0
+        },
+        {
+          "address": "0x77beda64df0f405f7b14cdf4cd4315dd1273b06f",
+          "balance": 1433.600393,
+          "share": 0
+        },
+        {
+          "address": "0x0043df4ddc24770b643ce241617e382ee6720108",
+          "balance": 1394.65,
+          "share": 0
+        },
+        {
+          "address": "0x62d63efdfdc7804666725f4cc8cb45c1a41a0809",
+          "balance": 1318.99,
+          "share": 0
+        },
+        {
+          "address": "0xe9268e945107eedc6f8adf3cd607c1fe8a96e222",
+          "balance": 1228,
+          "share": 0
+        },
+        {
+          "address": "0x58ff284db3ce2eefe11f7907904c96390362dbd3",
+          "balance": 1182,
+          "share": 0
+        },
+        {
+          "address": "0xa4cd75250fc2364362371ba520a98ec9a6b6534c",
+          "balance": 1071.55,
+          "share": 0
+        },
+        {
+          "address": "0xf42eac344e275906e8a1661fc1656bd34cf18236",
+          "balance": 1043.8845656771416,
+          "share": 0
+        },
+        {
+          "address": "0x6964ecadba9c2732f475f4246b3dbf8b4d990feb",
+          "balance": 1037.64,
+          "share": 0
+        },
+        {
+          "address": "0x5c1f8315f26e007d7f4a0406f979fc0edf08a9dd",
+          "balance": 1000.0,
+          "share": 0
+        },
+        {
+          "address": "0x4dca739b600b8ca1614da2ea655231ba9947293c",
+          "balance": 962,
+          "share": 0
+        },
+        {
+          "address": "0xa47e2fb4c60b01dcb66248233f0ac83d0bba6611",
+          "balance": 829.35,
+          "share": 0
+        },
+        {
+          "address": "0x808bd86aff7ce1f3ff20368c3a1c4cd8d695d8bd",
+          "balance": 802.7,
+          "share": 0
+        },
+        {
+          "address": "0x7cca3b47af9917b3b0df643da600d24691adf5c1",
+          "balance": 616.7378966278985,
+          "share": 0
+        },
+        {
+          "address": "0x60ae4792b00bda335724859201601f995809d8a1",
+          "balance": 542.48,
+          "share": 0
+        },
+        {
+          "address": "0x5c090d636db202b91ea1f1056e00decbf2f3407e",
+          "balance": 508,
+          "share": 0
+        },
+        {
+          "address": "0x1ce18d9334bbbbbf1ed96c6e69829f21b328b4b5",
+          "balance": 501.32,
+          "share": 0
+        },
+        {
+          "address": "0x58527c477c17652be80ee725babe076d3e95062d",
+          "balance": 500.0,
+          "share": 0
+        },
+        {
+          "address": "0xbec3a45cebc217603d16c87c9131897e4cfcdb23",
+          "balance": 500.0,
+          "share": 0
+        },
+        {
+          "address": "0x0ceef08c0bf8707e2205e5e07385022571daa411",
+          "balance": 500.0,
+          "share": 0
+        },
+        {
+          "address": "0x526d68d15b5b5dcff8e8d74e914b9a300c0cef48",
+          "balance": 500.0,
+          "share": 0
+        },
+        {
+          "address": "0x5299d99b69fb76a17f4fddb78fcfd2710c0fbe26",
+          "balance": 500.0,
+          "share": 0
+        },
+        {
+          "address": "0xa4c7fd376565b61356613cb3a4952b9248bb0114",
+          "balance": 500.0,
+          "share": 0
+        },
+        {
+          "address": "0x5bea7dbafeb3f9c230e8f46c5db51677172ea5ab",
+          "balance": 500.0,
+          "share": 0
+        },
+        {
+          "address": "0x229251eb7850bdc52b5d26f074b79b3f3c8a945c",
+          "balance": 500.0,
+          "share": 0
+        },
+        {
+          "address": "0x6c627e5de90c493784b59679bd93155e46d69fcc",
+          "balance": 500.0,
+          "share": 0
+        },
+        {
+          "address": "0x525bc91b8f8eb7a008c0015795de456d1663ebb5",
+          "balance": 500.0,
+          "share": 0
+        },
+        {
+          "address": "0xe6da48e4f0956a08a84add4c78a41d8e150f9537",
+          "balance": 500.0,
+          "share": 0
+        },
+        {
+          "address": "0xfd8e626191ba915222fdb11809caa34ad083acd4",
+          "balance": 500.0,
+          "share": 0
+        },
+        {
+          "address": "0x6d3822ec2ca8830af488e8d8783787b362a52d31",
+          "balance": 469.197721,
+          "share": 0
+        },
+        {
+          "address": "0x8d04092b87d169a892df524d41210e47303cc29e",
+          "balance": 431.79,
+          "share": 0
+        },
+        {
+          "address": "0x010de0d04f705dbf79e33b4007271ef5a5f21aee",
+          "balance": 392.78060042568984,
+          "share": 0
+        },
+        {
+          "address": "0xadad6fb5e8e389f5f8c3667d7c2ea326bd19e936",
+          "balance": 382.79,
+          "share": 0
+        },
+        {
+          "address": "0x6c3f4a426defc4bf3fa3c0dfd12fc053310e89b6",
+          "balance": 368.8,
+          "share": 0
+        },
+        {
+          "address": "0xc9e5bb6b10e84e52dc2a4e0753069fdba69a038b",
+          "balance": 335.930202,
+          "share": 0
+        },
+        {
+          "address": "0x8b8854c089ec296e49566591c4d2ebc07bfce2f8",
+          "balance": 303.264242343142,
+          "share": 0
+        },
+        {
+          "address": "0x5bbc7f4831aa164a52488f7b07b96a005dde27c0",
+          "balance": 269.56,
+          "share": 0
+        },
+        {
+          "address": "0x14717757ffed10363b4f121d55b14b1bbfe5cef0",
+          "balance": 263,
+          "share": 0
+        },
+        {
+          "address": "0x1b94216c82b0c3f38cf2cfe8f0bbd9f56cffdf91",
+          "balance": 256,
+          "share": 0
+        },
+        {
+          "address": "0xa8ba174f41a26761363ce48c3a7e3050d9df676b",
+          "balance": 254.96,
+          "share": 0
+        },
+        {
+          "address": "0x0331e17064c00ce4317d850a84c5d35a56754484",
+          "balance": 227.75,
+          "share": 0
+        },
+        {
+          "address": "0x0e0c8249bf9ab30ab4b79d395cbc563fde9aa4a9",
+          "balance": 200.0,
+          "share": 0
+        },
+        {
+          "address": "0x6a1379a6b571cd292fefb20714e5bd2e1d40a0fc",
+          "balance": 200.0,
+          "share": 0
+        },
+        {
+          "address": "0x982d0d1c279c8136b58b145ddc0f4032462e830c",
+          "balance": 200.0,
+          "share": 0
+        },
+        {
+          "address": "0x195cba108dd4dd139e2d2dce1cab630c76fda796",
+          "balance": 188,
+          "share": 0
+        },
+        {
+          "address": "0xec77de0b15540056e8187efafc6477fd5c516c09",
+          "balance": 178.20318,
+          "share": 0
+        },
+        {
+          "address": "0x91aea240149c9820aa46879d298d0e6dc30ea32d",
+          "balance": 167.86456064357844,
+          "share": 0
+        },
+        {
+          "address": "0xe2fa96db881b6de9b205b70a6d7ac85ff94209a1",
+          "balance": 165.06,
+          "share": 0
+        },
+        {
+          "address": "0x951ab9e203c113323cd69f8b1ba76b3655c8bf0d",
+          "balance": 150.0,
+          "share": 0
+        },
+        {
+          "address": "0x18304e80d04e745fe1852d0825ca419e99cac7d3",
+          "balance": 150.0,
+          "share": 0
+        },
+        {
+          "address": "0xc206dae1af8a4d7531c986754f937a1080777777",
+          "balance": 119.62,
+          "share": 0
+        },
+        {
+          "address": "0x796e8af12dfc61816db627441b835ec3b3b29e26",
+          "balance": 117.47949381189105,
+          "share": 0
+        },
+        {
+          "address": "0x714fff5e4f2e91f468d12767f88803ba0f690297",
+          "balance": 116.89,
+          "share": 0
+        },
+        {
+          "address": "0x5f6c9ad3dfd19d3a6f9b64cb50ef40bb308cae81",
+          "balance": 116.3,
+          "share": 0
+        },
+        {
+          "address": "0xe29f222e76e5727814f07843e1dedc4816acbd0b",
+          "balance": 113.99,
+          "share": 0
+        },
+        {
+          "address": "0x8d3672f2fc320ad8bdc51e4d0d320d90150f254f",
+          "balance": 113.97704366,
+          "share": 0
+        },
+        {
+          "address": "0x7655fa2736ec596df54ddeedba2afcceb47c06c3",
+          "balance": 100.0,
+          "share": 0
+        },
+        {
+          "address": "0xb6ad74708c0bbc587f3e9922f20d7d67e2820c04",
+          "balance": 99,
+          "share": 0
+        },
+        {
+          "address": "0x59cb321fcb14b92df7b85ced9de266b35ca1f4c0",
+          "balance": 97.51077,
+          "share": 0
+        },
+        {
+          "address": "0x750dab78cc588439843c834068b1e23f3947028a",
+          "balance": 89.747367,
+          "share": 0
+        },
+        {
+          "address": "0x5f97c11e8851fdadf3a746cfb547068993c6a047",
+          "balance": 86.48,
+          "share": 0
+        },
+        {
+          "address": "0xb3ae404586dfca64149a15d8f8fada738963b692",
+          "balance": 83.72917,
+          "share": 0
+        },
+        {
+          "address": "0x0ffa507bd6e14551578665a90ceafae6f472f402",
+          "balance": 81.24,
+          "share": 0
+        },
+        {
+          "address": "0xba9f31ba0d813896c29059c63cb0cef884a0acee",
+          "balance": 80.62084,
+          "share": 0
+        },
+        {
+          "address": "0xcb0859849fe0da407470632f0e913b18cb685b61",
+          "balance": 78,
+          "share": 0
+        },
+        {
+          "address": "0xb7597387342ae8cae4948dbbe421196879f3a96e",
+          "balance": 78,
+          "share": 0
+        },
+        {
+          "address": "0x87ba4ae8c4ce0e84539d0ff54969ee4abbaab152",
+          "balance": 76.11693112,
+          "share": 0
+        },
+        {
+          "address": "0xe11191f7852108687ad78dc52239c4e14aefcf2b",
+          "balance": 75.96172,
+          "share": 0
+        }
+      ],
+      "topTenHolderRatio": 99.16,
+      "topTwentyHolderRatio": 99.77,
+      "topFiftyHolderRatio": 99.9,
+      "topHundredHolderRatio": 99.9
+    },
+    "displayTV": 1,
+    "isInfiniteMaxSupply": 0,
+    "tvCoinSymbol": "AX",
+    "supportWalletInfos": [
+      {
+        "id": 9022,
+        "name": "Trust Wallet",
+        "url": "https://www.trustwallet.com/",
+        "chains": "ETH",
+        "decentration": false,
+        "logo": "9022.png",
+        "multipleChain": false
+      },
+      {
+        "id": 9025,
+        "name": "MetaMask",
+        "url": "https://metamask.io/",
+        "chains": "ETH,ETZ",
+        "decentration": false,
+        "logo": "9025.png",
+        "multipleChain": false
+      }
+    ],
+    "holdersFlag": true,
+    "ratingsFlag": false,
+    "analysisFlag": false,
+    "socialsFlag": true,
+    "cryptoRating": [
+      {
+        "type": "CertiK",
+        "score": 70.65,
+        "rating": 3.5,
+        "updateTime": "2024-11-17T00:00:00.000Z",
+        "link": "https://cmc.certik-skynet.com/redirect?project=aurusx&utm_source=CMC&utm_campaign=ScoreByCertiKLink"
+      },
+      {
+        "type": "Cyberscope",
+        "score": 61.0,
+        "rating": 3.1,
+        "updateTime": "2024-11-17T10:53:37.000Z",
+        "link": "https://www.cyberscope.io/audits/coin-aurusx"
+      },
+      {
+        "type": "Aggregate rating",
+        "score": 65.8,
+        "rating": 3.3,
+        "updateTime": "2024-11-18T01:00:00.204Z"
+      }
+    ],
+    "hasExtraInfoFlag": false,
+    "upcoming": {
+      "status": false
+    },
+    "annotationFlag": false,
+    "similarCoins": [
+      {
+        "id": 4160,
+        "symbol": "YEC"
+      },
+      {
+        "id": 2837,
+        "symbol": "0xBTC"
+      },
+      {
+        "id": 3625,
+        "symbol": "EQUAD"
+      },
+      {
+        "id": 1903,
+        "symbol": "HC"
+      },
+      {
+        "id": 3759,
+        "symbol": "JNB"
+      },
+      {
+        "id": 5103,
+        "symbol": "IPX"
+      }
+    ]
+  },
+  "status": {
+    "timestamp": "2024-11-18T01:10:00.947Z",
+    "error_code": "0",
+    "error_message": "SUCCESS",
+    "elapsed": "12",
+    "credit_count": 0
+  }
+}

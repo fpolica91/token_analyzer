@@ -1,0 +1,280 @@
+{
+  "data": {
+    "id": 21286,
+    "name": "Cantina Royale",
+    "symbol": "CRT",
+    "slug": "cantina-royale",
+    "category": "token",
+    "description": "The CRT token is essential for powering in-game utilities like NFT character progression, NFT recruiting, staking, and unlocking in-game assets inside of the Cantina Royale ecosystem.",
+    "dateAdded": "2022-08-07T15:48:03.000Z",
+    "status": "active",
+    "subStatus": "normal",
+    "notice": "",
+    "alertType": 2,
+    "alertLink": "",
+    "latestUpdateTime": "2024-11-18T01:09:00.000Z",
+    "watchCount": "1341",
+    "watchListRanking": 5634,
+    "latestAdded": false,
+    "tags": [
+      {
+        "slug": "elrond-ecosystem",
+        "name": "Elrond Ecosystem",
+        "category": "PLATFORM"
+      },
+      {
+        "slug": "multiversx-ecosystem",
+        "name": "MultiversX Ecosystem",
+        "category": "PLATFORM"
+      }
+    ],
+    "selfReportedCirculatingSupply": "0.0",
+    "urls": {
+      "website": [
+        "https://cantinaroyale.io/"
+      ],
+      "technical_doc": [],
+      "explorer": [
+        "https://elrondscan.com/token/CRT-52decf"
+      ],
+      "source_code": [],
+      "message_board": [
+        "https://discord.gg/cantinaroyale",
+        "https://blog.cantinaroyale.io/"
+      ],
+      "chat": [
+        "https://t.me/CantinaRoyale"
+      ],
+      "announcement": [],
+      "reddit": [],
+      "facebook": [],
+      "twitter": [
+        "https://twitter.com/CantinaRoyale"
+      ]
+    },
+    "volume": 4777.25094089,
+    "volumeChangePercentage24h": -19.5418,
+    "cexVolume": 2083.63795994,
+    "dexVolume": 2693.61298095,
+    "statistics": {
+      "price": 0.0034763935650851535,
+      "priceChangePercentage1h": 0.37327402,
+      "priceChangePercentage24h": -8.70366331,
+      "priceChangePercentage7d": -3.44867442,
+      "priceChangePercentage30d": 9.58777087,
+      "priceChangePercentage60d": 13.55302305,
+      "priceChangePercentage90d": 16.19186656,
+      "priceChangePercentage1y": -75.17015955,
+      "priceChangePercentageAll": -98.132226789537,
+      "marketCap": 845401.36,
+      "marketCapChangePercentage24h": -8.7037,
+      "fullyDilutedMarketCap": 3476393.57,
+      "fullyDilutedMarketCapChangePercentage24h": -8.7,
+      "circulatingSupply": 243183445.0,
+      "totalSupply": 1000000000.0,
+      "maxSupply": 1000000000.0,
+      "marketCapDominance": 0.0,
+      "rank": 1913,
+      "low24h": 0.003435532446046617,
+      "high24h": 0.003822987739443269,
+      "low7d": 0.003310533034275628,
+      "high7d": 0.003968065912272796,
+      "low30d": 0.002620815918556024,
+      "high30d": 0.003968065912272796,
+      "low90d": 0.002620815918556024,
+      "high90d": 0.003968065912272796,
+      "low52w": 0.002620815918556024,
+      "high52w": 0.023249576774024183,
+      "lowAllTime": 0.002620815918556024,
+      "highAllTime": 0.18750709052106457,
+      "lowAllTimeChangePercentage": 32.65,
+      "highAllTimeChangePercentage": -98.15,
+      "lowAllTimeTimestamp": "2024-11-03T15:16:00.000Z",
+      "highAllTimeTimestamp": "2022-08-08T09:40:00.000Z",
+      "lowYesterday": 0.003435532446046617,
+      "highYesterday": 0.003834829706157265,
+      "openYesterday": 0.00375433288058036,
+      "closeYesterday": 0.003466702650565293,
+      "priceChangePercentageYesterday": -7.66,
+      "volumeYesterday": 5912.59,
+      "turnover": 0.00565087,
+      "ytdPriceChangePercentage": -83.5516,
+      "volumeRank": 4980,
+      "volumeMcRank": 5161,
+      "mcTotalNum": 10049,
+      "volumeTotalNum": 10049,
+      "volumeMcTotalNum": 10049
+    },
+    "quotes": [],
+    "platforms": [
+      {
+        "contractId": 6892,
+        "contractAddress": "CRT-52decf",
+        "contractPlatform": "MultiversX",
+        "contractPlatformId": 38,
+        "contractChainId": -1,
+        "contractRpcUrl": [],
+        "contractNativeCurrencyName": "",
+        "contractNativeCurrencySymbol": "",
+        "contractNativeCurrencyDecimals": -1,
+        "contractBlockExplorerUrl": "",
+        "contractExplorerUrl": "https://explorer.multiversx.com/tokens/CRT-52decf",
+        "platformCryptoId": 6892,
+        "sort": 0,
+        "wallets": []
+      }
+    ],
+    "relatedCoins": [
+      {
+        "id": 2513,
+        "name": "GoldMint",
+        "slug": "goldmint",
+        "price": 0.05065701161697734,
+        "priceChangePercentage24h": -0.83488657,
+        "priceChangePercentage7d": 21.70106268
+      },
+      {
+        "id": 4679,
+        "name": "Band Protocol",
+        "slug": "band-protocol",
+        "price": 1.2924689407590508,
+        "priceChangePercentage24h": -5.51284503,
+        "priceChangePercentage7d": 1.82102584
+      },
+      {
+        "id": 7083,
+        "name": "Uniswap",
+        "slug": "uniswap",
+        "price": 8.907804423933275,
+        "priceChangePercentage24h": -4.39447372,
+        "priceChangePercentage7d": -3.90346035
+      },
+      {
+        "id": 1414,
+        "name": "Firo",
+        "slug": "firo",
+        "price": 1.3454938776288508,
+        "priceChangePercentage24h": 0.21867821,
+        "priceChangePercentage7d": 4.03360084
+      },
+      {
+        "id": 1975,
+        "name": "Chainlink",
+        "slug": "chainlink",
+        "price": 14.028344717813509,
+        "priceChangePercentage24h": -5.25786687,
+        "priceChangePercentage7d": -2.46572024
+      },
+      {
+        "id": 7653,
+        "name": "Oasis",
+        "slug": "oasis-network",
+        "price": 0.08025331330873264,
+        "priceChangePercentage24h": -5.30717197,
+        "priceChangePercentage7d": -4.39563858
+      },
+      {
+        "id": 707,
+        "name": "Blocknet",
+        "slug": "blocknet",
+        "price": 0.017113298239738093,
+        "priceChangePercentage24h": -0.68391562,
+        "priceChangePercentage7d": -3.30053472
+      },
+      {
+        "id": 5864,
+        "name": "yearn.finance",
+        "slug": "yearn-finance",
+        "price": 6192.38803639104,
+        "priceChangePercentage24h": -4.43119421,
+        "priceChangePercentage7d": -11.362147
+      },
+      {
+        "id": 4279,
+        "name": "Solar",
+        "slug": "sxp",
+        "price": 0.36376553390538346,
+        "priceChangePercentage24h": 2.1116243,
+        "priceChangePercentage7d": 18.12789401
+      },
+      {
+        "id": 8043,
+        "name": "MAHA.xyz",
+        "slug": "mahadao",
+        "price": 0.9034865737660874,
+        "priceChangePercentage24h": -2.68820884,
+        "priceChangePercentage7d": -9.89747239
+      }
+    ],
+    "isAudited": false,
+    "holders": {},
+    "displayTV": 1,
+    "isInfiniteMaxSupply": 0,
+    "tvCoinSymbol": "CRT",
+    "supportWalletInfos": [],
+    "holdersFlag": false,
+    "ratingsFlag": false,
+    "analysisFlag": false,
+    "socialsFlag": true,
+    "cryptoRating": [
+      {
+        "type": "CertiK",
+        "score": 65.88,
+        "rating": 3.3,
+        "updateTime": "2024-11-17T00:00:00.000Z",
+        "link": "https://cmc.certik-skynet.com/redirect?project=cantina-royale&utm_source=CMC&utm_campaign=ScoreByCertiKLink"
+      },
+      {
+        "type": "Cyberscope",
+        "score": 76.0,
+        "rating": 3.8,
+        "updateTime": "2024-11-17T10:28:34.000Z",
+        "link": "https://www.cyberscope.io/audits/coin-cantina-royale"
+      },
+      {
+        "type": "Aggregate rating",
+        "score": 70.9,
+        "rating": 3.6,
+        "updateTime": "2024-11-18T01:00:00.192Z"
+      }
+    ],
+    "hasExtraInfoFlag": false,
+    "upcoming": {
+      "status": false
+    },
+    "annotationFlag": false,
+    "similarCoins": [
+      {
+        "id": 2320,
+        "symbol": "UTK"
+      },
+      {
+        "id": 2894,
+        "symbol": "OTB"
+      },
+      {
+        "id": 16817,
+        "symbol": "WEGLD"
+      },
+      {
+        "id": 8420,
+        "symbol": "DAO"
+      },
+      {
+        "id": 6892,
+        "symbol": "EGLD"
+      },
+      {
+        "id": 17145,
+        "symbol": "LOKA"
+      }
+    ]
+  },
+  "status": {
+    "timestamp": "2024-11-18T01:09:57.466Z",
+    "error_code": "0",
+    "error_message": "SUCCESS",
+    "elapsed": "11",
+    "credit_count": 0
+  }
+}

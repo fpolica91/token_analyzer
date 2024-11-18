@@ -1,0 +1,284 @@
+{
+  "data": {
+    "id": 11815,
+    "name": "Ethernity CLOUD",
+    "symbol": "ECLD",
+    "slug": "ethernity-cloud",
+    "category": "token",
+    "description": "Ethernity Cloud is the ultimate solution for businesses whose data is their biggest asset. Ethernity Cloud is, to this date, the most technologically advanced and secure confidential computing ecosystem in the market.\u00a0Ethernity CLOUD's vision about the future of the cloud has three imperative features: encrypted, anonymous, continuous available. Leveraging blockchain technology, Ethernity Cloud mission is to develop a decentralized ecosystem that allows regular cloud software to be run as decentralized cloud applications. Within Ethernity CLOUD, the nodes are location agnostic, self-replicating, constantly spawning around the internet without user interaction, exactly as defined in the Ethereum compatible smart contract.\u00a0ECLD is our listed token on Polygon, but Ethernity Cloud also counts with ETNY token on Bloxberg which is swappable for ECLD on a 1-to-1 parity through our Swap dApp.",
+    "dateAdded": "2021-09-10T21:45:58.000Z",
+    "status": "active",
+    "subStatus": "normal",
+    "notice": "",
+    "alertType": 2,
+    "alertLink": "",
+    "latestUpdateTime": "2024-11-18T01:09:00.000Z",
+    "watchCount": "23567",
+    "watchListRanking": 1275,
+    "dateLaunched": "2017-08-31T00:00:00.000Z",
+    "latestAdded": false,
+    "launchPrice": 0.0506,
+    "tags": [],
+    "selfReportedTags": [
+      "Cybersecurity",
+      "Energy",
+      "Hardware",
+      "Platform",
+      "AI & Big Data",
+      "Distributed Computing",
+      "Privacy",
+      "IoT",
+      "Oracles",
+      "Ethereum Ecosystem",
+      "Token",
+      "DeSci",
+      "Real World Assets",
+      "DePIN"
+    ],
+    "selfReportedCirculatingSupply": "489865120.5021997",
+    "urls": {
+      "website": [
+        "https://ethernity.cloud/"
+      ],
+      "technical_doc": [
+        "https://swap.ethernity.cloud/ecld_whitepaper.pdf"
+      ],
+      "explorer": [
+        "https://blockexplorer.bloxberg.org/"
+      ],
+      "source_code": [
+        "https://github.com/ethernity-cloud/"
+      ],
+      "message_board": [
+        "https://bitcointalk.org/index.php?topic=5344159.msg57244363#msg57244363"
+      ],
+      "chat": [
+        "https://discord.com/invite/W74JcFPGcb",
+        "https://t.me/ethernitycloud"
+      ],
+      "announcement": [
+        "https://bitcointalk.org/index.php?topic=5344159.new#new"
+      ],
+      "reddit": [
+        "https://reddit.com/r/EthernityCloud"
+      ],
+      "facebook": [
+        "https://www.facebook.com/Ethernity.cloud"
+      ],
+      "twitter": [
+        "https://twitter.com/Ethernity_cloud"
+      ]
+    },
+    "volume": 13537.60130255,
+    "volumeChangePercentage24h": 64.7327,
+    "cexVolume": 10390.61756864,
+    "dexVolume": 3146.9837339,
+    "statistics": {
+      "price": 0.0020729046425797715,
+      "priceChangePercentage1h": -1.45305913,
+      "priceChangePercentage24h": -25.69149811,
+      "priceChangePercentage7d": -7.44535577,
+      "priceChangePercentage30d": -37.20897202,
+      "priceChangePercentage60d": -4.74289529,
+      "priceChangePercentage90d": -54.95959853,
+      "priceChangePercentage1y": -92.86575477,
+      "priceChangePercentageAll": -92.865754765919,
+      "marketCap": 952432.83,
+      "marketCapChangePercentage24h": -25.6915,
+      "fullyDilutedMarketCap": 2072904.64,
+      "fullyDilutedMarketCapChangePercentage24h": -25.69,
+      "circulatingSupply": 459467749.0,
+      "totalSupply": 1000000000.0,
+      "marketCapDominance": 0.0,
+      "rank": 1880,
+      "roi": -95.90335051,
+      "low24h": 0.002072478148169396,
+      "high24h": 0.002825403244954612,
+      "low7d": 0.002059818887581622,
+      "high7d": 0.00287930273365272,
+      "low30d": 0.002059818887581622,
+      "high30d": 0.003403828015260851,
+      "low90d": 0.001915570615031594,
+      "high90d": 0.005886924085243173,
+      "low52w": 0.001915570615031594,
+      "high52w": 0.0832110439887178,
+      "lowAllTime": 0.001915570615031594,
+      "highAllTime": 0.0832110439887178,
+      "lowAllTimeChangePercentage": 8.21,
+      "highAllTimeChangePercentage": -97.51,
+      "lowAllTimeTimestamp": "2024-09-22T00:43:00.000Z",
+      "highAllTimeTimestamp": "2024-03-12T12:31:00.000Z",
+      "lowYesterday": 0.00209609066545734,
+      "highYesterday": 0.002825403244954612,
+      "openYesterday": 0.002796928246775102,
+      "closeYesterday": 0.00210169013044891,
+      "priceChangePercentageYesterday": -24.86,
+      "volumeYesterday": 11425.83,
+      "turnover": 0.01421371,
+      "ytdPriceChangePercentage": -92.0333,
+      "volumeRank": 4272,
+      "volumeMcRank": 4157,
+      "mcTotalNum": 10049,
+      "volumeTotalNum": 10049,
+      "volumeMcTotalNum": 10049
+    },
+    "quotes": [],
+    "platforms": [
+      {
+        "contractId": 3890,
+        "contractAddress": "0xc6920888988cAcEeA7ACCA0c96f2D65b05eE22Ba",
+        "contractPlatform": "Polygon",
+        "contractPlatformId": 25,
+        "contractChainId": 137,
+        "contractRpcUrl": [
+          "https://rpc-mainnet.maticvigil.com"
+        ],
+        "contractNativeCurrencyName": "MATIC",
+        "contractNativeCurrencySymbol": "MATIC",
+        "contractNativeCurrencyDecimals": 18,
+        "contractBlockExplorerUrl": "https://polygonscan.com",
+        "contractExplorerUrl": "https://polygonscan.com/token/0xc6920888988cAcEeA7ACCA0c96f2D65b05eE22Ba",
+        "contractDecimals": 18,
+        "platformCryptoId": 3890,
+        "sort": 0,
+        "wallets": []
+      }
+    ],
+    "relatedCoins": [
+      {
+        "id": 2513,
+        "name": "GoldMint",
+        "slug": "goldmint",
+        "price": 0.05065701161697734,
+        "priceChangePercentage24h": -0.83488657,
+        "priceChangePercentage7d": 21.70106268
+      },
+      {
+        "id": 4679,
+        "name": "Band Protocol",
+        "slug": "band-protocol",
+        "price": 1.2924689407590508,
+        "priceChangePercentage24h": -5.51284503,
+        "priceChangePercentage7d": 1.82102584
+      },
+      {
+        "id": 7083,
+        "name": "Uniswap",
+        "slug": "uniswap",
+        "price": 8.907804423933275,
+        "priceChangePercentage24h": -4.39447372,
+        "priceChangePercentage7d": -3.90346035
+      },
+      {
+        "id": 1414,
+        "name": "Firo",
+        "slug": "firo",
+        "price": 1.3454938776288508,
+        "priceChangePercentage24h": 0.21867821,
+        "priceChangePercentage7d": 4.03360084
+      },
+      {
+        "id": 1975,
+        "name": "Chainlink",
+        "slug": "chainlink",
+        "price": 14.028344717813509,
+        "priceChangePercentage24h": -5.25786687,
+        "priceChangePercentage7d": -2.46572024
+      },
+      {
+        "id": 7653,
+        "name": "Oasis",
+        "slug": "oasis-network",
+        "price": 0.08025331330873264,
+        "priceChangePercentage24h": -5.30717197,
+        "priceChangePercentage7d": -4.39563858
+      },
+      {
+        "id": 707,
+        "name": "Blocknet",
+        "slug": "blocknet",
+        "price": 0.017113298239738093,
+        "priceChangePercentage24h": -0.68391562,
+        "priceChangePercentage7d": -3.30053472
+      },
+      {
+        "id": 5864,
+        "name": "yearn.finance",
+        "slug": "yearn-finance",
+        "price": 6192.38803639104,
+        "priceChangePercentage24h": -4.43119421,
+        "priceChangePercentage7d": -11.362147
+      },
+      {
+        "id": 4279,
+        "name": "Solar",
+        "slug": "sxp",
+        "price": 0.36376553390538346,
+        "priceChangePercentage24h": 2.1116243,
+        "priceChangePercentage7d": 18.12789401
+      },
+      {
+        "id": 8043,
+        "name": "MAHA.xyz",
+        "slug": "mahadao",
+        "price": 0.9034865737660874,
+        "priceChangePercentage24h": -2.68820884,
+        "priceChangePercentage7d": -9.89747239
+      }
+    ],
+    "isAudited": true,
+    "auditInfos": [
+      {
+        "coinId": "11815",
+        "auditor": "CertiK",
+        "auditStatus": 2,
+        "auditTime": "2023-11-02T15:34:28.166Z",
+        "reportUrl": "https://cmc.certik-skynet.com/redirect?project=ethernity-cloud"
+      }
+    ],
+    "holders": {},
+    "displayTV": 0,
+    "isInfiniteMaxSupply": 0,
+    "tvCoinSymbol": "ECLD",
+    "supportWalletInfos": [],
+    "holdersFlag": false,
+    "ratingsFlag": false,
+    "analysisFlag": false,
+    "socialsFlag": true,
+    "cryptoRating": [
+      {
+        "type": "CertiK",
+        "score": 86.66,
+        "rating": 4.3,
+        "updateTime": "2024-11-17T00:00:00.000Z",
+        "link": "https://cmc.certik-skynet.com/redirect?project=ethernity-cloud&utm_source=CMC&utm_campaign=ScoreByCertiKLink"
+      },
+      {
+        "type": "Cyberscope",
+        "score": 69.0,
+        "rating": 3.5,
+        "updateTime": "2024-11-17T11:30:39.000Z",
+        "link": "https://www.cyberscope.io/audits/coin-ethernity-cloud"
+      },
+      {
+        "type": "Aggregate rating",
+        "score": 77.8,
+        "rating": 3.9,
+        "updateTime": "2024-11-18T01:00:00.220Z"
+      }
+    ],
+    "hasExtraInfoFlag": false,
+    "upcoming": {
+      "status": false
+    },
+    "annotationFlag": false,
+    "similarCoins": []
+  },
+  "status": {
+    "timestamp": "2024-11-18T01:09:54.681Z",
+    "error_code": "0",
+    "error_message": "SUCCESS",
+    "elapsed": "11",
+    "credit_count": 0
+  }
+}

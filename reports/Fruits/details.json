@@ -1,0 +1,242 @@
+{
+  "data": {
+    "id": 1962,
+    "name": "BUZZCoin",
+    "symbol": "BUZZ",
+    "slug": "buzzcoin",
+    "category": "coin",
+    "description": "BUZZCoin (BUZZ) describes itself as an open source and non-profit blockchain implementation that aims to create a sustainable buzz in bee farming and Cryptocurrency.\r\n\r\nThe project aims to create a blockchain-based global network in the organic bee farming sector. It claims that its BC-HMD\u2122 and the BC-QMM\u2122 devices will power the BC-HMN\u2122 (Hive Mind Network) to increase global awareness in the way bee hives are maintained and monitored.",
+    "dateAdded": "2017-09-13T00:00:00.000Z",
+    "status": "active",
+    "subStatus": "normal",
+    "notice": "YoBit is currently trading an old chain of BUZZ For more information <a href=\"https://www.buzzcoin.info/#exchanges\">click here.</a>",
+    "alertType": 2,
+    "alertLink": "",
+    "latestUpdateTime": "2024-11-18T01:09:00.000Z",
+    "watchCount": "2418",
+    "watchListRanking": 4576,
+    "latestAdded": false,
+    "launchPrice": 0.000302927,
+    "tags": [
+      {
+        "slug": "mineable",
+        "name": "Mineable",
+        "category": "OTHERS"
+      }
+    ],
+    "urls": {
+      "website": [
+        "http://www.buzzcoin.info/"
+      ],
+      "technical_doc": [
+        "https://www.buzzcoin.info/buzzcoin-whitepaper.pdf"
+      ],
+      "explorer": [
+        "https://blockexplorer.buzzcoin.info/",
+        "https://explorer.buzzcoin.info/"
+      ],
+      "source_code": [
+        "https://github.com/buzzcoin-project/BUZZ"
+      ],
+      "message_board": [],
+      "chat": [
+        "https://discordapp.com/invite/DS82UWD"
+      ],
+      "announcement": [
+        "https://bitcointalk.org/index.php?topic=1325398.0"
+      ],
+      "reddit": [
+        "https://reddit.com/r/BUZZcoin"
+      ],
+      "facebook": [],
+      "twitter": [
+        "https://twitter.com/BUZZcoin"
+      ]
+    },
+    "volume": 0.0,
+    "volumeChangePercentage24h": 0.0,
+    "cexVolume": 0.0,
+    "dexVolume": 0.0,
+    "statistics": {
+      "price": 1.7341881921281164e-05,
+      "priceChangePercentage1h": 0.70835622,
+      "priceChangePercentage24h": -1.19781103,
+      "priceChangePercentage7d": 505.53928269,
+      "priceChangePercentage30d": 22.12488433,
+      "priceChangePercentage60d": 36.48326923,
+      "priceChangePercentage90d": 23.32393419,
+      "priceChangePercentage1y": 62.05396161,
+      "priceChangePercentageAll": -94.275227135459,
+      "marketCap": 0.0,
+      "marketCapChangePercentage24h": 0.0,
+      "fullyDilutedMarketCap": 346837.64,
+      "fullyDilutedMarketCapChangePercentage24h": -1.2,
+      "circulatingSupply": 0.0,
+      "totalSupply": 20000000000.0,
+      "maxSupply": 20000000000.0,
+      "marketCapDominance": 0.0,
+      "rank": 8750,
+      "roi": -94.27522739,
+      "low24h": 1.6954233267717e-05,
+      "high24h": 1.7635792781035e-05,
+      "low7d": 1.685865583057e-05,
+      "high7d": 1.936047990953e-05,
+      "low30d": 1.53058072286e-06,
+      "high30d": 1.936047990953e-05,
+      "low90d": 1.53058072286e-06,
+      "high90d": 1.936047990953e-05,
+      "low52w": 1.318158197498e-06,
+      "high52w": 2.176313784853e-05,
+      "lowAllTime": 1.318158197498e-06,
+      "highAllTime": 0.002991429995745421,
+      "lowAllTimeChangePercentage": 1215.61,
+      "highAllTimeChangePercentage": -99.42,
+      "lowAllTimeTimestamp": "2024-07-05T09:13:00.000Z",
+      "highAllTimeTimestamp": "2017-09-20T00:04:57.000Z",
+      "lowYesterday": 1.6954233267717e-05,
+      "highYesterday": 1.7635792781035e-05,
+      "openYesterday": 1.7484104253623e-05,
+      "closeYesterday": 1.7211352226753e-05,
+      "priceChangePercentageYesterday": -1.56,
+      "volumeYesterday": 0,
+      "ytdPriceChangePercentage": 21.5764,
+      "volumeRank": 8898,
+      "volumeMcRank": 8898,
+      "mcTotalNum": 10049,
+      "volumeTotalNum": 10049,
+      "volumeMcTotalNum": 10049
+    },
+    "quotes": [],
+    "relatedCoins": [
+      {
+        "id": 2513,
+        "name": "GoldMint",
+        "slug": "goldmint",
+        "price": 0.05065701161697734,
+        "priceChangePercentage24h": -0.83488657,
+        "priceChangePercentage7d": 21.70106268
+      },
+      {
+        "id": 4679,
+        "name": "Band Protocol",
+        "slug": "band-protocol",
+        "price": 1.2924689407590508,
+        "priceChangePercentage24h": -5.51284503,
+        "priceChangePercentage7d": 1.82102584
+      },
+      {
+        "id": 7083,
+        "name": "Uniswap",
+        "slug": "uniswap",
+        "price": 8.907804423933275,
+        "priceChangePercentage24h": -4.39447372,
+        "priceChangePercentage7d": -3.90346035
+      },
+      {
+        "id": 1414,
+        "name": "Firo",
+        "slug": "firo",
+        "price": 1.3454938776288508,
+        "priceChangePercentage24h": 0.21867821,
+        "priceChangePercentage7d": 4.03360084
+      },
+      {
+        "id": 1975,
+        "name": "Chainlink",
+        "slug": "chainlink",
+        "price": 14.028344717813509,
+        "priceChangePercentage24h": -5.25786687,
+        "priceChangePercentage7d": -2.46572024
+      },
+      {
+        "id": 7653,
+        "name": "Oasis",
+        "slug": "oasis-network",
+        "price": 0.08025331330873264,
+        "priceChangePercentage24h": -5.30717197,
+        "priceChangePercentage7d": -4.39563858
+      },
+      {
+        "id": 707,
+        "name": "Blocknet",
+        "slug": "blocknet",
+        "price": 0.017113298239738093,
+        "priceChangePercentage24h": -0.68391562,
+        "priceChangePercentage7d": -3.30053472
+      },
+      {
+        "id": 5864,
+        "name": "yearn.finance",
+        "slug": "yearn-finance",
+        "price": 6192.38803639104,
+        "priceChangePercentage24h": -4.43119421,
+        "priceChangePercentage7d": -11.362147
+      },
+      {
+        "id": 4279,
+        "name": "Solar",
+        "slug": "sxp",
+        "price": 0.36376553390538346,
+        "priceChangePercentage24h": 2.1116243,
+        "priceChangePercentage7d": 18.12789401
+      },
+      {
+        "id": 8043,
+        "name": "MAHA.xyz",
+        "slug": "mahadao",
+        "price": 0.9034865737660874,
+        "priceChangePercentage24h": -2.68820884,
+        "priceChangePercentage7d": -9.89747239
+      }
+    ],
+    "isAudited": false,
+    "holders": {},
+    "displayTV": 1,
+    "isInfiniteMaxSupply": 0,
+    "tvCoinSymbol": "BUZZ",
+    "supportWalletInfos": [],
+    "holdersFlag": false,
+    "ratingsFlag": false,
+    "analysisFlag": false,
+    "socialsFlag": true,
+    "cryptoRating": [],
+    "hasExtraInfoFlag": false,
+    "upcoming": {
+      "status": false
+    },
+    "annotationFlag": false,
+    "similarCoins": [
+      {
+        "id": 3334,
+        "symbol": "XCASH"
+      },
+      {
+        "id": 3198,
+        "symbol": "KXC"
+      },
+      {
+        "id": 1623,
+        "symbol": "BLAZR"
+      },
+      {
+        "id": 2934,
+        "symbol": "KAN"
+      },
+      {
+        "id": 1828,
+        "symbol": "SMART"
+      },
+      {
+        "id": 6655,
+        "symbol": "KSS"
+      }
+    ]
+  },
+  "status": {
+    "timestamp": "2024-11-18T01:10:11.354Z",
+    "error_code": "0",
+    "error_message": "SUCCESS",
+    "elapsed": "19",
+    "credit_count": 0
+  }
+}

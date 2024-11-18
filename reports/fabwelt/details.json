@@ -1,0 +1,405 @@
+{
+  "data": {
+    "id": 14681,
+    "name": "Fabwelt",
+    "symbol": "WELT",
+    "slug": "fabwelt",
+    "category": "token",
+    "description": "Fabwelt is a ground-breaking concept that integrates blockchain technology into the heart of high-quality games of all types and genres. With in-game NFTs, Play to Earn, and DEFI, we create a high-end gaming ecosystem and enhance the fun. A multi-genre gaming ecosystem that includes genres such as 3D First Person Shooter, Action-Adventure, Simulation, Strategy, Fantasy, and many others. In-game NFTs as assets, collectibles, and strategic utilities resurrect the fun of Blockchain gaming.\n\nWe incorporate all of our games into a never-before-seen digital reality. This is referred to as the Gamingverse. We provide the technology to have never-ending fun with features like Universal NFTs, digital cross-game identification, and multi-tiered tournaments, which are powered by gamers.",
+    "dateAdded": "2021-11-17T09:24:37.000Z",
+    "status": "active",
+    "subStatus": "normal",
+    "notice": "",
+    "alertType": 2,
+    "alertLink": "",
+    "latestUpdateTime": "2024-11-18T01:09:00.000Z",
+    "watchCount": "22898",
+    "watchListRanking": 1309,
+    "dateLaunched": "2021-11-09T00:00:00.000Z",
+    "latestAdded": false,
+    "launchPrice": 0.014,
+    "tags": [
+      {
+        "slug": "gaming",
+        "name": "Gaming",
+        "category": "INDUSTRY"
+      },
+      {
+        "slug": "polygon-ecosystem",
+        "name": "Polygon Ecosystem",
+        "category": "PLATFORM"
+      },
+      {
+        "slug": "play-to-earn",
+        "name": "Play To Earn",
+        "category": "CATEGORY"
+      },
+      {
+        "slug": "bnb-chain",
+        "name": "BNB Chain",
+        "category": "PLATFORM"
+      }
+    ],
+    "selfReportedTags": [
+      "Collectibles & NFTs",
+      "Gaming",
+      "Staking",
+      "BNB Smart Chain",
+      "Metaverse",
+      "Polygon Ecosystem",
+      "Play To Earn"
+    ],
+    "selfReportedCirculatingSupply": "228991733",
+    "urls": {
+      "website": [
+        "https://www.fabwelt.com/"
+      ],
+      "technical_doc": [
+        "https://fabwelt.gitbook.io/fabwelt-gitbook/"
+      ],
+      "explorer": [
+        "https://polygonscan.com/token/0x23e8b6a3f6891254988b84da3738d2bfe5e703b9",
+        "https://bscscan.com/token/0x1785113910847770290F5F840b4c74fc46451201"
+      ],
+      "source_code": [
+        "https://github.com/Fabwelt"
+      ],
+      "message_board": [
+        "https://fabwelttoken.medium.com/"
+      ],
+      "chat": [
+        "https://t.me/FabweltToken",
+        "https://discord.com/invite/Q3cetjFRTG"
+      ],
+      "announcement": [
+        "https://t.me/fabweltannouncements"
+      ],
+      "reddit": [
+        "https://reddit.com/r/Fabwelt"
+      ],
+      "facebook": [],
+      "twitter": [
+        "https://twitter.com/FabweltToken"
+      ]
+    },
+    "volume": 60201.97358484,
+    "volumeChangePercentage24h": -43.2065,
+    "cexVolume": 58776.54589478,
+    "dexVolume": 1425.42769006,
+    "statistics": {
+      "price": 0.0035912936993568196,
+      "priceChangePercentage1h": 0.14033879,
+      "priceChangePercentage24h": -0.5437027,
+      "priceChangePercentage7d": 9.0355972,
+      "priceChangePercentage30d": -10.60230403,
+      "priceChangePercentage60d": 8.87249043,
+      "priceChangePercentage90d": 3.81512637,
+      "priceChangePercentage1y": -51.57199894,
+      "priceChangePercentageAll": -86.187337984041,
+      "marketCap": 822376.57,
+      "marketCapChangePercentage24h": -0.5437,
+      "fullyDilutedMarketCap": 1795646.85,
+      "fullyDilutedMarketCapChangePercentage24h": -0.54,
+      "circulatingSupply": 228991733.0,
+      "totalSupply": 500000000.0,
+      "maxSupply": 500000000.0,
+      "marketCapDominance": 0.0,
+      "rank": 1928,
+      "roi": -74.34790215,
+      "low24h": 0.003463456833661968,
+      "high24h": 0.003653408577580716,
+      "low7d": 0.003226905480485042,
+      "high7d": 0.004088968061255896,
+      "low30d": 0.003208082169141723,
+      "high30d": 0.004503489076000973,
+      "low90d": 0.0029383193568817,
+      "high90d": 0.004822277889552998,
+      "low52w": 0.0029383193568817,
+      "high52w": 0.034889012271754054,
+      "lowAllTime": 0.001000230158662727,
+      "highAllTime": 0.10992856296994745,
+      "lowAllTimeChangePercentage": 259.05,
+      "highAllTimeChangePercentage": -96.73,
+      "lowAllTimeTimestamp": "2022-11-10T01:03:00.000Z",
+      "highAllTimeTimestamp": "2021-12-02T00:44:26.000Z",
+      "lowYesterday": 0.003463456833661968,
+      "highYesterday": 0.003653408577580716,
+      "openYesterday": 0.003609714682088223,
+      "closeYesterday": 0.003588881509671511,
+      "priceChangePercentageYesterday": -0.58,
+      "volumeYesterday": 62097.7,
+      "turnover": 0.07320487,
+      "ytdPriceChangePercentage": -70.6651,
+      "volumeRank": 3146,
+      "volumeMcRank": 2231,
+      "mcTotalNum": 10049,
+      "volumeTotalNum": 10049,
+      "volumeMcTotalNum": 10049
+    },
+    "quotes": [],
+    "platforms": [
+      {
+        "contractId": 1839,
+        "contractAddress": "0x1785113910847770290F5F840b4c74fc46451201",
+        "contractPlatform": "BNB Smart Chain (BEP20)",
+        "contractPlatformId": 14,
+        "contractChainId": 56,
+        "contractRpcUrl": [
+          "https://bsc-dataseed1.binance.org",
+          "https://bsc-dataseed.binance.org/",
+          "https://bsc-dataseed1.binance.org:443"
+        ],
+        "contractNativeCurrencyName": "Binance Chain Native Token",
+        "contractNativeCurrencySymbol": "BNB",
+        "contractNativeCurrencyDecimals": 18,
+        "contractBlockExplorerUrl": "https://bscscan.com/",
+        "contractExplorerUrl": "https://bscscan.com/token/0x1785113910847770290F5F840b4c74fc46451201",
+        "contractDecimals": 18,
+        "platformCryptoId": 1839,
+        "sort": 0,
+        "wallets": [
+          {
+            "id": 9025
+          }
+        ]
+      },
+      {
+        "contractId": 3890,
+        "contractAddress": "0x23e8b6a3f6891254988b84da3738d2bfe5e703b9",
+        "contractPlatform": "Polygon",
+        "contractPlatformId": 25,
+        "contractChainId": 137,
+        "contractRpcUrl": [
+          "https://rpc-mainnet.maticvigil.com"
+        ],
+        "contractNativeCurrencyName": "MATIC",
+        "contractNativeCurrencySymbol": "MATIC",
+        "contractNativeCurrencyDecimals": 18,
+        "contractBlockExplorerUrl": "https://polygonscan.com",
+        "contractExplorerUrl": "https://polygonscan.com/token/0x23e8b6a3f6891254988b84da3738d2bfe5e703b9",
+        "contractDecimals": 18,
+        "platformCryptoId": 3890,
+        "sort": 0,
+        "wallets": [
+          {
+            "id": 9025
+          }
+        ]
+      }
+    ],
+    "relatedCoins": [
+      {
+        "id": 2513,
+        "name": "GoldMint",
+        "slug": "goldmint",
+        "price": 0.05065701161697734,
+        "priceChangePercentage24h": -0.83488657,
+        "priceChangePercentage7d": 21.70106268
+      },
+      {
+        "id": 4679,
+        "name": "Band Protocol",
+        "slug": "band-protocol",
+        "price": 1.2924689407590508,
+        "priceChangePercentage24h": -5.51284503,
+        "priceChangePercentage7d": 1.82102584
+      },
+      {
+        "id": 7083,
+        "name": "Uniswap",
+        "slug": "uniswap",
+        "price": 8.907804423933275,
+        "priceChangePercentage24h": -4.39447372,
+        "priceChangePercentage7d": -3.90346035
+      },
+      {
+        "id": 1414,
+        "name": "Firo",
+        "slug": "firo",
+        "price": 1.3454938776288508,
+        "priceChangePercentage24h": 0.21867821,
+        "priceChangePercentage7d": 4.03360084
+      },
+      {
+        "id": 1975,
+        "name": "Chainlink",
+        "slug": "chainlink",
+        "price": 14.028344717813509,
+        "priceChangePercentage24h": -5.25786687,
+        "priceChangePercentage7d": -2.46572024
+      },
+      {
+        "id": 7653,
+        "name": "Oasis",
+        "slug": "oasis-network",
+        "price": 0.08025331330873264,
+        "priceChangePercentage24h": -5.30717197,
+        "priceChangePercentage7d": -4.39563858
+      },
+      {
+        "id": 707,
+        "name": "Blocknet",
+        "slug": "blocknet",
+        "price": 0.017113298239738093,
+        "priceChangePercentage24h": -0.68391562,
+        "priceChangePercentage7d": -3.30053472
+      },
+      {
+        "id": 5864,
+        "name": "yearn.finance",
+        "slug": "yearn-finance",
+        "price": 6192.38803639104,
+        "priceChangePercentage24h": -4.43119421,
+        "priceChangePercentage7d": -11.362147
+      },
+      {
+        "id": 4279,
+        "name": "Solar",
+        "slug": "sxp",
+        "price": 0.36376553390538346,
+        "priceChangePercentage24h": 2.1116243,
+        "priceChangePercentage7d": 18.12789401
+      },
+      {
+        "id": 8043,
+        "name": "MAHA.xyz",
+        "slug": "mahadao",
+        "price": 0.9034865737660874,
+        "priceChangePercentage24h": -2.68820884,
+        "priceChangePercentage7d": -9.89747239
+      }
+    ],
+    "wallets": [
+      {
+        "id": 9025,
+        "name": "MetaMask",
+        "tier": 1,
+        "url": "https://metamask.io/",
+        "chains": "ETH,ETZ",
+        "types": "pc",
+        "introduction": "",
+        "star": 1.0,
+        "security": 2.0,
+        "easyToUse": 4.0,
+        "decentration": false,
+        "focusNumber": 0,
+        "rank": 1000013,
+        "logo": "9025.png",
+        "multipleChain": true
+      },
+      {
+        "id": 9152,
+        "name": "Binance Chain Wallet",
+        "url": "https://www.binance.org/en/blog/binance-extension-wallet/",
+        "chains": "BNB",
+        "types": "",
+        "introduction": "",
+        "star": 0.0,
+        "security": 0.0,
+        "easyToUse": 0.0,
+        "decentration": false,
+        "focusNumber": 0,
+        "logo": "9152.png",
+        "multipleChain": false
+      }
+    ],
+    "isAudited": true,
+    "auditInfos": [
+      {
+        "coinId": "14681",
+        "auditor": "CertiK",
+        "auditStatus": 2,
+        "auditTime": "2023-05-12T14:36:31.903Z",
+        "reportUrl": "https://cmc.certik-skynet.com/redirect?project=fabwelttoken"
+      }
+    ],
+    "holders": {},
+    "displayTV": 1,
+    "isInfiniteMaxSupply": 0,
+    "tvCoinSymbol": "WELT",
+    "supportWalletInfos": [
+      {
+        "id": 9025,
+        "name": "MetaMask",
+        "url": "https://metamask.io/",
+        "chains": "ETH,ETZ",
+        "decentration": false,
+        "logo": "9025.png",
+        "multipleChain": false
+      },
+      {
+        "id": 9152,
+        "name": "Binance Chain Wallet",
+        "url": "https://www.binance.org/en/blog/binance-extension-wallet/",
+        "chains": "BNB",
+        "decentration": false,
+        "logo": "9152.png",
+        "multipleChain": false
+      }
+    ],
+    "holdersFlag": false,
+    "ratingsFlag": false,
+    "analysisFlag": false,
+    "socialsFlag": true,
+    "cryptoRating": [
+      {
+        "type": "CertiK",
+        "score": 88.2,
+        "rating": 4.4,
+        "updateTime": "2024-11-17T00:00:00.000Z",
+        "link": "https://cmc.certik-skynet.com/redirect?project=fabwelttoken&utm_source=CMC&utm_campaign=ScoreByCertiKLink"
+      },
+      {
+        "type": "Cyberscope",
+        "score": 72.0,
+        "rating": 3.6,
+        "updateTime": "2024-11-17T11:02:39.000Z",
+        "link": "https://www.cyberscope.io/audits/coin-fabwelt"
+      },
+      {
+        "type": "Aggregate rating",
+        "score": 80.1,
+        "rating": 4.0,
+        "updateTime": "2024-11-18T01:00:00.231Z"
+      }
+    ],
+    "hasExtraInfoFlag": false,
+    "upcoming": {
+      "status": false
+    },
+    "annotationFlag": false,
+    "similarCoins": [
+      {
+        "id": 22320,
+        "symbol": "HELLO"
+      },
+      {
+        "id": 22289,
+        "symbol": "MYRIA"
+      },
+      {
+        "id": 12749,
+        "symbol": "NAKA"
+      },
+      {
+        "id": 6836,
+        "symbol": "GLMR"
+      },
+      {
+        "id": 3816,
+        "symbol": "VRA"
+      },
+      {
+        "id": 2709,
+        "symbol": "MITX"
+      }
+    ]
+  },
+  "status": {
+    "timestamp": "2024-11-18T01:09:59.250Z",
+    "error_code": "0",
+    "error_message": "SUCCESS",
+    "elapsed": "20",
+    "credit_count": 0
+  }
+}

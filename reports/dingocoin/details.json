@@ -1,0 +1,429 @@
+{
+  "data": {
+    "id": 16185,
+    "name": "Dingocoin",
+    "symbol": "DINGO",
+    "slug": "dingocoin",
+    "category": "coin",
+    "description": "## What is Dingocoin (DINGO)?\n\nDingocoin is a very currency, and a community-driven project. Created in parody of Dogecoin for absolutely everyone, based on the wild Australian dingo.\nDingocoin strives to be a fun and universal currency with minimal transaction fees. \n\nSeeking to maximize adoption as an actual currency, we are a fair launch coin with no team allocation - only fairly mined coins exist, backed by our own blockchain. Dingocoin is centered around projects and features build by the community, for the community. \n\n## What makes Dingocoin unique?\n\nDingocoin prides itself as a completely community-driven project built on diverse community contributions. Think of us as an independent, ultra-active version of Dogecoin, and a challenger to SHIB and its followers. The Dingocoin pack takes the growth of Dingocoin into its own hands, focusing on building progress by actually doing work. We do not sit around and wait for the impossible to happen, nor do we attempt to overmarket. The Dingocoin pack is wild and unstoppable. Have an idea? Join us today, throw it out and we'll help!\n\n## Features of Dingocoin\n\n* Dingocoin can be held in a private wallet or in an exchange. One-click browser extension wallets in Chrome and Firefox allows you to store Dingocoin with an incredibly smooth user experience. \n* This smooth user experience will be brought further in planned apps that will redefine effortless cryptocurrency payments, powered by innovations built as part of The Dingocoin Trailmap and coming to a phone near you soon.\n* Participate in community-developed games and activities. Hang out, have fun, and possibly earn Dingocoins.\n* Dingocoin is also integrated with Roblox \u2013 Dingocoin City allows you to hold, send and earn Dingocoins inside of Roblox.\n* Experience the next generation of NFTs. Create and trade NFTs on our very own NFT platform. Pay 1 Dingocoin in gas fees. Trading is done entirely on-chain - you receive earnings immediately. Dingocoin's very own NFT platform marks a hallmark feat - create and trade NFTs on-chain, right within your browser. Dingocoin NFTs are Cryptographically Unique \u2013 the same content can never be reused in another NFT. The Dingocoin NFT platform is the successor to existing NFT platforms, with our advanced features and implementations that are beyond state-of-the-art.\n* Dingocoin exists both as a coin on its own secured blockchain, and as wrapped tokens (wDingocoin) on BSC and SOL. Our goal is to make Dingocoin highly accessible, allowing you to get Dingocoins from both centralized exchanges (CEX) and decentralized exchanges (DEX). They are exchangeable 1:1 at anytime, via our unique community-decentralized wrap custodians.\n\n## The Dingocoin Trailmap\n\nThe Trailmap is the effort of Dingocoin community in making this coin a real utility vehicle. Unlike what is the case for countless minted tokens, the community is completely dedicated from the beginning in building useful products for the future. We believe in adoption of this very universal currency through utility only. \n\nDingocoin is completely decentralized and is already adopted by many different members from different geographies.\nDingocoin is a community-driven open-source project and its direction is formed by the many contributors to the various projects of the Dingocoin blockchain and ecosystem. Dingocoin is inviting all to contribute to its development. The direction of Dingocoin is created by the many projects that the community chooses to undertake. \n\nThis Trailmap represents places where the Dingocoin community believe will contribute to Dingocoin\u2019s success. Our foundational initiatives to ease integration of Dingocoin with anything else consists of the Dingocoin NextGen framework, Libraries, SDKs and APIs. Dingocoin NextGen framework, Libraries, SDKs and APIs opens up new opportunities for payment providers, retailers, NFT artists, Game developers, Social Platforms and many more for quick integration of Dingocoin into their infrastructure through scalable backend solutions. A proposed Dingocoin Keyring App and Sdk will ensure rapid developments of apps that can transact over the chain using webwallet API and without holding user keys \u2013 a completely trustless model.\n\n## Availability of Dingocoin\n\nDingocoin has the same emission schedule as Dogecoin, and mid 2022 (approximately a year and a half after release) there will be approximately 100 billion coins. Each subsequent block will grant 10,000 coins to encourage miners to continue to secure the network (5 billion new Dingocoin will be emitted every year).\n\nDingocoin is proudly traded at 10+ markets, and is in the process of listing at more global leading exchanges. Dingocoin is proud to have a wrapped version available on BSC and SOL chains. We also plan to wrap Dingocoin to more DEXes, including an Ethererum wrap. Past the final halving in July 2022, Dingocoin has concrete plans for listing at a global top 5 marketplace during the autumn, and will not stop with that.\n\nIn the longer term, Dingocoin plans to break the \u201cExchange barrier\u201d and become available in new, innovative ways.",
+    "dateAdded": "2021-12-17T04:37:18.000Z",
+    "status": "active",
+    "subStatus": "normal",
+    "notice": "",
+    "alertType": 2,
+    "alertLink": "",
+    "latestUpdateTime": "2024-11-18T01:09:00.000Z",
+    "watchCount": "4515",
+    "watchListRanking": 3543,
+    "dateLaunched": "2021-04-02T00:00:00.000Z",
+    "latestAdded": false,
+    "tags": [
+      {
+        "slug": "mineable",
+        "name": "Mineable",
+        "category": "OTHERS"
+      },
+      {
+        "slug": "pow",
+        "name": "PoW",
+        "category": "ALGORITHM"
+      },
+      {
+        "slug": "medium-of-exchange",
+        "name": "Medium of Exchange",
+        "category": "INDUSTRY"
+      },
+      {
+        "slug": "memes",
+        "name": "Memes",
+        "category": "INDUSTRY"
+      },
+      {
+        "slug": "payments",
+        "name": "Payments",
+        "category": "INDUSTRY"
+      }
+    ],
+    "selfReportedTags": [
+      "PoW",
+      "Scrypt",
+      "Medium of Exchange",
+      "Store Of Value",
+      "Collectibles & NFTs",
+      "Memes",
+      "Payments"
+    ],
+    "selfReportedCirculatingSupply": "100574578752",
+    "urls": {
+      "website": [
+        "https://www.dingocoin.com/"
+      ],
+      "technical_doc": [
+        "https://dingocoin.com/downloads/whitepaper/DingocoinWhitePaper.pdf"
+      ],
+      "explorer": [
+        "https://solscan.io/token/6VYF5jXq6rfq4QRgGMG6co7b1Ev1Lj7KSbHBxfQ9e1L3",
+        "https://openchains.info/coin/dingocoin/blocks",
+        "https://bscscan.com/address/0x9b208b117b2c4f76c1534b6f006b033220a681a4",
+        "https://explorer.dingocoin.com/"
+      ],
+      "source_code": [
+        "https://github.com/dingocoincrypto/dingocoin"
+      ],
+      "message_board": [
+        "https://discord.gg/wkwk8Qfnx8"
+      ],
+      "chat": [
+        "https://discord.gg/wkwk8Qfnx8",
+        "https://t.me/joinchat/wNb353Dwm_c4NWFk"
+      ],
+      "announcement": [
+        "https://bitcointalk.org/index.php?topic=5329998"
+      ],
+      "reddit": [
+        "https://reddit.com/r/dingocoin"
+      ],
+      "facebook": [],
+      "twitter": [
+        "https://twitter.com/dingocoincrypto"
+      ]
+    },
+    "volume": 161337.18988324,
+    "volumeChangePercentage24h": -4.9513,
+    "cexVolume": 160909.51997723,
+    "dexVolume": 427.66990602,
+    "statistics": {
+      "price": 6.793649355003007e-06,
+      "priceChangePercentage1h": 1.3317177,
+      "priceChangePercentage24h": -3.02433088,
+      "priceChangePercentage7d": 33.6059936,
+      "priceChangePercentage30d": -4.55722288,
+      "priceChangePercentage60d": -9.38556657,
+      "priceChangePercentage90d": -18.0569231,
+      "priceChangePercentage1y": -46.95703728,
+      "priceChangePercentageAll": -32.026937010973,
+      "marketCap": 752773.37,
+      "marketCapChangePercentage24h": -3.0121,
+      "fullyDilutedMarketCap": 752773.37,
+      "fullyDilutedMarketCapChangePercentage24h": -3.02,
+      "circulatingSupply": 110805448752.00006,
+      "totalSupply": 110805448752.00006,
+      "marketCapDominance": 0.0,
+      "rank": 1959,
+      "low24h": 6.440358247609e-06,
+      "high24h": 7.301506587871e-06,
+      "low7d": 4.14897144902e-06,
+      "high7d": 7.301506587871e-06,
+      "low30d": 3.705579565921e-06,
+      "high30d": 8.398824646397e-06,
+      "low90d": 3.705579565921e-06,
+      "high90d": 9.013065934057e-06,
+      "low52w": 3.705579565921e-06,
+      "high52w": 8.1471924142679e-05,
+      "lowAllTime": 3.672458821212e-06,
+      "highAllTime": 8.1471924142679e-05,
+      "lowAllTimeChangePercentage": 84.99,
+      "highAllTimeChangePercentage": -91.66,
+      "lowAllTimeTimestamp": "2022-01-31T14:52:00.000Z",
+      "highAllTimeTimestamp": "2024-03-27T07:39:00.000Z",
+      "lowYesterday": 6.329559476797e-06,
+      "highYesterday": 7.301506587871e-06,
+      "openYesterday": 6.389616907503e-06,
+      "closeYesterday": 6.675526180922e-06,
+      "priceChangePercentageYesterday": 4.47,
+      "volumeYesterday": 156531.76,
+      "turnover": 0.21432372,
+      "ytdPriceChangePercentage": -59.773,
+      "volumeRank": 2352,
+      "volumeMcRank": 1151,
+      "mcTotalNum": 10049,
+      "volumeTotalNum": 10049,
+      "volumeMcTotalNum": 10049
+    },
+    "quotes": [],
+    "platforms": [
+      {
+        "contractId": 1839,
+        "contractAddress": "0x9b208b117b2c4f76c1534b6f006b033220a681a4",
+        "contractPlatform": "BNB Smart Chain (BEP20)",
+        "contractPlatformId": 14,
+        "contractChainId": 56,
+        "contractRpcUrl": [
+          "https://bsc-dataseed1.binance.org",
+          "https://bsc-dataseed.binance.org/",
+          "https://bsc-dataseed1.binance.org:443"
+        ],
+        "contractNativeCurrencyName": "Binance Chain Native Token",
+        "contractNativeCurrencySymbol": "BNB",
+        "contractNativeCurrencyDecimals": 18,
+        "contractBlockExplorerUrl": "https://bscscan.com/",
+        "contractExplorerUrl": "https://bscscan.com/token/0x9b208b117b2c4f76c1534b6f006b033220a681a4",
+        "contractDecimals": 18,
+        "platformCryptoId": 1839,
+        "sort": 0,
+        "wallets": [
+          {
+            "id": 9025
+          }
+        ]
+      },
+      {
+        "contractId": 5426,
+        "contractAddress": "6VYF5jXq6rfq4QRgGMG6co7b1Ev1Lj7KSbHBxfQ9e1L3",
+        "contractPlatform": "Solana",
+        "contractPlatformId": 16,
+        "contractChainId": -1,
+        "contractRpcUrl": [],
+        "contractNativeCurrencyName": "",
+        "contractNativeCurrencySymbol": "",
+        "contractNativeCurrencyDecimals": 18,
+        "contractBlockExplorerUrl": "",
+        "contractExplorerUrl": "https://solana.fm/address/6VYF5jXq6rfq4QRgGMG6co7b1Ev1Lj7KSbHBxfQ9e1L3",
+        "contractDecimals": 18,
+        "platformCryptoId": 5426,
+        "sort": 0,
+        "wallets": []
+      }
+    ],
+    "relatedCoins": [
+      {
+        "id": 2513,
+        "name": "GoldMint",
+        "slug": "goldmint",
+        "price": 0.05065701161697734,
+        "priceChangePercentage24h": -0.83488657,
+        "priceChangePercentage7d": 21.70106268
+      },
+      {
+        "id": 4679,
+        "name": "Band Protocol",
+        "slug": "band-protocol",
+        "price": 1.2924689407590508,
+        "priceChangePercentage24h": -5.51284503,
+        "priceChangePercentage7d": 1.82102584
+      },
+      {
+        "id": 7083,
+        "name": "Uniswap",
+        "slug": "uniswap",
+        "price": 8.907804423933275,
+        "priceChangePercentage24h": -4.39447372,
+        "priceChangePercentage7d": -3.90346035
+      },
+      {
+        "id": 1414,
+        "name": "Firo",
+        "slug": "firo",
+        "price": 1.3454938776288508,
+        "priceChangePercentage24h": 0.21867821,
+        "priceChangePercentage7d": 4.03360084
+      },
+      {
+        "id": 1975,
+        "name": "Chainlink",
+        "slug": "chainlink",
+        "price": 14.028344717813509,
+        "priceChangePercentage24h": -5.25786687,
+        "priceChangePercentage7d": -2.46572024
+      },
+      {
+        "id": 7653,
+        "name": "Oasis",
+        "slug": "oasis-network",
+        "price": 0.08025331330873264,
+        "priceChangePercentage24h": -5.30717197,
+        "priceChangePercentage7d": -4.39563858
+      },
+      {
+        "id": 707,
+        "name": "Blocknet",
+        "slug": "blocknet",
+        "price": 0.017113298239738093,
+        "priceChangePercentage24h": -0.68391562,
+        "priceChangePercentage7d": -3.30053472
+      },
+      {
+        "id": 5864,
+        "name": "yearn.finance",
+        "slug": "yearn-finance",
+        "price": 6192.38803639104,
+        "priceChangePercentage24h": -4.43119421,
+        "priceChangePercentage7d": -11.362147
+      },
+      {
+        "id": 4279,
+        "name": "Solar",
+        "slug": "sxp",
+        "price": 0.36376553390538346,
+        "priceChangePercentage24h": 2.1116243,
+        "priceChangePercentage7d": 18.12789401
+      },
+      {
+        "id": 8043,
+        "name": "MAHA.xyz",
+        "slug": "mahadao",
+        "price": 0.9034865737660874,
+        "priceChangePercentage24h": -2.68820884,
+        "priceChangePercentage7d": -9.89747239
+      }
+    ],
+    "wallets": [
+      {
+        "id": 9025,
+        "name": "MetaMask",
+        "tier": 1,
+        "url": "https://metamask.io/",
+        "chains": "ETH,ETZ",
+        "types": "pc",
+        "introduction": "",
+        "star": 1.0,
+        "security": 2.0,
+        "easyToUse": 4.0,
+        "decentration": false,
+        "focusNumber": 0,
+        "rank": 1000013,
+        "logo": "9025.png",
+        "multipleChain": true
+      },
+      {
+        "id": 9152,
+        "name": "Binance Chain Wallet",
+        "url": "https://www.binance.org/en/blog/binance-extension-wallet/",
+        "chains": "BNB",
+        "types": "",
+        "introduction": "",
+        "star": 0.0,
+        "security": 0.0,
+        "easyToUse": 0.0,
+        "decentration": false,
+        "focusNumber": 0,
+        "logo": "9152.png",
+        "multipleChain": false
+      }
+    ],
+    "isAudited": true,
+    "auditInfos": [
+      {
+        "coinId": "16185",
+        "auditor": "Hacken",
+        "auditStatus": 2,
+        "reportUrl": "https://hacken.io/audits/pera-finance/"
+      }
+    ],
+    "holders": {},
+    "displayTV": 0,
+    "isInfiniteMaxSupply": 0,
+    "tvCoinSymbol": "DINGO",
+    "supportWalletInfos": [
+      {
+        "id": 9025,
+        "name": "MetaMask",
+        "url": "https://metamask.io/",
+        "chains": "ETH,ETZ",
+        "decentration": false,
+        "logo": "9025.png",
+        "multipleChain": false
+      },
+      {
+        "id": 9152,
+        "name": "Binance Chain Wallet",
+        "url": "https://www.binance.org/en/blog/binance-extension-wallet/",
+        "chains": "BNB",
+        "decentration": false,
+        "logo": "9152.png",
+        "multipleChain": false
+      },
+      {
+        "id": 9159,
+        "name": "SolFlare",
+        "url": "https://solflare.com/",
+        "chains": "",
+        "decentration": false,
+        "logo": "default.png",
+        "multipleChain": false
+      },
+      {
+        "id": 9209,
+        "name": "Backpack",
+        "url": "https://backpack.app/downloads",
+        "chains": "",
+        "decentration": false,
+        "logo": "https://s3.coinmarketcap.com/static/img/as/2023-12-06T06:55:43.999Z_BackpackLogo_BlackBkg.png",
+        "multipleChain": false
+      },
+      {
+        "id": 9210,
+        "name": "Phantom",
+        "url": "https://phantom.app/",
+        "chains": "",
+        "decentration": false,
+        "logo": "https://s3.coinmarketcap.com/static/img/as/2023-12-06T11:05:16.408Z_4StTDIF4_400x400.png",
+        "multipleChain": false
+      }
+    ],
+    "holdersFlag": false,
+    "ratingsFlag": false,
+    "analysisFlag": false,
+    "socialsFlag": true,
+    "cryptoRating": [
+      {
+        "type": "CertiK",
+        "score": 70.89,
+        "rating": 3.5,
+        "updateTime": "2024-11-17T00:00:00.000Z",
+        "link": "https://cmc.certik-skynet.com/redirect?project=dingocoin&utm_source=CMC&utm_campaign=ScoreByCertiKLink"
+      },
+      {
+        "type": "Cyberscope",
+        "score": 58.0,
+        "rating": 2.9,
+        "updateTime": "2024-11-17T10:59:37.000Z",
+        "link": "https://www.cyberscope.io/audits/coin-dingocoin"
+      },
+      {
+        "type": "Aggregate rating",
+        "score": 64.4,
+        "rating": 3.2,
+        "updateTime": "2024-11-18T01:00:00.236Z"
+      }
+    ],
+    "hasExtraInfoFlag": false,
+    "upcoming": {
+      "status": false
+    },
+    "annotationFlag": false,
+    "similarCoins": [
+      {
+        "id": 2540,
+        "symbol": "LCC"
+      },
+      {
+        "id": 2837,
+        "symbol": "0xBTC"
+      },
+      {
+        "id": 4160,
+        "symbol": "YEC"
+      },
+      {
+        "id": 3334,
+        "symbol": "XCASH"
+      },
+      {
+        "id": 10407,
+        "symbol": "BabyDoge"
+      },
+      {
+        "id": 17742,
+        "symbol": "CULT"
+      }
+    ]
+  },
+  "status": {
+    "timestamp": "2024-11-18T01:10:01.916Z",
+    "error_code": "0",
+    "error_message": "SUCCESS",
+    "elapsed": "13",
+    "credit_count": 0
+  }
+}

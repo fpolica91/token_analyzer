@@ -1,0 +1,293 @@
+{
+  "data": {
+    "id": 19907,
+    "name": "Biometric Financial",
+    "symbol": "BIOFI",
+    "slug": "biometric-financial",
+    "category": "token",
+    "description": "\"The BioFi project is a Utility Token that addresses the concerns many people have about safeguarding their personal data while being safe from exploitation by fraudsters. With data breaches and hacks on the rise, consumers in the 21st century are losing faith in the ability of service providers to protect their identity and other sensitive information. BioFi helps solve this problem by bringing the speed, security, and anonymity of biometric identity to the blockchain and the DeFi space.\r\n\r\nThe BioFi ecosystem contains several high profile products operating in global markets and is well positioned to deliver popular utility features to people in every community. Usage of the BioFi ecosystem only requires 1 $BioFi token. Partners of the BioFi ecosystem can integrate easily with the biometric API's, highlighting the unique utility advantage that the entire service can bring. The Biometric Financial website showcases the many products currently available or in development, while providing services to tens of thousands of users globally:\r\n\r\nBioFi is truly global in nature, not bound by a single language or territory, and designed to be user friendly with the added benefit of helping people feel more secure as access is tied to them individually. BioFi's use cases are practically limitless, from covering the basic elements of authentication for logins, password resets, and payments to updating sensitive information, and providing access to IoT device functions. BioFi will never sell your personal data or intrude upon anyone's privacy. There is unlimited potential for every company to join the BioFi ecosystem while leveraging the $BioFi token in their solutions.\r\n\r\nThe BioFi three-pager and one-pager are available at the following links for more details.\r\n\r\nThree-pager:\r\n\r\nhttps://biometricfinancial.org/wp-content/uploads/2022/03/BioFi-Three-Pager.pdf\r\n\r\nOne-pager:\r\n\r\nhttps://biometricfinancial.org/wp-content/uploads/2022/02/BioFi-One-Pager.pdf\r\n\r\nBioFi is an amazing Utility Token which has incredible value and the potential to greatly improve personal data security throughout the world.\"",
+    "dateAdded": "2022-05-03T04:01:40.000Z",
+    "status": "active",
+    "subStatus": "normal",
+    "notice": "BIOFI has been migrated from an [Avalanche old contract](https://snowtrace.io/token/0x9366d30FeBA284E62900f6295BC28c9906f33172) to a new [BEP20 new contract](https://bscscan.com/token/0x11A31b833d43853f8869C9EEc17F60e3B4d2a753)",
+    "alertType": 2,
+    "alertLink": "",
+    "latestUpdateTime": "2024-11-18T01:09:00.000Z",
+    "watchCount": "3007",
+    "watchListRanking": 4180,
+    "dateLaunched": "2022-04-20T00:00:00.000Z",
+    "latestAdded": false,
+    "launchPrice": 0.003,
+    "tags": [
+      {
+        "slug": "binance-smart-chain",
+        "name": "BNB Smart Chain",
+        "category": "PLATFORM"
+      }
+    ],
+    "selfReportedCirculatingSupply": "604444444",
+    "urls": {
+      "website": [
+        "https://biometricfinancial.org/home/"
+      ],
+      "technical_doc": [
+        "https://biometricfinancial.org/paper/BioFi%20Whitepaper%2003-13-2023.pdf"
+      ],
+      "explorer": [
+        "https://bscscan.com/token/0x11A31b833d43853f8869C9EEc17F60e3B4d2a753"
+      ],
+      "source_code": [
+        "https://github.com/Finnovant/Smart-Contracts-pub"
+      ],
+      "message_board": [
+        "https://www.facebook.com/Finnovant"
+      ],
+      "chat": [
+        "https://t.me/bioficommunity",
+        "https://discord.gg/jZe7ya4CSy"
+      ],
+      "announcement": [],
+      "reddit": [],
+      "facebook": [
+        "https://www.facebook.com/Finnovant"
+      ],
+      "twitter": [
+        "https://twitter.com/BioFiGlobal"
+      ]
+    },
+    "volume": 31883.77493694,
+    "volumeChangePercentage24h": 12.3634,
+    "cexVolume": 27912.03074679,
+    "dexVolume": 3971.74419015,
+    "statistics": {
+      "price": 0.0003983948414026594,
+      "priceChangePercentage1h": -1.73646441,
+      "priceChangePercentage24h": -10.2513948,
+      "priceChangePercentage7d": -14.36886297,
+      "priceChangePercentage30d": -5.11227705,
+      "priceChangePercentage60d": 17.11050194,
+      "priceChangePercentage90d": -2.88708386,
+      "priceChangePercentage1y": 4.54858825,
+      "priceChangePercentageAll": -75.516202159019,
+      "marketCap": 777214.15,
+      "marketCapChangePercentage24h": -10.2514,
+      "fullyDilutedMarketCap": 3983948.41,
+      "fullyDilutedMarketCapChangePercentage24h": -10.25,
+      "circulatingSupply": 1950863998.0,
+      "totalSupply": 10000000000.0,
+      "maxSupply": 10000000000.0,
+      "marketCapDominance": 0.0,
+      "rank": 1948,
+      "roi": -86.72017195,
+      "low24h": 0.000392349106965463,
+      "high24h": 0.000466524530008855,
+      "low7d": 0.000392349106965463,
+      "high7d": 0.000632019478480459,
+      "low30d": 0.000313170962451082,
+      "high30d": 0.000632019478480459,
+      "low90d": 0.000279971725308767,
+      "high90d": 0.000745601435960787,
+      "low52w": 0.000279971725308767,
+      "high52w": 0.004832737789148242,
+      "lowAllTime": 0.000162882650014376,
+      "highAllTime": 0.030337844902959543,
+      "lowAllTimeChangePercentage": 144.59,
+      "highAllTimeChangePercentage": -98.69,
+      "lowAllTimeTimestamp": "2023-10-22T21:20:00.000Z",
+      "highAllTimeTimestamp": "2022-05-18T02:18:00.000Z",
+      "lowYesterday": 0.000392349106965463,
+      "highYesterday": 0.000466524530008855,
+      "openYesterday": 0.000437374678015928,
+      "closeYesterday": 0.000406394966505734,
+      "priceChangePercentageYesterday": -7.08,
+      "volumeYesterday": 31927.45,
+      "turnover": 0.04102315,
+      "ytdPriceChangePercentage": -19.2147,
+      "volumeRank": 3669,
+      "volumeMcRank": 2937,
+      "mcTotalNum": 10049,
+      "volumeTotalNum": 10049,
+      "volumeMcTotalNum": 10049
+    },
+    "quotes": [],
+    "platforms": [
+      {
+        "contractId": 1839,
+        "contractAddress": "0x11A31b833d43853f8869C9EEc17F60e3B4d2a753",
+        "contractPlatform": "BNB Smart Chain (BEP20)",
+        "contractPlatformId": 14,
+        "contractChainId": 56,
+        "contractRpcUrl": [
+          "https://bsc-dataseed1.binance.org",
+          "https://bsc-dataseed.binance.org/",
+          "https://bsc-dataseed1.binance.org:443"
+        ],
+        "contractNativeCurrencyName": "Binance Chain Native Token",
+        "contractNativeCurrencySymbol": "BNB",
+        "contractNativeCurrencyDecimals": 18,
+        "contractBlockExplorerUrl": "https://bscscan.com/",
+        "contractExplorerUrl": "https://bscscan.com/token/0x11A31b833d43853f8869C9EEc17F60e3B4d2a753",
+        "contractDecimals": 18,
+        "platformCryptoId": 1839,
+        "sort": 0,
+        "wallets": [
+          {
+            "id": 9025
+          }
+        ]
+      }
+    ],
+    "relatedCoins": [
+      {
+        "id": 2513,
+        "name": "GoldMint",
+        "slug": "goldmint",
+        "price": 0.05065701161697734,
+        "priceChangePercentage24h": -0.83488657,
+        "priceChangePercentage7d": 21.70106268
+      },
+      {
+        "id": 4679,
+        "name": "Band Protocol",
+        "slug": "band-protocol",
+        "price": 1.2924689407590508,
+        "priceChangePercentage24h": -5.51284503,
+        "priceChangePercentage7d": 1.82102584
+      },
+      {
+        "id": 7083,
+        "name": "Uniswap",
+        "slug": "uniswap",
+        "price": 8.907804423933275,
+        "priceChangePercentage24h": -4.39447372,
+        "priceChangePercentage7d": -3.90346035
+      },
+      {
+        "id": 1414,
+        "name": "Firo",
+        "slug": "firo",
+        "price": 1.3454938776288508,
+        "priceChangePercentage24h": 0.21867821,
+        "priceChangePercentage7d": 4.03360084
+      },
+      {
+        "id": 1975,
+        "name": "Chainlink",
+        "slug": "chainlink",
+        "price": 14.028344717813509,
+        "priceChangePercentage24h": -5.25786687,
+        "priceChangePercentage7d": -2.46572024
+      },
+      {
+        "id": 7653,
+        "name": "Oasis",
+        "slug": "oasis-network",
+        "price": 0.08025331330873264,
+        "priceChangePercentage24h": -5.30717197,
+        "priceChangePercentage7d": -4.39563858
+      },
+      {
+        "id": 707,
+        "name": "Blocknet",
+        "slug": "blocknet",
+        "price": 0.017113298239738093,
+        "priceChangePercentage24h": -0.68391562,
+        "priceChangePercentage7d": -3.30053472
+      },
+      {
+        "id": 5864,
+        "name": "yearn.finance",
+        "slug": "yearn-finance",
+        "price": 6192.38803639104,
+        "priceChangePercentage24h": -4.43119421,
+        "priceChangePercentage7d": -11.362147
+      },
+      {
+        "id": 4279,
+        "name": "Solar",
+        "slug": "sxp",
+        "price": 0.36376553390538346,
+        "priceChangePercentage24h": 2.1116243,
+        "priceChangePercentage7d": 18.12789401
+      },
+      {
+        "id": 8043,
+        "name": "MAHA.xyz",
+        "slug": "mahadao",
+        "price": 0.9034865737660874,
+        "priceChangePercentage24h": -2.68820884,
+        "priceChangePercentage7d": -9.89747239
+      }
+    ],
+    "isAudited": false,
+    "holders": {},
+    "displayTV": 0,
+    "isInfiniteMaxSupply": 0,
+    "tvCoinSymbol": "BIOFI",
+    "supportWalletInfos": [],
+    "holdersFlag": false,
+    "ratingsFlag": false,
+    "analysisFlag": false,
+    "socialsFlag": true,
+    "cryptoRating": [
+      {
+        "type": "CertiK",
+        "score": 71.31,
+        "rating": 3.6,
+        "updateTime": "2024-11-17T00:00:00.000Z",
+        "link": "https://cmc.certik-skynet.com/redirect?project=biometric-financial&utm_source=CMC&utm_campaign=ScoreByCertiKLink"
+      },
+      {
+        "type": "Cyberscope",
+        "score": 60.0,
+        "rating": 3.0,
+        "updateTime": "2024-11-17T10:25:51.000Z",
+        "link": "https://www.cyberscope.io/audits/coin-biometric-financial"
+      },
+      {
+        "type": "Aggregate rating",
+        "score": 65.7,
+        "rating": 3.3,
+        "updateTime": "2024-11-18T01:00:00.186Z"
+      }
+    ],
+    "hasExtraInfoFlag": false,
+    "upcoming": {
+      "status": false
+    },
+    "annotationFlag": false,
+    "similarCoins": [
+      {
+        "id": 22320,
+        "symbol": "HELLO"
+      },
+      {
+        "id": 1669,
+        "symbol": "HMQ"
+      },
+      {
+        "id": 2572,
+        "symbol": "BAX"
+      },
+      {
+        "id": 5899,
+        "symbol": "CSPR"
+      },
+      {
+        "id": 2717,
+        "symbol": "BOUTS"
+      },
+      {
+        "id": 4566,
+        "symbol": "XDB"
+      }
+    ]
+  },
+  "status": {
+    "timestamp": "2024-11-18T01:10:00.860Z",
+    "error_code": "0",
+    "error_message": "SUCCESS",
+    "elapsed": "12",
+    "credit_count": 0
+  }
+}

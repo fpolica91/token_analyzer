@@ -1,0 +1,298 @@
+{
+  "data": {
+    "id": 11649,
+    "name": "Wicrypt",
+    "symbol": "WNT",
+    "slug": "wicrypt",
+    "category": "token",
+    "description": "Wicrypt is a decentralized mobile internet sharing and monetization network.\r\nWicrypt is a virtual Internet Service Provider that gives users the power to\r\ncontrol their own mobile internet data. Wicrypt is ISP agnostic and location\r\nagnostic.The Wicrypt protocol is a protocol that enables end to end\r\nencryption of user data, bills the user for the amount of data consumed and\r\ncredits the host. \r\n\r\n\r\nThe Wicrypt network is a decentralized network of routers(micro nodes) and\r\nconnected clients (mobile phones, laptops, PCs, Smart TVs, Smart Watches\r\nand IoTs). The routers are powered by the custom Wicrypt Operating System.\r\n\r\nThe network is not controlled by any central authority. Any user or host can\r\nacquire a supported router (micro node) and install the wicrypt firmware. The\r\nuser can use this device to create a WiFi zone within the range covered by the\r\ndevice and anyone with a WiFi-enabled device can connect and have access\r\nto the internet.",
+    "dateAdded": "2021-09-05T20:30:27.000Z",
+    "status": "active",
+    "subStatus": "normal",
+    "notice": "",
+    "alertType": 2,
+    "alertLink": "",
+    "latestUpdateTime": "2024-11-18T01:09:00.000Z",
+    "watchCount": "2600493",
+    "watchListRanking": 51,
+    "dateLaunched": "2021-10-29T00:00:00.000Z",
+    "latestAdded": false,
+    "tags": [],
+    "selfReportedTags": [
+      "Hardware",
+      "IoT",
+      "Real World Assets"
+    ],
+    "selfReportedCirculatingSupply": "41970853",
+    "urls": {
+      "website": [
+        "https://wicrypt.com/"
+      ],
+      "technical_doc": [
+        "https://whitepaper.wicrypt.com/"
+      ],
+      "explorer": [
+        "https://arbiscan.io/token/0xAD4b9c1FbF4923061814dD9d5732EB703FaA53D4",
+        "https://polygonscan.com/token/0x82a0e6c02b91ec9f6ff943c0a933c03dbaa19689"
+      ],
+      "source_code": [],
+      "message_board": [
+        "https://medium.com/wicrypt",
+        "https://wicrypt.substack.com/p/coming-soon"
+      ],
+      "chat": [
+        "https://t.me/wicrypt"
+      ],
+      "announcement": [],
+      "reddit": [],
+      "facebook": [],
+      "twitter": [
+        "https://twitter.com/wicrypt"
+      ]
+    },
+    "volume": 106153.55453956,
+    "volumeChangePercentage24h": -20.9899,
+    "cexVolume": 33150.2236675,
+    "dexVolume": 73003.33087206,
+    "statistics": {
+      "price": 0.031819414331350736,
+      "priceChangePercentage1h": 0.40248794,
+      "priceChangePercentage24h": -2.24969649,
+      "priceChangePercentage7d": -0.97756462,
+      "priceChangePercentage30d": -7.84381366,
+      "priceChangePercentage60d": -17.26167987,
+      "priceChangePercentage90d": -15.9178805,
+      "priceChangePercentage1y": -77.74601296,
+      "priceChangePercentageAll": -83.946910546167,
+      "marketCap": 831274.95,
+      "marketCapChangePercentage24h": -2.2497,
+      "fullyDilutedMarketCap": 6363882.87,
+      "fullyDilutedMarketCapChangePercentage24h": -2.25,
+      "circulatingSupply": 26124772.2,
+      "totalSupply": 200000000.0,
+      "maxSupply": 200000000.0,
+      "marketCapDominance": 0.0,
+      "rank": 1922,
+      "low24h": 0.03143144128519148,
+      "high24h": 0.03291134348776588,
+      "low7d": 0.030975045260623037,
+      "high7d": 0.04018970450951638,
+      "low30d": 0.026049051176159025,
+      "high30d": 0.04018970450951638,
+      "low90d": 0.026049051176159025,
+      "high90d": 0.049781538268418586,
+      "low52w": 0.026049051176159025,
+      "high52w": 0.610041044460829,
+      "lowAllTime": 0.011858932619660034,
+      "highAllTime": 0.610041044460829,
+      "lowAllTimeChangePercentage": 168.32,
+      "highAllTimeChangePercentage": -94.78,
+      "lowAllTimeTimestamp": "2023-08-24T14:53:00.000Z",
+      "highAllTimeTimestamp": "2024-01-05T16:29:00.000Z",
+      "lowYesterday": 0.03143144128519148,
+      "highYesterday": 0.03291134348776588,
+      "openYesterday": 0.03247284852039613,
+      "closeYesterday": 0.03166695449821502,
+      "priceChangePercentageYesterday": -2.48,
+      "volumeYesterday": 107841.83,
+      "turnover": 0.12769969,
+      "ytdPriceChangePercentage": -93.146,
+      "volumeRank": 2672,
+      "volumeMcRank": 1612,
+      "mcTotalNum": 10049,
+      "volumeTotalNum": 10049,
+      "volumeMcTotalNum": 10049
+    },
+    "quotes": [],
+    "platforms": [
+      {
+        "contractId": 3890,
+        "contractAddress": "0x82a0e6c02b91ec9f6ff943c0a933c03dbaa19689",
+        "contractPlatform": "Polygon",
+        "contractPlatformId": 25,
+        "contractChainId": 137,
+        "contractRpcUrl": [
+          "https://rpc-mainnet.maticvigil.com"
+        ],
+        "contractNativeCurrencyName": "MATIC",
+        "contractNativeCurrencySymbol": "MATIC",
+        "contractNativeCurrencyDecimals": 18,
+        "contractBlockExplorerUrl": "https://polygonscan.com",
+        "contractExplorerUrl": "https://polygonscan.com/token/0x82a0e6c02b91ec9f6ff943c0a933c03dbaa19689",
+        "contractDecimals": 18,
+        "platformCryptoId": 3890,
+        "sort": 0,
+        "wallets": []
+      },
+      {
+        "contractId": 11841,
+        "contractAddress": "0xAD4b9c1FbF4923061814dD9d5732EB703FaA53D4",
+        "contractPlatform": "Arbitrum",
+        "contractPlatformId": 51,
+        "contractChainId": 42161,
+        "contractRpcUrl": [],
+        "contractNativeCurrencyName": "",
+        "contractNativeCurrencySymbol": "",
+        "contractNativeCurrencyDecimals": -1,
+        "contractBlockExplorerUrl": "",
+        "contractExplorerUrl": "https://arbiscan.io/token/0xAD4b9c1FbF4923061814dD9d5732EB703FaA53D4",
+        "contractDecimals": 18,
+        "platformCryptoId": 11841,
+        "sort": 0,
+        "wallets": []
+      }
+    ],
+    "relatedCoins": [
+      {
+        "id": 2513,
+        "name": "GoldMint",
+        "slug": "goldmint",
+        "price": 0.05065701161697734,
+        "priceChangePercentage24h": -0.83488657,
+        "priceChangePercentage7d": 21.70106268
+      },
+      {
+        "id": 4679,
+        "name": "Band Protocol",
+        "slug": "band-protocol",
+        "price": 1.2924689407590508,
+        "priceChangePercentage24h": -5.51284503,
+        "priceChangePercentage7d": 1.82102584
+      },
+      {
+        "id": 7083,
+        "name": "Uniswap",
+        "slug": "uniswap",
+        "price": 8.907804423933275,
+        "priceChangePercentage24h": -4.39447372,
+        "priceChangePercentage7d": -3.90346035
+      },
+      {
+        "id": 1414,
+        "name": "Firo",
+        "slug": "firo",
+        "price": 1.3454938776288508,
+        "priceChangePercentage24h": 0.21867821,
+        "priceChangePercentage7d": 4.03360084
+      },
+      {
+        "id": 1975,
+        "name": "Chainlink",
+        "slug": "chainlink",
+        "price": 14.028344717813509,
+        "priceChangePercentage24h": -5.25786687,
+        "priceChangePercentage7d": -2.46572024
+      },
+      {
+        "id": 7653,
+        "name": "Oasis",
+        "slug": "oasis-network",
+        "price": 0.08025331330873264,
+        "priceChangePercentage24h": -5.30717197,
+        "priceChangePercentage7d": -4.39563858
+      },
+      {
+        "id": 707,
+        "name": "Blocknet",
+        "slug": "blocknet",
+        "price": 0.017113298239738093,
+        "priceChangePercentage24h": -0.68391562,
+        "priceChangePercentage7d": -3.30053472
+      },
+      {
+        "id": 5864,
+        "name": "yearn.finance",
+        "slug": "yearn-finance",
+        "price": 6192.38803639104,
+        "priceChangePercentage24h": -4.43119421,
+        "priceChangePercentage7d": -11.362147
+      },
+      {
+        "id": 4279,
+        "name": "Solar",
+        "slug": "sxp",
+        "price": 0.36376553390538346,
+        "priceChangePercentage24h": 2.1116243,
+        "priceChangePercentage7d": 18.12789401
+      },
+      {
+        "id": 8043,
+        "name": "MAHA.xyz",
+        "slug": "mahadao",
+        "price": 0.9034865737660874,
+        "priceChangePercentage24h": -2.68820884,
+        "priceChangePercentage7d": -9.89747239
+      }
+    ],
+    "isAudited": false,
+    "holders": {},
+    "displayTV": 1,
+    "isInfiniteMaxSupply": 0,
+    "tvCoinSymbol": "WNT",
+    "supportWalletInfos": [],
+    "holdersFlag": false,
+    "ratingsFlag": false,
+    "analysisFlag": false,
+    "socialsFlag": true,
+    "cryptoRating": [
+      {
+        "type": "CertiK",
+        "score": 67.97,
+        "rating": 3.4,
+        "updateTime": "2024-11-17T00:00:00.000Z",
+        "link": "https://cmc.certik-skynet.com/redirect?project=wicrypt&utm_source=CMC&utm_campaign=ScoreByCertiKLink"
+      },
+      {
+        "type": "Cyberscope",
+        "score": 69.0,
+        "rating": 3.5,
+        "updateTime": "2024-11-17T11:21:48.000Z",
+        "link": "https://www.cyberscope.io/audits/coin-wicrypt"
+      },
+      {
+        "type": "Aggregate rating",
+        "score": 68.5,
+        "rating": 3.5,
+        "updateTime": "2024-11-18T01:00:00.220Z"
+      }
+    ],
+    "hasExtraInfoFlag": false,
+    "upcoming": {
+      "status": false
+    },
+    "annotationFlag": false,
+    "similarCoins": [
+      {
+        "id": 8202,
+        "symbol": "ZKB"
+      },
+      {
+        "id": 10188,
+        "symbol": "ATA"
+      },
+      {
+        "id": 5279,
+        "symbol": "SOLO"
+      },
+      {
+        "id": 7590,
+        "symbol": "DVI"
+      },
+      {
+        "id": 6210,
+        "symbol": "SAND"
+      },
+      {
+        "id": 23756,
+        "symbol": "CGPT"
+      }
+    ]
+  },
+  "status": {
+    "timestamp": "2024-11-18T01:09:58.596Z",
+    "error_code": "0",
+    "error_message": "SUCCESS",
+    "elapsed": "14",
+    "credit_count": 0
+  }
+}

@@ -1,0 +1,1056 @@
+{
+  "data": {
+    "id": 1934,
+    "name": "Loopring",
+    "symbol": "LRC",
+    "slug": "loopring",
+    "category": "token",
+    "description": "## What Is Loopring [LRC]?\n\nLRC is the [Ethereum](https://coinmarketcap.com/currencies/ethereum/)-based cryptocurrency token of Loopring, an open protocol designed for the building of decentralized crypto exchanges.\n\nIn 2020, the average daily trading volume of the entire cryptocurrency market fluctuated in the approximate range of $50-$200 million. Most of that trading is conducted on centralized cryptocurrency exchanges \u2014 online platforms operated by private companies that store users\u2019 funds and facilitate the matching of buy and sell orders.\n\nSuch platforms have a number of downsides common to all of them, so a new type of exchange \u2014 decentralized\u2014 has emerged to try to alleviate these disadvantages. However, fully decentralized exchanges are not without their own flaws.\n\nLoopring\u2019s purported goal is to combine centralized order matching with decentralized on-blockchain order settlement into a hybridized product that will take the best aspects of both centralized and decentralized exchanges.\n\nLRC tokens became available to the public during an initial coin offering ([ICO](https://coinmarketcap.com/alexandria/glossary/initial-coin-offering-ico)) in August 2017, while the Loopring protocol was first deployed on Ethereum mainnet in December 2019.\n\n\n### Who Are the Founders of Loopring?\n\nThe founder and current CEO of Loopring Foundation, which manages the development of Loopring protocol, is Daniel Wang, a software engineer and entrepreneur based in Shanghai, China.\n\nWang has a bachelor\u2019s degree in computer science from the University of Science and Technology of China, as well as a master\u2019s degree in the same field from Arizona State University.\n\nPrior to starting work on Loopring, Wang has held multiple managerial and executive positions in major tech companies: he was a lead software engineer at the medical device manufacturer Boston Scientific, the senior director of engineering, search, recommendation and ads system at the Chinese e-commerce giant JD.com, as well as a tech lead and senior software engineer at Google.\n\nWang has also co-founded several companies: Yunrang (Beijing) Information Technology Ltd. and the cryptocurrency services firm Coinport Technology Ltd.\n\n\n#### What Makes Loopring Unique?\n\nThe main idea behind Loopring is to combine elements of centralized and decentralized cryptocurrency exchanges to create a protocol that will enjoy their unique advantages and eliminate inefficiencies.\n\nCentralized exchanges are currently the main mode of operation for crypto trading services. While highly popular and convenient, using a centralized exchange carries a number of risks, the chief of which is their custodial nature. Because these exchanges hold users\u2019 funds for them between the points of depositing and withdrawing, those funds come under the risk of being partially or fully lost due to potential hacker attacks, malicious actors inside the exchange or regulatory intervention.\n\nAnother major problem for centralized exchanges is the lack of transparency: the fact that trades are not settled on the blockchain, but rather stored in the exchange\u2019s internal records makes possible price manipulation by the exchange and allows it to use user funds for unauthorized purposes while in custody.\n\nIn order to eliminate these problems, a new type of trading service has emerged in recent years: a decentralized crypto exchange ([DEX](https://coinmarketcap.com/alexandria/glossary/decentralized-exchange-dex)). Instead of holding user funds in custody and processing trades internally, it helps buy and sell orders connect directly with each other and settle trades on a public blockchain. \n\nWhile removing the custodial and transparency risks, DEXs introduce disadvantages of their own: mainly, lower efficiency (when compared to centralized alternatives) associated with the limited capabilities of the underlying blockchains and fragmented [liquidity](https://coinmarketcap.com/alexandria/glossary/liquidity).\n\nLoopring protocol seeks to keep the advantages of decentralized exchanges while reducing or eliminating their inefficiencies via innovative hybrid solutions. Through managing orders in a centralized manner but settling the trades on-blockchain, and combining up to 16 orders into circular trades instead of allowing strictly one vs. one trading pairs, Loopring expects to increase the efficiency of order execution, as well as enhance the liquidity of DEXs.\n\n\n#### Related Pages:\n\nLoopring is a part of the decentralized finance (DeFi) industry \u2014 read more about it at [CoinMarketCap Alexandria](https://coinmarketcap.com/alexandria/article/what-is-decentralized-finance)\n\nCurious about crypto? Learn how to buy Bitcoin [here](https://coinmarketcap.com/how-to-buy-bitcoin/).\n\n\n#### How Many Loopring [LRC] Coins Are There in Circulation?\n\nThe issuance of LRC tokens is governed by the smart contracts that comprise the Loopring Protocol.\n\nThe primary way of earning LRC is via so-called ring mining: in order to improve the liquidity of the Loopring network, the orders in it are not matched strictly as pairs of two cryptocurrencies. Instead, the protocol can mix and match up to 16 orders for different cryptocurrencies in a circular trade, called an order ring.\n\nNodes on the Loopring network are rewarded in LRC tokens for combining individual orders into order rings, maintaining public order books and trade history, and in some cases broadcasting orders to other relays.\n\n\n### How Is the Loopring Network Secured?\n\nLoopring is operable on Ethereum and [Neo](https://coinmarketcap.com/currencies/neo/) blockchains with plans to add support for the [Qtum](https://coinmarketcap.com/currencies/qtum/) blockchain. Each of these networks has its own token: LRC and LRN for Ethereum and Neo respectively; when launched, the Qtum network token will be called LRQ.\n\nThese tokens are secured by the hash functions of their underlying blockchain platforms: LRC by Ethereum\u2019s Ethash, LRN by Neo\u2019s SHA256 and RIPEMD160 and LRQ by Qtum\u2019s proof-of-stake PoSv3 algorithm.\n\n\n### Where Can You Buy Loopring [LRC]?\n\nLRC is available on many exchanges, some of the major and most trusted ones are:\n\n\n\n*   [Coinbase Pro](https://coinmarketcap.com/exchanges/coinbase-pro/)\n*   [Bilaxy](https://coinmarketcap.com/exchanges/bilaxy/)\n*   [OKEx](https://coinmarketcap.com/exchanges/okex/)\n*   [Binance](https://coinmarketcap.com/exchanges/binance/)",
+    "dateAdded": "2017-08-30T00:00:00.000Z",
+    "status": "active",
+    "subStatus": "normal",
+    "notice": "",
+    "alertType": 2,
+    "alertLink": "",
+    "latestUpdateTime": "2024-11-18T01:09:00.000Z",
+    "watchCount": "268008",
+    "watchListRanking": 225,
+    "dateLaunched": "2017-08-01T00:00:00.000Z",
+    "latestAdded": false,
+    "launchPrice": 0.05,
+    "tags": [
+      {
+        "slug": "marketplace",
+        "name": "Marketplace",
+        "category": "INDUSTRY"
+      },
+      {
+        "slug": "decentralized-exchange-dex-token",
+        "name": "Decentralized Exchange (DEX) Token",
+        "category": "CATEGORY"
+      },
+      {
+        "slug": "defi",
+        "name": "DeFi",
+        "category": "CATEGORY"
+      },
+      {
+        "slug": "zero-knowledge-proofs",
+        "name": "Zero Knowledge Proofs",
+        "category": "CATEGORY"
+      },
+      {
+        "slug": "scaling",
+        "name": "Scaling",
+        "category": "CATEGORY"
+      },
+      {
+        "slug": "smart-contracts",
+        "name": "Smart Contracts",
+        "category": "CATEGORY"
+      },
+      {
+        "slug": "wallet",
+        "name": "Wallet",
+        "category": "CATEGORY"
+      },
+      {
+        "slug": "ethereum-ecosystem",
+        "name": "Ethereum Ecosystem",
+        "category": "PLATFORM"
+      },
+      {
+        "slug": "amm",
+        "name": "AMM",
+        "category": "CATEGORY"
+      },
+      {
+        "slug": "dex",
+        "name": "DEX",
+        "category": "CATEGORY"
+      },
+      {
+        "slug": "layer-2",
+        "name": "Layer 2",
+        "category": "CATEGORY"
+      },
+      {
+        "slug": "rollups",
+        "name": "Rollups",
+        "category": "CATEGORY"
+      },
+      {
+        "slug": "red-packets",
+        "name": "Red Packets ",
+        "category": "CATEGORY"
+      },
+      {
+        "slug": "web3",
+        "name": "Web3",
+        "category": "INDUSTRY"
+      },
+      {
+        "slug": "token",
+        "name": "Token",
+        "category": "CATEGORY"
+      },
+      {
+        "slug": "arbitrum-ecosytem",
+        "name": "Arbitrum Ecosystem",
+        "category": "PLATFORM"
+      }
+    ],
+    "urls": {
+      "website": [
+        "https://loopring.org"
+      ],
+      "technical_doc": [
+        "https://github.com/Loopring/protocols/blob/master/packages/loopring_v3/DESIGN.md"
+      ],
+      "explorer": [
+        "https://solscan.io/token/HCTVFTzHL21a1dPzKxAUeWwqbE8QMUyvgChFDL4XYoi1",
+        "https://etherscan.io/token/0xbbbbca6a901c926f240b89eacb641d8aec7aeafd",
+        "https://www.oklink.com/eth/token/0xbbbbca6a901c926f240b89eacb641d8aec7aeafd",
+        "https://explorer.solana.com/address/HCTVFTzHL21a1dPzKxAUeWwqbE8QMUyvgChFDL4XYoi1"
+      ],
+      "source_code": [
+        "https://github.com/loopring"
+      ],
+      "message_board": [
+        "https://medium.com/loopring-protocol"
+      ],
+      "chat": [
+        "https://t.me/loopring_en",
+        "https://discord.gg/KkYccYp"
+      ],
+      "announcement": [],
+      "reddit": [
+        "https://reddit.com/r/loopringorg"
+      ],
+      "facebook": [],
+      "twitter": [
+        "https://twitter.com/loopringorg"
+      ]
+    },
+    "volume": 190931443.6601139,
+    "volumeChangePercentage24h": 225.5542,
+    "cexVolume": 189486836.18408725,
+    "dexVolume": 1444607.47602664,
+    "statistics": {
+      "price": 0.17585978824857468,
+      "priceChangePercentage1h": 1.03217114,
+      "priceChangePercentage24h": 3.07109228,
+      "priceChangePercentage7d": 18.91207555,
+      "priceChangePercentage30d": 34.90067625,
+      "priceChangePercentage60d": 42.85527346,
+      "priceChangePercentage90d": 32.23764763,
+      "priceChangePercentage1y": -19.97836631,
+      "priceChangePercentageAll": 47.962867489223,
+      "marketCap": 240366384.35,
+      "marketCapChangePercentage24h": 3.0711,
+      "fullyDilutedMarketCap": 241609084.75,
+      "fullyDilutedMarketCapChangePercentage24h": 3.07,
+      "circulatingSupply": 1366806970.1885817,
+      "totalSupply": 1373873397.4424574,
+      "marketCapDominance": 0.008,
+      "rank": 243,
+      "roi": 251.64044152,
+      "low24h": 0.16224739100980687,
+      "high24h": 0.21480390195337257,
+      "low7d": 0.1349210399912993,
+      "high7d": 0.21480390195337257,
+      "low30d": 0.10723028655985439,
+      "high30d": 0.21480390195337257,
+      "low90d": 0.10723028655985439,
+      "high90d": 0.21480390195337257,
+      "low52w": 0.10158073130256241,
+      "high52w": 0.5527199108734564,
+      "lowAllTime": 0.019860698096,
+      "highAllTime": 3.827154981643715,
+      "lowAllTimeChangePercentage": 785.47,
+      "highAllTimeChangePercentage": -95.4,
+      "lowAllTimeTimestamp": "2019-12-18T13:33:08.000Z",
+      "highAllTimeTimestamp": "2021-11-10T12:18:18.000Z",
+      "lowYesterday": 0.16224739100980687,
+      "highYesterday": 0.21480390195337257,
+      "openYesterday": 0.17299550024591587,
+      "closeYesterday": 0.17268582664478205,
+      "priceChangePercentageYesterday": -0.18,
+      "volumeYesterday": 188423448.1,
+      "tvl": 53879046.89001,
+      "tvlRatio": 4.46122191,
+      "turnover": 0.79433505,
+      "ytdPriceChangePercentage": -43.4192,
+      "volumeRank": 88,
+      "volumeMcRank": 432,
+      "mcTotalNum": 10049,
+      "volumeTotalNum": 10049,
+      "volumeMcTotalNum": 10049
+    },
+    "quotes": [],
+    "platforms": [
+      {
+        "contractId": 1027,
+        "contractAddress": "0xbbbbca6a901c926f240b89eacb641d8aec7aeafd",
+        "contractPlatform": "Ethereum",
+        "contractPlatformId": 1,
+        "contractChainId": 1,
+        "contractRpcUrl": [
+          "https://bsc-dataseed1.binance.org",
+          "https://bsc-dataseed.binance.org/",
+          "https://bsc-dataseed1.binance.org:443"
+        ],
+        "contractNativeCurrencyName": "Ethereum",
+        "contractNativeCurrencySymbol": "ETH",
+        "contractNativeCurrencyDecimals": 18,
+        "contractBlockExplorerUrl": "https://etherscan.io",
+        "contractExplorerUrl": "https://etherscan.io/token/0xbbbbca6a901c926f240b89eacb641d8aec7aeafd",
+        "contractDecimals": 18,
+        "platformCryptoId": 1027,
+        "sort": 0,
+        "wallets": [
+          {
+            "id": 9025
+          }
+        ]
+      },
+      {
+        "contractId": 5426,
+        "contractAddress": "HCTVFTzHL21a1dPzKxAUeWwqbE8QMUyvgChFDL4XYoi1",
+        "contractPlatform": "Solana",
+        "contractPlatformId": 16,
+        "contractChainId": -1,
+        "contractRpcUrl": [],
+        "contractNativeCurrencyName": "",
+        "contractNativeCurrencySymbol": "",
+        "contractNativeCurrencyDecimals": 18,
+        "contractBlockExplorerUrl": "",
+        "contractExplorerUrl": "https://solana.fm/address/HCTVFTzHL21a1dPzKxAUeWwqbE8QMUyvgChFDL4XYoi1",
+        "contractDecimals": 8,
+        "platformCryptoId": 5426,
+        "sort": 0,
+        "wallets": []
+      }
+    ],
+    "relatedCoins": [
+      {
+        "id": 2513,
+        "name": "GoldMint",
+        "slug": "goldmint",
+        "price": 0.05065701161697734,
+        "priceChangePercentage24h": -0.83488657,
+        "priceChangePercentage7d": 21.70106268
+      },
+      {
+        "id": 4679,
+        "name": "Band Protocol",
+        "slug": "band-protocol",
+        "price": 1.2924689407590508,
+        "priceChangePercentage24h": -5.51284503,
+        "priceChangePercentage7d": 1.82102584
+      },
+      {
+        "id": 7083,
+        "name": "Uniswap",
+        "slug": "uniswap",
+        "price": 8.907804423933275,
+        "priceChangePercentage24h": -4.39447372,
+        "priceChangePercentage7d": -3.90346035
+      },
+      {
+        "id": 1414,
+        "name": "Firo",
+        "slug": "firo",
+        "price": 1.3454938776288508,
+        "priceChangePercentage24h": 0.21867821,
+        "priceChangePercentage7d": 4.03360084
+      },
+      {
+        "id": 1975,
+        "name": "Chainlink",
+        "slug": "chainlink",
+        "price": 14.028344717813509,
+        "priceChangePercentage24h": -5.25786687,
+        "priceChangePercentage7d": -2.46572024
+      },
+      {
+        "id": 7653,
+        "name": "Oasis",
+        "slug": "oasis-network",
+        "price": 0.08025331330873264,
+        "priceChangePercentage24h": -5.30717197,
+        "priceChangePercentage7d": -4.39563858
+      },
+      {
+        "id": 707,
+        "name": "Blocknet",
+        "slug": "blocknet",
+        "price": 0.017113298239738093,
+        "priceChangePercentage24h": -0.68391562,
+        "priceChangePercentage7d": -3.30053472
+      },
+      {
+        "id": 5864,
+        "name": "yearn.finance",
+        "slug": "yearn-finance",
+        "price": 6192.38803639104,
+        "priceChangePercentage24h": -4.43119421,
+        "priceChangePercentage7d": -11.362147
+      },
+      {
+        "id": 4279,
+        "name": "Solar",
+        "slug": "sxp",
+        "price": 0.36376553390538346,
+        "priceChangePercentage24h": 2.1116243,
+        "priceChangePercentage7d": 18.12789401
+      },
+      {
+        "id": 8043,
+        "name": "MAHA.xyz",
+        "slug": "mahadao",
+        "price": 0.9034865737660874,
+        "priceChangePercentage24h": -2.68820884,
+        "priceChangePercentage7d": -9.89747239
+      }
+    ],
+    "wallets": [
+      {
+        "id": 9017,
+        "name": "Ledger",
+        "tier": 1,
+        "url": "https://www.ledger.com/",
+        "chains": "BTC,ETH,NEO,ZEC,QTUM,BAN",
+        "types": "hardware",
+        "introduction": "",
+        "star": 3.0,
+        "security": 4.0,
+        "easyToUse": 3.0,
+        "decentration": false,
+        "focusNumber": 0,
+        "rank": 2,
+        "logo": "9017.png",
+        "multipleChain": true
+      },
+      {
+        "id": 9022,
+        "name": "Trust Wallet",
+        "tier": 1,
+        "url": "https://www.trustwallet.com/",
+        "chains": "ETH",
+        "types": "app,trade",
+        "introduction": "",
+        "star": 2.0,
+        "security": 3.0,
+        "easyToUse": 3.0,
+        "decentration": true,
+        "focusNumber": 0,
+        "rank": 1000008,
+        "logo": "9022.png",
+        "multipleChain": true
+      },
+      {
+        "id": 9025,
+        "name": "MetaMask",
+        "tier": 1,
+        "url": "https://metamask.io/",
+        "chains": "ETH,ETZ",
+        "types": "pc",
+        "introduction": "",
+        "star": 1.0,
+        "security": 2.0,
+        "easyToUse": 4.0,
+        "decentration": false,
+        "focusNumber": 0,
+        "rank": 1000013,
+        "logo": "9025.png",
+        "multipleChain": true
+      },
+      {
+        "id": 9016,
+        "name": "Coinbase",
+        "tier": 1,
+        "url": "https://wallet.coinbase.com/",
+        "chains": "BTC,ETH,LTC,BCH,ETC",
+        "types": "app,pc,trade",
+        "introduction": "",
+        "star": 3.0,
+        "security": 4.0,
+        "easyToUse": 1.0,
+        "decentration": true,
+        "focusNumber": 1,
+        "logo": "9016.png",
+        "multipleChain": false
+      },
+      {
+        "id": 9188,
+        "name": "Atomic wallet",
+        "url": "https://atomicwallet.io/",
+        "chains": "",
+        "types": "",
+        "introduction": "",
+        "star": 0.0,
+        "security": 0.0,
+        "easyToUse": 0.0,
+        "decentration": false,
+        "focusNumber": 0,
+        "logo": "9188.png",
+        "multipleChain": false
+      }
+    ],
+    "isAudited": false,
+    "holders": {
+      "holderCount": 169259,
+      "dailyActive": 386,
+      "holderList": [
+        {
+          "address": "0xf977814e90da44bfa03b6295a0616a897441acec",
+          "balance": 160000000.0,
+          "share": 11.65
+        },
+        {
+          "address": "0x674bdf20a0f284d710bc40872100128e2d66bd3f",
+          "balance": 122633360.37135996,
+          "share": 8.93
+        },
+        {
+          "address": "0x46f80018211d5cbbc988e853a8683501fca4ee9b",
+          "balance": 44809311.8970104,
+          "share": 3.26
+        },
+        {
+          "address": "0x6cc5f688a315f3dc28a7781717a9a798a59fda7b",
+          "balance": 34428224.00424495,
+          "share": 2.51
+        },
+        {
+          "address": "0x5a52e96bacdabb82fd05763e25335261b270efcb",
+          "balance": 32161978.135,
+          "share": 2.34
+        },
+        {
+          "address": "0x9acbb72cf67103a30333a32cd203459c6a9c3311",
+          "balance": 29919655.869592186,
+          "share": 2.18
+        },
+        {
+          "address": "0xa23cbcdfafd09de2ce793d0a08f51865885be3f5",
+          "balance": 25492512.22632653,
+          "share": 1.86
+        },
+        {
+          "address": "0x9b0c45d46d386cedd98873168c36efd0dcba8d46",
+          "balance": 24839184.52996962,
+          "share": 1.81
+        },
+        {
+          "address": "0x8787fc6668133a447a8a2addf0bf4184720ed4e8",
+          "balance": 22430470.284759805,
+          "share": 1.63
+        },
+        {
+          "address": "0xe850b7c87f66371035e184c72d4b99e7b2ca4865",
+          "balance": 17748300.768659547,
+          "share": 1.29
+        },
+        {
+          "address": "0xf3b0073e3a7f747c7a38b36b805247b222c302a3",
+          "balance": 17399143.886974424,
+          "share": 1.27
+        },
+        {
+          "address": "0x857521268da6e82c978a362f08c4d79442956b4c",
+          "balance": 16742695.974529482,
+          "share": 1.22
+        },
+        {
+          "address": "0xf89d7b9c864f589bbf53a82105107622b35eaa40",
+          "balance": 15271598.59830399,
+          "share": 1.11
+        },
+        {
+          "address": "0x28c6c06298d514db089934071355e5743bf21d60",
+          "balance": 14603936.156626606,
+          "share": 1.06
+        },
+        {
+          "address": "0xafcd96e580138cfa2332c632e66308eacd45c5da",
+          "balance": 14140000.0,
+          "share": 1.03
+        },
+        {
+          "address": "0x2408d12d288865c58f160a15b491aa5b64643f95",
+          "balance": 13610358.317920161,
+          "share": 0.99
+        },
+        {
+          "address": "0xd8da8e04749803a499f3d571e7bdefb1e86e803a",
+          "balance": 12208325.54995017,
+          "share": 0.89
+        },
+        {
+          "address": "0xbd7f4a64d55ef5e6c6c135194024e064bc818656",
+          "balance": 11273560.0,
+          "share": 0.82
+        },
+        {
+          "address": "0x84d57cde419be13b2793612d0a29d3e3f129cc6b",
+          "balance": 11018549.106748685,
+          "share": 0.8
+        },
+        {
+          "address": "0x996282ca11e5deb6b5d122cc3b9a1fcaad4415ab",
+          "balance": 10554070.985227192,
+          "share": 0.77
+        },
+        {
+          "address": "0xa9d1e08c7793af67e9d92fe308d5697fb81d3e43",
+          "balance": 10272075.371977877,
+          "share": 0.75
+        },
+        {
+          "address": "0xeb6420184172261a1b8317b5e9ba1fbda44ae509",
+          "balance": 10193370.383851754,
+          "share": 0.74
+        },
+        {
+          "address": "0x7793cd85c11a924478d358d49b05b37e91b5810f",
+          "balance": 10000000.0,
+          "share": 0.73
+        },
+        {
+          "address": "0x4364a0b9d81e1e2263ac15feb584144191e1c46a",
+          "balance": 9733119.567448,
+          "share": 0.71
+        },
+        {
+          "address": "0x72a53cdbbcc1b9efa39c834a540550e23463aacb",
+          "balance": 9481582.73949236,
+          "share": 0.69
+        },
+        {
+          "address": "0xde8442ece23090fe89e6ad0efd46fd830dd1ca93",
+          "balance": 9189463.736370016,
+          "share": 0.67
+        },
+        {
+          "address": "0x87651eab9a44bd2e6fc6d131a326051e05b22ba7",
+          "balance": 8941896.535008123,
+          "share": 0.65
+        },
+        {
+          "address": "0xdee0650072efada5370f9a2a3d53a14882b50d80",
+          "balance": 8799156.533971984,
+          "share": 0.64
+        },
+        {
+          "address": "0x107089a1eb659ef945760c7153490a40e6b39354",
+          "balance": 8756853.950742193,
+          "share": 0.64
+        },
+        {
+          "address": "0xe88a77b731cc2c21f3dc00c7a7d14a1658ba7327",
+          "balance": 7666654.136350189,
+          "share": 0.56
+        },
+        {
+          "address": "0xdfd5293d8e347dfe59e90efd55b2956a1343963d",
+          "balance": 7646195.85459751,
+          "share": 0.56
+        },
+        {
+          "address": "0x044d9e4b27cdbe643914dabddd488a1cb07490b7",
+          "balance": 7500000.0,
+          "share": 0.55
+        },
+        {
+          "address": "0x3f08f17973ab4124c73200135e2b675ab2d263d9",
+          "balance": 7477861.41481629,
+          "share": 0.54
+        },
+        {
+          "address": "0x2e8d097e9baca6ef5d48237b8cb585a5d2e416f3",
+          "balance": 7263192.569618729,
+          "share": 0.53
+        },
+        {
+          "address": "0x172f8836b49c5ed60d22d8428e9026567947f759",
+          "balance": 7183632.470186309,
+          "share": 0.52
+        },
+        {
+          "address": "0x21a31ee1afc51d94c2efccaa2092ad1028285549",
+          "balance": 7166767.84886158,
+          "share": 0.52
+        },
+        {
+          "address": "0x3f48a4333b8d8f45acd52cb2d87cff8c24574f07",
+          "balance": 7142925.779179255,
+          "share": 0.52
+        },
+        {
+          "address": "0xc8fcc48d1454a83589169294470549a2e1713dec",
+          "balance": 7066427.253875746,
+          "share": 0.51
+        },
+        {
+          "address": "0xd6216fc19db775df9774a6e33526131da7d19a2c",
+          "balance": 6990826.526968984,
+          "share": 0.51
+        },
+        {
+          "address": "0x7075133dca3818e767d0a6da66880285dc80cbaa",
+          "balance": 6986068.373353929,
+          "share": 0.51
+        },
+        {
+          "address": "0x2407b9b9662d970ece2224a0403d3b15c7e4d1fe",
+          "balance": 6881018.14,
+          "share": 0.5
+        },
+        {
+          "address": "0xd1575b00d64e5b3bc4f7768e872a04295a3176b7",
+          "balance": 6865058.678199124,
+          "share": 0.5
+        },
+        {
+          "address": "0x3af1583e6e482ed45d0b7855b4cb9a6a1d87cc32",
+          "balance": 6806407.715361256,
+          "share": 0.5
+        },
+        {
+          "address": "0xc6c28a42315e7190a772ee7949747a332ba3d062",
+          "balance": 6778172.51878038,
+          "share": 0.49
+        },
+        {
+          "address": "0xf919980ee7ac7ed7e071d4bf1585b8515f557a2a",
+          "balance": 6431178.49248786,
+          "share": 0.47
+        },
+        {
+          "address": "0x3e71d3941b6faebd6a95982dd4c999eaae233de9",
+          "balance": 5986757.689920836,
+          "share": 0.44
+        },
+        {
+          "address": "0x64d4721a5a3920c7ac8e3b1615b49c87ce8bf7d9",
+          "balance": 5966602.36072648,
+          "share": 0.43
+        },
+        {
+          "address": "0x742d35cc6634c0532925a3b844bc454e4438f44e",
+          "balance": 5863209.43282,
+          "share": 0.43
+        },
+        {
+          "address": "0xedc6bacdc1e29d7c5fa6f6eca6fdd447b9c487c9",
+          "balance": 5781276.01,
+          "share": 0.42
+        },
+        {
+          "address": "0x98f818fc84340e43661c13e35fcab07e34506e1a",
+          "balance": 5678761.9111139,
+          "share": 0.41
+        },
+        {
+          "address": "0xf35a6bd6e0459a4b53a27862c51a2a7292b383d1",
+          "balance": 5269266.98,
+          "share": 0.38
+        },
+        {
+          "address": "0x7ce8400e2bee5439a8cfb9334a9e74eebfddb213",
+          "balance": 5213904.18356977,
+          "share": 0.38
+        },
+        {
+          "address": "0x0f6fcd49440c428a0d6a909acf82e107acdfa4ea",
+          "balance": 5213904.18356977,
+          "share": 0.38
+        },
+        {
+          "address": "0x716eb2cc1b5c17196315a872f9b73389b2f312f8",
+          "balance": 5081223.828329354,
+          "share": 0.37
+        },
+        {
+          "address": "0x6a95c5d899ed9636b2e3e5d7521033f36340dadd",
+          "balance": 4978260.414373928,
+          "share": 0.36
+        },
+        {
+          "address": "0x62114b8f30f56388c92a6a54518bdbd708613130",
+          "balance": 4942438.185952201,
+          "share": 0.36
+        },
+        {
+          "address": "0xc6d4362fe0e6a0a08fbb9726228abb220d11098f",
+          "balance": 4839261.714305243,
+          "share": 0.35
+        },
+        {
+          "address": "0xeedbe1a6b5e7e4451052faf389586bf28a2c40e4",
+          "balance": 4608587.594373743,
+          "share": 0.34
+        },
+        {
+          "address": "0x29c50b652832ee81c9d26d9d45940188cfe3ff7b",
+          "balance": 4602578.10113821,
+          "share": 0.34
+        },
+        {
+          "address": "0x941b4fdb4b1533ab2cc8b90ff0700f658b4aa642",
+          "balance": 4592608.389322398,
+          "share": 0.33
+        },
+        {
+          "address": "0xc06f25517e906b7f9b4dec3c7889503bb00b3370",
+          "balance": 4590125.10399807,
+          "share": 0.33
+        },
+        {
+          "address": "0x453a8e605b665e9072b5b25a634460e8e339b3da",
+          "balance": 4588968.391416018,
+          "share": 0.33
+        },
+        {
+          "address": "0x156ec982225f2744862b2da7db774935fb3f6629",
+          "balance": 4506458.895858474,
+          "share": 0.33
+        },
+        {
+          "address": "0x0d0707963952f2fba59dd06f2b425ace40b492fe",
+          "balance": 4421292.102530122,
+          "share": 0.32
+        },
+        {
+          "address": "0xcc1c96eeba39bf28eb2315d8ff2f4fa34ebac79e",
+          "balance": 4361883.88768199,
+          "share": 0.32
+        },
+        {
+          "address": "0xdd3b49a68b1a63f5ddbd8d1f9e34cb039800c336",
+          "balance": 4176811.282215807,
+          "share": 0.3
+        },
+        {
+          "address": "0xb34fde7942019c254dfa5bd25a40cba03cc7c1bd",
+          "balance": 3663200.0,
+          "share": 0.27
+        },
+        {
+          "address": "0xe865759df485c11070504e76b900938d2d9a7738",
+          "balance": 3528685.417270025,
+          "share": 0.26
+        },
+        {
+          "address": "0xa5946a2c7a6c4232224b89a696ae51879bf5aed1",
+          "balance": 3312168.165111,
+          "share": 0.24
+        },
+        {
+          "address": "0x7b6ab2ca4bb7b456161baa8d395c4dfc94658d90",
+          "balance": 3307722.87097444,
+          "share": 0.24
+        },
+        {
+          "address": "0x2a2c559dc8507194c05384f541e0b95b0f8b3ace",
+          "balance": 3219263.9508318775,
+          "share": 0.23
+        },
+        {
+          "address": "0xfbc6a2b5894468a820e6e665b3fe139e30bb15b5",
+          "balance": 3147620.627696499,
+          "share": 0.23
+        },
+        {
+          "address": "0x94dbf04e273d87e6d9bed68c616f43bf86560c74",
+          "balance": 3109403.86399326,
+          "share": 0.23
+        },
+        {
+          "address": "0x6ef8e1bc50e33330ef8ebbb44dcf8a7813788412",
+          "balance": 3021546.6608716305,
+          "share": 0.22
+        },
+        {
+          "address": "0x75243cc6d177aca3cf6fa7a1a6e0d448b43fe085",
+          "balance": 3001068,
+          "share": 0.22
+        },
+        {
+          "address": "0xe7fe94b8e5d3d3cd421a76d9cb039eb5b113cb25",
+          "balance": 3000235.708683,
+          "share": 0.22
+        },
+        {
+          "address": "0xb6374eb1d3232b76da35c07cd43e2b88cf588abb",
+          "balance": 2870372.7055115877,
+          "share": 0.21
+        },
+        {
+          "address": "0x0639556f03714a74a5feeaf5736a4a64ff70d206",
+          "balance": 2820905.686814635,
+          "share": 0.21
+        },
+        {
+          "address": "0x87243954d77037e0014fb55fa0fbeb91fbd02fe0",
+          "balance": 2810253.131389768,
+          "share": 0.2
+        },
+        {
+          "address": "0x628d6380a28b8d9ae7516597fa625934185bfed4",
+          "balance": 2786366.7201184686,
+          "share": 0.2
+        },
+        {
+          "address": "0xa58d4080b33e833983fe01f605e679ae53984e9e",
+          "balance": 2755352.85010609,
+          "share": 0.2
+        },
+        {
+          "address": "0xa74e8ae2f83d2564af25420ad4d6a7fe224b053f",
+          "balance": 2551254.9,
+          "share": 0.19
+        },
+        {
+          "address": "0xa6966bfcd92408c1d9b2f2240f84e8d86157694e",
+          "balance": 2509091.203801919,
+          "share": 0.18
+        },
+        {
+          "address": "0x24fe2bcc1f24ba937a27bb39f5b00c194e310149",
+          "balance": 2500038,
+          "share": 0.18
+        },
+        {
+          "address": "0x7267ce829138d0bc335e620b411c1519725c7a4a",
+          "balance": 2475679,
+          "share": 0.18
+        },
+        {
+          "address": "0x192a9200ac0099e83d83e0940dfe815d920a9038",
+          "balance": 2442680.974934287,
+          "share": 0.18
+        },
+        {
+          "address": "0x9642b23ed1e01df1092b92641051881a322f5d4e",
+          "balance": 2408618.8118574503,
+          "share": 0.18
+        },
+        {
+          "address": "0x09b788cfc3c109540425d998b1004f79874e6971",
+          "balance": 2336969,
+          "share": 0.17
+        },
+        {
+          "address": "0xcffad3200574698b78f32232aa9d63eabd290703",
+          "balance": 2290324.4058088656,
+          "share": 0.17
+        },
+        {
+          "address": "0x0e5cb00f1b28e9c4b7b966653420204e7a824dbb",
+          "balance": 2245971.662299543,
+          "share": 0.16
+        },
+        {
+          "address": "0x6ee80043248cddf48ccdd1c60d22918c0f36c95e",
+          "balance": 2170014.6824,
+          "share": 0.16
+        },
+        {
+          "address": "0xdbb4f409ecf6ff41d729885f5152fd5695e0cbd5",
+          "balance": 2163960.32,
+          "share": 0.16
+        },
+        {
+          "address": "0x4a97a43c432bcb91ed7c1a2dc64b8327f5fd0e34",
+          "balance": 2131491.69543211,
+          "share": 0.16
+        },
+        {
+          "address": "0xdc011678e64db609f9f3fb99891a8e2943dd7744",
+          "balance": 2100078.727473075,
+          "share": 0.15
+        },
+        {
+          "address": "0x4ac3413541eeba3dd819c45cbb6b817ed276856a",
+          "balance": 2100078.727473075,
+          "share": 0.15
+        },
+        {
+          "address": "0xa7e7c5664a2a70182a64907474b3f91315429a37",
+          "balance": 2085178.527034646,
+          "share": 0.15
+        },
+        {
+          "address": "0xab37b1097e9366bd2a33fcdfdf2fa4f865801a31",
+          "balance": 2072643.536,
+          "share": 0.15
+        },
+        {
+          "address": "0x957fcd10f2a95cdaf7741c476715c5eee80b74a6",
+          "balance": 2038996.296070199,
+          "share": 0.15
+        },
+        {
+          "address": "0x379b357b961a8dc61679fbc62dc80e527c15628a",
+          "balance": 2038996.296070199,
+          "share": 0.15
+        },
+        {
+          "address": "0x790f94ef7520e8893a479e11d488290209e3fbe9",
+          "balance": 2038996.296070199,
+          "share": 0.15
+        }
+      ],
+      "topTenHolderRatio": 37.46,
+      "topTwentyHolderRatio": 47.42,
+      "topFiftyHolderRatio": 64.06,
+      "topHundredHolderRatio": 76.08
+    },
+    "displayTV": 1,
+    "isInfiniteMaxSupply": 0,
+    "tvCoinSymbol": "LRC",
+    "supportWalletInfos": [
+      {
+        "id": 9017,
+        "name": "Ledger",
+        "url": "https://www.ledger.com/",
+        "chains": "BTC,ETH,NEO,ZEC,QTUM,BAN",
+        "decentration": false,
+        "logo": "9017.png",
+        "multipleChain": false
+      },
+      {
+        "id": 9016,
+        "name": "Coinbase",
+        "url": "https://wallet.coinbase.com/",
+        "chains": "BTC,ETH,LTC,BCH,ETC",
+        "decentration": false,
+        "logo": "9016.png",
+        "multipleChain": false
+      },
+      {
+        "id": 9022,
+        "name": "Trust Wallet",
+        "url": "https://www.trustwallet.com/",
+        "chains": "ETH",
+        "decentration": false,
+        "logo": "9022.png",
+        "multipleChain": false
+      },
+      {
+        "id": 9025,
+        "name": "MetaMask",
+        "url": "https://metamask.io/",
+        "chains": "ETH,ETZ",
+        "decentration": false,
+        "logo": "9025.png",
+        "multipleChain": false
+      },
+      {
+        "id": 9159,
+        "name": "SolFlare",
+        "url": "https://solflare.com/",
+        "chains": "",
+        "decentration": false,
+        "logo": "default.png",
+        "multipleChain": false
+      },
+      {
+        "id": 9209,
+        "name": "Backpack",
+        "url": "https://backpack.app/downloads",
+        "chains": "",
+        "decentration": false,
+        "logo": "https://s3.coinmarketcap.com/static/img/as/2023-12-06T06:55:43.999Z_BackpackLogo_BlackBkg.png",
+        "multipleChain": false
+      },
+      {
+        "id": 9210,
+        "name": "Phantom",
+        "url": "https://phantom.app/",
+        "chains": "",
+        "decentration": false,
+        "logo": "https://s3.coinmarketcap.com/static/img/as/2023-12-06T11:05:16.408Z_4StTDIF4_400x400.png",
+        "multipleChain": false
+      }
+    ],
+    "holdersFlag": true,
+    "ratingsFlag": false,
+    "analysisFlag": true,
+    "socialsFlag": true,
+    "cryptoRating": [],
+    "analysis": {
+      "holdingWhalesPercent": 43.128266,
+      "holdingAddressesCount": 166504,
+      "addressByTimeHeld": {
+        "holdersPercent": 91.54159746338517,
+        "cruisersPercent": 7.72278423675072,
+        "tradersPercent": 0.73561829986411
+      }
+    },
+    "hasExtraInfoFlag": false,
+    "earnList": [
+      {
+        "id": "665845605e41f3c9a5b90c7e",
+        "rank": 1,
+        "provider": {
+          "id": 3,
+          "name": "Binance"
+        },
+        "apr": [
+          6.76971
+        ],
+        "netApy": [
+          6.76971
+        ],
+        "fee": [
+          0.0
+        ],
+        "typeName": "Earn (Flexi)",
+        "type": "exchange_earn",
+        "subType": "earn_flexi",
+        "ecosystem": "cefi"
+      }
+    ],
+    "upcoming": {
+      "status": false
+    },
+    "annotationFlag": false,
+    "similarCoins": [
+      {
+        "id": 2130,
+        "symbol": "ENJ"
+      },
+      {
+        "id": 1966,
+        "symbol": "MANA"
+      },
+      {
+        "id": 6210,
+        "symbol": "SAND"
+      },
+      {
+        "id": 3794,
+        "symbol": "ATOM"
+      },
+      {
+        "id": 4030,
+        "symbol": "ALGO"
+      },
+      {
+        "id": 6719,
+        "symbol": "GRT"
+      }
+    ]
+  },
+  "status": {
+    "timestamp": "2024-11-18T01:10:08.694Z",
+    "error_code": "0",
+    "error_message": "SUCCESS",
+    "elapsed": "15",
+    "credit_count": 0
+  }
+}

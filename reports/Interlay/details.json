@@ -1,0 +1,260 @@
+{
+  "data": {
+    "id": 1970,
+    "name": "ATBCoin",
+    "symbol": "ATB",
+    "slug": "atbcoin",
+    "category": "coin",
+    "description": "ATBCoin (ATB) is a cryptocurrency . Users are able to generate ATB through the process of mining. ATBCoin has a current supply of 54,015,027.378792 with 0 in circulation. The last known price of ATBCoin is 0.00089958 USD and is down -0.96 over the last 24 hours. It is currently trading on 1 active market(s) with $0.00 traded over the last 24 hours. More information can be found at https://atbcoin.com/.",
+    "dateAdded": "2017-09-19T00:00:00.000Z",
+    "status": "active",
+    "subStatus": "normal",
+    "notice": "",
+    "alertType": 2,
+    "alertLink": "",
+    "latestUpdateTime": "2024-11-18T01:09:00.000Z",
+    "watchCount": "814",
+    "watchListRanking": 6568,
+    "latestAdded": false,
+    "launchPrice": 1.13088,
+    "tags": [
+      {
+        "slug": "mineable",
+        "name": "Mineable",
+        "category": "OTHERS"
+      }
+    ],
+    "selfReportedCirculatingSupply": "42038227.378792",
+    "urls": {
+      "website": [
+        "https://atbcoin.com/"
+      ],
+      "technical_doc": [
+        "https://atbcoin.com/docs/ATBCoin_WhitePapper_EN.pdf"
+      ],
+      "explorer": [
+        "https://explorer.atbcoin.com/"
+      ],
+      "source_code": [],
+      "message_board": [],
+      "chat": [
+        "https://t.me/atbcoinchat"
+      ],
+      "announcement": [
+        "https://bitcointalk.org/index.php?topic=1989756.0"
+      ],
+      "reddit": [],
+      "facebook": [],
+      "twitter": [
+        "https://twitter.com/atbcoincom"
+      ]
+    },
+    "volume": 0.0,
+    "volumeChangePercentage24h": 0.0,
+    "cexVolume": 0.0,
+    "dexVolume": 0.0,
+    "statistics": {
+      "price": 0.0009007563328063482,
+      "priceChangePercentage1h": 0.23635057,
+      "priceChangePercentage24h": -0.67769385,
+      "priceChangePercentage7d": 11.97461816,
+      "priceChangePercentage30d": 31.71178889,
+      "priceChangePercentage60d": 44.98442362,
+      "priceChangePercentage90d": 48.39653235,
+      "priceChangePercentage1y": 147.06512417,
+      "priceChangePercentageAll": -99.920349079103,
+      "marketCap": 0.0,
+      "marketCapChangePercentage24h": 0.0,
+      "fullyDilutedMarketCap": 270226.9,
+      "fullyDilutedMarketCapChangePercentage24h": -0.68,
+      "circulatingSupply": 0.0,
+      "totalSupply": 54015027.378792,
+      "maxSupply": 300000000.0,
+      "marketCapDominance": 0.0,
+      "rank": 8752,
+      "roi": -99.92034908,
+      "low24h": 0.000889196571626878,
+      "high24h": 0.000913825088120699,
+      "low7d": 0.000853048028600383,
+      "high7d": 0.000934285565349911,
+      "low30d": 0.000652388543189163,
+      "high30d": 0.000934285565349911,
+      "low90d": 0.000527626280397038,
+      "high90d": 0.000931895439925878,
+      "low52w": 0.000357950820667286,
+      "high52w": 0.000934285565349911,
+      "lowAllTime": 0.000250025479591259,
+      "highAllTime": 3.0212199687957764,
+      "lowAllTimeChangePercentage": 260.27,
+      "highAllTimeChangePercentage": -99.97,
+      "lowAllTimeTimestamp": "2023-09-11T20:03:00.000Z",
+      "highAllTimeTimestamp": "2017-09-24T19:34:33.000Z",
+      "lowYesterday": 0.000889196571626878,
+      "highYesterday": 0.000913825088120699,
+      "openYesterday": 0.00090579862025261,
+      "closeYesterday": 0.000898421650987135,
+      "priceChangePercentageYesterday": -0.81,
+      "volumeYesterday": 0,
+      "turnover": 0.0,
+      "ytdPriceChangePercentage": 104.0206,
+      "volumeRank": 8900,
+      "volumeMcRank": 8900,
+      "mcTotalNum": 10049,
+      "volumeTotalNum": 10049,
+      "volumeMcTotalNum": 10049
+    },
+    "quotes": [],
+    "relatedCoins": [
+      {
+        "id": 2513,
+        "name": "GoldMint",
+        "slug": "goldmint",
+        "price": 0.05065701161697734,
+        "priceChangePercentage24h": -0.83488657,
+        "priceChangePercentage7d": 21.70106268
+      },
+      {
+        "id": 4679,
+        "name": "Band Protocol",
+        "slug": "band-protocol",
+        "price": 1.2924689407590508,
+        "priceChangePercentage24h": -5.51284503,
+        "priceChangePercentage7d": 1.82102584
+      },
+      {
+        "id": 7083,
+        "name": "Uniswap",
+        "slug": "uniswap",
+        "price": 8.907804423933275,
+        "priceChangePercentage24h": -4.39447372,
+        "priceChangePercentage7d": -3.90346035
+      },
+      {
+        "id": 1414,
+        "name": "Firo",
+        "slug": "firo",
+        "price": 1.3454938776288508,
+        "priceChangePercentage24h": 0.21867821,
+        "priceChangePercentage7d": 4.03360084
+      },
+      {
+        "id": 1975,
+        "name": "Chainlink",
+        "slug": "chainlink",
+        "price": 14.028344717813509,
+        "priceChangePercentage24h": -5.25786687,
+        "priceChangePercentage7d": -2.46572024
+      },
+      {
+        "id": 7653,
+        "name": "Oasis",
+        "slug": "oasis-network",
+        "price": 0.08025331330873264,
+        "priceChangePercentage24h": -5.30717197,
+        "priceChangePercentage7d": -4.39563858
+      },
+      {
+        "id": 707,
+        "name": "Blocknet",
+        "slug": "blocknet",
+        "price": 0.017113298239738093,
+        "priceChangePercentage24h": -0.68391562,
+        "priceChangePercentage7d": -3.30053472
+      },
+      {
+        "id": 5864,
+        "name": "yearn.finance",
+        "slug": "yearn-finance",
+        "price": 6192.38803639104,
+        "priceChangePercentage24h": -4.43119421,
+        "priceChangePercentage7d": -11.362147
+      },
+      {
+        "id": 4279,
+        "name": "Solar",
+        "slug": "sxp",
+        "price": 0.36376553390538346,
+        "priceChangePercentage24h": 2.1116243,
+        "priceChangePercentage7d": 18.12789401
+      },
+      {
+        "id": 8043,
+        "name": "MAHA.xyz",
+        "slug": "mahadao",
+        "price": 0.9034865737660874,
+        "priceChangePercentage24h": -2.68820884,
+        "priceChangePercentage7d": -9.89747239
+      }
+    ],
+    "isAudited": false,
+    "holders": {},
+    "displayTV": 1,
+    "isInfiniteMaxSupply": 0,
+    "tvCoinSymbol": "ATB",
+    "supportWalletInfos": [],
+    "holdersFlag": false,
+    "ratingsFlag": false,
+    "analysisFlag": false,
+    "socialsFlag": true,
+    "cryptoRating": [
+      {
+        "type": "CertiK",
+        "score": 36.1,
+        "rating": 1.8,
+        "updateTime": "2024-11-17T00:00:00.000Z",
+        "link": "https://cmc.certik-skynet.com/redirect?project=atbcoin&utm_source=CMC&utm_campaign=ScoreByCertiKLink"
+      },
+      {
+        "type": "Cyberscope",
+        "score": 57.0,
+        "rating": 2.9,
+        "updateTime": "2024-11-17T11:30:39.000Z",
+        "link": "https://www.cyberscope.io/audits/coin-atbcoin"
+      },
+      {
+        "type": "Aggregate rating",
+        "score": 46.6,
+        "rating": 2.4,
+        "updateTime": "2024-11-18T01:00:00.179Z"
+      }
+    ],
+    "hasExtraInfoFlag": false,
+    "upcoming": {
+      "status": false
+    },
+    "annotationFlag": false,
+    "similarCoins": [
+      {
+        "id": 2717,
+        "symbol": "BOUTS"
+      },
+      {
+        "id": 1473,
+        "symbol": "PASC"
+      },
+      {
+        "id": 3759,
+        "symbol": "JNB"
+      },
+      {
+        "id": 3334,
+        "symbol": "XCASH"
+      },
+      {
+        "id": 2230,
+        "symbol": "MONK"
+      },
+      {
+        "id": 6655,
+        "symbol": "KSS"
+      }
+    ]
+  },
+  "status": {
+    "timestamp": "2024-11-18T01:10:12.019Z",
+    "error_code": "0",
+    "error_message": "SUCCESS",
+    "elapsed": "17",
+    "credit_count": 0
+  }
+}

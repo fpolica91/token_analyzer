@@ -1,0 +1,256 @@
+{
+  "data": {
+    "id": 33890,
+    "name": "NVIDIA",
+    "symbol": "NVDA",
+    "slug": "nvidia",
+    "category": "token",
+    "description": "We revive the $NVDA meme token, create hype, introduce new features and propel it to success ahead of nvidia's big GTC24 conference",
+    "dateAdded": "2024-11-11T16:22:22.000Z",
+    "status": "active",
+    "subStatus": "normal",
+    "notice": "",
+    "alertType": 2,
+    "alertLink": "",
+    "latestUpdateTime": "2024-11-18T00:45:00.000Z",
+    "watchCount": "992",
+    "watchListRanking": 6221,
+    "dateLaunched": "2024-02-20T00:00:00.000Z",
+    "latestAdded": false,
+    "tags": [
+      {
+        "slug": "memes",
+        "name": "Memes",
+        "category": "INDUSTRY"
+      }
+    ],
+    "selfReportedCirculatingSupply": "795041455",
+    "urls": {
+      "website": [
+        "https://nvda.game/"
+      ],
+      "technical_doc": [],
+      "explorer": [
+        "https://solscan.io/token/9dwPiStDBwJJqC3QzMnjpJP7xohZbMVmHELFx3uy3KRq"
+      ],
+      "source_code": [],
+      "message_board": [],
+      "chat": [
+        "https://t.me/ctonvidia"
+      ],
+      "announcement": [],
+      "reddit": [],
+      "facebook": [],
+      "twitter": [
+        "https://twitter.com/nvdactoonsol"
+      ]
+    },
+    "volume": 97064.32784165,
+    "volumeChangePercentage24h": -33.7642,
+    "cexVolume": 135.58038185,
+    "dexVolume": 96928.74745981,
+    "statistics": {
+      "price": 0.0009698993474731918,
+      "priceChangePercentage1h": 5.02776763,
+      "priceChangePercentage24h": 2.12613703,
+      "priceChangePercentage7d": 77.31374527,
+      "priceChangePercentage30d": 77.31374527,
+      "priceChangePercentage60d": 77.31374527,
+      "priceChangePercentage90d": 77.31374527,
+      "priceChangePercentage1y": 77.31374527,
+      "priceChangePercentageAll": 49.542908147417,
+      "marketCap": 771110.19,
+      "marketCapChangePercentage24h": 2.1261,
+      "fullyDilutedMarketCap": 771110.19,
+      "fullyDilutedMarketCapChangePercentage24h": 2.13,
+      "circulatingSupply": 795041455.0,
+      "totalSupply": 795041455.0,
+      "maxSupply": 795041455.0,
+      "marketCapDominance": 0.0,
+      "rank": 1951,
+      "low24h": 0.000893379932513343,
+      "high24h": 0.001191741794306477,
+      "low7d": 0.000541559225769954,
+      "high7d": 0.002615008948411143,
+      "low30d": 0.000541559225769954,
+      "high30d": 0.002615008948411143,
+      "low90d": 0.000541559225769954,
+      "high90d": 0.002615008948411143,
+      "low52w": 0.000541559225769954,
+      "high52w": 0.002615008948411143,
+      "lowAllTime": 0.000541559225769954,
+      "highAllTime": 0.002615008948411143,
+      "lowAllTimeChangePercentage": 79.09,
+      "highAllTimeChangePercentage": -62.91,
+      "lowAllTimeTimestamp": "2024-11-11T16:31:00.000Z",
+      "highAllTimeTimestamp": "2024-11-14T06:20:00.000Z",
+      "lowYesterday": 0.000893379932513343,
+      "highYesterday": 0.001191741794306477,
+      "openYesterday": 0.000979848503299562,
+      "closeYesterday": 0.000907941080595953,
+      "priceChangePercentageYesterday": -7.34,
+      "volumeYesterday": 93548.04,
+      "turnover": 0.12587608,
+      "ytdPriceChangePercentage": 0.0,
+      "volumeRank": 2751,
+      "volumeMcRank": 1643,
+      "mcTotalNum": 10049,
+      "volumeTotalNum": 10049,
+      "volumeMcTotalNum": 10049
+    },
+    "quotes": [],
+    "platforms": [
+      {
+        "contractId": 5426,
+        "contractAddress": "9dwPiStDBwJJqC3QzMnjpJP7xohZbMVmHELFx3uy3KRq",
+        "contractPlatform": "Solana",
+        "contractPlatformId": 16,
+        "contractChainId": -1,
+        "contractRpcUrl": [],
+        "contractNativeCurrencyName": "",
+        "contractNativeCurrencySymbol": "",
+        "contractNativeCurrencyDecimals": 18,
+        "contractBlockExplorerUrl": "",
+        "contractExplorerUrl": "https://solana.fm/address/9dwPiStDBwJJqC3QzMnjpJP7xohZbMVmHELFx3uy3KRq",
+        "contractDecimals": 9,
+        "platformCryptoId": 5426,
+        "sort": 0,
+        "wallets": []
+      }
+    ],
+    "relatedCoins": [
+      {
+        "id": 2513,
+        "name": "GoldMint",
+        "slug": "goldmint",
+        "price": 0.05068851413421026,
+        "priceChangePercentage24h": -0.81441543,
+        "priceChangePercentage7d": 21.42810688
+      },
+      {
+        "id": 4679,
+        "name": "Band Protocol",
+        "slug": "band-protocol",
+        "price": 1.2931451531238607,
+        "priceChangePercentage24h": -4.56058429,
+        "priceChangePercentage7d": 1.47192074
+      },
+      {
+        "id": 7083,
+        "name": "Uniswap",
+        "slug": "uniswap",
+        "price": 8.944928317112458,
+        "priceChangePercentage24h": -3.1754202,
+        "priceChangePercentage7d": -4.41836728
+      },
+      {
+        "id": 1414,
+        "name": "Firo",
+        "slug": "firo",
+        "price": 1.336976922562831,
+        "priceChangePercentage24h": -0.62776671,
+        "priceChangePercentage7d": 3.20682677
+      },
+      {
+        "id": 1975,
+        "name": "Chainlink",
+        "slug": "chainlink",
+        "price": 14.034305422945902,
+        "priceChangePercentage24h": -4.44640163,
+        "priceChangePercentage7d": -2.57219919
+      },
+      {
+        "id": 7653,
+        "name": "Oasis",
+        "slug": "oasis-network",
+        "price": 0.08016784581336932,
+        "priceChangePercentage24h": -5.02346191,
+        "priceChangePercentage7d": -3.8470481
+      },
+      {
+        "id": 707,
+        "name": "Blocknet",
+        "slug": "blocknet",
+        "price": 0.01710908794521088,
+        "priceChangePercentage24h": -0.75135384,
+        "priceChangePercentage7d": -3.57769226
+      },
+      {
+        "id": 5864,
+        "name": "yearn.finance",
+        "slug": "yearn-finance",
+        "price": 6201.41370880855,
+        "priceChangePercentage24h": -4.12787875,
+        "priceChangePercentage7d": -11.4898267
+      },
+      {
+        "id": 4279,
+        "name": "Solar",
+        "slug": "sxp",
+        "price": 0.35636876135589096,
+        "priceChangePercentage24h": 0.87044185,
+        "priceChangePercentage7d": 15.47253141
+      },
+      {
+        "id": 8043,
+        "name": "MAHA.xyz",
+        "slug": "mahadao",
+        "price": 0.8998757212402398,
+        "priceChangePercentage24h": -2.90791774,
+        "priceChangePercentage7d": -10.20026468
+      }
+    ],
+    "isAudited": false,
+    "holders": {},
+    "displayTV": 1,
+    "isInfiniteMaxSupply": 0,
+    "tvCoinSymbol": "NVDA",
+    "supportWalletInfos": [
+      {
+        "id": 9159,
+        "name": "SolFlare",
+        "url": "https://solflare.com/",
+        "chains": "",
+        "decentration": false,
+        "logo": "default.png",
+        "multipleChain": false
+      },
+      {
+        "id": 9209,
+        "name": "Backpack",
+        "url": "https://backpack.app/downloads",
+        "chains": "",
+        "decentration": false,
+        "logo": "https://s3.coinmarketcap.com/static/img/as/2023-12-06T06:55:43.999Z_BackpackLogo_BlackBkg.png",
+        "multipleChain": false
+      },
+      {
+        "id": 9210,
+        "name": "Phantom",
+        "url": "https://phantom.app/",
+        "chains": "",
+        "decentration": false,
+        "logo": "https://s3.coinmarketcap.com/static/img/as/2023-12-06T11:05:16.408Z_4StTDIF4_400x400.png",
+        "multipleChain": false
+      }
+    ],
+    "holdersFlag": false,
+    "ratingsFlag": false,
+    "analysisFlag": false,
+    "socialsFlag": true,
+    "cryptoRating": [],
+    "hasExtraInfoFlag": false,
+    "upcoming": {
+      "status": false
+    },
+    "annotationFlag": false,
+    "similarCoins": []
+  },
+  "status": {
+    "timestamp": "2024-11-18T00:47:54.334Z",
+    "error_code": "0",
+    "error_message": "SUCCESS",
+    "elapsed": "2",
+    "credit_count": 0
+  }
+}

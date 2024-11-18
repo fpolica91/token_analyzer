@@ -1,0 +1,478 @@
+{
+  "data": {
+    "id": 3831,
+    "name": "Safe Haven",
+    "symbol": "SHA",
+    "slug": "safe-haven",
+    "category": "token",
+    "description": "Safe Haven is building multiple asset management solutions focused on B2B2C clients. With inheritance solutions being the primary product of SafeHaven, value will be created through exchanges, wallets, and individuals who seek to protect their digital assets should an unforeseeable event occur. B2B clients will be able to offer protection to their end-users through SafeHaven.",
+    "dateAdded": "2019-04-02T00:00:00.000Z",
+    "status": "active",
+    "subStatus": "normal",
+    "notice": "",
+    "alertType": 2,
+    "alertLink": "",
+    "latestUpdateTime": "2024-11-18T01:09:00.000Z",
+    "watchCount": "17504",
+    "watchListRanking": 1587,
+    "latestAdded": false,
+    "launchPrice": 0.003,
+    "tags": [
+      {
+        "slug": "polygon-ecosystem",
+        "name": "Polygon Ecosystem",
+        "category": "PLATFORM"
+      }
+    ],
+    "selfReportedTags": [
+      "PoA",
+      "PoA",
+      "Proof-of-Authority",
+      "Asset Management",
+      "Asset Management",
+      "Cybersecurity",
+      "Hardware",
+      "Marketplace",
+      "Platform",
+      "Cosmos Ecosystem",
+      "Services",
+      "Store Of Value",
+      "Collectibles & NFTs",
+      "DeFi",
+      "DeFi",
+      "DeFi",
+      "DeFi",
+      "DeFi",
+      "DeFi",
+      "DeFi",
+      "DeFi",
+      "DeFi",
+      "DeFi",
+      "DeFi",
+      "Quantum-Resistant",
+      "VeChain",
+      "VeChain"
+    ],
+    "selfReportedCirculatingSupply": "8.5E+9",
+    "urls": {
+      "website": [
+        "https://safehaven.io"
+      ],
+      "technical_doc": [
+        "https://safehaven.io/wp-content/uploads/2018/12/SafeHaven_WhitePaper.pdf"
+      ],
+      "explorer": [
+        "https://explore.vechain.org/accounts/0x5db3c8a942333f6468176a870db36eef120a34dc",
+        "https://vechainstats.com/account/0x5db3c8a942333f6468176a870db36eef120a34dc/",
+        "https://etherscan.io/token/0x40fEd5691e547885cABd7A2990De719DCc8497FC",
+        "https://bscscan.com/token/0x40fed5691e547885cabd7a2990de719dcc8497fc",
+        "https://polygonscan.com/token/0x534f39c5f4df9cb13e16b24ca07c7c8c0e2eadb7"
+      ],
+      "source_code": [
+        "https://github.com/Safehaven-io"
+      ],
+      "message_board": [
+        "https://safehaven.io/news"
+      ],
+      "chat": [
+        "https://t.me/SafeHavenio",
+        "https://discord.gg/ZQGrmP6dfc"
+      ],
+      "announcement": [
+        "https://t.me/safehavenio_ann"
+      ],
+      "reddit": [
+        "https://reddit.com/r/safehavenio"
+      ],
+      "facebook": [],
+      "twitter": [
+        "https://twitter.com/safehavenio"
+      ]
+    },
+    "volume": 7657.41382384,
+    "volumeChangePercentage24h": 51.7383,
+    "cexVolume": 26.99347768,
+    "dexVolume": 7630.42034616,
+    "statistics": {
+      "price": 0.00025924137969868857,
+      "priceChangePercentage1h": -0.00325762,
+      "priceChangePercentage24h": 7.53111677,
+      "priceChangePercentage7d": 51.15115423,
+      "priceChangePercentage30d": 46.66027861,
+      "priceChangePercentage60d": 29.80368799,
+      "priceChangePercentage90d": -3.88878983,
+      "priceChangePercentage1y": -50.01127818,
+      "priceChangePercentageAll": -89.106294226421,
+      "marketCap": 779242.1,
+      "marketCapChangePercentage24h": 7.5311,
+      "fullyDilutedMarketCap": 2203551.73,
+      "fullyDilutedMarketCapChangePercentage24h": 7.53,
+      "circulatingSupply": 3005855396.0,
+      "totalSupply": 8500000000.0,
+      "maxSupply": 8500000000.0,
+      "marketCapDominance": 0.0,
+      "rank": 1947,
+      "roi": -91.35862068,
+      "low24h": 0.000231595293320194,
+      "high24h": 0.000336606072742359,
+      "low7d": 0.0001701460980908,
+      "high7d": 0.000336606072742359,
+      "low30d": 0.000104239413572575,
+      "high30d": 0.000336606072742359,
+      "low90d": 0.000104239413572575,
+      "high90d": 0.000336606072742359,
+      "low52w": 0.000104239413572575,
+      "high52w": 0.001037795461745349,
+      "lowAllTime": 8.42912766119e-05,
+      "highAllTime": 0.15548306,
+      "lowAllTimeChangePercentage": 207.55,
+      "highAllTimeChangePercentage": -99.83,
+      "lowAllTimeTimestamp": "2020-03-13T02:29:07.000Z",
+      "highAllTimeTimestamp": "2020-10-28T16:57:05.000Z",
+      "lowYesterday": 0.000231595293320194,
+      "highYesterday": 0.000336606072742359,
+      "openYesterday": 0.000249014762108337,
+      "closeYesterday": 0.000259228450968417,
+      "priceChangePercentageYesterday": 4.1,
+      "volumeYesterday": 8098.12,
+      "turnover": 0.00982675,
+      "ytdPriceChangePercentage": -57.7504,
+      "volumeRank": 4659,
+      "volumeMcRank": 4585,
+      "mcTotalNum": 10049,
+      "volumeTotalNum": 10049,
+      "volumeMcTotalNum": 10049
+    },
+    "quotes": [],
+    "platforms": [
+      {
+        "contractId": 1027,
+        "contractAddress": "0x40fEd5691e547885cABd7A2990De719DCc8497FC",
+        "contractPlatform": "Ethereum",
+        "contractPlatformId": 1,
+        "contractChainId": 1,
+        "contractRpcUrl": [
+          "https://bsc-dataseed1.binance.org",
+          "https://bsc-dataseed.binance.org/",
+          "https://bsc-dataseed1.binance.org:443"
+        ],
+        "contractNativeCurrencyName": "Ethereum",
+        "contractNativeCurrencySymbol": "ETH",
+        "contractNativeCurrencyDecimals": 18,
+        "contractBlockExplorerUrl": "https://etherscan.io",
+        "contractExplorerUrl": "https://etherscan.io/token/0x40fEd5691e547885cABd7A2990De719DCc8497FC",
+        "contractDecimals": 18,
+        "platformCryptoId": 1027,
+        "sort": 0,
+        "wallets": [
+          {
+            "id": 9025
+          }
+        ]
+      },
+      {
+        "contractId": 1839,
+        "contractAddress": "0x40fed5691e547885cabd7a2990de719dcc8497fc",
+        "contractPlatform": "BNB Smart Chain (BEP20)",
+        "contractPlatformId": 14,
+        "contractChainId": 56,
+        "contractRpcUrl": [
+          "https://bsc-dataseed1.binance.org",
+          "https://bsc-dataseed.binance.org/",
+          "https://bsc-dataseed1.binance.org:443"
+        ],
+        "contractNativeCurrencyName": "Binance Chain Native Token",
+        "contractNativeCurrencySymbol": "BNB",
+        "contractNativeCurrencyDecimals": 18,
+        "contractBlockExplorerUrl": "https://bscscan.com/",
+        "contractExplorerUrl": "https://bscscan.com/token/0x40fed5691e547885cabd7a2990de719dcc8497fc",
+        "contractDecimals": 18,
+        "platformCryptoId": 1839,
+        "sort": 0,
+        "wallets": [
+          {
+            "id": 9025
+          }
+        ]
+      },
+      {
+        "contractId": 3890,
+        "contractAddress": "0x534f39c5f4df9cb13e16b24ca07c7c8c0e2eadb7",
+        "contractPlatform": "Polygon",
+        "contractPlatformId": 25,
+        "contractChainId": 137,
+        "contractRpcUrl": [
+          "https://rpc-mainnet.maticvigil.com"
+        ],
+        "contractNativeCurrencyName": "MATIC",
+        "contractNativeCurrencySymbol": "MATIC",
+        "contractNativeCurrencyDecimals": 18,
+        "contractBlockExplorerUrl": "https://polygonscan.com",
+        "contractExplorerUrl": "https://polygonscan.com/token/0x534f39c5f4df9cb13e16b24ca07c7c8c0e2eadb7",
+        "contractDecimals": 18,
+        "platformCryptoId": 3890,
+        "sort": 0,
+        "wallets": [
+          {
+            "id": 9025
+          }
+        ]
+      },
+      {
+        "contractId": 3077,
+        "contractAddress": "0x5db3c8a942333f6468176a870db36eef120a34dc",
+        "contractPlatform": "VeChain",
+        "contractPlatformId": 32,
+        "contractChainId": -1,
+        "contractRpcUrl": [],
+        "contractNativeCurrencyName": "",
+        "contractNativeCurrencySymbol": "",
+        "contractNativeCurrencyDecimals": -1,
+        "contractBlockExplorerUrl": "",
+        "contractExplorerUrl": "https://vechainstats.com/account/0x5db3c8a942333f6468176a870db36eef120a34dc",
+        "contractDecimals": 18,
+        "platformCryptoId": 3077,
+        "sort": 0,
+        "wallets": []
+      },
+      {
+        "contractId": 11840,
+        "contractAddress": "0x40fed5691e547885cabd7a2990de719dcc8497fc",
+        "contractPlatform": "Optimism",
+        "contractPlatformId": 42,
+        "contractChainId": 10,
+        "contractRpcUrl": [],
+        "contractNativeCurrencyName": "",
+        "contractNativeCurrencySymbol": "",
+        "contractNativeCurrencyDecimals": -1,
+        "contractBlockExplorerUrl": "",
+        "contractExplorerUrl": "https://optimistic.etherscan.io/token/0x40fed5691e547885cabd7a2990de719dcc8497fc",
+        "contractDecimals": 18,
+        "platformCryptoId": 11840,
+        "sort": 0,
+        "wallets": [
+          {
+            "id": 9025
+          }
+        ]
+      },
+      {
+        "contractId": 27716,
+        "contractAddress": "0x40fed5691e547885cabd7a2990de719dcc8497fc",
+        "contractPlatform": "Base",
+        "contractPlatformId": 199,
+        "contractChainId": 8453,
+        "contractRpcUrl": [],
+        "contractNativeCurrencyName": "",
+        "contractNativeCurrencySymbol": "",
+        "contractNativeCurrencyDecimals": -1,
+        "contractBlockExplorerUrl": "",
+        "contractExplorerUrl": "https://basescan.org/token/0x40fed5691e547885cabd7a2990de719dcc8497fc",
+        "contractDecimals": 18,
+        "platformCryptoId": 27716,
+        "sort": 0,
+        "wallets": [
+          {
+            "id": 9025
+          }
+        ]
+      }
+    ],
+    "relatedCoins": [
+      {
+        "id": 2513,
+        "name": "GoldMint",
+        "slug": "goldmint",
+        "price": 0.05065701161697734,
+        "priceChangePercentage24h": -0.83488657,
+        "priceChangePercentage7d": 21.70106268
+      },
+      {
+        "id": 4679,
+        "name": "Band Protocol",
+        "slug": "band-protocol",
+        "price": 1.2924689407590508,
+        "priceChangePercentage24h": -5.51284503,
+        "priceChangePercentage7d": 1.82102584
+      },
+      {
+        "id": 7083,
+        "name": "Uniswap",
+        "slug": "uniswap",
+        "price": 8.907804423933275,
+        "priceChangePercentage24h": -4.39447372,
+        "priceChangePercentage7d": -3.90346035
+      },
+      {
+        "id": 1414,
+        "name": "Firo",
+        "slug": "firo",
+        "price": 1.3454938776288508,
+        "priceChangePercentage24h": 0.21867821,
+        "priceChangePercentage7d": 4.03360084
+      },
+      {
+        "id": 1975,
+        "name": "Chainlink",
+        "slug": "chainlink",
+        "price": 14.028344717813509,
+        "priceChangePercentage24h": -5.25786687,
+        "priceChangePercentage7d": -2.46572024
+      },
+      {
+        "id": 7653,
+        "name": "Oasis",
+        "slug": "oasis-network",
+        "price": 0.08025331330873264,
+        "priceChangePercentage24h": -5.30717197,
+        "priceChangePercentage7d": -4.39563858
+      },
+      {
+        "id": 707,
+        "name": "Blocknet",
+        "slug": "blocknet",
+        "price": 0.017113298239738093,
+        "priceChangePercentage24h": -0.68391562,
+        "priceChangePercentage7d": -3.30053472
+      },
+      {
+        "id": 5864,
+        "name": "yearn.finance",
+        "slug": "yearn-finance",
+        "price": 6192.38803639104,
+        "priceChangePercentage24h": -4.43119421,
+        "priceChangePercentage7d": -11.362147
+      },
+      {
+        "id": 4279,
+        "name": "Solar",
+        "slug": "sxp",
+        "price": 0.36376553390538346,
+        "priceChangePercentage24h": 2.1116243,
+        "priceChangePercentage7d": 18.12789401
+      },
+      {
+        "id": 8043,
+        "name": "MAHA.xyz",
+        "slug": "mahadao",
+        "price": 0.9034865737660874,
+        "priceChangePercentage24h": -2.68820884,
+        "priceChangePercentage7d": -9.89747239
+      }
+    ],
+    "isAudited": false,
+    "holders": {
+      "holderCount": 8,
+      "holderList": [
+        {
+          "address": "0x21fda2891e40a9b8ec937ecf466778a0b3495537",
+          "balance": 8485000000.0,
+          "share": 99.82
+        },
+        {
+          "address": "0x1bde1bae878131b919ce8316619c8409f2624e5f",
+          "balance": 13354020.316514779,
+          "share": 0.16
+        },
+        {
+          "address": "0x87bfd6a41c2a2734f7d91891f5ca2a9d1c1e86b8",
+          "balance": 981708.211143695,
+          "share": 0.01
+        },
+        {
+          "address": "0x0a92e0ee905d7db82940ffad5194c6a04081b73f",
+          "balance": 643493.1086694031,
+          "share": 0.01
+        },
+        {
+          "address": "0x18d0b08096807122ffea2b25baa877b07fe14871",
+          "balance": 18291.788856304986,
+          "share": 0
+        },
+        {
+          "address": "0x735d66ca4e5cbd3518ab5910b69c0c5f2bc6eb7c",
+          "balance": 1486,
+          "share": 0
+        },
+        {
+          "address": "0xafa3f891fd0e79362373385f6eabb7c99017fee3",
+          "balance": 1000.0,
+          "share": 0
+        },
+        {
+          "address": "0x2f4cc9ec6a4edbe79c15e5ddc4e91428b44522ff",
+          "balance": 0.574815820218864,
+          "share": 0
+        }
+      ]
+    },
+    "displayTV": 1,
+    "isInfiniteMaxSupply": 0,
+    "tvCoinSymbol": "SHA",
+    "supportWalletInfos": [],
+    "holdersFlag": true,
+    "ratingsFlag": false,
+    "analysisFlag": false,
+    "socialsFlag": true,
+    "cryptoRating": [
+      {
+        "type": "CertiK",
+        "score": 72.8,
+        "rating": 3.6,
+        "updateTime": "2024-11-17T00:00:00.000Z",
+        "link": "https://cmc.certik-skynet.com/redirect?project=safe-haven&utm_source=CMC&utm_campaign=ScoreByCertiKLink"
+      },
+      {
+        "type": "Cyberscope",
+        "score": 60.0,
+        "rating": 3.0,
+        "updateTime": "2024-11-17T11:00:44.000Z",
+        "link": "https://www.cyberscope.io/audits/coin-safe-haven"
+      },
+      {
+        "type": "Aggregate rating",
+        "score": 66.4,
+        "rating": 3.3,
+        "updateTime": "2024-11-18T01:00:00.188Z"
+      }
+    ],
+    "hasExtraInfoFlag": false,
+    "upcoming": {
+      "status": false
+    },
+    "annotationFlag": false,
+    "similarCoins": [
+      {
+        "id": 3880,
+        "symbol": "OCE"
+      },
+      {
+        "id": 2578,
+        "symbol": "TONE"
+      },
+      {
+        "id": 3853,
+        "symbol": "MTV"
+      },
+      {
+        "id": 1993,
+        "symbol": "KIN"
+      },
+      {
+        "id": 3012,
+        "symbol": "VTHO"
+      },
+      {
+        "id": 5350,
+        "symbol": "XPR"
+      }
+    ]
+  },
+  "status": {
+    "timestamp": "2024-11-18T01:10:00.776Z",
+    "error_code": "0",
+    "error_message": "SUCCESS",
+    "elapsed": "19",
+    "credit_count": 0
+  }
+}

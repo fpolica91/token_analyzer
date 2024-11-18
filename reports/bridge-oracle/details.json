@@ -1,0 +1,611 @@
+{
+  "data": {
+    "id": 7096,
+    "name": "Bridge Oracle",
+    "symbol": "BRG",
+    "slug": "bridge-oracle",
+    "category": "token",
+    "description": "Bridge Oracle is a BNB Chain-based public oracle that is developed to enable everyone including individuals, small businesses, and great companies to run a smart contract fueled by secured and trustworthy real-world data.\nBridge has also provided different services in various fields such as pegging the value for synthetic assets on dApps, creating randomness in NFT and Gaming industry, a staking platform for the community, and the most notable one, a Token Bridge platform through which you can transfer tokens between different blockchain networks as such as BNB Chain, Ethereum, OKChain, ENULS, etc.\nFurthermore, Bridge has provided investors with its native token, BRG, which besides having use cases for service fee payments and providing discounts for community members, it is also available on many payment gateways through which you can simply pay for goods and purchases with BRG.\nAnother step forward for Bridge was the providing of access to AI for all for which the first step was to develop its GPT+ telegram bot that is available for all to easily interact with.\n",
+    "dateAdded": "2020-09-18T00:00:00.000Z",
+    "status": "active",
+    "subStatus": "normal",
+    "notice": "",
+    "alertType": 2,
+    "alertLink": "",
+    "latestUpdateTime": "2024-11-18T01:09:00.000Z",
+    "watchCount": "45080",
+    "watchListRanking": 829,
+    "latestAdded": false,
+    "launchPrice": 0.00669249,
+    "tags": [
+      {
+        "slug": "ai-big-data",
+        "name": "AI & Big Data",
+        "category": "INDUSTRY"
+      },
+      {
+        "slug": "defi",
+        "name": "DeFi",
+        "category": "CATEGORY"
+      },
+      {
+        "slug": "e-commerce",
+        "name": "E-commerce",
+        "category": "INDUSTRY"
+      },
+      {
+        "slug": "oracles",
+        "name": "Oracles",
+        "category": "CATEGORY"
+      },
+      {
+        "slug": "payments",
+        "name": "Payments",
+        "category": "INDUSTRY"
+      },
+      {
+        "slug": "smart-contracts",
+        "name": "Smart Contracts",
+        "category": "CATEGORY"
+      },
+      {
+        "slug": "staking",
+        "name": "Staking",
+        "category": "CATEGORY"
+      },
+      {
+        "slug": "ethereum-ecosystem",
+        "name": "Ethereum Ecosystem",
+        "category": "PLATFORM"
+      },
+      {
+        "slug": "token",
+        "name": "Token",
+        "category": "CATEGORY"
+      },
+      {
+        "slug": "arbitrum-ecosytem",
+        "name": "Arbitrum Ecosystem",
+        "category": "PLATFORM"
+      },
+      {
+        "slug": "cross-chain",
+        "name": "Cross-Chain",
+        "category": "CATEGORY"
+      },
+      {
+        "slug": "bnb-chain",
+        "name": "BNB Chain",
+        "category": "PLATFORM"
+      },
+      {
+        "slug": "telegram-bot",
+        "name": "Telegram Bot",
+        "category": "CATEGORY"
+      }
+    ],
+    "selfReportedTags": [
+      "Web3"
+    ],
+    "urls": {
+      "website": [
+        "https://bridge.link/",
+        "https://docs.bridge.link"
+      ],
+      "technical_doc": [
+        "https://bridge.link/Bridge_White_Paper.pdf"
+      ],
+      "explorer": [
+        "https://bscscan.com/token/0x6e4a971B81CA58045a2AA982EaA3d50C4Ac38F42",
+        "https://nulscan.io/contracts/info?contractAddress=NULSd6Hgu5DRgAg11zwyq1C1NGpKBGYUm3Uhu&tabName=first",
+        "https://etherscan.io/token/0xc9c4fd7579133701fa2769b6955e7e56bb386db1",
+        "https://arbiscan.io/token/0xc9c4fd7579133701fa2769b6955e7e56bb386db1",
+        "https://www.oklink.com/oktc/token/0xc9c4fd7579133701fa2769b6955e7e56bb386db1"
+      ],
+      "source_code": [
+        "https://github.com/BridgeOracle"
+      ],
+      "message_board": [
+        "https://medium.com/@bridge_oracle"
+      ],
+      "chat": [
+        "https://telegram.me/BridgeOracle",
+        "https://discord.gg/WcGQnQpK23"
+      ],
+      "announcement": [],
+      "reddit": [
+        "https://reddit.com/r/bridge_oracle/"
+      ],
+      "facebook": [],
+      "twitter": [
+        "https://twitter.com/bridge_oracle"
+      ]
+    },
+    "volume": 77028.51640545,
+    "volumeChangePercentage24h": -18.1747,
+    "cexVolume": 64843.48263716,
+    "dexVolume": 12185.03376828,
+    "statistics": {
+      "price": 9.464391703845008e-05,
+      "priceChangePercentage1h": -2.52978148,
+      "priceChangePercentage24h": -6.25306998,
+      "priceChangePercentage7d": -10.77457393,
+      "priceChangePercentage30d": -76.57163237,
+      "priceChangePercentage60d": -81.09254834,
+      "priceChangePercentage90d": -81.13460241,
+      "priceChangePercentage1y": -73.92655177,
+      "priceChangePercentageAll": -98.586820491059,
+      "marketCap": 757356.45,
+      "marketCapChangePercentage24h": -6.2531,
+      "fullyDilutedMarketCap": 946439.17,
+      "fullyDilutedMarketCapChangePercentage24h": -6.25,
+      "circulatingSupply": 8002167205.0,
+      "totalSupply": 10000000000.0,
+      "maxSupply": 10000000000.0,
+      "marketCapDominance": 0.0,
+      "rank": 1958,
+      "roi": -98.58581907,
+      "low24h": 9.2805828661713e-05,
+      "high24h": 0.000103045730787096,
+      "low7d": 9.2805828661713e-05,
+      "high7d": 0.000113326190270663,
+      "low30d": 5.4758051474188e-05,
+      "high30d": 0.000430634175791233,
+      "low90d": 5.4758051474188e-05,
+      "high90d": 0.00054499622794288,
+      "low52w": 5.4758051474188e-05,
+      "high52w": 0.002712905702510639,
+      "lowAllTime": 5.4758051474188e-05,
+      "highAllTime": 0.48203478,
+      "lowAllTimeChangePercentage": 72.84,
+      "highAllTimeChangePercentage": -99.98,
+      "lowAllTimeTimestamp": "2024-11-04T07:10:00.000Z",
+      "highAllTimeTimestamp": "2021-02-24T08:00:10.000Z",
+      "lowYesterday": 9.2805828661713e-05,
+      "highYesterday": 0.000103045730787096,
+      "openYesterday": 0.000100935518400028,
+      "closeYesterday": 9.7147423421461e-05,
+      "priceChangePercentageYesterday": -3.75,
+      "volumeYesterday": 71367.39,
+      "turnover": 0.10170708,
+      "ytdPriceChangePercentage": -84.0978,
+      "volumeRank": 2920,
+      "volumeMcRank": 1852,
+      "mcTotalNum": 10049,
+      "volumeTotalNum": 10049,
+      "volumeMcTotalNum": 10049
+    },
+    "quotes": [],
+    "platforms": [
+      {
+        "contractId": 1839,
+        "contractAddress": "0x6e4a971B81CA58045a2AA982EaA3d50C4Ac38F42",
+        "contractPlatform": "BNB Smart Chain (BEP20)",
+        "contractPlatformId": 14,
+        "contractChainId": 56,
+        "contractRpcUrl": [
+          "https://bsc-dataseed1.binance.org",
+          "https://bsc-dataseed.binance.org/",
+          "https://bsc-dataseed1.binance.org:443"
+        ],
+        "contractNativeCurrencyName": "Binance Chain Native Token",
+        "contractNativeCurrencySymbol": "BNB",
+        "contractNativeCurrencyDecimals": 18,
+        "contractBlockExplorerUrl": "https://bscscan.com/",
+        "contractExplorerUrl": "https://bscscan.com/token/0x6e4a971B81CA58045a2AA982EaA3d50C4Ac38F42",
+        "contractDecimals": 18,
+        "platformCryptoId": 1839,
+        "sort": 0,
+        "wallets": [
+          {
+            "id": 9025
+          }
+        ]
+      },
+      {
+        "contractId": 1027,
+        "contractAddress": "0xc9c4fd7579133701fa2769b6955e7e56bb386db1",
+        "contractPlatform": "Ethereum",
+        "contractPlatformId": 1,
+        "contractChainId": 1,
+        "contractRpcUrl": [
+          "https://bsc-dataseed1.binance.org",
+          "https://bsc-dataseed.binance.org/",
+          "https://bsc-dataseed1.binance.org:443"
+        ],
+        "contractNativeCurrencyName": "Ethereum",
+        "contractNativeCurrencySymbol": "ETH",
+        "contractNativeCurrencyDecimals": 18,
+        "contractBlockExplorerUrl": "https://etherscan.io",
+        "contractExplorerUrl": "https://etherscan.io/token/0xc9c4fd7579133701fa2769b6955e7e56bb386db1",
+        "contractDecimals": 18,
+        "platformCryptoId": 1027,
+        "sort": 0,
+        "wallets": [
+          {
+            "id": 9025
+          }
+        ]
+      },
+      {
+        "contractId": 8267,
+        "contractAddress": "0xc9c4fd7579133701fa2769b6955e7e56bb386db1",
+        "contractPlatform": "OKExChain",
+        "contractPlatformId": 31,
+        "contractChainId": -1,
+        "contractRpcUrl": [],
+        "contractNativeCurrencyName": "",
+        "contractNativeCurrencySymbol": "",
+        "contractNativeCurrencyDecimals": -1,
+        "contractBlockExplorerUrl": "",
+        "contractExplorerUrl": "https://www.oklink.com/oktc/token/0xc9c4fd7579133701fa2769b6955e7e56bb386db1",
+        "contractDecimals": 18,
+        "platformCryptoId": 8267,
+        "sort": 0,
+        "wallets": []
+      },
+      {
+        "contractId": 11841,
+        "contractAddress": "0xc9c4fd7579133701fa2769b6955e7e56bb386db1",
+        "contractPlatform": "Arbitrum",
+        "contractPlatformId": 51,
+        "contractChainId": 42161,
+        "contractRpcUrl": [],
+        "contractNativeCurrencyName": "",
+        "contractNativeCurrencySymbol": "",
+        "contractNativeCurrencyDecimals": -1,
+        "contractBlockExplorerUrl": "",
+        "contractExplorerUrl": "https://arbiscan.io/token/0xc9c4fd7579133701fa2769b6955e7e56bb386db1",
+        "contractDecimals": 18,
+        "platformCryptoId": 11841,
+        "sort": 0,
+        "wallets": [
+          {
+            "id": 9025
+          }
+        ]
+      }
+    ],
+    "relatedCoins": [
+      {
+        "id": 2513,
+        "name": "GoldMint",
+        "slug": "goldmint",
+        "price": 0.05065701161697734,
+        "priceChangePercentage24h": -0.83488657,
+        "priceChangePercentage7d": 21.70106268
+      },
+      {
+        "id": 2511,
+        "name": "WePower",
+        "slug": "wepower",
+        "priceChangePercentage24h": 0.0,
+        "priceChangePercentage7d": 0.0
+      },
+      {
+        "id": 1765,
+        "name": "EOS",
+        "slug": "eos",
+        "price": 0.6236068741280939,
+        "priceChangePercentage24h": -7.77326019,
+        "priceChangePercentage7d": 8.06211866
+      },
+      {
+        "id": 6950,
+        "name": "Perpetual Protocol",
+        "slug": "perpetual-protocol",
+        "price": 0.7285723464416717,
+        "priceChangePercentage24h": -2.90313486,
+        "priceChangePercentage7d": -0.25172654
+      },
+      {
+        "id": 74,
+        "name": "Dogecoin",
+        "slug": "dogecoin",
+        "price": 0.3643103551833531,
+        "priceChangePercentage24h": -0.77007635,
+        "priceChangePercentage7d": 26.58013447
+      },
+      {
+        "id": 3260,
+        "name": "AMO Coin",
+        "slug": "amo-coin",
+        "price": 0.0005111007537637863,
+        "priceChangePercentage24h": -0.78411922,
+        "priceChangePercentage7d": 0.10899005
+      },
+      {
+        "id": 707,
+        "name": "Blocknet",
+        "slug": "blocknet",
+        "price": 0.017113298239738093,
+        "priceChangePercentage24h": -0.68391562,
+        "priceChangePercentage7d": -3.30053472
+      },
+      {
+        "id": 3664,
+        "name": "AgaveCoin",
+        "slug": "agavecoin",
+        "priceChangePercentage24h": 0.0,
+        "priceChangePercentage7d": 0.0
+      },
+      {
+        "id": 3840,
+        "name": "1irstcoin",
+        "slug": "1irstcoin",
+        "priceChangePercentage24h": 0.0,
+        "priceChangePercentage7d": -0.00031348
+      },
+      {
+        "id": 7040,
+        "name": "UpBots(Old)",
+        "slug": "upbots",
+        "priceChangePercentage24h": -6.8397122,
+        "priceChangePercentage7d": -77.26685638
+      }
+    ],
+    "wallets": [
+      {
+        "id": 9025,
+        "name": "MetaMask",
+        "tier": 1,
+        "url": "https://metamask.io/",
+        "chains": "ETH,ETZ",
+        "types": "pc",
+        "introduction": "",
+        "star": 1.0,
+        "security": 2.0,
+        "easyToUse": 4.0,
+        "decentration": false,
+        "focusNumber": 0,
+        "rank": 1000013,
+        "logo": "9025.png",
+        "multipleChain": true
+      },
+      {
+        "id": 9152,
+        "name": "Binance Chain Wallet",
+        "url": "https://www.binance.org/en/blog/binance-extension-wallet/",
+        "chains": "BNB",
+        "types": "",
+        "introduction": "",
+        "star": 0.0,
+        "security": 0.0,
+        "easyToUse": 0.0,
+        "decentration": false,
+        "focusNumber": 0,
+        "logo": "9152.png",
+        "multipleChain": false
+      }
+    ],
+    "isAudited": true,
+    "auditInfos": [
+      {
+        "coinId": "7096",
+        "auditor": "CertiK",
+        "auditStatus": 2,
+        "auditTime": "2023-04-18T01:52:01.524Z",
+        "reportUrl": "https://cmc.certik-skynet.com/redirect?project=bridge-oracle"
+      }
+    ],
+    "holders": {
+      "holderCount": 25,
+      "holderList": [
+        {
+          "address": "0x1fd66bdf8056f4121797c87d55090cb7c60b5c0d",
+          "balance": 34553972.60076824,
+          "share": 89.41
+        },
+        {
+          "address": "0x843ecfdb484faee8fd9f355ea4cbd0ff242f8f81",
+          "balance": 2350067.4043062483,
+          "share": 6.08
+        },
+        {
+          "address": "0x70d67aa36f27677fcb9e16518dfb455ae33bd409",
+          "balance": 592168.2004272317,
+          "share": 1.53
+        },
+        {
+          "address": "0x4c60f8b4e94e820650581f3f7ec50bda21cdd7cc",
+          "balance": 304664.6666645582,
+          "share": 0.79
+        },
+        {
+          "address": "0x652724e093054171c69e27d39a5be04be8bd012c",
+          "balance": 202726.80472341034,
+          "share": 0.52
+        },
+        {
+          "address": "0x3dc15fb92ae1fc916917ab8ca1ebdb69efdfceaa",
+          "balance": 200469.62814176021,
+          "share": 0.52
+        },
+        {
+          "address": "0x3482d660ca59c31995b240d9100e739cd7eaa44a",
+          "balance": 195000.0,
+          "share": 0.5
+        },
+        {
+          "address": "0xb9af8a68c545b7bfa0064813ce85348181827678",
+          "balance": 92960.93650273343,
+          "share": 0.24
+        },
+        {
+          "address": "0xc3413db7950d9d187d0162085d03d4050ef4d15a",
+          "balance": 68274.92073535785,
+          "share": 0.18
+        },
+        {
+          "address": "0x2b7d0dbc78ae2cfeafa583d6410269e08aab6bc9",
+          "balance": 15630.987030910785,
+          "share": 0.04
+        },
+        {
+          "address": "0x2bc35068f850af37dd16a26a5dc9b715f7d4adbc",
+          "balance": 15459.204591218077,
+          "share": 0.04
+        },
+        {
+          "address": "0xcec5b266bc5a5bb5bc1dad570a0a3637a87ed0b9",
+          "balance": 15112.553431672555,
+          "share": 0.04
+        },
+        {
+          "address": "0xfa5b61378bff338bea1c294d8b6c59f2f447e4c9",
+          "balance": 10333.053721293158,
+          "share": 0.03
+        },
+        {
+          "address": "0xed36856be39a61dfda4bcb06e8cafceae44889b7",
+          "balance": 9986.880807299043,
+          "share": 0.03
+        },
+        {
+          "address": "0xb5743f299cb18808ede5dc1491b9eafbbe6ad95f",
+          "balance": 9608.681883528861,
+          "share": 0.02
+        },
+        {
+          "address": "0x70587bbd67facab0a8901211dcc52209869e4dcc",
+          "balance": 7167.320563425891,
+          "share": 0.02
+        },
+        {
+          "address": "0x7c33b68300a2c2e5ac0038ab2c3119bfc6d55a21",
+          "balance": 713.8068524103244,
+          "share": 0
+        },
+        {
+          "address": "0xc546194fb601070e46ab4da1f55c468f9f0e167f",
+          "balance": 500.0,
+          "share": 0
+        },
+        {
+          "address": "0xeb83460aeefb905e6f5a35e1b8ff2522bf986606",
+          "balance": 459.38267157832183,
+          "share": 0
+        },
+        {
+          "address": "0x43685aad6a232d78c124315450b988ecbd55fd60",
+          "balance": 400.0,
+          "share": 0
+        },
+        {
+          "address": "0x8640a52ff292d7b6e4cf07b6519ffd086c179cbd",
+          "balance": 363,
+          "share": 0
+        },
+        {
+          "address": "0xe1827d434538752ca08abd2c75d44e3522c772a5",
+          "balance": 100.0,
+          "share": 0
+        },
+        {
+          "address": "0x00000000a991c429ee2ec6df19d40fe0c80088b8",
+          "balance": 0.0132131782067187,
+          "share": 0
+        },
+        {
+          "address": "0x58129d2105217139142aafbf0aadbcbd29e99e1d",
+          "balance": 2.1e-17,
+          "share": 0
+        },
+        {
+          "address": "0x000000000005af2ddc1a93a03e9b7014064d3b8d",
+          "balance": 1e-18,
+          "share": 0
+        }
+      ],
+      "topTenHolderRatio": 99.81,
+      "topTwentyHolderRatio": 99.99
+    },
+    "displayTV": 1,
+    "isInfiniteMaxSupply": 0,
+    "tvCoinSymbol": "BRG",
+    "supportWalletInfos": [
+      {
+        "id": 9025,
+        "name": "MetaMask",
+        "url": "https://metamask.io/",
+        "chains": "ETH,ETZ",
+        "decentration": false,
+        "logo": "9025.png",
+        "multipleChain": false
+      },
+      {
+        "id": 9152,
+        "name": "Binance Chain Wallet",
+        "url": "https://www.binance.org/en/blog/binance-extension-wallet/",
+        "chains": "BNB",
+        "decentration": false,
+        "logo": "9152.png",
+        "multipleChain": false
+      }
+    ],
+    "holdersFlag": true,
+    "ratingsFlag": false,
+    "analysisFlag": false,
+    "socialsFlag": true,
+    "cryptoRating": [
+      {
+        "type": "CertiK",
+        "score": 85.2,
+        "rating": 4.3,
+        "updateTime": "2024-11-17T00:00:00.000Z",
+        "link": "https://cmc.certik-skynet.com/redirect?project=bridge-oracle&utm_source=CMC&utm_campaign=ScoreByCertiKLink"
+      },
+      {
+        "type": "Cyberscope",
+        "score": 79.0,
+        "rating": 4.0,
+        "updateTime": "2024-11-17T09:24:29.000Z",
+        "link": "https://www.cyberscope.io/audits/coin-bridge-oracle"
+      },
+      {
+        "type": "Aggregate rating",
+        "score": 82.1,
+        "rating": 4.2,
+        "updateTime": "2024-11-18T01:00:00.202Z"
+      }
+    ],
+    "hasExtraInfoFlag": false,
+    "upcoming": {
+      "status": false
+    },
+    "annotationFlag": false,
+    "similarCoins": [
+      {
+        "id": 4804,
+        "symbol": "ROOBEE"
+      },
+      {
+        "id": 3657,
+        "symbol": "LAMB"
+      },
+      {
+        "id": 1993,
+        "symbol": "KIN"
+      },
+      {
+        "id": 5841,
+        "symbol": "NEST"
+      },
+      {
+        "id": 4206,
+        "symbol": "WIN"
+      },
+      {
+        "id": 11346,
+        "symbol": "RACA"
+      }
+    ]
+  },
+  "status": {
+    "timestamp": "2024-11-18T01:10:01.802Z",
+    "error_code": "0",
+    "error_message": "SUCCESS",
+    "elapsed": "13",
+    "credit_count": 0
+  }
+}

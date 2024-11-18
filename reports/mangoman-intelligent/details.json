@@ -1,0 +1,292 @@
+{
+  "data": {
+    "id": 21217,
+    "name": "MangoMan Intelligent",
+    "symbol": "MMIT",
+    "slug": "mangoman-intelligent",
+    "category": "token",
+    "description": "Welcome to MMIT, the world's first Fruit Meme token! Originating as a meme token, MMIT has expanded its ecosystem due to growth and user demand. One of MMIT's most beloved products is the .MMIT WEB3 Domain, named Mangotree, launched in July 2023, with over 87,000+ registrations to date. Additionally, MMIT boasts its own wallet, with over 20,000 downloads, and a dedicated swap platform called MangoSwap. Moreover, MMIT has introduced its own layer1  blockchain, poised to be the first blockchain capable of scaling both financial and non-financial transactions. This entire ecosystem is transforming MMIT into a utility coin\n\n## What is MangoMan Intelligent (MMIT)?\n\nMMIT is the world's **First-Fruit** Meme Token . It is the only **Meme Utility ** token in the crypto space with a live ecosystem.\n\n## When Was MMIT Launched ?\n\nMMIT was Launched in 2022 at the **Crypto Expo Dubai**.\n\n## What Makes MMIT Unique ?\n\nHere are five points that make MMIT Unique:\n\n1. It is the **First-Fruit**-themed meme token.\n2. It is Backed by a 100,000-**Strong Offline** Community.\n3. It is the only Meme token in the space with a web3 domain,Sold over 85,000\n4. Most of its supply is Staked by users, making it a highly demanded token.\n\n5. It has shown a growth of more than 8,800% in just a month, making it one of the fastest-growing tokens.\n\n\n## What is MMIT Future Plan ?\nMMIT is set to launch some of the world's best utilities in the first week of February 2024.\n\n\n## Where We Can Buy MMIT?\nYou can buy MMIT on some of the world's best exchanges, such as [Bitget](https://www.bitget.com/markets/spottps://), [MEXC](https://www.mexc.com/exchange/MMIT_USDTs://), [XT](https://www.xt.com/en/trade/1mmmit_usdts://), [Biconomy](https://www.biconomy.com/exchange/MMIT_USDTs://), [LATOKEN](https://latoken.com/exchange/MMIT_USDT), [PancakeSwap](https://pancakeswap.finance/swap?outputCurrency=0x9767c8E438Aa18f550208e6d1fDf5f43541cC2c8), and many more.\n\n\n\n",
+    "dateAdded": "2022-08-03T14:36:43.000Z",
+    "status": "active",
+    "subStatus": "normal",
+    "notice": "",
+    "alertType": 2,
+    "alertLink": "",
+    "latestUpdateTime": "2024-11-17T23:30:00.000Z",
+    "watchCount": "16898",
+    "watchListRanking": 1611,
+    "dateLaunched": "2022-05-27T00:00:00.000Z",
+    "latestAdded": false,
+    "tags": [],
+    "selfReportedTags": [
+      "Memes",
+      "Binance Coin",
+      "Web3"
+    ],
+    "selfReportedCirculatingSupply": "1.8216986925421E+14",
+    "urls": {
+      "website": [
+        "https://mmint.io/#"
+      ],
+      "technical_doc": [],
+      "explorer": [
+        "https://bscscan.com/token/0x9767c8e438aa18f550208e6d1fdf5f43541cc2c8"
+      ],
+      "source_code": [],
+      "message_board": [
+        "https://medium.com/@mangomaninteligent1"
+      ],
+      "chat": [
+        "https://t.me/mangomanintell"
+      ],
+      "announcement": [],
+      "reddit": [],
+      "facebook": [],
+      "twitter": [
+        "https://twitter.com/mangomanintell"
+      ]
+    },
+    "volume": 125875.43180155,
+    "volumeChangePercentage24h": 42.187,
+    "cexVolume": 49028.26942001,
+    "dexVolume": 76847.16238155,
+    "statistics": {
+      "price": 1.933714582548232e-09,
+      "priceChangePercentage1h": -2.64642982,
+      "priceChangePercentage24h": -17.85567976,
+      "priceChangePercentage7d": -0.91501684,
+      "priceChangePercentage30d": -18.39011528,
+      "priceChangePercentage60d": -90.77537305,
+      "priceChangePercentage90d": -94.29387199,
+      "priceChangePercentage1y": -83.37714483,
+      "priceChangePercentageAll": -91.750293507905,
+      "marketCap": 698309.27,
+      "marketCapChangePercentage24h": -17.8557,
+      "fullyDilutedMarketCap": 4060800.62,
+      "fullyDilutedMarketCapChangePercentage24h": -17.86,
+      "circulatingSupply": 361123236215682.56,
+      "totalSupply": 2074539706437830.0,
+      "maxSupply": 2100000000000000.0,
+      "marketCapDominance": 0.0,
+      "rank": 1980,
+      "low24h": 1.815561843e-09,
+      "high24h": 2.520492146e-09,
+      "low7d": 1.34328687e-09,
+      "high7d": 2.722052684e-09,
+      "low30d": 1.34328687e-09,
+      "high30d": 2.843790945e-09,
+      "low90d": 1.34328687e-09,
+      "high90d": 3.4455150315e-08,
+      "low52w": 1.34328687e-09,
+      "high52w": 1.19893929739e-07,
+      "lowAllTime": 1.180907125e-09,
+      "highAllTime": 8.08775738321e-07,
+      "lowAllTimeChangePercentage": 63.75,
+      "highAllTimeChangePercentage": -99.76,
+      "lowAllTimeTimestamp": "2023-06-14T16:51:00.000Z",
+      "highAllTimeTimestamp": "2023-04-22T16:15:00.000Z",
+      "lowYesterday": 1.701394398e-09,
+      "highYesterday": 2.722052684e-09,
+      "openYesterday": 1.779963773e-09,
+      "closeYesterday": 2.280453202e-09,
+      "priceChangePercentageYesterday": 28.12,
+      "volumeYesterday": 92795.34,
+      "turnover": 0.18025743,
+      "ytdPriceChangePercentage": -97.5355,
+      "volumeRank": 2564,
+      "volumeMcRank": 1308,
+      "mcTotalNum": 10049,
+      "volumeTotalNum": 10049,
+      "volumeMcTotalNum": 10049
+    },
+    "quotes": [],
+    "platforms": [
+      {
+        "contractId": 1839,
+        "contractAddress": "0x9767c8E438Aa18f550208e6d1fDf5f43541cC2c8",
+        "contractPlatform": "BNB Smart Chain (BEP20)",
+        "contractPlatformId": 14,
+        "contractChainId": 56,
+        "contractRpcUrl": [
+          "https://bsc-dataseed1.binance.org",
+          "https://bsc-dataseed.binance.org/",
+          "https://bsc-dataseed1.binance.org:443"
+        ],
+        "contractNativeCurrencyName": "Binance Chain Native Token",
+        "contractNativeCurrencySymbol": "BNB",
+        "contractNativeCurrencyDecimals": 18,
+        "contractBlockExplorerUrl": "https://bscscan.com/",
+        "contractExplorerUrl": "https://bscscan.com/token/0x9767c8E438Aa18f550208e6d1fDf5f43541cC2c8",
+        "contractDecimals": 18,
+        "platformCryptoId": 1839,
+        "sort": 0,
+        "wallets": [
+          {
+            "id": 9025
+          }
+        ]
+      }
+    ],
+    "relatedCoins": [
+      {
+        "id": 2513,
+        "name": "GoldMint",
+        "slug": "goldmint",
+        "price": 0.050373095792819844,
+        "priceChangePercentage24h": -1.17082459,
+        "priceChangePercentage7d": 21.16304368
+      },
+      {
+        "id": 4679,
+        "name": "Band Protocol",
+        "slug": "band-protocol",
+        "price": 1.2814496513695044,
+        "priceChangePercentage24h": -5.65008698,
+        "priceChangePercentage7d": 2.06720593
+      },
+      {
+        "id": 7083,
+        "name": "Uniswap",
+        "slug": "uniswap",
+        "price": 8.67107812286967,
+        "priceChangePercentage24h": -4.12598431,
+        "priceChangePercentage7d": -5.33532546
+      },
+      {
+        "id": 1414,
+        "name": "Firo",
+        "slug": "firo",
+        "price": 1.326887994202149,
+        "priceChangePercentage24h": -0.01815792,
+        "priceChangePercentage7d": 3.57156349
+      },
+      {
+        "id": 1975,
+        "name": "Chainlink",
+        "slug": "chainlink",
+        "price": 13.740961361151227,
+        "priceChangePercentage24h": -5.26925947,
+        "priceChangePercentage7d": -3.33139597
+      },
+      {
+        "id": 7653,
+        "name": "Oasis",
+        "slug": "oasis-network",
+        "price": 0.07918764787708935,
+        "priceChangePercentage24h": -6.77941812,
+        "priceChangePercentage7d": -2.77160392
+      },
+      {
+        "id": 707,
+        "name": "Blocknet",
+        "slug": "blocknet",
+        "price": 0.017045179027667664,
+        "priceChangePercentage24h": -0.88664542,
+        "priceChangePercentage7d": -3.64008789
+      },
+      {
+        "id": 5864,
+        "name": "yearn.finance",
+        "slug": "yearn-finance",
+        "price": 6102.461195876597,
+        "priceChangePercentage24h": -5.64922802,
+        "priceChangePercentage7d": -12.35650653
+      },
+      {
+        "id": 4279,
+        "name": "Solar",
+        "slug": "sxp",
+        "price": 0.34633148160058497,
+        "priceChangePercentage24h": -3.68372451,
+        "priceChangePercentage7d": 12.29481375
+      },
+      {
+        "id": 8043,
+        "name": "MAHA.xyz",
+        "slug": "mahadao",
+        "price": 0.9008778972539175,
+        "priceChangePercentage24h": -2.97153888,
+        "priceChangePercentage7d": -10.01352549
+      }
+    ],
+    "isAudited": true,
+    "auditInfos": [
+      {
+        "coinId": "21217",
+        "auditor": "Cyberscope",
+        "auditStatus": 2,
+        "auditTime": "2022-11-11T18:14:40.209Z",
+        "reportUrl": "https://cyberscope.io/audits/1-mmit"
+      }
+    ],
+    "holders": {},
+    "displayTV": 1,
+    "isInfiniteMaxSupply": 0,
+    "tvCoinSymbol": "MMIT",
+    "supportWalletInfos": [],
+    "holdersFlag": false,
+    "ratingsFlag": false,
+    "analysisFlag": false,
+    "socialsFlag": true,
+    "cryptoRating": [
+      {
+        "type": "CertiK",
+        "score": 68.35,
+        "rating": 3.4,
+        "updateTime": "2024-11-17T00:00:00.000Z",
+        "link": "https://cmc.certik-skynet.com/redirect?project=mangoman-intelligent&utm_source=CMC&utm_campaign=ScoreByCertiKLink"
+      },
+      {
+        "type": "Cyberscope",
+        "score": 81.0,
+        "rating": 4.1,
+        "updateTime": "2024-11-17T03:47:38.000Z",
+        "link": "https://www.cyberscope.io/audits/1-mmit"
+      },
+      {
+        "type": "Aggregate rating",
+        "score": 74.7,
+        "rating": 3.8,
+        "updateTime": "2024-11-17T23:30:00.160Z"
+      }
+    ],
+    "hasExtraInfoFlag": false,
+    "upcoming": {
+      "status": false
+    },
+    "annotationFlag": false,
+    "similarCoins": [
+      {
+        "id": 11079,
+        "symbol": "BRISE"
+      },
+      {
+        "id": 9177,
+        "symbol": "PIT"
+      },
+      {
+        "id": 28675,
+        "symbol": "COQ"
+      },
+      {
+        "id": 23095,
+        "symbol": "BONK"
+      },
+      {
+        "id": 10804,
+        "symbol": "FLOKI"
+      },
+      {
+        "id": 28683,
+        "symbol": "1000SATS"
+      }
+    ]
+  },
+  "status": {
+    "timestamp": "2024-11-17T23:31:17.690Z",
+    "error_code": "0",
+    "error_message": "SUCCESS",
+    "elapsed": "13",
+    "credit_count": 0
+  }
+}

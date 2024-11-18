@@ -1,0 +1,347 @@
+{
+  "data": {
+    "id": 30179,
+    "name": "StoryFire",
+    "symbol": "BLAZE",
+    "slug": "storyfire",
+    "category": "token",
+    "description": "StoryFire is your web-3 gaming, social media, and DeFi hub for all content and engagement powered by $BLAZE.\n\nThe Multi-Utility $BLAZE token.\n\n$BLAZE isn\u2019t just another token. It\u2019s a key to unlocking a treasure trove of Web3 experiences:\n\nTipping: Show your appreciation for creators directly by tipping $BLAZE tokens.\n\nPromotion: Use $BLAZE to amplify your voice and content to a broader audience.\n\nIn-Game Purchases: Enhance your gaming experience with unique items and content.\n\nExclusive Content: Get your hands on content that only $BLAZE can unlock.\n\nPaid Polls: Your audience\u2019s opinion matters, get the best insights with paid polls.\n\nStoryFire Suite & Inkling AI: Access a suite of creative tools and an AI assistant to spark your creativity and take your content to the next level.\n\nCreator Plan: $BLAZE opens doors for creators with strategies tailored to skyrocket success.\n\nEngage-to-Earn: Rewarding Active Participation\n\nAt the heart of StoryFire\u2019s innovative approach is the Engage-to-Earn model, powered by the $BLAZE token. Unlike traditional platforms where user engagement and content creation often go unrewarded, StoryFire acknowledges and compensates its users for their contributions.\n\nWhether it\u2019s through playing games, interacting with content, or participating in community discussions, every action on StoryFire translates into Blaze tokens, ensuring that users are stakeholders in the platform\u2019s success.",
+    "dateAdded": "2024-03-28T12:14:46.000Z",
+    "status": "active",
+    "subStatus": "normal",
+    "notice": "",
+    "alertType": 2,
+    "alertLink": "",
+    "latestUpdateTime": "2024-11-18T01:07:00.000Z",
+    "watchCount": "352924",
+    "watchListRanking": 187,
+    "dateLaunched": "2024-03-25T00:00:00.000Z",
+    "latestAdded": false,
+    "launchPrice": 0.0004,
+    "tags": [],
+    "selfReportedTags": [
+      "Art",
+      "Marketplace",
+      "Platform",
+      "Communications & Social Media",
+      "Gaming",
+      "Entertainment",
+      "DApp"
+    ],
+    "selfReportedCirculatingSupply": "2318891817.49883",
+    "urls": {
+      "website": [
+        "https://blaze.storyfire.com/",
+        "https://storyfire.com/"
+      ],
+      "technical_doc": [],
+      "explorer": [
+        "https://bscscan.com/token/0xEf7A4Dd703D074974b7240C74b5ce938aA8983d3"
+      ],
+      "source_code": [],
+      "message_board": [
+        "https://medium.com/storyfire"
+      ],
+      "chat": [
+        "https://t.me/StoryFireCommunity"
+      ],
+      "announcement": [
+        "https://t.me/storyfireann"
+      ],
+      "reddit": [],
+      "facebook": [],
+      "twitter": [
+        "https://twitter.com/storyfireapp"
+      ]
+    },
+    "volume": 124013.91663393,
+    "volumeChangePercentage24h": -4.059,
+    "cexVolume": 109413.8704416,
+    "dexVolume": 14600.04619233,
+    "statistics": {
+      "price": 0.00012262108685378453,
+      "priceChangePercentage1h": -1.18175991,
+      "priceChangePercentage24h": -5.85233297,
+      "priceChangePercentage7d": 13.64818525,
+      "priceChangePercentage30d": 9.10507368,
+      "priceChangePercentage60d": -8.46185844,
+      "priceChangePercentage90d": -24.66823812,
+      "priceChangePercentage1y": -85.88112233,
+      "priceChangePercentageAll": -85.233679295588,
+      "marketCap": 771281.28,
+      "marketCapChangePercentage24h": -5.8184,
+      "fullyDilutedMarketCap": 2452421.74,
+      "fullyDilutedMarketCapChangePercentage24h": -5.85,
+      "circulatingSupply": 6289956350.458644,
+      "totalSupply": 20000000000.0,
+      "maxSupply": 20000000000.0,
+      "marketCapDominance": 0.0,
+      "rank": 1952,
+      "roi": -69.11088735,
+      "low24h": 0.000121845842776365,
+      "high24h": 0.000141127622273163,
+      "low7d": 0.000106366950944229,
+      "high7d": 0.000244431420587273,
+      "low30d": 7.6926612547185e-05,
+      "high30d": 0.000244431420587273,
+      "low90d": 7.8814498438349e-05,
+      "high90d": 0.000274547954924825,
+      "low52w": 7.6926612547185e-05,
+      "high52w": 0.003224062138229942,
+      "lowAllTime": 7.6926612547185e-05,
+      "highAllTime": 0.003224062138229942,
+      "lowAllTimeChangePercentage": 59.4,
+      "highAllTimeChangePercentage": -96.2,
+      "lowAllTimeTimestamp": "2024-11-04T10:15:00.000Z",
+      "highAllTimeTimestamp": "2024-05-10T13:00:00.000Z",
+      "lowYesterday": 0.000121845842776365,
+      "highYesterday": 0.000141127622273163,
+      "openYesterday": 0.000133109709813466,
+      "closeYesterday": 0.00012371401692679,
+      "priceChangePercentageYesterday": -7.06,
+      "volumeYesterday": 126400.84,
+      "turnover": 0.16078948,
+      "ytdPriceChangePercentage": 0.0,
+      "volumeRank": 2572,
+      "volumeMcRank": 1392,
+      "mcTotalNum": 10049,
+      "volumeTotalNum": 10049,
+      "volumeMcTotalNum": 10049
+    },
+    "quotes": [],
+    "platforms": [
+      {
+        "contractId": 1839,
+        "contractAddress": "0xEf7A4Dd703D074974b7240C74b5ce938aA8983d3",
+        "contractPlatform": "BNB Smart Chain (BEP20)",
+        "contractPlatformId": 14,
+        "contractChainId": 56,
+        "contractRpcUrl": [
+          "https://bsc-dataseed1.binance.org",
+          "https://bsc-dataseed.binance.org/",
+          "https://bsc-dataseed1.binance.org:443"
+        ],
+        "contractNativeCurrencyName": "Binance Chain Native Token",
+        "contractNativeCurrencySymbol": "BNB",
+        "contractNativeCurrencyDecimals": 18,
+        "contractBlockExplorerUrl": "https://bscscan.com/",
+        "contractExplorerUrl": "https://bscscan.com/token/0xEf7A4Dd703D074974b7240C74b5ce938aA8983d3",
+        "contractDecimals": 18,
+        "platformCryptoId": 1839,
+        "sort": 0,
+        "wallets": [
+          {
+            "id": 9025
+          }
+        ]
+      }
+    ],
+    "relatedCoins": [
+      {
+        "id": 2513,
+        "name": "GoldMint",
+        "slug": "goldmint",
+        "price": 0.05065701161697734,
+        "priceChangePercentage24h": -0.83488657,
+        "priceChangePercentage7d": 21.70106268
+      },
+      {
+        "id": 4679,
+        "name": "Band Protocol",
+        "slug": "band-protocol",
+        "price": 1.292442957959532,
+        "priceChangePercentage24h": -5.49085976,
+        "priceChangePercentage7d": 1.83894638
+      },
+      {
+        "id": 7083,
+        "name": "Uniswap",
+        "slug": "uniswap",
+        "price": 8.908870316241822,
+        "priceChangePercentage24h": -4.37905662,
+        "priceChangePercentage7d": -3.89720203
+      },
+      {
+        "id": 1414,
+        "name": "Firo",
+        "slug": "firo",
+        "price": 1.3413296028403725,
+        "priceChangePercentage24h": 0.01513146,
+        "priceChangePercentage7d": 3.71161907
+      },
+      {
+        "id": 1975,
+        "name": "Chainlink",
+        "slug": "chainlink",
+        "price": 14.027977104735273,
+        "priceChangePercentage24h": -5.26054782,
+        "priceChangePercentage7d": -2.46384499
+      },
+      {
+        "id": 7653,
+        "name": "Oasis",
+        "slug": "oasis-network",
+        "price": 0.08022292973253188,
+        "priceChangePercentage24h": -5.32975909,
+        "priceChangePercentage7d": -4.28618144
+      },
+      {
+        "id": 707,
+        "name": "Blocknet",
+        "slug": "blocknet",
+        "price": 0.017113298239738093,
+        "priceChangePercentage24h": -0.68391562,
+        "priceChangePercentage7d": -3.37311436
+      },
+      {
+        "id": 5864,
+        "name": "yearn.finance",
+        "slug": "yearn-finance",
+        "price": 6192.400498421924,
+        "priceChangePercentage24h": -4.3906193,
+        "priceChangePercentage7d": -11.35460168
+      },
+      {
+        "id": 4279,
+        "name": "Solar",
+        "slug": "sxp",
+        "price": 0.3644821543238817,
+        "priceChangePercentage24h": 2.3634613,
+        "priceChangePercentage7d": 18.80942314
+      },
+      {
+        "id": 8043,
+        "name": "MAHA.xyz",
+        "slug": "mahadao",
+        "price": 0.903406563175288,
+        "priceChangePercentage24h": -2.69133014,
+        "priceChangePercentage7d": -9.77486233
+      }
+    ],
+    "isAudited": true,
+    "auditInfos": [
+      {
+        "coinId": "30179",
+        "auditor": "Cyberscope",
+        "auditStatus": 2,
+        "auditTime": "2024-03-29T14:16:37.359Z",
+        "reportUrl": "https://cyberscope.io/audits/1-blze"
+      }
+    ],
+    "holders": {},
+    "displayTV": 0,
+    "isInfiniteMaxSupply": 0,
+    "tvCoinSymbol": "BLAZE",
+    "supportWalletInfos": [],
+    "holdersFlag": false,
+    "ratingsFlag": false,
+    "analysisFlag": false,
+    "socialsFlag": true,
+    "cryptoRating": [
+      {
+        "type": "CertiK",
+        "score": 68.61,
+        "rating": 3.4,
+        "updateTime": "2024-11-17T00:00:00.000Z",
+        "link": "https://cmc.certik-skynet.com/redirect?project=storyfire&utm_source=CMC&utm_campaign=ScoreByCertiKLink"
+      },
+      {
+        "type": "Cyberscope",
+        "score": 80.0,
+        "rating": 4.0,
+        "updateTime": "2024-11-17T07:51:57.000Z",
+        "link": "https://www.cyberscope.io/audits/1-blze"
+      },
+      {
+        "type": "Aggregate rating",
+        "score": 74.3,
+        "rating": 3.7,
+        "updateTime": "2024-11-18T01:00:00.228Z"
+      }
+    ],
+    "tokenUnlockLatest": {
+      "cryptoId": 30179,
+      "totalUnlockedPercentage": 34.37,
+      "tokenUnlockedAmount": 6874528571.328713,
+      "tokenLockedAmount": 13101125523.910223,
+      "tokenUntrackedAmount": 24345904.761064,
+      "nextUnlocked": {
+        "tokenAmount": 12520000.00078003,
+        "tokenAmountUsd": 1535.2160075050303,
+        "tokenAmountPercentage": 0.06,
+        "date": 1731974400000
+      },
+      "nextUnlockedDetail": [
+        {
+          "tokenAmount": 2740000.00000001,
+          "tokenAmountUsd": 335.98177797937086,
+          "allocationName": "Web3 Community Growth",
+          "vestingType": "linear"
+        },
+        {
+          "tokenAmount": 2740000.00000001,
+          "tokenAmountUsd": 335.98177797937086,
+          "allocationName": "Creator & User Rewards",
+          "vestingType": "linear"
+        },
+        {
+          "tokenAmount": 2740000.00000001,
+          "tokenAmountUsd": 335.98177797937086,
+          "allocationName": "Platform Creator Fund",
+          "vestingType": "linear"
+        },
+        {
+          "tokenAmount": 1560000.00077999,
+          "tokenAmountUsd": 191.28889558754707,
+          "allocationName": "Seed Round",
+          "vestingType": "linear"
+        },
+        {
+          "tokenAmount": 2740000.00000001,
+          "tokenAmountUsd": 335.98177797937086,
+          "allocationName": "Operations Reserve",
+          "vestingType": "linear"
+        }
+      ],
+      "updateTime": "2024-11-18T01:04:08.587Z"
+    },
+    "hasExtraInfoFlag": false,
+    "upcoming": {
+      "status": false
+    },
+    "annotationFlag": false,
+    "similarCoins": [
+      {
+        "id": 17545,
+        "symbol": "CPR"
+      },
+      {
+        "id": 17591,
+        "symbol": "NYM"
+      },
+      {
+        "id": 23756,
+        "symbol": "CGPT"
+      },
+      {
+        "id": 7590,
+        "symbol": "DVI"
+      },
+      {
+        "id": 1,
+        "symbol": "BTC"
+      },
+      {
+        "id": 9436,
+        "symbol": "ELON"
+      }
+    ]
+  },
+  "status": {
+    "timestamp": "2024-11-18T01:10:01.191Z",
+    "error_code": "0",
+    "error_message": "SUCCESS",
+    "elapsed": "2",
+    "credit_count": 0
+  }
+}

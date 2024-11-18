@@ -1,0 +1,357 @@
+{
+  "data": {
+    "id": 31463,
+    "name": "LandRocker",
+    "symbol": "LRT",
+    "slug": "landrocker",
+    "category": "token",
+    "description": "LandRocker offers an infinite universe for discovery, space exploration, and combat in a free-to-play, multiplayer game. Players embark on missions across over 79 quintillion unique planets, each with distinct environments, ecosystems, and wildlife. They engage in battles against alien forces and gather rewards such as crypto tokens and crafting materials. The gameplay evolves with weekly updates, introducing new enemies, gear, and challenges. Each player's experience is shaped by their strategies, the assets they gather, and the choices they make, providing a continuously engaging play-to-earn environment.\n\n\nUtility of LRT Token\n\nThe LandRocker ecosystem is powered by the LRT token, which serves multiple purposes within the game. Its utilities include:\nPurchasing In-Game Items: Players can use LRT to buy fuel, rovers, blueprints, and other essential items on the LandRocker marketplace.\nStaking Rewards: Players can stake their LRT tokens to earn additional rewards such as more tokens, fuel, or enhanced rovers. Different staking pools offer various incentives for token holders.\nCrafting NFTs: Players use LRT to craft unique NFT assets, combining specific resources and blueprints.\nMarketplace Trading: LRT enables players to trade crafted NFTs, resources, and other in-game assets on the marketplace, fostering a dynamic player-driven economy.\nSeasonal Leaderboard Prizes: Players can play the game to win LRT prizes, encouraging active participation and competition within the community.\n\n\nGameplay Overview\n\nLandRocker features three main gameplay modes:\n-Play-to-Liberate: Players engage in high-intensity battles to liberate planets from alien control. This mode involves strategic combat and exploration, where successful liberation opens up new opportunities for players.\n\n-Play-to-Earn: Once a planet is liberated, players can mine it using specialized Rovers to gather valuable materials and blueprints. These resources are crucial for crafting new gear and upgrading existing equipment, driving the game's economy.\n\n-Play-to-Win: On specific planets, players can engage in high-stakes mining to uncover valuable cryptocurrency rewards. Utilizing smart contracts and ZK technology, the locations of these rewards are concealed, ensuring a fair and transparent gaming experience.\n\n\nUnique Features\n\n-Infinite Universe: LandRocker allows players to explore over 79 quintillion unique planets, each with distinct environments, ecosystems, and wildlife. This infinite universe offers endless exploration opportunities, making each player's experience unique.\n\n-Dynamic Storytelling: LandRocker's storyline evolves based on player choices, introducing new enemies, gear, and challenges with each update. This ensures continuous engagement and dynamic gameplay.\n\n-Blockchain Integration: LandRocker leverages blockchain technology to enhance transparency and trust in its reward distribution. Smart contracts are used to conceal reward locations, ensuring equal chances for all players and eliminating any speculation or unfair practices.\n\n\nDevelopment and Community Engagement\n\nLandRocker's development is characterized by rapid iteration and frequent updates. New versions and features are released weekly, a pace unmatched in the industry. This commitment to consistent development is complemented by active community engagement through social media channels like Twitter, Discord, and Telegram, where players can connect, share experiences, and provide feedback.\n\nSeason Zero and Future Plans\n\nSeason Zero is currently live, featuring a 20 million LRT and $5,000 USDT prize pool. This free-to-play season rewards all participants and offers the first 10,000 players a Pioneer badge with unique benefits. Future seasons will introduce even more content and rewards, further expanding the game's universe and player opportunities.\nLandRocker has partnered with IMMUTABLE, a leader in blockchain gaming. This highlights the game's commitment to quality and security, proven by thorough audits and due diligence.\n\nPlayer Support and Accessibility\n\nLandRocker is optimized for both desktop and mobile platforms, with a web-based Lite version available for quick, hassle-free mining. Comprehensive tutorials and guides are provided to help new players get started, and customer support is readily accessible for any issues or feedback.\n\n\nConclusion\n\nLandRocker stands out in the P2E gaming landscape by offering a richly detailed, dynamic universe supported by a robust in-game economy and blockchain technology. With its extensive gameplay modes, unique features, and commitment to continuous development, LandRocker offers a comprehensive and engaging experience for players.\n\n\n\n",
+    "dateAdded": "2024-05-27T09:09:56.000Z",
+    "status": "active",
+    "subStatus": "normal",
+    "notice": "",
+    "alertType": 2,
+    "alertLink": "",
+    "latestUpdateTime": "2024-11-18T01:09:00.000Z",
+    "watchCount": "63829",
+    "watchListRanking": 639,
+    "dateLaunched": "2024-05-27T00:00:00.000Z",
+    "latestAdded": false,
+    "launchPrice": 0.00085,
+    "tags": [
+      {
+        "slug": "gaming",
+        "name": "Gaming",
+        "category": "INDUSTRY"
+      },
+      {
+        "slug": "polygon-ecosystem",
+        "name": "Polygon Ecosystem",
+        "category": "PLATFORM"
+      },
+      {
+        "slug": "play-to-earn",
+        "name": "Play To Earn",
+        "category": "CATEGORY"
+      }
+    ],
+    "selfReportedTags": [
+      "Gaming"
+    ],
+    "selfReportedCirculatingSupply": "1264676405.6782856",
+    "urls": {
+      "website": [
+        "https://landrocker.io/"
+      ],
+      "technical_doc": [
+        "https://whitepaper.landrocker.io/"
+      ],
+      "explorer": [
+        "https://polygonscan.com/token/0xfb7f8A2C0526D01BFB00192781B7a7761841B16C"
+      ],
+      "source_code": [],
+      "message_board": [
+        "https://landrocker.medium.com/"
+      ],
+      "chat": [
+        "https://discord.gg/landrocker",
+        "https://t.me/landrockerchat"
+      ],
+      "announcement": [],
+      "reddit": [],
+      "facebook": [],
+      "twitter": [
+        "https://twitter.com/landrocker_io"
+      ]
+    },
+    "volume": 289397.27472989,
+    "volumeChangePercentage24h": 14.1229,
+    "cexVolume": 201885.01818457,
+    "dexVolume": 87512.25654533,
+    "statistics": {
+      "price": 0.0007936300248336937,
+      "priceChangePercentage1h": 1.35063642,
+      "priceChangePercentage24h": -14.06917881,
+      "priceChangePercentage7d": 5.80416435,
+      "priceChangePercentage30d": -47.77814209,
+      "priceChangePercentage60d": -60.66988715,
+      "priceChangePercentage90d": -72.10502401,
+      "priceChangePercentage1y": -53.2978905,
+      "priceChangePercentageAll": -54.731761930792,
+      "marketCap": 784750.64,
+      "marketCapChangePercentage24h": -14.0692,
+      "fullyDilutedMarketCap": 7936300.25,
+      "fullyDilutedMarketCapChangePercentage24h": -14.07,
+      "circulatingSupply": 988811681.9480139,
+      "totalSupply": 10000000000.0,
+      "maxSupply": 10000000000.0,
+      "marketCapDominance": 0.0,
+      "rank": 1943,
+      "roi": -6.79164766,
+      "low24h": 0.000771252004851084,
+      "high24h": 0.000929618412444826,
+      "low7d": 0.000653139087386618,
+      "high7d": 0.000947062639013361,
+      "low30d": 0.000647644397079384,
+      "high30d": 0.001615334342102353,
+      "low90d": 0.000647644397079384,
+      "high90d": 0.003677506050480836,
+      "low52w": 0.000647644397079384,
+      "high52w": 0.010151517457309467,
+      "lowAllTime": 0.000647644397079384,
+      "highAllTime": 0.010151517457309467,
+      "lowAllTimeChangePercentage": 22.54,
+      "highAllTimeChangePercentage": -92.18,
+      "lowAllTimeTimestamp": "2024-11-07T08:16:00.000Z",
+      "highAllTimeTimestamp": "2024-05-29T10:37:00.000Z",
+      "lowYesterday": 0.000771252004851084,
+      "highYesterday": 0.000929618412444826,
+      "openYesterday": 0.000904609350077248,
+      "closeYesterday": 0.000783317953279094,
+      "priceChangePercentageYesterday": -13.41,
+      "volumeYesterday": 279863.71,
+      "turnover": 0.36877609,
+      "ytdPriceChangePercentage": 0.0,
+      "volumeRank": 1892,
+      "volumeMcRank": 800,
+      "mcTotalNum": 10049,
+      "volumeTotalNum": 10049,
+      "volumeMcTotalNum": 10049
+    },
+    "quotes": [],
+    "platforms": [
+      {
+        "contractId": 3890,
+        "contractAddress": "0xfb7f8A2C0526D01BFB00192781B7a7761841B16C",
+        "contractPlatform": "Polygon",
+        "contractPlatformId": 25,
+        "contractChainId": 137,
+        "contractRpcUrl": [
+          "https://rpc-mainnet.maticvigil.com"
+        ],
+        "contractNativeCurrencyName": "MATIC",
+        "contractNativeCurrencySymbol": "MATIC",
+        "contractNativeCurrencyDecimals": 18,
+        "contractBlockExplorerUrl": "https://polygonscan.com",
+        "contractExplorerUrl": "https://polygonscan.com/token/0xfb7f8A2C0526D01BFB00192781B7a7761841B16C",
+        "contractDecimals": 18,
+        "platformCryptoId": 3890,
+        "sort": 0,
+        "wallets": []
+      }
+    ],
+    "relatedCoins": [
+      {
+        "id": 2513,
+        "name": "GoldMint",
+        "slug": "goldmint",
+        "price": 0.05065701161697734,
+        "priceChangePercentage24h": -0.83488657,
+        "priceChangePercentage7d": 21.70106268
+      },
+      {
+        "id": 4679,
+        "name": "Band Protocol",
+        "slug": "band-protocol",
+        "price": 1.2924689407590508,
+        "priceChangePercentage24h": -5.51284503,
+        "priceChangePercentage7d": 1.82102584
+      },
+      {
+        "id": 7083,
+        "name": "Uniswap",
+        "slug": "uniswap",
+        "price": 8.907804423933275,
+        "priceChangePercentage24h": -4.39447372,
+        "priceChangePercentage7d": -3.90346035
+      },
+      {
+        "id": 1414,
+        "name": "Firo",
+        "slug": "firo",
+        "price": 1.3454938776288508,
+        "priceChangePercentage24h": 0.21867821,
+        "priceChangePercentage7d": 4.03360084
+      },
+      {
+        "id": 1975,
+        "name": "Chainlink",
+        "slug": "chainlink",
+        "price": 14.028344717813509,
+        "priceChangePercentage24h": -5.25786687,
+        "priceChangePercentage7d": -2.46572024
+      },
+      {
+        "id": 7653,
+        "name": "Oasis",
+        "slug": "oasis-network",
+        "price": 0.08025331330873264,
+        "priceChangePercentage24h": -5.30717197,
+        "priceChangePercentage7d": -4.39563858
+      },
+      {
+        "id": 707,
+        "name": "Blocknet",
+        "slug": "blocknet",
+        "price": 0.017113298239738093,
+        "priceChangePercentage24h": -0.68391562,
+        "priceChangePercentage7d": -3.30053472
+      },
+      {
+        "id": 5864,
+        "name": "yearn.finance",
+        "slug": "yearn-finance",
+        "price": 6192.38803639104,
+        "priceChangePercentage24h": -4.43119421,
+        "priceChangePercentage7d": -11.362147
+      },
+      {
+        "id": 4279,
+        "name": "Solar",
+        "slug": "sxp",
+        "price": 0.36376553390538346,
+        "priceChangePercentage24h": 2.1116243,
+        "priceChangePercentage7d": 18.12789401
+      },
+      {
+        "id": 8043,
+        "name": "MAHA.xyz",
+        "slug": "mahadao",
+        "price": 0.9034865737660874,
+        "priceChangePercentage24h": -2.68820884,
+        "priceChangePercentage7d": -9.89747239
+      }
+    ],
+    "isAudited": true,
+    "auditInfos": [
+      {
+        "coinId": "31463",
+        "auditor": "CertiK",
+        "auditStatus": 2,
+        "auditTime": "2024-06-18T03:07:41.770Z",
+        "reportUrl": "https://cmc.certik-skynet.com/redirect?project=landrocker"
+      },
+      {
+        "coinId": "31463",
+        "auditor": "Cyberscope",
+        "auditStatus": 2,
+        "auditTime": "2024-06-17T19:16:51.722Z",
+        "reportUrl": "https://cyberscope.io/audits/3-lrt"
+      }
+    ],
+    "holders": {},
+    "displayTV": 1,
+    "isInfiniteMaxSupply": 0,
+    "tvCoinSymbol": "LRT",
+    "supportWalletInfos": [],
+    "holdersFlag": false,
+    "ratingsFlag": false,
+    "analysisFlag": false,
+    "socialsFlag": true,
+    "cryptoRating": [
+      {
+        "type": "CertiK",
+        "score": 89.55,
+        "rating": 4.5,
+        "updateTime": "2024-11-17T00:00:00.000Z",
+        "link": "https://cmc.certik-skynet.com/redirect?project=landrocker&utm_source=CMC&utm_campaign=ScoreByCertiKLink"
+      },
+      {
+        "type": "Cyberscope",
+        "score": 80.0,
+        "rating": 4.0,
+        "updateTime": "2024-11-17T10:08:30.000Z",
+        "link": "https://www.cyberscope.io/audits/3-lrt"
+      },
+      {
+        "type": "Aggregate rating",
+        "score": 84.8,
+        "rating": 4.3,
+        "updateTime": "2024-11-18T01:00:00.232Z"
+      }
+    ],
+    "tokenUnlockLatest": {
+      "cryptoId": 31463,
+      "totalUnlockedPercentage": 27.24,
+      "tokenUnlockedAmount": 2724250000,
+      "tokenLockedAmount": 7275750000,
+      "tokenUntrackedAmount": 0,
+      "nextUnlocked": {
+        "tokenAmount": 353520833.3333333,
+        "tokenAmountUsd": 280564.7477375614,
+        "tokenAmountPercentage": 3.54,
+        "date": 1732752000000
+      },
+      "nextUnlockedDetail": [
+        {
+          "tokenAmount": 41666666.66666667,
+          "tokenAmountUsd": 33067.91770140391,
+          "allocationName": "Team & Advisors",
+          "vestingType": "linear"
+        },
+        {
+          "tokenAmount": 58333333.33333333,
+          "tokenAmountUsd": 46295.08478196547,
+          "allocationName": "Treasury",
+          "vestingType": "linear"
+        },
+        {
+          "tokenAmount": 16666666.66666667,
+          "tokenAmountUsd": 13227.167080561565,
+          "allocationName": "Reserved",
+          "vestingType": "linear"
+        },
+        {
+          "tokenAmount": 71458333.33333333,
+          "tokenAmountUsd": 56711.47885790769,
+          "allocationName": "Game Incentives (P2E & Staking)",
+          "vestingType": "linear"
+        },
+        {
+          "tokenAmount": 40833333.33333333,
+          "tokenAmountUsd": 32406.559347375824,
+          "allocationName": "Marketing & Airdrop",
+          "vestingType": "linear"
+        },
+        {
+          "tokenAmount": 72375000.0,
+          "tokenAmountUsd": 57438.97304733858,
+          "allocationName": "Pre-Sale (Phase 2)",
+          "vestingType": "linear"
+        },
+        {
+          "tokenAmount": 37500000.0,
+          "tokenAmountUsd": 29761.125931263512,
+          "allocationName": "Seed Round",
+          "vestingType": "linear"
+        },
+        {
+          "tokenAmount": 14687500.0,
+          "tokenAmountUsd": 11656.440989744877,
+          "allocationName": "Pre-Sale (Phase 1)",
+          "vestingType": "linear"
+        }
+      ],
+      "updateTime": "2024-11-18T01:04:08.828Z"
+    },
+    "tuDataSource": [
+      {
+        "label": "Tokenomics",
+        "url": "https://whitepaper.landrocker.io/tokenomics"
+      }
+    ],
+    "hasExtraInfoFlag": false,
+    "upcoming": {
+      "status": false
+    },
+    "annotationFlag": false,
+    "similarCoins": []
+  },
+  "status": {
+    "timestamp": "2024-11-18T01:10:00.435Z",
+    "error_code": "0",
+    "error_message": "SUCCESS",
+    "elapsed": "10",
+    "credit_count": 0
+  }
+}

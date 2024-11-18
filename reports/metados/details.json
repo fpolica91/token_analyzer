@@ -1,0 +1,480 @@
+{
+  "data": {
+    "id": 30603,
+    "name": "MetaDOS",
+    "symbol": "SECOND",
+    "slug": "metados",
+    "category": "token",
+    "description": "MetaDOS aspires to establish itself as the definitive standard for Esports in the Web3 arena by providing a groundbreaking Free-to-Play-to-Own Battle Royale game that incorporates blockchain technology, catering to the needs of both conventional and blockchain gamers.\n\nJoin MetaDOS for free and choose a player with a unique personality, strengths, and abilities that are easy to comprehend but challenging to master. Players will team up and fight with other squads, loot their Time, and become the last man standing on a 16 km2 island.\n\nUsing Time as the main currency in a game is an exceptional and groundbreaking twist on conventional gameplay mechanics. In this game, each player is given a limited amount of time to survive, and when their Time runs out, they die. To continue playing, players must earn more Time by looting from dead enemies and special locations within the game.\n\nMoreover, MetaDOS offers a wide array of supplementary features tailored to cater to the requirements of gamers seeking a truly enthralling Esports encounter. Offerings include Quests, Battle Passes, Clans, Tournaments, and Social features.\n\nMetaDOS provides a variety of NFTs from characters, skins, and effects for players who can unlock or customize their characters. \n\nMetaDOS has embraced the use of the token for both governance and payment functions. Players have the incredible opportunity to earn valuable tokens by showcasing their skills and securing top positions on the illustrious leaderboard. Furthermore, players have the opportunity to engage in thrilling clan wars and battle pass events, which will greatly increase their chances of acquiring these valuable tokens. Moreover, players have the opportunity to interact with other enthusiastic gamers, creating bonds and nurturing a thriving community within the game. They can also spend tokens on unlocking characters, purchasing NFT skins, or participating in custom tournaments with other Web3 gamers.\n\nMetaDOS was developed by a team of highly experienced developers with over 10 years of experience on average. These developers have worked on popular shooting games such as Modern Combat 5, Captain Strike, and Bullet Strike...\n\nMetaDOS, a much-awaited cross-platform game, is already live on Steam with Closed Beta and will be released in its open Beta version in Q2, 2024. The game will be available on both PC and mobile platforms.\u00a0\u00a0",
+    "dateAdded": "2024-04-12T08:32:22.000Z",
+    "status": "active",
+    "subStatus": "normal",
+    "icoStatus": "active_ico",
+    "notice": "",
+    "alertType": 2,
+    "alertLink": "",
+    "latestUpdateTime": "2024-11-18T01:09:00.000Z",
+    "watchCount": "21704",
+    "watchListRanking": 1370,
+    "dateLaunched": "2024-04-03T00:00:00.000Z",
+    "latestAdded": false,
+    "launchPrice": 0.0012,
+    "tags": [],
+    "selfReportedTags": [
+      "PoS",
+      "Gaming",
+      "Entertainment",
+      "Avalanche Ecosystem",
+      "Play To Earn"
+    ],
+    "selfReportedCirculatingSupply": "1718709333.1069584",
+    "urls": {
+      "website": [
+        "https://metados.com"
+      ],
+      "technical_doc": [
+        "https://wiki.metados.com/"
+      ],
+      "explorer": [
+        "https://snowtrace.io/address/0x7979871595b80433183950Ab6c6457752B585805",
+        "https://etherscan.io/token/0x7979871595b80433183950ab6c6457752b585805",
+        "https://bscscan.com/token/0x7979871595b80433183950Ab6c6457752B585805",
+        "https://polygonscan.com/token/0x7979871595b80433183950Ab6c6457752B585805",
+        "https://arbiscan.io/token/0x7979871595b80433183950Ab6c6457752B585805"
+      ],
+      "source_code": [
+        "https://github.com/MetaDOS"
+      ],
+      "message_board": [
+        "https://blog.metados.com/"
+      ],
+      "chat": [
+        "https://discord.gg/MetaDOS",
+        "https://t.me/PlayMetaDOS"
+      ],
+      "announcement": [
+        "https://blog.metados.com/"
+      ],
+      "reddit": [
+        "https://reddit.com/r/MetaDOS"
+      ],
+      "facebook": [
+        "https://www.facebook.com/MetaDOSGame"
+      ],
+      "twitter": [
+        "https://twitter.com/MetaDOS"
+      ]
+    },
+    "volume": 417547.62697125,
+    "volumeChangePercentage24h": -21.2891,
+    "cexVolume": 411064.03164075,
+    "dexVolume": 6483.5953305,
+    "statistics": {
+      "price": 0.00048489689841201076,
+      "priceChangePercentage1h": -0.01788816,
+      "priceChangePercentage24h": -0.41844052,
+      "priceChangePercentage7d": -23.0177556,
+      "priceChangePercentage30d": -35.62014419,
+      "priceChangePercentage60d": 33.51028387,
+      "priceChangePercentage90d": -20.07667528,
+      "priceChangePercentage1y": -93.9787756,
+      "priceChangePercentageAll": -93.733919669247,
+      "marketCap": 833369.35,
+      "marketCapChangePercentage24h": -1.0979,
+      "fullyDilutedMarketCap": 4848968.98,
+      "fullyDilutedMarketCapChangePercentage24h": -0.42,
+      "circulatingSupply": 1718652666.4402905,
+      "totalSupply": 10000000000.0,
+      "maxSupply": 10000000000.0,
+      "marketCapDominance": 0.0,
+      "rank": 1920,
+      "roi": -59.59462227,
+      "low24h": 0.000481236430524295,
+      "high24h": 0.000525148673421812,
+      "low7d": 0.000466051683971639,
+      "high7d": 0.000618066166126461,
+      "low30d": 0.000466051683971639,
+      "high30d": 0.000776342795564135,
+      "low90d": 0.000345260604395568,
+      "high90d": 0.00093687062153659,
+      "low52w": 0.000345260604395568,
+      "high52w": 0.011276515506308746,
+      "lowAllTime": 0.000345260604395568,
+      "highAllTime": 0.011276515506308746,
+      "lowAllTimeChangePercentage": 40.44,
+      "highAllTimeChangePercentage": -95.7,
+      "lowAllTimeTimestamp": "2024-09-17T17:56:00.000Z",
+      "highAllTimeTimestamp": "2024-04-15T02:44:00.000Z",
+      "lowYesterday": 0.000481236430524295,
+      "highYesterday": 0.000525148673421812,
+      "openYesterday": 0.000488377424508181,
+      "closeYesterday": 0.000484990405956435,
+      "priceChangePercentageYesterday": -0.69,
+      "volumeYesterday": 430740.71,
+      "turnover": 0.5010355,
+      "ytdPriceChangePercentage": 0.0,
+      "volumeRank": 1674,
+      "volumeMcRank": 640,
+      "mcTotalNum": 10049,
+      "volumeTotalNum": 10049,
+      "volumeMcTotalNum": 10049
+    },
+    "quotes": [],
+    "platforms": [
+      {
+        "contractId": 1027,
+        "contractAddress": "0x7979871595b80433183950ab6c6457752b585805",
+        "contractPlatform": "Ethereum",
+        "contractPlatformId": 1,
+        "contractChainId": 1,
+        "contractRpcUrl": [
+          "https://bsc-dataseed1.binance.org",
+          "https://bsc-dataseed.binance.org/",
+          "https://bsc-dataseed1.binance.org:443"
+        ],
+        "contractNativeCurrencyName": "Ethereum",
+        "contractNativeCurrencySymbol": "ETH",
+        "contractNativeCurrencyDecimals": 18,
+        "contractBlockExplorerUrl": "https://etherscan.io",
+        "contractExplorerUrl": "https://etherscan.io/token/0x7979871595b80433183950ab6c6457752b585805",
+        "contractDecimals": 18,
+        "platformCryptoId": 1027,
+        "sort": 0,
+        "wallets": [
+          {
+            "id": 9025
+          }
+        ]
+      },
+      {
+        "contractId": 1839,
+        "contractAddress": "0x7979871595b80433183950ab6c6457752b585805",
+        "contractPlatform": "BNB Smart Chain (BEP20)",
+        "contractPlatformId": 14,
+        "contractChainId": 56,
+        "contractRpcUrl": [
+          "https://bsc-dataseed1.binance.org",
+          "https://bsc-dataseed.binance.org/",
+          "https://bsc-dataseed1.binance.org:443"
+        ],
+        "contractNativeCurrencyName": "Binance Chain Native Token",
+        "contractNativeCurrencySymbol": "BNB",
+        "contractNativeCurrencyDecimals": 18,
+        "contractBlockExplorerUrl": "https://bscscan.com/",
+        "contractExplorerUrl": "https://bscscan.com/token/0x7979871595b80433183950ab6c6457752b585805",
+        "contractDecimals": 18,
+        "platformCryptoId": 1839,
+        "sort": 0,
+        "wallets": [
+          {
+            "id": 9025
+          }
+        ]
+      },
+      {
+        "contractId": 3890,
+        "contractAddress": "0x7979871595b80433183950ab6c6457752b585805",
+        "contractPlatform": "Polygon",
+        "contractPlatformId": 25,
+        "contractChainId": 137,
+        "contractRpcUrl": [
+          "https://rpc-mainnet.maticvigil.com"
+        ],
+        "contractNativeCurrencyName": "MATIC",
+        "contractNativeCurrencySymbol": "MATIC",
+        "contractNativeCurrencyDecimals": 18,
+        "contractBlockExplorerUrl": "https://polygonscan.com",
+        "contractExplorerUrl": "https://polygonscan.com/token/0x7979871595b80433183950ab6c6457752b585805",
+        "contractDecimals": 18,
+        "platformCryptoId": 3890,
+        "sort": 0,
+        "wallets": [
+          {
+            "id": 9025
+          }
+        ]
+      },
+      {
+        "contractId": 5805,
+        "contractAddress": "0x7979871595b80433183950Ab6c6457752B585805",
+        "contractPlatform": "Avalanche C-Chain",
+        "contractPlatformId": 28,
+        "contractChainId": 43114,
+        "contractRpcUrl": [],
+        "contractNativeCurrencyName": "",
+        "contractNativeCurrencySymbol": "",
+        "contractNativeCurrencyDecimals": -1,
+        "contractBlockExplorerUrl": "",
+        "contractExplorerUrl": "https://snowscan.xyz/token/0x7979871595b80433183950Ab6c6457752B585805",
+        "contractDecimals": 18,
+        "platformCryptoId": 5805,
+        "sort": 0,
+        "wallets": [
+          {
+            "id": 9025
+          }
+        ]
+      },
+      {
+        "contractId": 11841,
+        "contractAddress": "0x7979871595b80433183950ab6c6457752b585805",
+        "contractPlatform": "Arbitrum",
+        "contractPlatformId": 51,
+        "contractChainId": 42161,
+        "contractRpcUrl": [],
+        "contractNativeCurrencyName": "",
+        "contractNativeCurrencySymbol": "",
+        "contractNativeCurrencyDecimals": -1,
+        "contractBlockExplorerUrl": "",
+        "contractExplorerUrl": "https://arbiscan.io/token/0x7979871595b80433183950ab6c6457752b585805",
+        "contractDecimals": 18,
+        "platformCryptoId": 11841,
+        "sort": 0,
+        "wallets": [
+          {
+            "id": 9025
+          }
+        ]
+      }
+    ],
+    "relatedCoins": [
+      {
+        "id": 2513,
+        "name": "GoldMint",
+        "slug": "goldmint",
+        "price": 0.05065701161697734,
+        "priceChangePercentage24h": -0.83488657,
+        "priceChangePercentage7d": 21.70106268
+      },
+      {
+        "id": 4679,
+        "name": "Band Protocol",
+        "slug": "band-protocol",
+        "price": 1.2924689407590508,
+        "priceChangePercentage24h": -5.51284503,
+        "priceChangePercentage7d": 1.82102584
+      },
+      {
+        "id": 7083,
+        "name": "Uniswap",
+        "slug": "uniswap",
+        "price": 8.907804423933275,
+        "priceChangePercentage24h": -4.39447372,
+        "priceChangePercentage7d": -3.90346035
+      },
+      {
+        "id": 1414,
+        "name": "Firo",
+        "slug": "firo",
+        "price": 1.3454938776288508,
+        "priceChangePercentage24h": 0.21867821,
+        "priceChangePercentage7d": 4.03360084
+      },
+      {
+        "id": 1975,
+        "name": "Chainlink",
+        "slug": "chainlink",
+        "price": 14.028344717813509,
+        "priceChangePercentage24h": -5.25786687,
+        "priceChangePercentage7d": -2.46572024
+      },
+      {
+        "id": 7653,
+        "name": "Oasis",
+        "slug": "oasis-network",
+        "price": 0.08025331330873264,
+        "priceChangePercentage24h": -5.30717197,
+        "priceChangePercentage7d": -4.39563858
+      },
+      {
+        "id": 707,
+        "name": "Blocknet",
+        "slug": "blocknet",
+        "price": 0.017113298239738093,
+        "priceChangePercentage24h": -0.68391562,
+        "priceChangePercentage7d": -3.30053472
+      },
+      {
+        "id": 5864,
+        "name": "yearn.finance",
+        "slug": "yearn-finance",
+        "price": 6192.38803639104,
+        "priceChangePercentage24h": -4.43119421,
+        "priceChangePercentage7d": -11.362147
+      },
+      {
+        "id": 4279,
+        "name": "Solar",
+        "slug": "sxp",
+        "price": 0.36376553390538346,
+        "priceChangePercentage24h": 2.1116243,
+        "priceChangePercentage7d": 18.12789401
+      },
+      {
+        "id": 8043,
+        "name": "MAHA.xyz",
+        "slug": "mahadao",
+        "price": 0.9034865737660874,
+        "priceChangePercentage24h": -2.68820884,
+        "priceChangePercentage7d": -9.89747239
+      }
+    ],
+    "ico": {
+      "cryptoId": 30603,
+      "cryptoSymbol": "SECOND",
+      "status": "Ended",
+      "cryptoStatus": 8,
+      "name": "MetaDOS",
+      "statistic": {
+        "tokensForSale": 1000000000.0,
+        "raisedInUsd": 0.0
+      },
+      "stages": [
+        {
+          "start": "2022-01-01T00:00:00.000Z",
+          "end": "2024-01-01T00:00:00.000Z",
+          "status": "Ended",
+          "type": "Seed Sale",
+          "tokenForSale": 1000000000,
+          "icoPriceUsd": "0.0006",
+          "softCapUsd": 600000,
+          "personalCap": "$3000~$50000",
+          "distributedInIcoPercentage": 10.0,
+          "access": "Private",
+          "comments": "MetaDOS seed sales",
+          "fundraisingGoalUsd": "600000",
+          "whereToBuyName": "DOS",
+          "whereToBuyUrl": "https://metados.com/",
+          "acceptedCurrency": "USDT/USDC"
+        }
+      ]
+    },
+    "isAudited": true,
+    "auditInfos": [
+      {
+        "coinId": "30603",
+        "auditor": "Verichains",
+        "auditStatus": 2,
+        "reportUrl": "https://www.verichains.io/?search=metados"
+      }
+    ],
+    "holders": {
+      "holderCount": 0,
+      "holderList": []
+    },
+    "displayTV": 0,
+    "isInfiniteMaxSupply": 0,
+    "tvCoinSymbol": "SECOND",
+    "supportWalletInfos": [],
+    "holdersFlag": false,
+    "ratingsFlag": false,
+    "analysisFlag": false,
+    "socialsFlag": true,
+    "cryptoRating": [
+      {
+        "type": "CertiK",
+        "score": 74.07,
+        "rating": 3.7,
+        "updateTime": "2024-11-17T00:00:00.000Z",
+        "link": "https://cmc.certik-skynet.com/redirect?project=metados&utm_source=CMC&utm_campaign=ScoreByCertiKLink"
+      },
+      {
+        "type": "Cyberscope",
+        "score": 68.0,
+        "rating": 3.4,
+        "updateTime": "2024-11-17T08:29:45.000Z",
+        "link": "https://www.cyberscope.io/audits/coin-metados"
+      },
+      {
+        "type": "Aggregate rating",
+        "score": 71.0,
+        "rating": 3.6,
+        "updateTime": "2024-11-18T01:00:00.229Z"
+      }
+    ],
+    "tokenUnlockLatest": {
+      "cryptoId": 30603,
+      "totalUnlockedPercentage": 28.31,
+      "tokenUnlockedAmount": 2830656500.0000024,
+      "tokenLockedAmount": 7164572499.9999895,
+      "tokenUntrackedAmount": 4771000.0000081,
+      "nextUnlocked": {
+        "tokenAmount": 7475500.0,
+        "tokenAmountUsd": 3624.8467640789863,
+        "tokenAmountPercentage": 0.07,
+        "date": 1731974400000
+      },
+      "nextUnlockedDetail": [
+        {
+          "tokenAmount": 500499.99999999,
+          "tokenAmountUsd": 242.69089765520653,
+          "allocationName": "Marketing",
+          "vestingType": "linear"
+        },
+        {
+          "tokenAmount": 685000.0,
+          "tokenAmountUsd": 332.15437541222735,
+          "allocationName": "Advisory",
+          "vestingType": "linear"
+        },
+        {
+          "tokenAmount": 3576500.00000003,
+          "tokenAmountUsd": 1734.233757170571,
+          "allocationName": "Private ",
+          "vestingType": "linear"
+        },
+        {
+          "tokenAmount": 1979999.99999998,
+          "tokenAmountUsd": 960.0958588557716,
+          "allocationName": "Seed",
+          "vestingType": "linear"
+        },
+        {
+          "tokenAmount": 733500.0,
+          "tokenAmountUsd": 355.6718749852099,
+          "allocationName": "KOL",
+          "vestingType": "linear"
+        }
+      ],
+      "updateTime": "2024-11-18T01:04:08.689Z"
+    },
+    "hasExtraInfoFlag": false,
+    "upcoming": {
+      "status": false
+    },
+    "annotationFlag": false,
+    "similarCoins": [
+      {
+        "id": 17591,
+        "symbol": "NYM"
+      },
+      {
+        "id": 23756,
+        "symbol": "CGPT"
+      },
+      {
+        "id": 9436,
+        "symbol": "ELON"
+      },
+      {
+        "id": 8420,
+        "symbol": "DAO"
+      },
+      {
+        "id": 28933,
+        "symbol": "XAI"
+      },
+      {
+        "id": 22320,
+        "symbol": "HELLO"
+      }
+    ]
+  },
+  "status": {
+    "timestamp": "2024-11-18T01:09:58.050Z",
+    "error_code": "0",
+    "error_message": "SUCCESS",
+    "elapsed": "15",
+    "credit_count": 0
+  }
+}

@@ -1,0 +1,202 @@
+{
+  "data": {
+    "id": 1916,
+    "name": "BiblePay",
+    "symbol": "BBP",
+    "slug": "biblepay",
+    "category": "coin",
+    "description": "Launched in July 2017 with no premine and no ICO, BiblePay describes itself as a decentralized autonomous cryptocurrency that gives 10% to orphan-charity (with Sanctuary governance).  The project is passionate about spreading the gospel of Jesus, having the entire KJV bible compiled in its hashing algorithm (POBH).  BiblePay (BBP) is deflationary, decreasing its emissions by 19.5% per year. \r\n\r\nThe project views itself as a utility that provides an alternative method for giving to charity.  With Generic Smart Contracts, the project seeks to become the go-to wallet for Christians.  In the future, the team intends to lease file space on its Sanctuaries and release corporate integration features, such as c# access to the blockchain. The BiblePay platform is a derivative of Dash-Evolution.  Located in Dallas, TX, the team seeks to help orphans globally.  The roadmap can be viewed at: https://wiki.biblepay.org/Roadmap",
+    "dateAdded": "2017-08-27T00:00:00.000Z",
+    "status": "untracked",
+    "notice": "",
+    "alertType": 2,
+    "alertLink": "",
+    "latestUpdateTime": "2024-02-09T01:21:00.000Z",
+    "watchCount": "4089",
+    "watchListRanking": -1,
+    "latestAdded": false,
+    "launchPrice": 0.00100046,
+    "tags": [
+      {
+        "slug": "mineable",
+        "name": "Mineable",
+        "category": "OTHERS"
+      },
+      {
+        "slug": "philanthropy",
+        "name": "Philanthropy",
+        "category": "INDUSTRY"
+      },
+      {
+        "slug": "masternodes",
+        "name": "Masternodes",
+        "category": "CATEGORY"
+      },
+      {
+        "slug": "payments",
+        "name": "Payments",
+        "category": "INDUSTRY"
+      }
+    ],
+    "urls": {
+      "website": [
+        "https://biblepay.org/"
+      ],
+      "technical_doc": [
+        "http://pool.biblepay.org/Docs/BiblePay_White_Paper.pdf"
+      ],
+      "explorer": [
+        "http://explorer.biblepay.org/",
+        "https://chainz.cryptoid.info/bbp/"
+      ],
+      "source_code": [
+        "https://github.com/biblepay/biblepay-evolution"
+      ],
+      "message_board": [
+        "http://forum.biblepay.org"
+      ],
+      "chat": [
+        "https://discordapp.com/invite/yWgbKdM"
+      ],
+      "announcement": [
+        "https://bitcointalk.org/index.php?topic=2388064.0"
+      ],
+      "reddit": [
+        "https://reddit.com/r/BiblePay"
+      ],
+      "facebook": [],
+      "twitter": [
+        "https://twitter.com/BiblePay"
+      ]
+    },
+    "volume": 0.0,
+    "volumeChangePercentage24h": 0.0,
+    "cexVolume": 0.0,
+    "dexVolume": 0.0,
+    "statistics": {
+      "priceChangePercentage1h": 0.0,
+      "priceChangePercentage24h": 0.0,
+      "priceChangePercentage7d": 0.0,
+      "priceChangePercentage30d": -74.2517949,
+      "priceChangePercentage60d": -83.44018391,
+      "priceChangePercentage90d": -87.14315494,
+      "priceChangePercentage1y": -89.57891637,
+      "marketCap": 0.0,
+      "marketCapChangePercentage24h": 0.0,
+      "fullyDilutedMarketCap": 67236.93,
+      "fullyDilutedMarketCapChangePercentage24h": 0.0,
+      "circulatingSupply": 0.0,
+      "totalSupply": 2552987248.2084184,
+      "maxSupply": 5200000000.0,
+      "marketCapDominance": 0.0,
+      "ytdPriceChangePercentage": -79.0809
+    },
+    "quotes": [],
+    "relatedCoins": [
+      {
+        "id": 2513,
+        "name": "GoldMint",
+        "slug": "goldmint",
+        "price": 0.05065701161697734,
+        "priceChangePercentage24h": -0.83488657,
+        "priceChangePercentage7d": 21.70106268
+      },
+      {
+        "id": 4679,
+        "name": "Band Protocol",
+        "slug": "band-protocol",
+        "price": 1.2924689407590508,
+        "priceChangePercentage24h": -5.51284503,
+        "priceChangePercentage7d": 1.82102584
+      },
+      {
+        "id": 7083,
+        "name": "Uniswap",
+        "slug": "uniswap",
+        "price": 8.907804423933275,
+        "priceChangePercentage24h": -4.39447372,
+        "priceChangePercentage7d": -3.90346035
+      },
+      {
+        "id": 1414,
+        "name": "Firo",
+        "slug": "firo",
+        "price": 1.3454938776288508,
+        "priceChangePercentage24h": 0.21867821,
+        "priceChangePercentage7d": 4.03360084
+      },
+      {
+        "id": 1975,
+        "name": "Chainlink",
+        "slug": "chainlink",
+        "price": 14.028344717813509,
+        "priceChangePercentage24h": -5.25786687,
+        "priceChangePercentage7d": -2.46572024
+      },
+      {
+        "id": 7653,
+        "name": "Oasis",
+        "slug": "oasis-network",
+        "price": 0.08025331330873264,
+        "priceChangePercentage24h": -5.30717197,
+        "priceChangePercentage7d": -4.39563858
+      },
+      {
+        "id": 707,
+        "name": "Blocknet",
+        "slug": "blocknet",
+        "price": 0.017113298239738093,
+        "priceChangePercentage24h": -0.68391562,
+        "priceChangePercentage7d": -3.30053472
+      },
+      {
+        "id": 5864,
+        "name": "yearn.finance",
+        "slug": "yearn-finance",
+        "price": 6192.38803639104,
+        "priceChangePercentage24h": -4.43119421,
+        "priceChangePercentage7d": -11.362147
+      },
+      {
+        "id": 4279,
+        "name": "Solar",
+        "slug": "sxp",
+        "price": 0.36376553390538346,
+        "priceChangePercentage24h": 2.1116243,
+        "priceChangePercentage7d": 18.12789401
+      },
+      {
+        "id": 8043,
+        "name": "MAHA.xyz",
+        "slug": "mahadao",
+        "price": 0.9034865737660874,
+        "priceChangePercentage24h": -2.68820884,
+        "priceChangePercentage7d": -9.89747239
+      }
+    ],
+    "isAudited": false,
+    "holders": {},
+    "displayTV": 1,
+    "isInfiniteMaxSupply": 0,
+    "tvCoinSymbol": "BBP",
+    "supportWalletInfos": [],
+    "holdersFlag": false,
+    "ratingsFlag": false,
+    "analysisFlag": false,
+    "socialsFlag": true,
+    "cryptoRating": [],
+    "hasExtraInfoFlag": false,
+    "upcoming": {
+      "status": false
+    },
+    "annotationFlag": false,
+    "similarCoins": []
+  },
+  "status": {
+    "timestamp": "2024-11-18T01:10:07.133Z",
+    "error_code": "0",
+    "error_message": "SUCCESS",
+    "elapsed": "9",
+    "credit_count": 0
+  }
+}

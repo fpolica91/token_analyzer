@@ -1,0 +1,340 @@
+{
+  "data": {
+    "id": 19707,
+    "name": "QUINT",
+    "symbol": "QUINT",
+    "slug": "quint",
+    "category": "token",
+    "description": "## What is QUINT and what is the use case of QUINT tokens?\n\nQUINT is the revolutionary token bringing real-world rewards to investors by linking the metaverse with reality. Revolutionary super-staking pools deliver auto-compounded high APYs in crypto form while simultaneously unlocking exclusive lifestyle perks through the redemption of NFTs that are airdropped to the staker\u2019s wallet at the time of staking in the Quintessential Pools. Apart from the Quintessential Pools, the super-staking platform is branched out into Luxury Raffle Pools giving away prizes such as diamond-studded watches and Bored Ape Yacht Club NFTs against locking as little as 500 QUINT tokens for a period of mere three weeks. \n\nQUINT also has a Boutique NFT Market Place delivering NFTs in state-of-the-art physical-digital TokenFrames, Quint Shop, Metaverse Arts Club, and much more with plans to venture into GameFi in Q4 of 2022. \n\nWhile building on the token's super-staking Pools concept, QUINT aims to add unique real-world collectibles to its treasury, the future upside of which will be distributed amongst the Super-staking Pool stakers. Another one of QUINT's key future goals is to develop luxury physical real estate and make the QUINT investors fractional owners in proportion to their investment in the Quint's DeFi ecosystem. These will be first of their kind DeFi usages in the crypto world and would ensure that the TVL of the Project has hard assets to boast of; not just borrowed tokens from a partner DeFi protocol!\n\n## How many QUINT tokens are there in Circulation, how many are Locked, and how many are there in current Circulation?\n\nThere is a total QUINT token supply of 800,000,000 QUINT of which 544,680,000 tokens are locked and only 255,320,000 are in circulation.\n\n## Who is the Developer Team behind Project Quint?\n\nQUINT has been commissioned by a team of investors who have strived to build a legacy ecosystem that reflects their accomplishments in life. Quint has a fully doxxed team and Quint\u2019s Managing Partner Rahul Chaudhary is also the Managing Director of CG Corp. Global \u2014 the only truly Nepalese multinational conglomerate with a history stretching back 140 years and spanning four generations. Listed in the Forbes Global List since 2013, Rahul\u2019s multibillion-dollar company encompasses 79 brands and 167 companies. Rahul is an innovator fascinated with the potential of blockchain and the metaverse and thus commissioned Quint to bring real-world rewards, high returns, luxury raffle prizes, lifestyle perks, and bespoke NFTs to the holders of QUINT in a way that bridges the gap between the Metaverse and the Real World. The Core team of Quint further comprises Hisham Wayne who is the Chief Communications Officer and a public figure in his own right, Hassan Bin Jamil, the Chief Technology Officer, and Metea Nesek who is the Director of Sales and Marketing.\n### How Secure are your QUINT tokens and the Quint.io portal?\n\nSecurity is our priority and no compromise has been done on that account. Team Quint has completed all its security checks prior to the launch of its flagship token QUINT and it has been audited by multiple crypto audit firms that also include Certik which is the leading security-auditing platform to analyze and monitor blockchain protocols and DeFi projects. Quint uses the world\u2019s fastest and most secure servers capable of handling millions of transactions in a second. \n\n### Where Can I Buy QUINT tokens?\nCurrently, QUINT tokens can be bought on PancakeSwap (https://pancakeswap.finance/swap?outputCurrency=0x64619f611248256F7F4b72fE83872F89d5d60d64). As we expand further, it will soon be listed on the world\u2019s leading crypto exchanges; both centralized and decentralized.\n\n\n### Does QUNIT have support for other networks? \nQUINT was launched on 21st April 2022 as a token on the Binance Smart Chain network but in a matter of days Team Quint will be coming out with an Ethereum bridge to be followed by FTM, Avalanche, and Solana amongst other networks. The idea is to make QUINT multi-network. \n\n### Related Pages/Socials:\n\n\nWebsite:\t\thttps://quint.io/\nWhite Paper:\thttps://whitepaper.quint.io \nTelegram:\tt.me/projectquint   \nTwitter:\t\ttwitter.com/projectquint  \nFacebook:\tfacebook.com/projectquint \nInstagram:\tinstagram.com/project.quint \nReddit:\t\t@projectquint\nDiscord:\t\thttps://discord.gg/EgTJKXeqXv    ",
+    "dateAdded": "2022-04-22T05:38:53.000Z",
+    "status": "active",
+    "subStatus": "normal",
+    "notice": "",
+    "alertType": 2,
+    "alertLink": "",
+    "latestUpdateTime": "2024-11-18T01:09:00.000Z",
+    "watchCount": "58528",
+    "watchListRanking": 682,
+    "dateLaunched": "2022-04-20T00:00:00.000Z",
+    "latestAdded": false,
+    "tags": [],
+    "selfReportedCirculatingSupply": "8.0E+8",
+    "urls": {
+      "website": [
+        "https://quint.io/"
+      ],
+      "technical_doc": [
+        "https://whitepaper.quint.io/"
+      ],
+      "explorer": [
+        "https://bscscan.com/token/0x64619f611248256f7f4b72fe83872f89d5d60d64"
+      ],
+      "source_code": [],
+      "message_board": [],
+      "chat": [
+        "http://t.me/projectquint"
+      ],
+      "announcement": [],
+      "reddit": [],
+      "facebook": [],
+      "twitter": [
+        "https://twitter.com/projectquint"
+      ]
+    },
+    "volume": 54386.68618516,
+    "volumeChangePercentage24h": 3.6292,
+    "cexVolume": 54040.64123675,
+    "dexVolume": 346.04494841,
+    "statistics": {
+      "price": 0.0046699703662187115,
+      "priceChangePercentage1h": -0.02907419,
+      "priceChangePercentage24h": 0.0058148,
+      "priceChangePercentage7d": -0.95146731,
+      "priceChangePercentage30d": 3.96564827,
+      "priceChangePercentage60d": -22.43485388,
+      "priceChangePercentage90d": -40.97047483,
+      "priceChangePercentage1y": -96.83672213,
+      "priceChangePercentageAll": -95.140425140347,
+      "marketCap": 859009.38,
+      "marketCapChangePercentage24h": 0.0022,
+      "fullyDilutedMarketCap": 3735976.29,
+      "fullyDilutedMarketCapChangePercentage24h": 0.01,
+      "circulatingSupply": 183943218.15892437,
+      "totalSupply": 784000000.0,
+      "maxSupply": 800000000.0,
+      "marketCapDominance": 0.0,
+      "rank": 1908,
+      "low24h": 0.004660368917271889,
+      "high24h": 0.004672640727428553,
+      "low7d": 0.004660368917271889,
+      "high7d": 0.00480905081485493,
+      "low30d": 0.004419530647150284,
+      "high30d": 0.005033378358193296,
+      "low90d": 0.004334479670080199,
+      "high90d": 0.009475121454915927,
+      "low52w": 0.004334479670080199,
+      "high52w": 0.28225625839976964,
+      "lowAllTime": 0.004334479670080199,
+      "highAllTime": 2.811731845824967,
+      "lowAllTimeChangePercentage": 7.74,
+      "highAllTimeChangePercentage": -99.83,
+      "lowAllTimeTimestamp": "2024-10-11T04:22:00.000Z",
+      "highAllTimeTimestamp": "2022-06-01T17:49:00.000Z",
+      "lowYesterday": 0.004660368917271889,
+      "highYesterday": 0.004672640727428553,
+      "openYesterday": 0.004669163364811273,
+      "closeYesterday": 0.004670623961490943,
+      "priceChangePercentageYesterday": 0.03,
+      "volumeYesterday": 54596.62,
+      "turnover": 0.06331326,
+      "ytdPriceChangePercentage": -94.8003,
+      "volumeRank": 3279,
+      "volumeMcRank": 2401,
+      "mcTotalNum": 10049,
+      "volumeTotalNum": 10049,
+      "volumeMcTotalNum": 10049
+    },
+    "quotes": [],
+    "platforms": [
+      {
+        "contractId": 1839,
+        "contractAddress": "0x64619f611248256F7F4b72fE83872F89d5d60d64",
+        "contractPlatform": "BNB Smart Chain (BEP20)",
+        "contractPlatformId": 14,
+        "contractChainId": 56,
+        "contractRpcUrl": [
+          "https://bsc-dataseed1.binance.org",
+          "https://bsc-dataseed.binance.org/",
+          "https://bsc-dataseed1.binance.org:443"
+        ],
+        "contractNativeCurrencyName": "Binance Chain Native Token",
+        "contractNativeCurrencySymbol": "BNB",
+        "contractNativeCurrencyDecimals": 18,
+        "contractBlockExplorerUrl": "https://bscscan.com/",
+        "contractExplorerUrl": "https://bscscan.com/token/0x64619f611248256F7F4b72fE83872F89d5d60d64",
+        "contractDecimals": 18,
+        "platformCryptoId": 1839,
+        "sort": 0,
+        "wallets": [
+          {
+            "id": 9025
+          }
+        ]
+      }
+    ],
+    "relatedCoins": [
+      {
+        "id": 2513,
+        "name": "GoldMint",
+        "slug": "goldmint",
+        "price": 0.05065701161697734,
+        "priceChangePercentage24h": -0.83488657,
+        "priceChangePercentage7d": 21.70106268
+      },
+      {
+        "id": 4679,
+        "name": "Band Protocol",
+        "slug": "band-protocol",
+        "price": 1.2924689407590508,
+        "priceChangePercentage24h": -5.51284503,
+        "priceChangePercentage7d": 1.82102584
+      },
+      {
+        "id": 7083,
+        "name": "Uniswap",
+        "slug": "uniswap",
+        "price": 8.907804423933275,
+        "priceChangePercentage24h": -4.39447372,
+        "priceChangePercentage7d": -3.90346035
+      },
+      {
+        "id": 1414,
+        "name": "Firo",
+        "slug": "firo",
+        "price": 1.3454938776288508,
+        "priceChangePercentage24h": 0.21867821,
+        "priceChangePercentage7d": 4.03360084
+      },
+      {
+        "id": 1975,
+        "name": "Chainlink",
+        "slug": "chainlink",
+        "price": 14.028344717813509,
+        "priceChangePercentage24h": -5.25786687,
+        "priceChangePercentage7d": -2.46572024
+      },
+      {
+        "id": 7653,
+        "name": "Oasis",
+        "slug": "oasis-network",
+        "price": 0.08025331330873264,
+        "priceChangePercentage24h": -5.30717197,
+        "priceChangePercentage7d": -4.39563858
+      },
+      {
+        "id": 707,
+        "name": "Blocknet",
+        "slug": "blocknet",
+        "price": 0.017113298239738093,
+        "priceChangePercentage24h": -0.68391562,
+        "priceChangePercentage7d": -3.30053472
+      },
+      {
+        "id": 5864,
+        "name": "yearn.finance",
+        "slug": "yearn-finance",
+        "price": 6192.38803639104,
+        "priceChangePercentage24h": -4.43119421,
+        "priceChangePercentage7d": -11.362147
+      },
+      {
+        "id": 4279,
+        "name": "Solar",
+        "slug": "sxp",
+        "price": 0.36376553390538346,
+        "priceChangePercentage24h": 2.1116243,
+        "priceChangePercentage7d": 18.12789401
+      },
+      {
+        "id": 8043,
+        "name": "MAHA.xyz",
+        "slug": "mahadao",
+        "price": 0.9034865737660874,
+        "priceChangePercentage24h": -2.68820884,
+        "priceChangePercentage7d": -9.89747239
+      }
+    ],
+    "wallets": [
+      {
+        "id": 9025,
+        "name": "MetaMask",
+        "tier": 1,
+        "url": "https://metamask.io/",
+        "chains": "ETH,ETZ",
+        "types": "pc",
+        "introduction": "",
+        "star": 1.0,
+        "security": 2.0,
+        "easyToUse": 4.0,
+        "decentration": false,
+        "focusNumber": 0,
+        "rank": 1000013,
+        "logo": "9025.png",
+        "multipleChain": true
+      },
+      {
+        "id": 9152,
+        "name": "Binance Chain Wallet",
+        "url": "https://www.binance.org/en/blog/binance-extension-wallet/",
+        "chains": "BNB",
+        "types": "",
+        "introduction": "",
+        "star": 0.0,
+        "security": 0.0,
+        "easyToUse": 0.0,
+        "decentration": false,
+        "focusNumber": 0,
+        "logo": "9152.png",
+        "multipleChain": false
+      }
+    ],
+    "isAudited": true,
+    "auditInfos": [
+      {
+        "coinId": "19707",
+        "auditor": "CertiK",
+        "auditStatus": 2,
+        "auditTime": "2022-05-18T03:08:51.988Z",
+        "reportUrl": "https://cmc.certik-skynet.com/redirect?project=quint"
+      }
+    ],
+    "holders": {},
+    "displayTV": 1,
+    "isInfiniteMaxSupply": 0,
+    "tvCoinSymbol": "QUINT",
+    "supportWalletInfos": [
+      {
+        "id": 9025,
+        "name": "MetaMask",
+        "url": "https://metamask.io/",
+        "chains": "ETH,ETZ",
+        "decentration": false,
+        "logo": "9025.png",
+        "multipleChain": false
+      },
+      {
+        "id": 9152,
+        "name": "Binance Chain Wallet",
+        "url": "https://www.binance.org/en/blog/binance-extension-wallet/",
+        "chains": "BNB",
+        "decentration": false,
+        "logo": "9152.png",
+        "multipleChain": false
+      }
+    ],
+    "holdersFlag": false,
+    "ratingsFlag": false,
+    "analysisFlag": false,
+    "socialsFlag": true,
+    "cryptoRating": [
+      {
+        "type": "CertiK",
+        "score": 84.91,
+        "rating": 4.2,
+        "updateTime": "2024-11-17T00:00:00.000Z",
+        "link": "https://cmc.certik-skynet.com/redirect?project=quint&utm_source=CMC&utm_campaign=ScoreByCertiKLink"
+      },
+      {
+        "type": "Cyberscope",
+        "score": 70.0,
+        "rating": 3.5,
+        "updateTime": "2024-11-17T11:20:08.000Z",
+        "link": "https://www.cyberscope.io/audits/coin-quint"
+      },
+      {
+        "type": "Aggregate rating",
+        "score": 77.5,
+        "rating": 3.9,
+        "updateTime": "2024-11-18T01:00:00.186Z"
+      }
+    ],
+    "hasExtraInfoFlag": false,
+    "upcoming": {
+      "status": false
+    },
+    "annotationFlag": false,
+    "similarCoins": [
+      {
+        "id": 2305,
+        "symbol": "NGC"
+      },
+      {
+        "id": 12458,
+        "symbol": "KST"
+      },
+      {
+        "id": 2572,
+        "symbol": "BAX"
+      },
+      {
+        "id": 17050,
+        "symbol": "MULTI"
+      },
+      {
+        "id": 11092,
+        "symbol": "BGB"
+      },
+      {
+        "id": 11079,
+        "symbol": "BRISE"
+      }
+    ]
+  },
+  "status": {
+    "timestamp": "2024-11-18T01:09:57.056Z",
+    "error_code": "0",
+    "error_message": "SUCCESS",
+    "elapsed": "11",
+    "credit_count": 0
+  }
+}

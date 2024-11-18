@@ -1,0 +1,335 @@
+{
+  "data": {
+    "id": 20366,
+    "name": "Interlay",
+    "symbol": "INTR",
+    "slug": "interlay-intr",
+    "category": "token",
+    "description": "## **What Is Interlay Network (INTR)?**\n\nInterlay is a modular, programmable layer between Bitcoin and the multi-chain ecosystem that unlocks decentralized (financial) use cases for BTC.\n\nInterlay\u2019s vision is to help Bitcoin achieve mass adoption by unlocking decentralized (financial) use cases for BTC and removing the need for centralized services. Interlay\u2019s achieves this by creating the necessary infrastructure and financial tooling for both users and builders:\n\n* **DeFi for Bitcoin**: Interlay\u2019s DeFi hub a one-stop shop for all things decentralized Bitcoin finance featuring BTC swaps, lending, and staking. High throughput, low fees payable in any asset, and native stablecoin integrations aim to provide an experience competing even with centralized providers.\n\n* **Bitcoin for DeFi**: Interlay\u2019s BTC bridge is the secure way to use Bitcoin in the multi-chain ecosystem. iBTC, a 1:1 BTC-backed asset, is secured by a decentralized network of vaults. BTC deposits are insured by a multi-collateral system and secured by cross-chain light clients.\n\n* **Building Bitcoin dApps**: Interlay will support Bitcoin dApp development on top of its modular network.\n\nThe INTR governance and utility token\u2019s main purposes are:\n\n* Stake-to-vote. Lock INTR to participate in governance & earn staking rewards. The longer the lock, the higher to voting power & staking rewards.\n* Utility. Transaction and cross-chain fees can be paid in INTR.\n* Collateral. INTR can be used as one of the collaterals to back iBTC and other Interlay assets.\n* Outlook: Product benefits: In the future, INTR may offer stakers additional security and product benefits, e.g. better liquidation and collateral rates, or lower swap fees.\n\nThe Interlay network launched on 11 March 2022.\n\n## **How Many INTR Coins Are There in Circulation?**\n\n\nINTR features an unlimited supply. The emission schedule is defined as follows:\n\n* 1 billion (1,000,000,000) INTR emitted over the first 4 years\n* 2% annual inflation afterwards, allocated to the protocol treasury to fund future development and maintenance.\n\n70% of the supply is distributed to the community as airdrops and block rewards: 30% to Vault rewards 5% to governance staking rewards (\u201cstake-to-vote\u201d), and 35% to the on-chain treasury controlled by network governance (of which 10% are airdropped during the first crowdloan). 10% are allocated to a reserve, to be spent on network development and community & ecosystem building. 20% are airdropped to the (current and future) team and early backers who funded the initial development.\n\n\n### **Who Are the Founders of Interlay Network?**\n\nInterlay was created by Alexei Zamyatin and Dominik Harz. The two met in 2017 during their PhDs at Imperial College London where they were the first researchers in the cryptocurrency lab. Both have been researching Bitcoin and Ethereum since 2015/16, authoring over [30 papers with over 1000 citations](https://docs.interlay.io/#/about/research). Both regularly presented their work at Bitcoin and Ethereum conferences, including DevCon IV, EthCC, Building on Bitcoin, and Breaking Bitcoin.\n\nThe first steps towards Interlay and Interlay were made when the XCLAIM paper was presented at the Scaling Bitcoin in 2018 - describing the first-ever protocol to move cryptocurrencies like Bitcoin to Ethereum in an economically trustless and decentralized manner. In 2020, the two founded Interlay to bring research into practice. Today, Interlay employs 23 staff, including developers with experience at Google, Morgan Stanley, Trivago, Accenture, PwC, Worldpay, and Atlassian.\n\n\n### **What Makes Interlay Unique?**\n\nInterlay is a modular, programmable layer situated between Bitcoin and the multichain ecosystem. It is the only Bitcoin-centric layer 1 that is decentralized across the entire stack: from trustless BTC bridge to BTC DeFi hub\n\nLeveraging BTC as the main reserve asset and source of liquidity, Interlay\u2019s stack provides a set of custody and bridge tools that allow applications to tailor asset management to their specific use case. Structured as a marketplace, Interlay already supports collateralized bridges, and will add threshold shared custody (incl. institutions and 3rd party providers), as well as discrete log contracts (DLCs), and zero-knowledge contingent payments (ZKCPs). To enhance security and user experience, Interlay will incorporate social sign-in options like Google-sign in and opt-in recovery mechanisms via federation counter-signing and identity verification.\n\nInterlay is launching both EVM (for compatibility) and Rust smart contracts that are optimal for BTC-centric development (compatible with widely adopted Bitcoin-core libraries and tooling). Thereby, builders can seamlessly access built-in DeFi tooling (AMM and lending) and assets from other ecosystems, including stablecoins and blue-chip L1 assets. This puts Interlay in a unique position to help improve upon the rather centralized BTC stack (Lightning nodes, Nostr servers, indexers, CEXes) with decentralized custody and smart contracts.\n\n\n### **Related Pages:**\n\nLearn more about Interlay, and interBTC [here](https://docs.interlay.io/#/).\n\nNew to cryptocurrency? Find all the information you need with [Alexandria](https://coinmarketcap.com/alexandria/categories/crypto-basics), CoinMarketCap\u2019s dedicated education resource.\n\nHere are some other articles that you may be interested in:\n\nhttps://cointelegraph.com/news/interlay-introduce-xcc-protocol-to-enhance-bitcoin-s-reciprocal-relationship-with-defi\n\nhttps://cointelegraph.com/news/interlay-aims-to-advance-bitcoin-s-defi-potential-with-new-interoperable-bridge\n\nhttps://cointelegraph.com/news/interlay-raises-6-5mm-to-accelerate-bitcoin-defi-interoperability\n\nhttps://cointelegraph.com/news/bitcoin-interoperability-platform-interlay-raises-3m-in-seed-funding",
+    "dateAdded": "2022-05-30T12:52:35.000Z",
+    "status": "active",
+    "subStatus": "normal",
+    "notice": "",
+    "alertType": 2,
+    "alertLink": "",
+    "latestUpdateTime": "2024-11-18T00:47:00.000Z",
+    "watchCount": "7261",
+    "watchListRanking": 2859,
+    "dateLaunched": "2022-03-10T00:00:00.000Z",
+    "latestAdded": false,
+    "tags": [
+      {
+        "slug": "defi",
+        "name": "DeFi",
+        "category": "CATEGORY"
+      },
+      {
+        "slug": "smart-contracts",
+        "name": "Smart Contracts",
+        "category": "CATEGORY"
+      },
+      {
+        "slug": "dao",
+        "name": "DAO",
+        "category": "CATEGORY"
+      },
+      {
+        "slug": "yield-farming",
+        "name": "Yield Farming",
+        "category": "CATEGORY"
+      },
+      {
+        "slug": "amm",
+        "name": "AMM",
+        "category": "CATEGORY"
+      },
+      {
+        "slug": "dex",
+        "name": "DEX",
+        "category": "CATEGORY"
+      },
+      {
+        "slug": "polkadot-ecosystem",
+        "name": "Polkadot Ecosystem",
+        "category": "PLATFORM"
+      },
+      {
+        "slug": "governance",
+        "name": "Governance",
+        "category": "CATEGORY"
+      },
+      {
+        "slug": "lending-borowing",
+        "name": "Lending & Borrowing",
+        "category": "CATEGORY"
+      },
+      {
+        "slug": "bitcoin-ecosystem",
+        "name": "Bitcoin Ecosystem",
+        "category": "PLATFORM"
+      },
+      {
+        "slug": "layer-1",
+        "name": "Layer 1",
+        "category": "CATEGORY"
+      }
+    ],
+    "urls": {
+      "website": [
+        "https://interlay.io/"
+      ],
+      "technical_doc": [
+        "https://docs.interlay.io/#/"
+      ],
+      "explorer": [
+        "https://interlay.subscan.io/"
+      ],
+      "source_code": [
+        "https://github.com/interlay"
+      ],
+      "message_board": [
+        "https://medium.com/interlay"
+      ],
+      "chat": [
+        "https://discord.com/invite/interlay",
+        "https://t.me/interlay_community"
+      ],
+      "announcement": [
+        "https://t.me/interlay"
+      ],
+      "reddit": [
+        "https://reddit.com/r/Interlay"
+      ],
+      "facebook": [
+        "https://www.facebook.com/Interlay"
+      ],
+      "twitter": [
+        "https://twitter.com/InterlayHQ"
+      ]
+    },
+    "volume": 63641.10996924,
+    "volumeChangePercentage24h": -14.5695,
+    "cexVolume": 63641.10996924,
+    "dexVolume": 0.0,
+    "statistics": {
+      "price": 0.010811353702954473,
+      "priceChangePercentage1h": -0.92855874,
+      "priceChangePercentage24h": -6.20927129,
+      "priceChangePercentage7d": 2.09945986,
+      "priceChangePercentage30d": 3.41113691,
+      "priceChangePercentage60d": -9.27617593,
+      "priceChangePercentage90d": -7.76808753,
+      "priceChangePercentage1y": -61.02876338,
+      "priceChangePercentageAll": -91.603076484806,
+      "marketCap": 724579.64,
+      "marketCapChangePercentage24h": -6.2093,
+      "fullyDilutedMarketCap": 10811353.7,
+      "fullyDilutedMarketCapChangePercentage24h": -6.21,
+      "circulatingSupply": 67020250.9,
+      "totalSupply": 1000000000.0,
+      "marketCapDominance": 0.0,
+      "rank": 1971,
+      "low24h": 0.01080097687207969,
+      "high24h": 0.011548857565574219,
+      "low7d": 0.009657710275767525,
+      "high7d": 0.012151968577915022,
+      "low30d": 0.008618161048213224,
+      "high30d": 0.012151968577915022,
+      "low90d": 0.008618161048213224,
+      "high90d": 0.013666380528811068,
+      "low52w": 0.008618161048213224,
+      "high52w": 0.09158351963660201,
+      "lowAllTime": 0.006580571800981446,
+      "highAllTime": 0.15971427645110478,
+      "lowAllTimeChangePercentage": 64.29,
+      "highAllTimeChangePercentage": -93.23,
+      "lowAllTimeTimestamp": "2023-09-13T19:05:00.000Z",
+      "highAllTimeTimestamp": "2022-08-11T13:10:00.000Z",
+      "lowYesterday": 0.010887710075288425,
+      "highYesterday": 0.011548857565574219,
+      "openYesterday": 0.01142319046330445,
+      "closeYesterday": 0.010987976146880138,
+      "priceChangePercentageYesterday": -3.81,
+      "volumeYesterday": 62289.63,
+      "turnover": 0.08783177,
+      "ytdPriceChangePercentage": -62.3481,
+      "volumeRank": 3092,
+      "volumeMcRank": 2025,
+      "mcTotalNum": 10049,
+      "volumeTotalNum": 10049,
+      "volumeMcTotalNum": 10049
+    },
+    "quotes": [],
+    "platforms": [
+      {
+        "contractId": 6636,
+        "contractAddress": "2032",
+        "contractPlatform": "Polkadot",
+        "contractPlatformId": 37,
+        "contractChainId": -1,
+        "contractRpcUrl": [],
+        "contractNativeCurrencyName": "",
+        "contractNativeCurrencySymbol": "",
+        "contractNativeCurrencyDecimals": -1,
+        "contractBlockExplorerUrl": "",
+        "contractExplorerUrl": "",
+        "contractDecimals": 18,
+        "platformCryptoId": 6636,
+        "sort": 0,
+        "wallets": []
+      }
+    ],
+    "relatedCoins": [
+      {
+        "id": 2513,
+        "name": "GoldMint",
+        "slug": "goldmint",
+        "price": 0.05068851413421026,
+        "priceChangePercentage24h": -0.81441543,
+        "priceChangePercentage7d": 21.63152105
+      },
+      {
+        "id": 4679,
+        "name": "Band Protocol",
+        "slug": "band-protocol",
+        "price": 1.2933432863369232,
+        "priceChangePercentage24h": -4.5472076,
+        "priceChangePercentage7d": 1.5046406
+      },
+      {
+        "id": 7083,
+        "name": "Uniswap",
+        "slug": "uniswap",
+        "price": 8.9416948035958,
+        "priceChangePercentage24h": -3.19271149,
+        "priceChangePercentage7d": -4.41927244
+      },
+      {
+        "id": 1414,
+        "name": "Firo",
+        "slug": "firo",
+        "price": 1.336976922562831,
+        "priceChangePercentage24h": -0.62776671,
+        "priceChangePercentage7d": 3.20682677
+      },
+      {
+        "id": 1975,
+        "name": "Chainlink",
+        "slug": "chainlink",
+        "price": 14.034305422945902,
+        "priceChangePercentage24h": -4.44640163,
+        "priceChangePercentage7d": -2.57219919
+      },
+      {
+        "id": 7653,
+        "name": "Oasis",
+        "slug": "oasis-network",
+        "price": 0.08013760047216847,
+        "priceChangePercentage24h": -5.07604087,
+        "priceChangePercentage7d": -3.87180597
+      },
+      {
+        "id": 707,
+        "name": "Blocknet",
+        "slug": "blocknet",
+        "price": 0.01710908794521088,
+        "priceChangePercentage24h": -0.75135384,
+        "priceChangePercentage7d": -3.45264624
+      },
+      {
+        "id": 5864,
+        "name": "yearn.finance",
+        "slug": "yearn-finance",
+        "price": 6201.407878372834,
+        "priceChangePercentage24h": -4.13971836,
+        "priceChangePercentage7d": -11.4949835
+      },
+      {
+        "id": 4279,
+        "name": "Solar",
+        "slug": "sxp",
+        "price": 0.35637435615144636,
+        "priceChangePercentage24h": 0.86033912,
+        "priceChangePercentage7d": 15.44378825
+      },
+      {
+        "id": 8043,
+        "name": "MAHA.xyz",
+        "slug": "mahadao",
+        "price": 0.9008492163549311,
+        "priceChangePercentage24h": -3.18903916,
+        "priceChangePercentage7d": -10.1096961
+      }
+    ],
+    "isAudited": false,
+    "holders": {},
+    "displayTV": 1,
+    "isInfiniteMaxSupply": 0,
+    "tvCoinSymbol": "INTR",
+    "supportWalletInfos": [],
+    "holdersFlag": false,
+    "ratingsFlag": false,
+    "analysisFlag": false,
+    "socialsFlag": true,
+    "cryptoRating": [
+      {
+        "type": "CertiK",
+        "score": 82.98,
+        "rating": 4.1,
+        "updateTime": "2024-11-17T00:00:00.000Z",
+        "link": "https://cmc.certik-skynet.com/redirect?project=interlay-intr&utm_source=CMC&utm_campaign=ScoreByCertiKLink"
+      },
+      {
+        "type": "Cyberscope",
+        "score": 75.0,
+        "rating": 3.8,
+        "updateTime": "2024-11-17T10:59:03.000Z",
+        "link": "https://www.cyberscope.io/audits/coin-interlay-intr"
+      },
+      {
+        "type": "Aggregate rating",
+        "score": 79.0,
+        "rating": 4.0,
+        "updateTime": "2024-11-18T00:30:00.172Z"
+      }
+    ],
+    "hasExtraInfoFlag": false,
+    "upcoming": {
+      "status": false
+    },
+    "annotationFlag": false,
+    "similarCoins": [
+      {
+        "id": 10042,
+        "symbol": "KAR"
+      },
+      {
+        "id": 6756,
+        "symbol": "ACA"
+      },
+      {
+        "id": 12885,
+        "symbol": "ASTR"
+      },
+      {
+        "id": 10223,
+        "symbol": "VEGA"
+      },
+      {
+        "id": 9258,
+        "symbol": "XCH"
+      },
+      {
+        "id": 23015,
+        "symbol": "NEON"
+      }
+    ]
+  },
+  "status": {
+    "timestamp": "2024-11-18T00:47:56.139Z",
+    "error_code": "0",
+    "error_message": "SUCCESS",
+    "elapsed": "12",
+    "credit_count": 0
+  }
+}

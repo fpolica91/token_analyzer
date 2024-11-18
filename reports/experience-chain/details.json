@@ -1,0 +1,264 @@
+{
+  "data": {
+    "id": 3750,
+    "name": "eXPerience Chain",
+    "symbol": "XPC",
+    "slug": "experience-chain",
+    "category": "coin",
+    "description": "The eXPerience Chain Project (XPC) describes itself as an open source project that aims to connect people in the real world using cryptocurrency.",
+    "dateAdded": "2019-02-25T00:00:00.000Z",
+    "status": "active",
+    "subStatus": "normal",
+    "notice": "",
+    "alertType": 2,
+    "alertLink": "",
+    "latestUpdateTime": "2024-11-18T01:09:00.000Z",
+    "watchCount": "3883",
+    "watchListRanking": 3758,
+    "latestAdded": false,
+    "launchPrice": 3.2931e-05,
+    "tags": [
+      {
+        "slug": "mineable",
+        "name": "Mineable",
+        "category": "OTHERS"
+      }
+    ],
+    "urls": {
+      "website": [
+        "https://www.xpchain.co.kr/"
+      ],
+      "technical_doc": [
+        "https://cece1efa-374e-4bcb-b114-84d9532e8428.filesusr.com/ugd/5d7abd_c41ed619ec944a3e9946dab1ec1bd43b.pdf"
+      ],
+      "explorer": [
+        "https://explorer.xpchain.co.kr/",
+        "https://insight.xpchain.io/"
+      ],
+      "source_code": [
+        "https://github.com/xpc-wg/xpchain/releases/tag/0.17.0-3"
+      ],
+      "message_board": [],
+      "chat": [
+        "https://discord.gg/uqeFvGC",
+        "https://t.me/xpchain_offical"
+      ],
+      "announcement": [
+        "https://bitcointalk.org/index.php?topic=4022431"
+      ],
+      "reddit": [
+        "https://reddit.com/r/eXPerience_Chain"
+      ],
+      "facebook": [],
+      "twitter": [
+        "https://twitter.com/XPChain_Korea"
+      ]
+    },
+    "volume": 0.0,
+    "volumeChangePercentage24h": 0.0,
+    "cexVolume": 0.0,
+    "dexVolume": 0.0,
+    "statistics": {
+      "price": 9.800603820526678e-06,
+      "priceChangePercentage1h": -0.30555957,
+      "priceChangePercentage24h": -9.03399843,
+      "priceChangePercentage7d": 8.59022264,
+      "priceChangePercentage30d": 54.62358401,
+      "priceChangePercentage60d": 56.23094471,
+      "priceChangePercentage90d": 64.89729615,
+      "priceChangePercentage1y": 39.75494547,
+      "priceChangePercentageAll": -70.238952806782,
+      "marketCap": 892744.99,
+      "marketCapChangePercentage24h": -9.034,
+      "fullyDilutedMarketCap": 1109579.88,
+      "fullyDilutedMarketCapChangePercentage24h": -9.03,
+      "circulatingSupply": 91090814961.0,
+      "totalSupply": 113215461333.0,
+      "marketCapDominance": 0.0,
+      "rank": 1903,
+      "roi": -70.23897294,
+      "low24h": 9.780851637513e-06,
+      "high24h": 1.0924640459742e-05,
+      "low7d": 9.780851637513e-06,
+      "high7d": 1.138275489686e-05,
+      "low30d": 6.151039172014e-06,
+      "high30d": 1.3128872136884e-05,
+      "low90d": 5.728325782843e-06,
+      "high90d": 1.3128872136884e-05,
+      "low52w": 5.468073173082e-06,
+      "high52w": 1.3128872136884e-05,
+      "lowAllTime": 2.300445068e-09,
+      "highAllTime": 0.012535239223335043,
+      "lowAllTimeChangePercentage": 425930.77,
+      "highAllTimeChangePercentage": -99.92,
+      "lowAllTimeTimestamp": "2022-04-13T09:20:00.000Z",
+      "highAllTimeTimestamp": "2022-04-13T13:31:00.000Z",
+      "lowYesterday": 9.782046465488e-06,
+      "highYesterday": 1.0924640459742e-05,
+      "openYesterday": 1.0613111347979e-05,
+      "closeYesterday": 9.792263270907e-06,
+      "priceChangePercentageYesterday": -7.73,
+      "volumeYesterday": 0,
+      "turnover": 0.0,
+      "ytdPriceChangePercentage": 31.8576,
+      "volumeRank": 8649,
+      "volumeMcRank": 7762,
+      "mcTotalNum": 10049,
+      "volumeTotalNum": 10049,
+      "volumeMcTotalNum": 10049
+    },
+    "quotes": [],
+    "relatedCoins": [
+      {
+        "id": 2513,
+        "name": "GoldMint",
+        "slug": "goldmint",
+        "price": 0.05065701161697734,
+        "priceChangePercentage24h": -0.83488657,
+        "priceChangePercentage7d": 21.70106268
+      },
+      {
+        "id": 4679,
+        "name": "Band Protocol",
+        "slug": "band-protocol",
+        "price": 1.2924689407590508,
+        "priceChangePercentage24h": -5.51284503,
+        "priceChangePercentage7d": 1.82102584
+      },
+      {
+        "id": 7083,
+        "name": "Uniswap",
+        "slug": "uniswap",
+        "price": 8.907804423933275,
+        "priceChangePercentage24h": -4.39447372,
+        "priceChangePercentage7d": -3.90346035
+      },
+      {
+        "id": 1414,
+        "name": "Firo",
+        "slug": "firo",
+        "price": 1.3454938776288508,
+        "priceChangePercentage24h": 0.21867821,
+        "priceChangePercentage7d": 4.03360084
+      },
+      {
+        "id": 1975,
+        "name": "Chainlink",
+        "slug": "chainlink",
+        "price": 14.028344717813509,
+        "priceChangePercentage24h": -5.25786687,
+        "priceChangePercentage7d": -2.46572024
+      },
+      {
+        "id": 7653,
+        "name": "Oasis",
+        "slug": "oasis-network",
+        "price": 0.08025331330873264,
+        "priceChangePercentage24h": -5.30717197,
+        "priceChangePercentage7d": -4.39563858
+      },
+      {
+        "id": 707,
+        "name": "Blocknet",
+        "slug": "blocknet",
+        "price": 0.017113298239738093,
+        "priceChangePercentage24h": -0.68391562,
+        "priceChangePercentage7d": -3.30053472
+      },
+      {
+        "id": 5864,
+        "name": "yearn.finance",
+        "slug": "yearn-finance",
+        "price": 6192.38803639104,
+        "priceChangePercentage24h": -4.43119421,
+        "priceChangePercentage7d": -11.362147
+      },
+      {
+        "id": 4279,
+        "name": "Solar",
+        "slug": "sxp",
+        "price": 0.36376553390538346,
+        "priceChangePercentage24h": 2.1116243,
+        "priceChangePercentage7d": 18.12789401
+      },
+      {
+        "id": 8043,
+        "name": "MAHA.xyz",
+        "slug": "mahadao",
+        "price": 0.9034865737660874,
+        "priceChangePercentage24h": -2.68820884,
+        "priceChangePercentage7d": -9.89747239
+      }
+    ],
+    "isAudited": false,
+    "holders": {},
+    "displayTV": 1,
+    "isInfiniteMaxSupply": 0,
+    "tvCoinSymbol": "XPC",
+    "supportWalletInfos": [],
+    "holdersFlag": false,
+    "ratingsFlag": false,
+    "analysisFlag": false,
+    "socialsFlag": true,
+    "cryptoRating": [
+      {
+        "type": "CertiK",
+        "score": 56.06,
+        "rating": 2.8,
+        "updateTime": "2024-11-17T00:00:00.000Z",
+        "link": "https://cmc.certik-skynet.com/redirect?project=experience-chain&utm_source=CMC&utm_campaign=ScoreByCertiKLink"
+      },
+      {
+        "type": "Cyberscope",
+        "score": 66.0,
+        "rating": 3.3,
+        "updateTime": "2024-11-17T10:55:30.000Z",
+        "link": "https://www.cyberscope.io/audits/coin-experience-chain"
+      },
+      {
+        "type": "Aggregate rating",
+        "score": 61.0,
+        "rating": 3.1,
+        "updateTime": "2024-11-18T01:00:00.187Z"
+      }
+    ],
+    "hasExtraInfoFlag": false,
+    "upcoming": {
+      "status": false
+    },
+    "annotationFlag": false,
+    "similarCoins": [
+      {
+        "id": 3334,
+        "symbol": "XCASH"
+      },
+      {
+        "id": 3152,
+        "symbol": "OBTC"
+      },
+      {
+        "id": 2934,
+        "symbol": "KAN"
+      },
+      {
+        "id": 1828,
+        "symbol": "SMART"
+      },
+      {
+        "id": 6655,
+        "symbol": "KSS"
+      },
+      {
+        "id": 3625,
+        "symbol": "EQUAD"
+      }
+    ]
+  },
+  "status": {
+    "timestamp": "2024-11-18T01:09:56.582Z",
+    "error_code": "0",
+    "error_message": "SUCCESS",
+    "elapsed": "11",
+    "credit_count": 0
+  }
+}

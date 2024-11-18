@@ -1,0 +1,268 @@
+{
+  "data": {
+    "id": 1955,
+    "name": "Neblio",
+    "symbol": "NEBL",
+    "slug": "neblio",
+    "category": "coin",
+    "description": "The Neblio Platform aims to provide fully open-source APIs, tools, and services for enterprises to deploy dApps. \r\n\r\nThe Neblio Network uses a Proof-of-Stake algorithm where users stake NEBL coins to secure the network. To encourage staking and securing the network, the network rewards users for the time spent staking. The network is set to generate new coins at a rate that is variable depending on the number of coins currently being staked on the network at any given time.",
+    "dateAdded": "2017-09-12T00:00:00.000Z",
+    "status": "active",
+    "subStatus": "normal",
+    "notice": "",
+    "alertType": 2,
+    "alertLink": "",
+    "latestUpdateTime": "2024-11-18T01:09:00.000Z",
+    "watchCount": "13454",
+    "watchListRanking": 1869,
+    "dateLaunched": "2017-08-06T00:00:00.000Z",
+    "latestAdded": false,
+    "launchPrice": 0.2032,
+    "tags": [
+      {
+        "slug": "platform",
+        "name": "Platform",
+        "category": "CATEGORY"
+      },
+      {
+        "slug": "enterprise-solutions",
+        "name": "Enterprise Solutions",
+        "category": "INDUSTRY"
+      }
+    ],
+    "urls": {
+      "website": [
+        "https://nebl.io/"
+      ],
+      "technical_doc": [
+        "https://nebl.io/wp-content/uploads/2019/06/NeblioWhitepaper.pdf"
+      ],
+      "explorer": [
+        "http://explorer.nebl.io/"
+      ],
+      "source_code": [
+        "https://github.com/NeblioTeam"
+      ],
+      "message_board": [],
+      "chat": [
+        "https://t.me/joinchat/GFVgz0G-oVXOIJGfFYD-vg"
+      ],
+      "announcement": [
+        "https://bitcointalk.org/index.php?topic=2048414.0"
+      ],
+      "reddit": [
+        "https://reddit.com/r/Neblio"
+      ],
+      "facebook": [],
+      "twitter": [
+        "https://twitter.com/NeblioTeam"
+      ]
+    },
+    "volume": 128902.46386996,
+    "volumeChangePercentage24h": 78.1086,
+    "cexVolume": 128902.46386996,
+    "dexVolume": 0.0,
+    "statistics": {
+      "price": 0.002823515551540532,
+      "priceChangePercentage1h": -0.77105733,
+      "priceChangePercentage24h": 18.59702342,
+      "priceChangePercentage7d": 9.16305828,
+      "priceChangePercentage30d": 4.09205819,
+      "priceChangePercentage60d": 10.26852829,
+      "priceChangePercentage90d": 6.56640754,
+      "priceChangePercentage1y": -89.07299074,
+      "priceChangePercentageAll": -99.535552525753,
+      "marketCap": 59122.77,
+      "marketCapChangePercentage24h": 18.597,
+      "fullyDilutedMarketCap": 59122.77,
+      "fullyDilutedMarketCapChangePercentage24h": 18.6,
+      "circulatingSupply": 20939418.2108114,
+      "totalSupply": 20939418.2133114,
+      "marketCapDominance": 0.0,
+      "rank": 2559,
+      "roi": -98.61052216,
+      "low24h": 0.002386501032573233,
+      "high24h": 0.003775049905180816,
+      "low7d": 0.002190368139764386,
+      "high7d": 0.003775049905180816,
+      "low30d": 0.002190368139764386,
+      "high30d": 0.003775049905180816,
+      "low90d": 0.002190368139764386,
+      "high90d": 0.003775049905180816,
+      "low52w": 0.002190368139764386,
+      "high52w": 0.037806497449550086,
+      "lowAllTime": 0.002190368139764386,
+      "highAllTime": 64.87310028076172,
+      "lowAllTimeChangePercentage": 28.91,
+      "highAllTimeChangePercentage": -100.0,
+      "lowAllTimeTimestamp": "2024-11-16T04:51:00.000Z",
+      "highAllTimeTimestamp": "2018-01-09T12:19:14.000Z",
+      "lowYesterday": 0.002378947627039793,
+      "highYesterday": 0.003775049905180816,
+      "openYesterday": 0.0024103809384039,
+      "closeYesterday": 0.00294325871522425,
+      "priceChangePercentageYesterday": 22.11,
+      "volumeYesterday": 129175,
+      "turnover": 2.18025075,
+      "ytdPriceChangePercentage": -85.3938,
+      "volumeRank": 2543,
+      "volumeMcRank": 190,
+      "mcTotalNum": 10049,
+      "volumeTotalNum": 10049,
+      "volumeMcTotalNum": 10049
+    },
+    "quotes": [],
+    "relatedCoins": [
+      {
+        "id": 2513,
+        "name": "GoldMint",
+        "slug": "goldmint",
+        "price": 0.05065701161697734,
+        "priceChangePercentage24h": -0.83488657,
+        "priceChangePercentage7d": 21.70106268
+      },
+      {
+        "id": 4679,
+        "name": "Band Protocol",
+        "slug": "band-protocol",
+        "price": 1.2924689407590508,
+        "priceChangePercentage24h": -5.51284503,
+        "priceChangePercentage7d": 1.82102584
+      },
+      {
+        "id": 7083,
+        "name": "Uniswap",
+        "slug": "uniswap",
+        "price": 8.907804423933275,
+        "priceChangePercentage24h": -4.39447372,
+        "priceChangePercentage7d": -3.90346035
+      },
+      {
+        "id": 1414,
+        "name": "Firo",
+        "slug": "firo",
+        "price": 1.3454938776288508,
+        "priceChangePercentage24h": 0.21867821,
+        "priceChangePercentage7d": 4.03360084
+      },
+      {
+        "id": 1975,
+        "name": "Chainlink",
+        "slug": "chainlink",
+        "price": 14.028344717813509,
+        "priceChangePercentage24h": -5.25786687,
+        "priceChangePercentage7d": -2.46572024
+      },
+      {
+        "id": 7653,
+        "name": "Oasis",
+        "slug": "oasis-network",
+        "price": 0.08025331330873264,
+        "priceChangePercentage24h": -5.30717197,
+        "priceChangePercentage7d": -4.39563858
+      },
+      {
+        "id": 707,
+        "name": "Blocknet",
+        "slug": "blocknet",
+        "price": 0.017113298239738093,
+        "priceChangePercentage24h": -0.68391562,
+        "priceChangePercentage7d": -3.30053472
+      },
+      {
+        "id": 5864,
+        "name": "yearn.finance",
+        "slug": "yearn-finance",
+        "price": 6192.38803639104,
+        "priceChangePercentage24h": -4.43119421,
+        "priceChangePercentage7d": -11.362147
+      },
+      {
+        "id": 4279,
+        "name": "Solar",
+        "slug": "sxp",
+        "price": 0.36376553390538346,
+        "priceChangePercentage24h": 2.1116243,
+        "priceChangePercentage7d": 18.12789401
+      },
+      {
+        "id": 8043,
+        "name": "MAHA.xyz",
+        "slug": "mahadao",
+        "price": 0.9034865737660874,
+        "priceChangePercentage24h": -2.68820884,
+        "priceChangePercentage7d": -9.89747239
+      }
+    ],
+    "isAudited": false,
+    "holders": {},
+    "displayTV": 0,
+    "isInfiniteMaxSupply": 0,
+    "tvCoinSymbol": "NEBL",
+    "supportWalletInfos": [],
+    "holdersFlag": false,
+    "ratingsFlag": false,
+    "analysisFlag": false,
+    "socialsFlag": true,
+    "cryptoRating": [
+      {
+        "type": "CertiK",
+        "score": 68.11,
+        "rating": 3.4,
+        "updateTime": "2024-11-17T00:00:00.000Z",
+        "link": "https://cmc.certik-skynet.com/redirect?project=neblio&utm_source=CMC&utm_campaign=ScoreByCertiKLink"
+      },
+      {
+        "type": "Cyberscope",
+        "score": 66.0,
+        "rating": 3.3,
+        "updateTime": "2024-11-17T10:54:41.000Z",
+        "link": "https://www.cyberscope.io/audits/coin-neblio"
+      },
+      {
+        "type": "Aggregate rating",
+        "score": 67.1,
+        "rating": 3.4,
+        "updateTime": "2024-11-18T01:00:00.179Z"
+      }
+    ],
+    "hasExtraInfoFlag": false,
+    "upcoming": {
+      "status": false
+    },
+    "annotationFlag": false,
+    "similarCoins": [
+      {
+        "id": 1169,
+        "symbol": "PIVX"
+      },
+      {
+        "id": 1521,
+        "symbol": "KMD"
+      },
+      {
+        "id": 2019,
+        "symbol": "VIB"
+      },
+      {
+        "id": 7672,
+        "symbol": "UNFI"
+      },
+      {
+        "id": 4293,
+        "symbol": "PERL"
+      },
+      {
+        "id": 2299,
+        "symbol": "ELF"
+      }
+    ]
+  },
+  "status": {
+    "timestamp": "2024-11-18T01:10:10.804Z",
+    "error_code": "0",
+    "error_message": "SUCCESS",
+    "elapsed": "29",
+    "credit_count": 0
+  }
+}

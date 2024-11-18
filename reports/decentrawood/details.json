@@ -1,0 +1,280 @@
+{
+  "data": {
+    "id": 23780,
+    "name": "Decentrawood",
+    "symbol": "DEOD",
+    "slug": "decentrawood",
+    "category": "token",
+    "description": "The Decentrawood project is an ambitious initiative to create a metaverse platform that leverages blockchain, virtual reality, and artificial intelligence technologies to simulate the evolution of human civilization. The platform allows users to create, own, and monetize their own user-generated content, including buildings, objects, animations, and even games.\r\n\r\nOne of the unique aspects of Decentrawood is its focus on interoperability, which means that users can share their creations with others on other platforms. This allows for a more decentralized and democratic metaverse, where anyone can create a space and be part of a global community.\r\n\r\nAnother key feature of Decentrawood is its native token DEOD, which is used for all transactions on the platform. The token has limited supply, with new tokens becoming available for minting over a period of three years. Additionally, 50% of the DEOD earned by the platform is burned, which could potentially increase the value of the token.\r\n\r\nOverall, the Decentrawood project represents an exciting development in the metaverse space, offering users a wide range of experiences and opportunities to create and monetize their own content, while also leveraging the benefits of blockchain, virtual reality, and artificial intelligence technologies.",
+    "dateAdded": "2023-03-06T14:07:41.000Z",
+    "status": "active",
+    "subStatus": "normal",
+    "notice": "",
+    "alertType": 2,
+    "alertLink": "",
+    "latestUpdateTime": "2024-11-18T01:09:00.000Z",
+    "watchCount": "10893",
+    "watchListRanking": 2219,
+    "dateLaunched": "2022-08-31T00:00:00.000Z",
+    "latestAdded": false,
+    "tags": [
+      {
+        "slug": "gaming",
+        "name": "Gaming",
+        "category": "INDUSTRY"
+      },
+      {
+        "slug": "metaverse",
+        "name": "Metaverse",
+        "category": "CATEGORY"
+      },
+      {
+        "slug": "polygon-ecosystem",
+        "name": "Polygon Ecosystem",
+        "category": "PLATFORM"
+      },
+      {
+        "slug": "generative-ai",
+        "name": "Generative AI",
+        "category": "CATEGORY"
+      }
+    ],
+    "urls": {
+      "website": [
+        "https://www.decentrawood.com/"
+      ],
+      "technical_doc": [
+        "https://www.decentrawood.com/assets/pdf/WhitePaper.pdf"
+      ],
+      "explorer": [
+        "https://polygonscan.com/token/0xE77aBB1E75D2913B2076DD16049992FFeACa5235"
+      ],
+      "source_code": [],
+      "message_board": [],
+      "chat": [
+        "https://t.me/decentrawoodDisscussion"
+      ],
+      "announcement": [],
+      "reddit": [],
+      "facebook": [],
+      "twitter": [
+        "https://twitter.com/decentrawood"
+      ]
+    },
+    "volume": 142167.07355839,
+    "volumeChangePercentage24h": -27.7522,
+    "cexVolume": 141317.72390199,
+    "dexVolume": 849.3496564,
+    "statistics": {
+      "price": 0.0031352029196123647,
+      "priceChangePercentage1h": -0.03084625,
+      "priceChangePercentage24h": -4.28059127,
+      "priceChangePercentage7d": -21.97481622,
+      "priceChangePercentage30d": -41.46155476,
+      "priceChangePercentage60d": -72.15095574,
+      "priceChangePercentage90d": -63.5072338,
+      "priceChangePercentage1y": -32.12255427,
+      "priceChangePercentageAll": -79.786638979428,
+      "marketCap": 736582.59,
+      "marketCapChangePercentage24h": -1.6178,
+      "fullyDilutedMarketCap": 6270405.84,
+      "fullyDilutedMarketCapChangePercentage24h": -4.28,
+      "circulatingSupply": 234939367.58995572,
+      "totalSupply": 234939367.58995572,
+      "maxSupply": 2000000000.0,
+      "marketCapDominance": 0.0,
+      "rank": 1964,
+      "low24h": 0.003134815088085859,
+      "high24h": 0.003599810165804324,
+      "low7d": 0.002641683212130647,
+      "high7d": 0.004683003745667626,
+      "low30d": 0.002641683212130647,
+      "high30d": 0.00737387806192168,
+      "low90d": 0.002641683212130647,
+      "high90d": 0.013089960278099798,
+      "low52w": 0.000547075562183489,
+      "high52w": 0.024220648368399503,
+      "lowAllTime": 0.000547075562183489,
+      "highAllTime": 0.024220648368399503,
+      "lowAllTimeChangePercentage": 473.08,
+      "highAllTimeChangePercentage": -87.06,
+      "lowAllTimeTimestamp": "2024-03-09T04:07:00.000Z",
+      "highAllTimeTimestamp": "2024-08-11T07:50:00.000Z",
+      "lowYesterday": 0.003135973792743487,
+      "highYesterday": 0.003599810165804324,
+      "openYesterday": 0.003219410169645211,
+      "closeYesterday": 0.003136405901774943,
+      "priceChangePercentageYesterday": -2.58,
+      "volumeYesterday": 151046.79,
+      "turnover": 0.19300901,
+      "ytdPriceChangePercentage": -30.2413,
+      "volumeRank": 2463,
+      "volumeMcRank": 1232,
+      "mcTotalNum": 10049,
+      "volumeTotalNum": 10049,
+      "volumeMcTotalNum": 10049
+    },
+    "quotes": [],
+    "platforms": [
+      {
+        "contractId": 3890,
+        "contractAddress": "0xE77aBB1E75D2913B2076DD16049992FFeACa5235",
+        "contractPlatform": "Polygon",
+        "contractPlatformId": 25,
+        "contractChainId": 137,
+        "contractRpcUrl": [
+          "https://rpc-mainnet.maticvigil.com"
+        ],
+        "contractNativeCurrencyName": "MATIC",
+        "contractNativeCurrencySymbol": "MATIC",
+        "contractNativeCurrencyDecimals": 18,
+        "contractBlockExplorerUrl": "https://polygonscan.com",
+        "contractExplorerUrl": "https://polygonscan.com/token/0xE77aBB1E75D2913B2076DD16049992FFeACa5235",
+        "contractDecimals": 18,
+        "platformCryptoId": 3890,
+        "sort": 0,
+        "wallets": []
+      }
+    ],
+    "relatedCoins": [
+      {
+        "id": 2513,
+        "name": "GoldMint",
+        "slug": "goldmint",
+        "price": 0.05065701161697734,
+        "priceChangePercentage24h": -0.83488657,
+        "priceChangePercentage7d": 21.70106268
+      },
+      {
+        "id": 4679,
+        "name": "Band Protocol",
+        "slug": "band-protocol",
+        "price": 1.2924689407590508,
+        "priceChangePercentage24h": -5.51284503,
+        "priceChangePercentage7d": 1.82102584
+      },
+      {
+        "id": 7083,
+        "name": "Uniswap",
+        "slug": "uniswap",
+        "price": 8.907804423933275,
+        "priceChangePercentage24h": -4.39447372,
+        "priceChangePercentage7d": -3.90346035
+      },
+      {
+        "id": 1414,
+        "name": "Firo",
+        "slug": "firo",
+        "price": 1.3454938776288508,
+        "priceChangePercentage24h": 0.21867821,
+        "priceChangePercentage7d": 4.03360084
+      },
+      {
+        "id": 1975,
+        "name": "Chainlink",
+        "slug": "chainlink",
+        "price": 14.028344717813509,
+        "priceChangePercentage24h": -5.25786687,
+        "priceChangePercentage7d": -2.46572024
+      },
+      {
+        "id": 7653,
+        "name": "Oasis",
+        "slug": "oasis-network",
+        "price": 0.08025331330873264,
+        "priceChangePercentage24h": -5.30717197,
+        "priceChangePercentage7d": -4.39563858
+      },
+      {
+        "id": 707,
+        "name": "Blocknet",
+        "slug": "blocknet",
+        "price": 0.017113298239738093,
+        "priceChangePercentage24h": -0.68391562,
+        "priceChangePercentage7d": -3.30053472
+      },
+      {
+        "id": 5864,
+        "name": "yearn.finance",
+        "slug": "yearn-finance",
+        "price": 6192.38803639104,
+        "priceChangePercentage24h": -4.43119421,
+        "priceChangePercentage7d": -11.362147
+      },
+      {
+        "id": 4279,
+        "name": "Solar",
+        "slug": "sxp",
+        "price": 0.36376553390538346,
+        "priceChangePercentage24h": 2.1116243,
+        "priceChangePercentage7d": 18.12789401
+      },
+      {
+        "id": 8043,
+        "name": "MAHA.xyz",
+        "slug": "mahadao",
+        "price": 0.9034865737660874,
+        "priceChangePercentage24h": -2.68820884,
+        "priceChangePercentage7d": -9.89747239
+      }
+    ],
+    "isAudited": true,
+    "auditInfos": [
+      {
+        "coinId": "23780",
+        "auditor": "CertiK",
+        "auditStatus": 2,
+        "auditTime": "2024-08-07T05:21:13.356Z",
+        "reportUrl": "https://cmc.certik-skynet.com/redirect?project=decentrawood"
+      }
+    ],
+    "holders": {},
+    "displayTV": 1,
+    "isInfiniteMaxSupply": 0,
+    "tvCoinSymbol": "DEOD",
+    "supportWalletInfos": [],
+    "holdersFlag": false,
+    "ratingsFlag": false,
+    "analysisFlag": false,
+    "socialsFlag": true,
+    "cryptoRating": [],
+    "hasExtraInfoFlag": false,
+    "upcoming": {
+      "status": false
+    },
+    "annotationFlag": false,
+    "similarCoins": [
+      {
+        "id": 4388,
+        "symbol": "EXCC"
+      },
+      {
+        "id": 1669,
+        "symbol": "HMQ"
+      },
+      {
+        "id": 2837,
+        "symbol": "0xBTC"
+      },
+      {
+        "id": 16817,
+        "symbol": "WEGLD"
+      },
+      {
+        "id": 3759,
+        "symbol": "JNB"
+      },
+      {
+        "id": 12388,
+        "symbol": "DUCX"
+      }
+    ]
+  },
+  "status": {
+    "timestamp": "2024-11-18T01:10:02.439Z",
+    "error_code": "0",
+    "error_message": "SUCCESS",
+    "elapsed": "113",
+    "credit_count": 0
+  }
+}

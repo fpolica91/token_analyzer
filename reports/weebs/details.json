@@ -1,0 +1,234 @@
+{
+  "data": {
+    "id": 32816,
+    "name": "Weebs",
+    "symbol": "WEEBS",
+    "slug": "weebs",
+    "category": "token",
+    "description": "Weebs is the Web3 Marketplace for Anime-Comic-Gaming creators. It enables cross-border transactions and virtual meet and greet on WeebsVerse. Launched in 2023 by a group of Otaku, Weebs also enables streaming overlay. Streamers streaming in TikTok, Youtube & Twitch can start accepting donations using Weebs Token.",
+    "dateAdded": "2024-08-27T07:07:44.000Z",
+    "status": "active",
+    "subStatus": "normal",
+    "notice": "",
+    "alertType": 2,
+    "alertLink": "",
+    "latestUpdateTime": "2024-11-18T01:09:00.000Z",
+    "watchCount": "153",
+    "watchListRanking": 9148,
+    "dateLaunched": "2024-08-25T00:00:00.000Z",
+    "latestAdded": false,
+    "launchPrice": 0.01,
+    "tags": [],
+    "selfReportedCirculatingSupply": "4.75E+7",
+    "urls": {
+      "website": [
+        "https://weebs.app"
+      ],
+      "technical_doc": [
+        "https://whitepaper.weebs.app"
+      ],
+      "explorer": [
+        "https://bscscan.com/token/0x317ae555dd3D474C4427699a7841891d398fA5A0"
+      ],
+      "source_code": [],
+      "message_board": [],
+      "chat": [
+        "https://t.me/weebsgroup"
+      ],
+      "announcement": [],
+      "reddit": [],
+      "facebook": [],
+      "twitter": [
+        "https://twitter.com/Weebs_app"
+      ]
+    },
+    "volume": 21262.00108797,
+    "volumeChangePercentage24h": 178.4779,
+    "cexVolume": 20403.47071299,
+    "dexVolume": 858.53037498,
+    "statistics": {
+      "price": 0.003085777802827985,
+      "priceChangePercentage1h": -0.75675717,
+      "priceChangePercentage24h": -1.30783661,
+      "priceChangePercentage7d": -17.25570998,
+      "priceChangePercentage30d": 107.767262,
+      "priceChangePercentage60d": 115.15079059,
+      "priceChangePercentage90d": -72.32387198,
+      "priceChangePercentage1y": -72.32387198,
+      "priceChangePercentageAll": -71.665225787296,
+      "marketCap": 990308.19,
+      "marketCapChangePercentage24h": -1.3078,
+      "fullyDilutedMarketCap": 3085777.8,
+      "fullyDilutedMarketCapChangePercentage24h": -1.31,
+      "circulatingSupply": 320926604.0,
+      "totalSupply": 1000000000.0,
+      "maxSupply": 1000000000.0,
+      "marketCapDominance": 0.0,
+      "rank": 1871,
+      "roi": -69.14222197,
+      "low24h": 0.003085777802827985,
+      "high24h": 0.003146830121866938,
+      "low7d": 0.002591796486408602,
+      "high7d": 0.003793342964943477,
+      "low30d": 0.000973900275748632,
+      "high30d": 0.007515422860110631,
+      "low90d": 0.000609720912533549,
+      "high90d": 0.01671556022713054,
+      "low52w": 0.000609720912533549,
+      "high52w": 0.01671556022713054,
+      "lowAllTime": 0.000609720912533549,
+      "highAllTime": 0.01671556022713054,
+      "lowAllTimeChangePercentage": 406.1,
+      "highAllTimeChangePercentage": -81.54,
+      "lowAllTimeTimestamp": "2024-09-18T08:13:00.000Z",
+      "highAllTimeTimestamp": "2024-09-02T05:29:00.000Z",
+      "lowYesterday": 0.003098909694199116,
+      "highYesterday": 0.003146830121866938,
+      "openYesterday": 0.003131342565465485,
+      "closeYesterday": 0.003105999784859531,
+      "priceChangePercentageYesterday": -0.81,
+      "volumeYesterday": 19066.94,
+      "turnover": 0.02147009,
+      "ytdPriceChangePercentage": 0.0,
+      "volumeRank": 3955,
+      "volumeMcRank": 3689,
+      "mcTotalNum": 10049,
+      "volumeTotalNum": 10049,
+      "volumeMcTotalNum": 10049
+    },
+    "quotes": [],
+    "platforms": [
+      {
+        "contractId": 1839,
+        "contractAddress": "0x317ae555dd3D474C4427699a7841891d398fA5A0",
+        "contractPlatform": "BNB Smart Chain (BEP20)",
+        "contractPlatformId": 14,
+        "contractChainId": 56,
+        "contractRpcUrl": [
+          "https://bsc-dataseed1.binance.org",
+          "https://bsc-dataseed.binance.org/",
+          "https://bsc-dataseed1.binance.org:443"
+        ],
+        "contractNativeCurrencyName": "Binance Chain Native Token",
+        "contractNativeCurrencySymbol": "BNB",
+        "contractNativeCurrencyDecimals": 18,
+        "contractBlockExplorerUrl": "https://bscscan.com/",
+        "contractExplorerUrl": "https://bscscan.com/token/0x317ae555dd3D474C4427699a7841891d398fA5A0",
+        "contractDecimals": 18,
+        "platformCryptoId": 1839,
+        "sort": 0,
+        "wallets": [
+          {
+            "id": 9025
+          }
+        ]
+      }
+    ],
+    "relatedCoins": [
+      {
+        "id": 2513,
+        "name": "GoldMint",
+        "slug": "goldmint",
+        "price": 0.05065701161697734,
+        "priceChangePercentage24h": -0.83488657,
+        "priceChangePercentage7d": 21.70106268
+      },
+      {
+        "id": 4679,
+        "name": "Band Protocol",
+        "slug": "band-protocol",
+        "price": 1.2924689407590508,
+        "priceChangePercentage24h": -5.51284503,
+        "priceChangePercentage7d": 1.82102584
+      },
+      {
+        "id": 7083,
+        "name": "Uniswap",
+        "slug": "uniswap",
+        "price": 8.907804423933275,
+        "priceChangePercentage24h": -4.39447372,
+        "priceChangePercentage7d": -3.90346035
+      },
+      {
+        "id": 1414,
+        "name": "Firo",
+        "slug": "firo",
+        "price": 1.3454938776288508,
+        "priceChangePercentage24h": 0.21867821,
+        "priceChangePercentage7d": 4.03360084
+      },
+      {
+        "id": 1975,
+        "name": "Chainlink",
+        "slug": "chainlink",
+        "price": 14.028344717813509,
+        "priceChangePercentage24h": -5.25786687,
+        "priceChangePercentage7d": -2.46572024
+      },
+      {
+        "id": 7653,
+        "name": "Oasis",
+        "slug": "oasis-network",
+        "price": 0.08025331330873264,
+        "priceChangePercentage24h": -5.30717197,
+        "priceChangePercentage7d": -4.39563858
+      },
+      {
+        "id": 707,
+        "name": "Blocknet",
+        "slug": "blocknet",
+        "price": 0.017113298239738093,
+        "priceChangePercentage24h": -0.68391562,
+        "priceChangePercentage7d": -3.30053472
+      },
+      {
+        "id": 5864,
+        "name": "yearn.finance",
+        "slug": "yearn-finance",
+        "price": 6192.38803639104,
+        "priceChangePercentage24h": -4.43119421,
+        "priceChangePercentage7d": -11.362147
+      },
+      {
+        "id": 4279,
+        "name": "Solar",
+        "slug": "sxp",
+        "price": 0.36376553390538346,
+        "priceChangePercentage24h": 2.1116243,
+        "priceChangePercentage7d": 18.12789401
+      },
+      {
+        "id": 8043,
+        "name": "MAHA.xyz",
+        "slug": "mahadao",
+        "price": 0.9034865737660874,
+        "priceChangePercentage24h": -2.68820884,
+        "priceChangePercentage7d": -9.89747239
+      }
+    ],
+    "isAudited": false,
+    "holders": {},
+    "displayTV": 0,
+    "isInfiniteMaxSupply": 0,
+    "tvCoinSymbol": "WEEBS",
+    "supportWalletInfos": [],
+    "holdersFlag": false,
+    "ratingsFlag": false,
+    "analysisFlag": false,
+    "socialsFlag": true,
+    "cryptoRating": [],
+    "hasExtraInfoFlag": false,
+    "upcoming": {
+      "status": false
+    },
+    "annotationFlag": false,
+    "similarCoins": []
+  },
+  "status": {
+    "timestamp": "2024-11-18T01:09:53.743Z",
+    "error_code": "0",
+    "error_message": "SUCCESS",
+    "elapsed": "41",
+    "credit_count": 0
+  }
+}

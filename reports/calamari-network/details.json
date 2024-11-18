@@ -1,0 +1,235 @@
+{
+  "data": {
+    "id": 15305,
+    "name": "Calamari Network",
+    "symbol": "KMA",
+    "slug": "calamari-network",
+    "category": "coin",
+    "description": "Calamari Network is a private layer built for the entire Kusama ecosystem. Built on the Substrate framework, Calamari Network is natively compatible with other projects and parachain assets including wrapped major cryptoassets.",
+    "dateAdded": "2021-11-29T12:11:37.000Z",
+    "status": "active",
+    "subStatus": "normal",
+    "notice": "",
+    "alertType": 2,
+    "alertLink": "",
+    "latestUpdateTime": "2024-11-18T01:09:00.000Z",
+    "watchCount": "9570",
+    "watchListRanking": 2543,
+    "latestAdded": false,
+    "tags": [
+      {
+        "slug": "polkadot-ecosystem",
+        "name": "Polkadot Ecosystem",
+        "category": "PLATFORM"
+      }
+    ],
+    "selfReportedTags": [
+      "AI & Big Data"
+    ],
+    "selfReportedCirculatingSupply": "0.0",
+    "urls": {
+      "website": [
+        "https://www.calamari.network/"
+      ],
+      "technical_doc": [],
+      "explorer": [],
+      "source_code": [],
+      "message_board": [
+        "https://mantanetwork.medium.com/"
+      ],
+      "chat": [
+        "https://t.me/mantanetworkofficial"
+      ],
+      "announcement": [],
+      "reddit": [],
+      "facebook": [],
+      "twitter": [
+        "https://twitter.com/calamarinetwork"
+      ]
+    },
+    "volume": 26928.96466392,
+    "volumeChangePercentage24h": 958.0542,
+    "cexVolume": 26928.96466392,
+    "dexVolume": 0.0,
+    "statistics": {
+      "price": 0.0003329694862687674,
+      "priceChangePercentage1h": -0.00831152,
+      "priceChangePercentage24h": 2.57303044,
+      "priceChangePercentage7d": -9.44004059,
+      "priceChangePercentage30d": 24.28072588,
+      "priceChangePercentage60d": -13.33991026,
+      "priceChangePercentage90d": -3.4753251,
+      "priceChangePercentage1y": -56.85042845,
+      "priceChangePercentageAll": -99.454939981699,
+      "marketCap": 950833.9,
+      "marketCapChangePercentage24h": 2.573,
+      "fullyDilutedMarketCap": 3329694.86,
+      "fullyDilutedMarketCapChangePercentage24h": 2.57,
+      "circulatingSupply": 2855618728.0,
+      "totalSupply": 10000000000.0,
+      "marketCapDominance": 0.0,
+      "rank": 1881,
+      "low24h": 0.000298133501902551,
+      "high24h": 0.000373032987421646,
+      "low7d": 0.000295670584403401,
+      "high7d": 0.000399285837406821,
+      "low30d": 0.000211275526028076,
+      "high30d": 0.000399285837406821,
+      "low90d": 0.000211275526028076,
+      "high90d": 0.000688210027290879,
+      "low52w": 0.000211275526028076,
+      "high52w": 0.007385848093760452,
+      "lowAllTime": 0.000211275526028076,
+      "highAllTime": 0.07041330464885065,
+      "lowAllTimeChangePercentage": 57.6,
+      "highAllTimeChangePercentage": -99.53,
+      "lowAllTimeTimestamp": "2024-10-31T07:48:00.000Z",
+      "highAllTimeTimestamp": "2021-11-29T13:07:13.000Z",
+      "lowYesterday": 0.000298133501902551,
+      "highYesterday": 0.000373032987421646,
+      "openYesterday": 0.0003214106117017,
+      "closeYesterday": 0.000333016293533271,
+      "priceChangePercentageYesterday": 3.61,
+      "volumeYesterday": 27113.37,
+      "turnover": 0.02832142,
+      "ytdPriceChangePercentage": -88.651,
+      "volumeRank": 3802,
+      "volumeMcRank": 3390,
+      "mcTotalNum": 10049,
+      "volumeTotalNum": 10049,
+      "volumeMcTotalNum": 10049
+    },
+    "quotes": [],
+    "relatedCoins": [
+      {
+        "id": 2513,
+        "name": "GoldMint",
+        "slug": "goldmint",
+        "price": 0.05065701161697734,
+        "priceChangePercentage24h": -0.83488657,
+        "priceChangePercentage7d": 21.70106268
+      },
+      {
+        "id": 4679,
+        "name": "Band Protocol",
+        "slug": "band-protocol",
+        "price": 1.2924689407590508,
+        "priceChangePercentage24h": -5.51284503,
+        "priceChangePercentage7d": 1.82102584
+      },
+      {
+        "id": 7083,
+        "name": "Uniswap",
+        "slug": "uniswap",
+        "price": 8.907804423933275,
+        "priceChangePercentage24h": -4.39447372,
+        "priceChangePercentage7d": -3.90346035
+      },
+      {
+        "id": 1414,
+        "name": "Firo",
+        "slug": "firo",
+        "price": 1.3454938776288508,
+        "priceChangePercentage24h": 0.21867821,
+        "priceChangePercentage7d": 4.03360084
+      },
+      {
+        "id": 1975,
+        "name": "Chainlink",
+        "slug": "chainlink",
+        "price": 14.028344717813509,
+        "priceChangePercentage24h": -5.25786687,
+        "priceChangePercentage7d": -2.46572024
+      },
+      {
+        "id": 7653,
+        "name": "Oasis",
+        "slug": "oasis-network",
+        "price": 0.08025331330873264,
+        "priceChangePercentage24h": -5.30717197,
+        "priceChangePercentage7d": -4.39563858
+      },
+      {
+        "id": 707,
+        "name": "Blocknet",
+        "slug": "blocknet",
+        "price": 0.017113298239738093,
+        "priceChangePercentage24h": -0.68391562,
+        "priceChangePercentage7d": -3.30053472
+      },
+      {
+        "id": 5864,
+        "name": "yearn.finance",
+        "slug": "yearn-finance",
+        "price": 6192.38803639104,
+        "priceChangePercentage24h": -4.43119421,
+        "priceChangePercentage7d": -11.362147
+      },
+      {
+        "id": 4279,
+        "name": "Solar",
+        "slug": "sxp",
+        "price": 0.36376553390538346,
+        "priceChangePercentage24h": 2.1116243,
+        "priceChangePercentage7d": 18.12789401
+      },
+      {
+        "id": 8043,
+        "name": "MAHA.xyz",
+        "slug": "mahadao",
+        "price": 0.9034865737660874,
+        "priceChangePercentage24h": -2.68820884,
+        "priceChangePercentage7d": -9.89747239
+      }
+    ],
+    "isAudited": false,
+    "holders": {},
+    "displayTV": 0,
+    "isInfiniteMaxSupply": 0,
+    "tvCoinSymbol": "KMA",
+    "supportWalletInfos": [],
+    "holdersFlag": false,
+    "ratingsFlag": false,
+    "analysisFlag": false,
+    "socialsFlag": true,
+    "cryptoRating": [],
+    "hasExtraInfoFlag": false,
+    "upcoming": {
+      "status": false
+    },
+    "annotationFlag": false,
+    "similarCoins": [
+      {
+        "id": 10042,
+        "symbol": "KAR"
+      },
+      {
+        "id": 6756,
+        "symbol": "ACA"
+      },
+      {
+        "id": 9285,
+        "symbol": "MOVR"
+      },
+      {
+        "id": 10223,
+        "symbol": "VEGA"
+      },
+      {
+        "id": 8384,
+        "symbol": "CLV"
+      },
+      {
+        "id": 18934,
+        "symbol": "STG"
+      }
+    ]
+  },
+  "status": {
+    "timestamp": "2024-11-18T01:09:54.765Z",
+    "error_code": "0",
+    "error_message": "SUCCESS",
+    "elapsed": "19",
+    "credit_count": 0
+  }
+}

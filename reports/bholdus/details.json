@@ -1,0 +1,358 @@
+{
+  "data": {
+    "id": 12280,
+    "name": "BHO Network",
+    "symbol": "BHO",
+    "slug": "bholdus",
+    "category": "token",
+    "description": "**What is BHO Network?**\nBHO Network is built on BHO Chain (BHC-20) - a foundational and critical component of the BHO Network in enabling the development of a complete ecosystem based on blockchain technology. \nOur blockchain platform\u2019s mission is to enable innovations from not only new projects with breakthrough ideas in this space but also support any companies who see blockchain as a solution to achieve intensive margin from current operations. \nAdditionally, we aim to bring that support to all verticals including supply chain, media and entertainment, identity and credentials, healthcare, trade finance, financial services, government, digital assets, retail, and much more. \nFinally, the BHO network does not only include its own application but also all other applications developed on the BHO chain.\n\n**What are Our Vision, Mission, and Core Values?**\n**Vision**: BHO Network aims to become a global open blockchain ecosystem, beginning with the Southeast Asian market. BHO Network will be a flexible platform, to provide solutions for simple and practical blockchain applications.\n**Mission**: With a talented and enthusiastic young team, we provide user-friendly, safe, and risk-reduced blockchain products, making BHO Network an ecosystem rooted in real life. \n**Core Values**:\nC - *Credibility*: Our most important core value is credibility. We build our organization based on trust and deliver it to our customers through genuineness and transparency.\nA - *Accessibility*: BHO Network is made accessible to everyone to explore our products and ecosystem through ease of use and understanding.\nR - *Result*: We stay committed to our vision and mission to deliver the highest values to our investors & users.\nE - *Empower*: We empower our users and put the decision-making rights in our communities, staying true to the definition of decentralization.\n\n**Who Are The Founders of BHO Network? **\n* Co-founder & CEO - Nhat Phan (Mr.). He is also the co-founder of VNbot - Capital Management System. Mr. Nhat Nhat himself has a solid background in CryptoCurrency, Social Media, Game Online MMORPG. \n* Co-founder & CTO - Duong Le (Mr.). He is a Senior AI engineer, also  the Co-founder of Guu and Polaris. \n\n**What Does BHO Network Offer?**\nWith uniqueness in unparalleled transaction throughput and immunity to disruptions, yet at minimal costs, BHO Chain facilitates intelligent feature creation explicitly for the fulfillment of financial services by exploiting unique features of the blockchain.\nMoreover, we would like to introduce BHO, our native utility token, that is used for:\n* Transaction fees in BHO Chain and lending fees;\n* Rewarding for validator nodes on the network via staking BHO tokens, and in parachain crowd loan;\n* Exercising on-chain governance rights;\n* Participating in BHO Launchpad.\n\n**What Makes BHO Network Unique?**\nUtilizing the Substrate framework, BHO Network is dedicated to promote scalability through parachain and transaction\u2019s efficiency, in response to the slow transaction times of other blockchains. Furthermore, the interoperability design and compatibility between chains allow different blockchains and applications to share information and functions.\nBHO Network blockchain is able to empower the NFT world whereas GameFi & Metaverse projects may utilize tokenization to convert their assets into NFTs and asset-based tokens as proof of creditworthiness for unlimited access to diverse financial services in the crypto space. The new-gen blockchain intends to extend support full tool kits for game developer to build and approach player throughout Multi-chain NFT marketplace, Interoperable DEX and Wallet;\nTrue to our roadmap, BHO Network has launched significant initiatives intended to popularize DeFi adoption. Our Staking Rewards Event attracted 140 million BHO value locked, which is equal to approximately 70% of its net circulating supply within the first 10 days of the event. Later, one of BHO Network\u2019 key features - NFTs issuance - was fully developed on its Testnet platform, with the very first one being the project\u2019s official logo. \nBHO Network has also launched the Testnet-version blockchain called Cygnus with key features of creation, destruction, and listing of users-own tokens and NFTs; adding or creating a wallet to send and receive BHO token and other related features. Under these circumstances, BHO Network\u2019s Mainnet was set to launch by December, 2021.\nRecently, on March 31, BHO have successfully launched our Launchpad product named BHO Pad. It is a decentralized start-up launch platform based on the latest blockchain technologies with an extremely user-friendly interface. In addition, BHO Pad provides a \u201ctriple threat\u201d solution to help solve specific difficulties for blockchain start-ups. BHO Pad not only supports capital raising for start-ups but also provides operational resources and consultations in strategic planning for projects\n\n**How Do We \u201cOver-Deliver\u201d To Our Clients?**\n**High speed**\nThe transaction processing speed allows BHO network to handle thousands of transactions per second, making it compatible with thousands of validators without sacrificing performance.\n**Low cost**\nWith higher block time and block size, the BHO network offers an incredibly low transaction fee. BHO uses a weight-based fee model as opposed to a gas-metering model. As such, fees are charged prior to transaction execution; once the fee is paid, nodes will execute the transaction.\n**Eco-friendly**\nBHO\u2019s network novel consensus mechanism is flexible, efficient, and green making it sustainable and the platform of choice for many developers and innovators for the long-term.\n**Scaling**\nThe nature of BHO Network Consensus can either be layered on top of existing networks creating pre-network finality or it can be layered on top of custom virtual machines creating independent networks that can be tailored for specific purposes. BHO network is fundamentally  a new approach to achieving consensus with the aim of creating a flexible, scalable and usable blockchain system.",
+    "dateAdded": "2021-10-04T07:32:47.000Z",
+    "status": "active",
+    "subStatus": "normal",
+    "notice": "",
+    "alertType": 2,
+    "alertLink": "",
+    "latestUpdateTime": "2024-11-18T01:09:00.000Z",
+    "watchCount": "8070",
+    "watchListRanking": 2728,
+    "dateLaunched": "2021-07-16T00:00:00.000Z",
+    "latestAdded": false,
+    "tags": [],
+    "selfReportedTags": [
+      "PoS",
+      "Platform",
+      "Services",
+      "DeFi",
+      "Substrate",
+      "Software",
+      "Launchpad",
+      "Web3"
+    ],
+    "selfReportedCirculatingSupply": "6750000000.0",
+    "urls": {
+      "website": [
+        "https://bho.network/"
+      ],
+      "technical_doc": [
+        "https://resources.bho.network/BHO-WPP.pdf"
+      ],
+      "explorer": [
+        "https://bscscan.com/",
+        "https://bscscan.com/token/0x8717e80eff08f53a45b4a925009957e14860a8a8"
+      ],
+      "source_code": [
+        "https://github.com/BHONetwork"
+      ],
+      "message_board": [
+        "https://bho.network/blog"
+      ],
+      "chat": [
+        "https://t.me/bhonetwork_en",
+        "https://t.me/bhonetwork_channel_vi"
+      ],
+      "announcement": [],
+      "reddit": [],
+      "facebook": [
+        "https://www.facebook.com/bhonetwork"
+      ],
+      "twitter": [
+        "https://twitter.com/BHONetwork"
+      ]
+    },
+    "volume": 220250.0865233,
+    "volumeChangePercentage24h": 29.9293,
+    "cexVolume": 185464.52724126,
+    "dexVolume": 34785.55928204,
+    "statistics": {
+      "price": 0.00018741350291630955,
+      "priceChangePercentage1h": 1.96382055,
+      "priceChangePercentage24h": 35.34749381,
+      "priceChangePercentage7d": 43.32702773,
+      "priceChangePercentage30d": 100.65093932,
+      "priceChangePercentage60d": 102.4374487,
+      "priceChangePercentage90d": 30.21768196,
+      "priceChangePercentage1y": -5.16617766,
+      "priceChangePercentageAll": -98.819933770438,
+      "marketCap": 784955.21,
+      "marketCapChangePercentage24h": 35.3475,
+      "fullyDilutedMarketCap": 1874135.03,
+      "fullyDilutedMarketCapChangePercentage24h": 35.35,
+      "circulatingSupply": 4188359956.2,
+      "totalSupply": 6750000000.0,
+      "maxSupply": 10000000000.0,
+      "marketCapDominance": 0.0,
+      "rank": 1941,
+      "low24h": 0.00013315323826915,
+      "high24h": 0.000187536271198794,
+      "low7d": 0.000118514500777849,
+      "high7d": 0.000187536271198794,
+      "low30d": 9.070120004557e-05,
+      "high30d": 0.000187536271198794,
+      "low90d": 8.2603435324639e-05,
+      "high90d": 0.000187536271198794,
+      "low52w": 8.2603435324639e-05,
+      "high52w": 0.000617511984122386,
+      "lowAllTime": 8.2603435324639e-05,
+      "highAllTime": 0.08701598671396746,
+      "lowAllTimeChangePercentage": 126.88,
+      "highAllTimeChangePercentage": -99.78,
+      "lowAllTimeTimestamp": "2024-10-03T04:13:00.000Z",
+      "highAllTimeTimestamp": "2021-10-12T09:55:10.000Z",
+      "lowYesterday": 0.00013315323826915,
+      "highYesterday": 0.000183025134956367,
+      "openYesterday": 0.000137047335005383,
+      "closeYesterday": 0.000182859228387906,
+      "priceChangePercentageYesterday": 33.43,
+      "volumeYesterday": 217841.69,
+      "turnover": 0.28058937,
+      "ytdPriceChangePercentage": -47.9284,
+      "volumeRank": 2103,
+      "volumeMcRank": 973,
+      "mcTotalNum": 10049,
+      "volumeTotalNum": 10049,
+      "volumeMcTotalNum": 10049
+    },
+    "quotes": [],
+    "platforms": [
+      {
+        "contractId": 1839,
+        "contractAddress": "0x8717e80EfF08F53A45b4A925009957E14860A8a8",
+        "contractPlatform": "BNB Smart Chain (BEP20)",
+        "contractPlatformId": 14,
+        "contractChainId": 56,
+        "contractRpcUrl": [
+          "https://bsc-dataseed1.binance.org",
+          "https://bsc-dataseed.binance.org/",
+          "https://bsc-dataseed1.binance.org:443"
+        ],
+        "contractNativeCurrencyName": "Binance Chain Native Token",
+        "contractNativeCurrencySymbol": "BNB",
+        "contractNativeCurrencyDecimals": 18,
+        "contractBlockExplorerUrl": "https://bscscan.com/",
+        "contractExplorerUrl": "https://bscscan.com/token/0x8717e80EfF08F53A45b4A925009957E14860A8a8",
+        "contractDecimals": 18,
+        "platformCryptoId": 1839,
+        "sort": 0,
+        "wallets": [
+          {
+            "id": 9025
+          }
+        ]
+      }
+    ],
+    "relatedCoins": [
+      {
+        "id": 2513,
+        "name": "GoldMint",
+        "slug": "goldmint",
+        "price": 0.05065701161697734,
+        "priceChangePercentage24h": -0.83488657,
+        "priceChangePercentage7d": 21.70106268
+      },
+      {
+        "id": 4679,
+        "name": "Band Protocol",
+        "slug": "band-protocol",
+        "price": 1.2924689407590508,
+        "priceChangePercentage24h": -5.51284503,
+        "priceChangePercentage7d": 1.82102584
+      },
+      {
+        "id": 7083,
+        "name": "Uniswap",
+        "slug": "uniswap",
+        "price": 8.907804423933275,
+        "priceChangePercentage24h": -4.39447372,
+        "priceChangePercentage7d": -3.90346035
+      },
+      {
+        "id": 1414,
+        "name": "Firo",
+        "slug": "firo",
+        "price": 1.3454938776288508,
+        "priceChangePercentage24h": 0.21867821,
+        "priceChangePercentage7d": 4.03360084
+      },
+      {
+        "id": 1975,
+        "name": "Chainlink",
+        "slug": "chainlink",
+        "price": 14.028344717813509,
+        "priceChangePercentage24h": -5.25786687,
+        "priceChangePercentage7d": -2.46572024
+      },
+      {
+        "id": 7653,
+        "name": "Oasis",
+        "slug": "oasis-network",
+        "price": 0.08025331330873264,
+        "priceChangePercentage24h": -5.30717197,
+        "priceChangePercentage7d": -4.39563858
+      },
+      {
+        "id": 707,
+        "name": "Blocknet",
+        "slug": "blocknet",
+        "price": 0.017113298239738093,
+        "priceChangePercentage24h": -0.68391562,
+        "priceChangePercentage7d": -3.30053472
+      },
+      {
+        "id": 5864,
+        "name": "yearn.finance",
+        "slug": "yearn-finance",
+        "price": 6192.38803639104,
+        "priceChangePercentage24h": -4.43119421,
+        "priceChangePercentage7d": -11.362147
+      },
+      {
+        "id": 4279,
+        "name": "Solar",
+        "slug": "sxp",
+        "price": 0.36376553390538346,
+        "priceChangePercentage24h": 2.1116243,
+        "priceChangePercentage7d": 18.12789401
+      },
+      {
+        "id": 8043,
+        "name": "MAHA.xyz",
+        "slug": "mahadao",
+        "price": 0.9034865737660874,
+        "priceChangePercentage24h": -2.68820884,
+        "priceChangePercentage7d": -9.89747239
+      }
+    ],
+    "wallets": [
+      {
+        "id": 9025,
+        "name": "MetaMask",
+        "tier": 1,
+        "url": "https://metamask.io/",
+        "chains": "ETH,ETZ",
+        "types": "pc",
+        "introduction": "",
+        "star": 1.0,
+        "security": 2.0,
+        "easyToUse": 4.0,
+        "decentration": false,
+        "focusNumber": 0,
+        "rank": 1000013,
+        "logo": "9025.png",
+        "multipleChain": true
+      },
+      {
+        "id": 9152,
+        "name": "Binance Chain Wallet",
+        "url": "https://www.binance.org/en/blog/binance-extension-wallet/",
+        "chains": "BNB",
+        "types": "",
+        "introduction": "",
+        "star": 0.0,
+        "security": 0.0,
+        "easyToUse": 0.0,
+        "decentration": false,
+        "focusNumber": 0,
+        "logo": "9152.png",
+        "multipleChain": false
+      }
+    ],
+    "isAudited": true,
+    "auditInfos": [
+      {
+        "coinId": "12280",
+        "auditor": "CertiK",
+        "auditStatus": 2,
+        "auditTime": "2021-10-16T12:56:09.580Z",
+        "reportUrl": "https://cmc.certik-skynet.com/redirect?project=bho"
+      }
+    ],
+    "holders": {},
+    "displayTV": 0,
+    "isInfiniteMaxSupply": 0,
+    "tvCoinSymbol": "BHO",
+    "supportWalletInfos": [
+      {
+        "id": 9025,
+        "name": "MetaMask",
+        "url": "https://metamask.io/",
+        "chains": "ETH,ETZ",
+        "decentration": false,
+        "logo": "9025.png",
+        "multipleChain": false
+      },
+      {
+        "id": 9152,
+        "name": "Binance Chain Wallet",
+        "url": "https://www.binance.org/en/blog/binance-extension-wallet/",
+        "chains": "BNB",
+        "decentration": false,
+        "logo": "9152.png",
+        "multipleChain": false
+      }
+    ],
+    "holdersFlag": false,
+    "ratingsFlag": false,
+    "analysisFlag": false,
+    "socialsFlag": true,
+    "cryptoRating": [
+      {
+        "type": "CertiK",
+        "score": 87.13,
+        "rating": 4.4,
+        "updateTime": "2024-11-17T00:00:00.000Z",
+        "link": "https://cmc.certik-skynet.com/redirect?project=bho&utm_source=CMC&utm_campaign=ScoreByCertiKLink"
+      },
+      {
+        "type": "Cyberscope",
+        "score": 75.0,
+        "rating": 3.8,
+        "updateTime": "2024-11-17T10:50:16.000Z",
+        "link": "https://www.cyberscope.io/audits/coin-bholdus"
+      },
+      {
+        "type": "Aggregate rating",
+        "score": 81.1,
+        "rating": 4.1,
+        "updateTime": "2024-11-18T01:00:00.222Z"
+      }
+    ],
+    "hasExtraInfoFlag": false,
+    "upcoming": {
+      "status": false
+    },
+    "annotationFlag": false,
+    "similarCoins": [
+      {
+        "id": 5103,
+        "symbol": "IPX"
+      },
+      {
+        "id": 3625,
+        "symbol": "EQUAD"
+      },
+      {
+        "id": 2247,
+        "symbol": "BCDN"
+      },
+      {
+        "id": 3334,
+        "symbol": "XCASH"
+      },
+      {
+        "id": 11346,
+        "symbol": "RACA"
+      },
+      {
+        "id": 4388,
+        "symbol": "EXCC"
+      }
+    ]
+  },
+  "status": {
+    "timestamp": "2024-11-18T01:10:00.259Z",
+    "error_code": "0",
+    "error_message": "SUCCESS",
+    "elapsed": "12",
+    "credit_count": 0
+  }
+}

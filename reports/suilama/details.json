@@ -1,0 +1,242 @@
+{
+  "data": {
+    "id": 33455,
+    "name": "Suilama",
+    "symbol": "SUILAMA",
+    "slug": "suilama",
+    "category": "token",
+    "description": "Suilama The Official 'Unofficial' Sui Mascot. $SUILAMA, the rising star in the meme coin universe on the SUI blockchain. Much like Shiba Inu on Ethereum, SUILAMA brings a playful twist with its lama-themed charm. Embrace the whimsical world of SUILAMA, where crypto meets humor, and join the journey toward the next big meme coin sensation on SUI.",
+    "dateAdded": "2024-10-15T07:18:10.000Z",
+    "status": "active",
+    "subStatus": "normal",
+    "notice": "",
+    "alertType": 2,
+    "alertLink": "",
+    "latestUpdateTime": "2024-11-18T01:09:00.000Z",
+    "watchCount": "26136",
+    "watchListRanking": 1199,
+    "dateLaunched": "2024-10-11T00:00:00.000Z",
+    "latestAdded": false,
+    "tags": [
+      {
+        "slug": "memes",
+        "name": "Memes",
+        "category": "INDUSTRY"
+      },
+      {
+        "slug": "sui-ecosystem",
+        "name": "Sui Ecosystem",
+        "category": "PLATFORM"
+      }
+    ],
+    "selfReportedCirculatingSupply": "1.0E+10",
+    "urls": {
+      "website": [
+        "https://suilama.com"
+      ],
+      "technical_doc": [],
+      "explorer": [
+        "https://suiscan.xyz/mainnet/coin/0x5a4f64079daed04d923c93f3ac4ee04b637e5b3ea2db87d591981c1049508a27::suilama::SUILAMA//txs"
+      ],
+      "source_code": [],
+      "message_board": [],
+      "chat": [
+        "https://t.me/SuilamaToken"
+      ],
+      "announcement": [],
+      "reddit": [],
+      "facebook": [],
+      "twitter": [
+        "https://twitter.com/SuilamaToken"
+      ]
+    },
+    "volume": 112198.89575135,
+    "volumeChangePercentage24h": -56.2055,
+    "cexVolume": 24635.68122075,
+    "dexVolume": 87563.2145306,
+    "statistics": {
+      "price": 8.305479671950299e-05,
+      "priceChangePercentage1h": 2.31656725,
+      "priceChangePercentage24h": -1.17752844,
+      "priceChangePercentage7d": 61.92301708,
+      "priceChangePercentage30d": -22.78552426,
+      "priceChangePercentage60d": -60.14053556,
+      "priceChangePercentage90d": -60.14053556,
+      "priceChangePercentage1y": -60.14053556,
+      "priceChangePercentageAll": -59.257876817203,
+      "marketCap": 830547.97,
+      "marketCapChangePercentage24h": -1.1775,
+      "fullyDilutedMarketCap": 830547.97,
+      "fullyDilutedMarketCapChangePercentage24h": -1.18,
+      "circulatingSupply": 10000000000.0,
+      "totalSupply": 10000000000.0,
+      "maxSupply": 10000000000.0,
+      "marketCapDominance": 0.0,
+      "rank": 1923,
+      "low24h": 6.5789752695527e-05,
+      "high24h": 9.0716784824899e-05,
+      "low7d": 3.1468350500335e-05,
+      "high7d": 0.000129000328835675,
+      "low30d": 2.3179201703207e-05,
+      "high30d": 0.000174759391284133,
+      "low90d": 2.3179201703207e-05,
+      "high90d": 0.000253727433116809,
+      "low52w": 2.3179201703207e-05,
+      "high52w": 0.000253727433116809,
+      "lowAllTime": 2.3179201703207e-05,
+      "highAllTime": 0.000253727433116809,
+      "lowAllTimeChangePercentage": 258.32,
+      "highAllTimeChangePercentage": -67.27,
+      "lowAllTimeTimestamp": "2024-11-03T03:17:00.000Z",
+      "highAllTimeTimestamp": "2024-10-15T09:50:00.000Z",
+      "lowYesterday": 6.5789752695527e-05,
+      "highYesterday": 9.0716784824899e-05,
+      "openYesterday": 8.5076154948938e-05,
+      "closeYesterday": 8.1221267782873e-05,
+      "priceChangePercentageYesterday": -4.53,
+      "volumeYesterday": 111584.23,
+      "turnover": 0.13509021,
+      "ytdPriceChangePercentage": 0.0,
+      "volumeRank": 2629,
+      "volumeMcRank": 1558,
+      "mcTotalNum": 10049,
+      "volumeTotalNum": 10049,
+      "volumeMcTotalNum": 10049
+    },
+    "quotes": [],
+    "platforms": [
+      {
+        "contractId": 20947,
+        "contractAddress": "0x5a4f64079daed04d923c93f3ac4ee04b637e5b3ea2db87d591981c1049508a27::suilama::SUILAMA",
+        "contractPlatform": "Sui Network",
+        "contractPlatformId": 176,
+        "contractChainId": -1,
+        "contractRpcUrl": [],
+        "contractNativeCurrencyName": "",
+        "contractNativeCurrencySymbol": "",
+        "contractNativeCurrencyDecimals": -1,
+        "contractBlockExplorerUrl": "",
+        "contractExplorerUrl": "https://suiscan.xyz/mainnet/coin/0x5a4f64079daed04d923c93f3ac4ee04b637e5b3ea2db87d591981c1049508a27::suilama::SUILAMA/txs",
+        "contractDecimals": 6,
+        "platformCryptoId": 20947,
+        "sort": 0,
+        "wallets": []
+      }
+    ],
+    "relatedCoins": [
+      {
+        "id": 2513,
+        "name": "GoldMint",
+        "slug": "goldmint",
+        "price": 0.05065701161697734,
+        "priceChangePercentage24h": -0.83488657,
+        "priceChangePercentage7d": 21.70106268
+      },
+      {
+        "id": 4679,
+        "name": "Band Protocol",
+        "slug": "band-protocol",
+        "price": 1.2924689407590508,
+        "priceChangePercentage24h": -5.51284503,
+        "priceChangePercentage7d": 1.82102584
+      },
+      {
+        "id": 7083,
+        "name": "Uniswap",
+        "slug": "uniswap",
+        "price": 8.907804423933275,
+        "priceChangePercentage24h": -4.39447372,
+        "priceChangePercentage7d": -3.90346035
+      },
+      {
+        "id": 1414,
+        "name": "Firo",
+        "slug": "firo",
+        "price": 1.3454938776288508,
+        "priceChangePercentage24h": 0.21867821,
+        "priceChangePercentage7d": 4.03360084
+      },
+      {
+        "id": 1975,
+        "name": "Chainlink",
+        "slug": "chainlink",
+        "price": 14.028344717813509,
+        "priceChangePercentage24h": -5.25786687,
+        "priceChangePercentage7d": -2.46572024
+      },
+      {
+        "id": 7653,
+        "name": "Oasis",
+        "slug": "oasis-network",
+        "price": 0.08025331330873264,
+        "priceChangePercentage24h": -5.30717197,
+        "priceChangePercentage7d": -4.39563858
+      },
+      {
+        "id": 707,
+        "name": "Blocknet",
+        "slug": "blocknet",
+        "price": 0.017113298239738093,
+        "priceChangePercentage24h": -0.68391562,
+        "priceChangePercentage7d": -3.30053472
+      },
+      {
+        "id": 5864,
+        "name": "yearn.finance",
+        "slug": "yearn-finance",
+        "price": 6192.38803639104,
+        "priceChangePercentage24h": -4.43119421,
+        "priceChangePercentage7d": -11.362147
+      },
+      {
+        "id": 4279,
+        "name": "Solar",
+        "slug": "sxp",
+        "price": 0.36376553390538346,
+        "priceChangePercentage24h": 2.1116243,
+        "priceChangePercentage7d": 18.12789401
+      },
+      {
+        "id": 8043,
+        "name": "MAHA.xyz",
+        "slug": "mahadao",
+        "price": 0.9034865737660874,
+        "priceChangePercentage24h": -2.68820884,
+        "priceChangePercentage7d": -9.89747239
+      }
+    ],
+    "isAudited": true,
+    "auditInfos": [
+      {
+        "coinId": "33455",
+        "auditor": "Cyberscope",
+        "auditStatus": 2,
+        "auditTime": "2024-10-20T11:39:34.604Z",
+        "reportUrl": "https://cyberscope.io/audits/suilama"
+      }
+    ],
+    "holders": {},
+    "displayTV": 0,
+    "isInfiniteMaxSupply": 0,
+    "tvCoinSymbol": "SUILAMA",
+    "supportWalletInfos": [],
+    "holdersFlag": false,
+    "ratingsFlag": false,
+    "analysisFlag": false,
+    "socialsFlag": true,
+    "cryptoRating": [],
+    "hasExtraInfoFlag": false,
+    "upcoming": {
+      "status": false
+    },
+    "annotationFlag": false,
+    "similarCoins": []
+  },
+  "status": {
+    "timestamp": "2024-11-18T01:09:58.678Z",
+    "error_code": "0",
+    "error_message": "SUCCESS",
+    "elapsed": "12",
+    "credit_count": 0
+  }
+}

@@ -1,0 +1,343 @@
+{
+  "data": {
+    "id": 9488,
+    "name": "ZooKeeper",
+    "symbol": "ZOO",
+    "slug": "zookeeper",
+    "category": "token",
+    "description": "## What Is ZooKeeper (ZOO)?\n\n[ZooKeeper](https://coinmarketcap.com/currencies/zookeeper/) is an innovative multi-chain dApp, currently available on [Avalanche](https://coinmarketcap.com/currencies/avalanche/) and [Wanchain](https://coinmarketcap.com/currencies/wanchain/), that uses ZOONFTs to boost liquidity mining.\nZooKeeper was created in order to fuel the [ZooEcosystem](https://Zoo.One) with liquidity. It brings you a new and interesting farming experience, leading you to experience higher mining rewards and richer and more interesting NFT gameplay.\n\nZookeeper has its own utility token ($ZOO) distributed as farming rewards to DEX Liquidity Providers (LPs), as well as a wrapped version (vZOO) used for cross chain.\n\n## Who Are the Founders of ZooKeeper?\n\nThe ZooKeeper Team is composed of crypto enthusiasts and long-time blockchain users who are well known in certain communities as well as experienced developers.\nCurrent partners include: Avalanche, Trader Joe, Pangolin, Wanchain and WanSwap.\n\n## What Makes ZooKeeper Unique?\n\nZooKeeper was created in order to fuel the **ZooEcosystem** with liquidity.\nIt is an innovative dApp which uses ZooNFTs to boost liquidity mining. Users have access to these NFTs which have a real use case - enhancing LP farming, on top of their inherent trading possibilities.\n \nOn ZooKeeper you can make use of $ZOO tokens in many ways such as farming (The Zoo), staking for NFTs (The Expedition), in the creation of more powerful NFTs (Crafting), or making use of them in trading NFTs (The Market).\n \nZooEcosystem is a blockchain gaming-oriented ecosystem with a multi-chain focus and multi community spirit.\n \nIt provides:\n**Multi-chain** access - farm $ZOO tokens and trade ZooNFTs on several networks (currently available on Avalanche and Wanchain, but more to come);\n\nAccess to an **NFT Marketplace** - trade ZooGames NFTs and more on OpenZoo;\n\n**Multi-chain gaming** - connect to ZooGames from any available chain and play fun games.\n\n## How Many ZooKeeper (ZOO) Coins Are There in Circulation?\n\nSince ZooKeeper employs a dynamic market cap strategy, the total supply of ZOO is flexible. ZOO tokens are being mined at a rate of 10 ZOO per block without pre-mining or presales of the token. The exact market cap figure depends on the boost percentage from NFTs, as well as the lockup periods by users staking ZOO. Therefore, the minimum total amount of ZOO will be 155 million and the maximum amount 393 million, which will only be known after all ZOO have been mined.\n\nThe token allocation is as follows:\n\n* 77% are reserved for farming\n* 9% are kept for the foundation\n* 8% go to marketing\n* 3% go to advisors\n* 3% will be used to purchase wanTokens chosen by the community\n\n**Note:** These are the Tokenomics of the ZOO Token on the Wanchain Network.\n\n## How Is the ZooKeeper Network Secured?\n\nZooKeeper is built on [Wanchain](https://coinmarketcap.com/currencies/wanchain/), itself a fork of [Ethereum](https://coinmarketcap.com/currencies/ethereum/). In contrast to Ethereum, Wanchain uses a [Proof-of-stake](https://coinmarketcap.com/alexandria/glossary/proof-of-stake-pos) [consensus mechanism](https://coinmarketcap.com/alexandria/glossary/consensus-mechanism), where the network\u2019s validation nodes are divided into vouchers, storemen, and validators. Vouchers verify cross-chain transactions, storemen manage locked accounts, and validators perform regular verifications. \n\n**Official audit** has been processed by **HAECHI** and can be found here: [HAECHI Audit](https://github.com/ZooFarming/Audit/blob/main/%5BHAECHI%20AUDIT%5D%20Zoo%20Farming%20Security%20Audit%20Report_v1.1.pdf/)\n\n## Where Can You Buy ZooKeeper (ZOO)?\n\nZOO is available on [Bitrue](https://coinmarketcap.com/exchanges/bitrue/), [Trader Joe](https://coinmarketcap.com/currencies/joe/), [Pangolin](https://coinmarketcap.com/currencies/pangolin/), and [Wanswap](https://coinmarketcap.com/exchanges/wanswap/).\n",
+    "dateAdded": "2021-04-29T00:00:00.000Z",
+    "status": "active",
+    "subStatus": "normal",
+    "notice": "",
+    "alertType": 2,
+    "alertLink": "",
+    "latestUpdateTime": "2024-11-18T01:09:00.000Z",
+    "watchCount": "12930",
+    "watchListRanking": 1918,
+    "dateLaunched": "2021-04-15T00:00:00.000Z",
+    "latestAdded": false,
+    "tags": [
+      {
+        "slug": "collectibles-nfts",
+        "name": "Collectibles & NFTs",
+        "category": "CATEGORY"
+      },
+      {
+        "slug": "gaming",
+        "name": "Gaming",
+        "category": "INDUSTRY"
+      },
+      {
+        "slug": "interoperability",
+        "name": "Interoperability",
+        "category": "CATEGORY"
+      },
+      {
+        "slug": "yield-farming",
+        "name": "Yield Farming",
+        "category": "CATEGORY"
+      },
+      {
+        "slug": "avalanche-ecosystem",
+        "name": "Avalanche Ecosystem",
+        "category": "PLATFORM"
+      },
+      {
+        "slug": "metaverse",
+        "name": "Metaverse",
+        "category": "CATEGORY"
+      },
+      {
+        "slug": "play-to-earn",
+        "name": "Play To Earn",
+        "category": "CATEGORY"
+      }
+    ],
+    "selfReportedTags": [
+      "DeFi",
+      "Staking",
+      "Wanchain",
+      "Avalanche Ecosystem",
+      "Token",
+      "Cross-Chain"
+    ],
+    "selfReportedCirculatingSupply": "469167738.2934203",
+    "urls": {
+      "website": [
+        "https://www.Zoo.One",
+        "https://www.ZooKeeper.finance"
+      ],
+      "technical_doc": [
+        "https://docs.zookeeper.finance/features"
+      ],
+      "explorer": [
+        "https://snowtrace.io/address/0x1b88d7ad51626044ec62ef9803ea264da4442f32",
+        "https://wanscan.org/token/0x6e11655d6aB3781C6613db8CB1Bc3deE9a7e111F"
+      ],
+      "source_code": [
+        "https://github.com/ZooFarming/"
+      ],
+      "message_board": [
+        "https://blog.zoo.one"
+      ],
+      "chat": [
+        "https://t.me/ZooEcosystem"
+      ],
+      "announcement": [
+        "https://t.me/ZooKeeperAnn"
+      ],
+      "reddit": [
+        "https://reddit.com/r/ZooEcosystem"
+      ],
+      "facebook": [
+        "https://www.facebook.com/ZooEcosystem"
+      ],
+      "twitter": [
+        "https://twitter.com/ZooEcosystem"
+      ]
+    },
+    "volume": 3974.14205969,
+    "volumeChangePercentage24h": -81.7591,
+    "cexVolume": 0.0,
+    "dexVolume": 3974.14205969,
+    "statistics": {
+      "price": 0.0018482168009196927,
+      "priceChangePercentage1h": 1.6809231,
+      "priceChangePercentage24h": -3.98261888,
+      "priceChangePercentage7d": -31.53583444,
+      "priceChangePercentage30d": -33.14308791,
+      "priceChangePercentage60d": -53.38414052,
+      "priceChangePercentage90d": -55.02740941,
+      "priceChangePercentage1y": -55.45232464,
+      "priceChangePercentageAll": -99.630502170231,
+      "marketCap": 867123.7,
+      "marketCapChangePercentage24h": -3.9823,
+      "fullyDilutedMarketCap": 894996.44,
+      "fullyDilutedMarketCapChangePercentage24h": -3.98,
+      "circulatingSupply": 469167738.2934203,
+      "totalSupply": 484248624.44019234,
+      "marketCapDominance": 0.0,
+      "rank": 1907,
+      "low24h": 0.001726810376524881,
+      "high24h": 0.002081695734260333,
+      "low7d": 0.001726810376524881,
+      "high7d": 0.002946199975759696,
+      "low30d": 0.001726810376524881,
+      "high30d": 0.002946199975759696,
+      "low90d": 0.001548391480914211,
+      "high90d": 0.005083649404486849,
+      "low52w": 0.001548391480914211,
+      "high52w": 0.011766782479887754,
+      "lowAllTime": 0.001548391480914211,
+      "highAllTime": 2.15835662,
+      "lowAllTimeChangePercentage": 19.36,
+      "highAllTimeChangePercentage": -99.91,
+      "lowAllTimeTimestamp": "2024-11-16T07:00:00.000Z",
+      "highAllTimeTimestamp": "2021-05-03T17:41:05.000Z",
+      "lowYesterday": 0.001726810376524881,
+      "highYesterday": 0.002081695734260333,
+      "openYesterday": 0.001924877328838985,
+      "closeYesterday": 0.001817663278927524,
+      "priceChangePercentageYesterday": -5.57,
+      "volumeYesterday": 3780.9,
+      "tvl": 0,
+      "turnover": 0.00458313,
+      "ytdPriceChangePercentage": -71.5678,
+      "volumeRank": 5090,
+      "volumeMcRank": 5366,
+      "mcTotalNum": 10049,
+      "volumeTotalNum": 10049,
+      "volumeMcTotalNum": 10049
+    },
+    "quotes": [],
+    "platforms": [
+      {
+        "contractId": 2606,
+        "contractAddress": "0x6e11655d6aB3781C6613db8CB1Bc3deE9a7e111F",
+        "contractPlatform": "Wanchain",
+        "contractPlatformId": 21,
+        "contractChainId": 888,
+        "contractRpcUrl": [],
+        "contractNativeCurrencyName": "",
+        "contractNativeCurrencySymbol": "",
+        "contractNativeCurrencyDecimals": 18,
+        "contractBlockExplorerUrl": "",
+        "contractExplorerUrl": "https://www.wanscan.org/token/0x6e11655d6aB3781C6613db8CB1Bc3deE9a7e111F",
+        "contractDecimals": 18,
+        "platformCryptoId": 2606,
+        "sort": 0,
+        "wallets": []
+      },
+      {
+        "contractId": 5805,
+        "contractAddress": "0x1B88D7aD51626044Ec62eF9803EA264DA4442F32",
+        "contractPlatform": "Avalanche C-Chain",
+        "contractPlatformId": 28,
+        "contractChainId": 43114,
+        "contractRpcUrl": [],
+        "contractNativeCurrencyName": "",
+        "contractNativeCurrencySymbol": "",
+        "contractNativeCurrencyDecimals": -1,
+        "contractBlockExplorerUrl": "",
+        "contractExplorerUrl": "https://snowscan.xyz/token/0x1B88D7aD51626044Ec62eF9803EA264DA4442F32",
+        "contractDecimals": 18,
+        "platformCryptoId": 5805,
+        "sort": 0,
+        "wallets": []
+      }
+    ],
+    "relatedCoins": [
+      {
+        "id": 2513,
+        "name": "GoldMint",
+        "slug": "goldmint",
+        "price": 0.05065701161697734,
+        "priceChangePercentage24h": -0.83488657,
+        "priceChangePercentage7d": 21.70106268
+      },
+      {
+        "id": 4679,
+        "name": "Band Protocol",
+        "slug": "band-protocol",
+        "price": 1.2924689407590508,
+        "priceChangePercentage24h": -5.51284503,
+        "priceChangePercentage7d": 1.82102584
+      },
+      {
+        "id": 7083,
+        "name": "Uniswap",
+        "slug": "uniswap",
+        "price": 8.907804423933275,
+        "priceChangePercentage24h": -4.39447372,
+        "priceChangePercentage7d": -3.90346035
+      },
+      {
+        "id": 1414,
+        "name": "Firo",
+        "slug": "firo",
+        "price": 1.3454938776288508,
+        "priceChangePercentage24h": 0.21867821,
+        "priceChangePercentage7d": 4.03360084
+      },
+      {
+        "id": 1975,
+        "name": "Chainlink",
+        "slug": "chainlink",
+        "price": 14.028344717813509,
+        "priceChangePercentage24h": -5.25786687,
+        "priceChangePercentage7d": -2.46572024
+      },
+      {
+        "id": 7653,
+        "name": "Oasis",
+        "slug": "oasis-network",
+        "price": 0.08025331330873264,
+        "priceChangePercentage24h": -5.30717197,
+        "priceChangePercentage7d": -4.39563858
+      },
+      {
+        "id": 707,
+        "name": "Blocknet",
+        "slug": "blocknet",
+        "price": 0.017113298239738093,
+        "priceChangePercentage24h": -0.68391562,
+        "priceChangePercentage7d": -3.30053472
+      },
+      {
+        "id": 5864,
+        "name": "yearn.finance",
+        "slug": "yearn-finance",
+        "price": 6192.38803639104,
+        "priceChangePercentage24h": -4.43119421,
+        "priceChangePercentage7d": -11.362147
+      },
+      {
+        "id": 4279,
+        "name": "Solar",
+        "slug": "sxp",
+        "price": 0.36376553390538346,
+        "priceChangePercentage24h": 2.1116243,
+        "priceChangePercentage7d": 18.12789401
+      },
+      {
+        "id": 8043,
+        "name": "MAHA.xyz",
+        "slug": "mahadao",
+        "price": 0.9034865737660874,
+        "priceChangePercentage24h": -2.68820884,
+        "priceChangePercentage7d": -9.89747239
+      }
+    ],
+    "isAudited": false,
+    "holders": {},
+    "displayTV": 1,
+    "isInfiniteMaxSupply": 0,
+    "tvCoinSymbol": "ZOO",
+    "supportWalletInfos": [],
+    "holdersFlag": false,
+    "ratingsFlag": false,
+    "analysisFlag": false,
+    "socialsFlag": true,
+    "cryptoRating": [
+      {
+        "type": "CertiK",
+        "score": 62.04,
+        "rating": 3.1,
+        "updateTime": "2024-11-17T00:00:00.000Z",
+        "link": "https://cmc.certik-skynet.com/redirect?project=zookeeper&utm_source=CMC&utm_campaign=ScoreByCertiKLink"
+      },
+      {
+        "type": "Cyberscope",
+        "score": 54.0,
+        "rating": 2.7,
+        "updateTime": "2024-11-17T11:00:46.000Z",
+        "link": "https://www.cyberscope.io/audits/coin-zookeeper"
+      },
+      {
+        "type": "Aggregate rating",
+        "score": 58.0,
+        "rating": 2.9,
+        "updateTime": "2024-11-18T01:00:00.212Z"
+      }
+    ],
+    "hasExtraInfoFlag": false,
+    "upcoming": {
+      "status": false
+    },
+    "annotationFlag": false,
+    "similarCoins": [
+      {
+        "id": 576,
+        "symbol": "GAME"
+      },
+      {
+        "id": 2606,
+        "symbol": "WAN"
+      },
+      {
+        "id": 2572,
+        "symbol": "BAX"
+      },
+      {
+        "id": 7590,
+        "symbol": "DVI"
+      },
+      {
+        "id": 9119,
+        "symbol": "TLM"
+      },
+      {
+        "id": 2300,
+        "symbol": "WAXP"
+      }
+    ]
+  },
+  "status": {
+    "timestamp": "2024-11-18T01:09:56.961Z",
+    "error_code": "0",
+    "error_message": "SUCCESS",
+    "elapsed": "11",
+    "credit_count": 0
+  }
+}

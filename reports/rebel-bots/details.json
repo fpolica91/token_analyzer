@@ -1,0 +1,346 @@
+{
+  "data": {
+    "id": 18354,
+    "name": "Rebel Bots",
+    "symbol": "RBLS",
+    "slug": "rebel-bots",
+    "category": "token",
+    "description": "Rebel Bots is a new play-and-earn gaming brand launched in July 2021 by a team of gaming veterans. Backed by world-class investors including Ubisoft, Animoca Brands and Overwolf the Rebel Bots announced their first title, Xoil Wars which will be released in Q4 2022 on the Polygon network. Players will be able to build, battle and earn with their Fighting Bot army!\n\nTo play Xoil Wars and all other future games in the Rebel Bots universe players will need to hold and use the RBLS token. RBLS is the governance token and also needed to perform important actions in the game in order to progress and compete with other players. The RBLS token will be the main utility token in all future titles that will emerge from the Rebel Bots gaming universe.\n\nThe Rebel Bots Xoil Wars game is developed for both mobile devices and PC on Unity. The RBLS and XOIL tokens together with the game\u2019s main NFT assets are issued on the Polygon network to ensure fast, reliable and secure transactions while keeping the transaction fees low.\n",
+    "dateAdded": "2022-02-24T10:22:46.000Z",
+    "status": "active",
+    "subStatus": "normal",
+    "icoStatus": "active_ico",
+    "notice": "",
+    "alertType": 2,
+    "alertLink": "",
+    "latestUpdateTime": "2024-11-18T01:09:00.000Z",
+    "watchCount": "4099",
+    "watchListRanking": 3679,
+    "latestAdded": false,
+    "launchPrice": 0.1,
+    "tags": [
+      {
+        "slug": "collectibles-nfts",
+        "name": "Collectibles & NFTs",
+        "category": "CATEGORY"
+      },
+      {
+        "slug": "gaming",
+        "name": "Gaming",
+        "category": "INDUSTRY"
+      },
+      {
+        "slug": "polygon-ecosystem",
+        "name": "Polygon Ecosystem",
+        "category": "PLATFORM"
+      },
+      {
+        "slug": "play-to-earn",
+        "name": "Play To Earn",
+        "category": "CATEGORY"
+      },
+      {
+        "slug": "animoca-brands-portfolio",
+        "name": "Animoca Brands Portfolio",
+        "category": "CATEGORY"
+      }
+    ],
+    "selfReportedTags": [
+      "Collectibles & NFTs",
+      "Gaming",
+      "Metaverse",
+      "Polygon Ecosystem",
+      "Play To Earn",
+      "Animoca Brands Portfolio"
+    ],
+    "urls": {
+      "website": [
+        "https://www.rebelbots.com/"
+      ],
+      "technical_doc": [
+        "https://rebelbots.com/whitepaper"
+      ],
+      "explorer": [
+        "https://polygonscan.com/address/0xe26cda27c13f4f87cFFc2F437C5900b27eBb5bbB"
+      ],
+      "source_code": [],
+      "message_board": [],
+      "chat": [
+        "https://t.me/RebelBotsXoilWars",
+        "https://discord.com/invite/rebelbots"
+      ],
+      "announcement": [],
+      "reddit": [],
+      "facebook": [],
+      "twitter": [
+        "https://twitter.com/REBEL_BOTS"
+      ]
+    },
+    "volume": 161.80260968,
+    "volumeChangePercentage24h": 5.3873,
+    "cexVolume": 159.53684836,
+    "dexVolume": 2.26576132,
+    "statistics": {
+      "price": 0.00779776508162677,
+      "priceChangePercentage1h": -0.88649055,
+      "priceChangePercentage24h": 4.20835547,
+      "priceChangePercentage7d": 8.10012857,
+      "priceChangePercentage30d": 2.36970017,
+      "priceChangePercentage60d": -24.01692422,
+      "priceChangePercentage90d": -32.53392498,
+      "priceChangePercentage1y": -68.15139683,
+      "priceChangePercentageAll": -93.734115067671,
+      "marketCap": 961427.75,
+      "marketCapChangePercentage24h": 4.2084,
+      "fullyDilutedMarketCap": 2339329.52,
+      "fullyDilutedMarketCapChangePercentage24h": 4.21,
+      "circulatingSupply": 123295295.0,
+      "totalSupply": 251883090.0,
+      "maxSupply": 300000000.0,
+      "marketCapDominance": 0.0,
+      "rank": 1876,
+      "roi": -92.20275467,
+      "low24h": 0.00733037973567094,
+      "high24h": 0.007868416871138227,
+      "low7d": 0.007056464897841073,
+      "high7d": 0.007956214682372247,
+      "low30d": 0.00660182946742765,
+      "high30d": 0.00836064603332387,
+      "low90d": 0.00660182946742765,
+      "high90d": 0.012122178133919559,
+      "low52w": 0.005602278622544346,
+      "high52w": 0.05373147639917433,
+      "lowAllTime": 0.005602278622544346,
+      "highAllTime": 2.7830313512089444,
+      "lowAllTimeChangePercentage": 39.19,
+      "highAllTimeChangePercentage": -99.72,
+      "lowAllTimeTimestamp": "2024-08-09T10:54:00.000Z",
+      "highAllTimeTimestamp": "2022-03-22T18:37:00.000Z",
+      "lowYesterday": 0.00733037973567094,
+      "highYesterday": 0.007867940796556191,
+      "openYesterday": 0.007482457353084422,
+      "closeYesterday": 0.007867823634364668,
+      "priceChangePercentageYesterday": 5.15,
+      "volumeYesterday": 160.86,
+      "turnover": 0.00016829,
+      "ytdPriceChangePercentage": -74.1035,
+      "volumeRank": 7134,
+      "volumeMcRank": 7165,
+      "mcTotalNum": 10049,
+      "volumeTotalNum": 10049,
+      "volumeMcTotalNum": 10049
+    },
+    "quotes": [],
+    "platforms": [
+      {
+        "contractId": 3890,
+        "contractAddress": "0xe26cda27c13f4f87cFFc2F437C5900b27eBb5bbB",
+        "contractPlatform": "Polygon",
+        "contractPlatformId": 25,
+        "contractChainId": 137,
+        "contractRpcUrl": [
+          "https://rpc-mainnet.maticvigil.com"
+        ],
+        "contractNativeCurrencyName": "MATIC",
+        "contractNativeCurrencySymbol": "MATIC",
+        "contractNativeCurrencyDecimals": 18,
+        "contractBlockExplorerUrl": "https://polygonscan.com",
+        "contractExplorerUrl": "https://polygonscan.com/token/0xe26cda27c13f4f87cFFc2F437C5900b27eBb5bbB",
+        "contractDecimals": 18,
+        "platformCryptoId": 3890,
+        "sort": 0,
+        "wallets": []
+      }
+    ],
+    "relatedCoins": [
+      {
+        "id": 2513,
+        "name": "GoldMint",
+        "slug": "goldmint",
+        "price": 0.05065701161697734,
+        "priceChangePercentage24h": -0.83488657,
+        "priceChangePercentage7d": 21.70106268
+      },
+      {
+        "id": 4679,
+        "name": "Band Protocol",
+        "slug": "band-protocol",
+        "price": 1.2924689407590508,
+        "priceChangePercentage24h": -5.51284503,
+        "priceChangePercentage7d": 1.82102584
+      },
+      {
+        "id": 7083,
+        "name": "Uniswap",
+        "slug": "uniswap",
+        "price": 8.907804423933275,
+        "priceChangePercentage24h": -4.39447372,
+        "priceChangePercentage7d": -3.90346035
+      },
+      {
+        "id": 1414,
+        "name": "Firo",
+        "slug": "firo",
+        "price": 1.3454938776288508,
+        "priceChangePercentage24h": 0.21867821,
+        "priceChangePercentage7d": 4.03360084
+      },
+      {
+        "id": 1975,
+        "name": "Chainlink",
+        "slug": "chainlink",
+        "price": 14.028344717813509,
+        "priceChangePercentage24h": -5.25786687,
+        "priceChangePercentage7d": -2.46572024
+      },
+      {
+        "id": 7653,
+        "name": "Oasis",
+        "slug": "oasis-network",
+        "price": 0.08025331330873264,
+        "priceChangePercentage24h": -5.30717197,
+        "priceChangePercentage7d": -4.39563858
+      },
+      {
+        "id": 707,
+        "name": "Blocknet",
+        "slug": "blocknet",
+        "price": 0.017113298239738093,
+        "priceChangePercentage24h": -0.68391562,
+        "priceChangePercentage7d": -3.30053472
+      },
+      {
+        "id": 5864,
+        "name": "yearn.finance",
+        "slug": "yearn-finance",
+        "price": 6192.38803639104,
+        "priceChangePercentage24h": -4.43119421,
+        "priceChangePercentage7d": -11.362147
+      },
+      {
+        "id": 4279,
+        "name": "Solar",
+        "slug": "sxp",
+        "price": 0.36376553390538346,
+        "priceChangePercentage24h": 2.1116243,
+        "priceChangePercentage7d": 18.12789401
+      },
+      {
+        "id": 8043,
+        "name": "MAHA.xyz",
+        "slug": "mahadao",
+        "price": 0.9034865737660874,
+        "priceChangePercentage24h": -2.68820884,
+        "priceChangePercentage7d": -9.89747239
+      }
+    ],
+    "ico": {
+      "cryptoId": 18354,
+      "cryptoSymbol": "RBLS",
+      "status": "Ended",
+      "cryptoStatus": 8,
+      "name": "Rebel Bots",
+      "statistic": {
+        "tokensForSale": 1500000.0,
+        "raisedInUsd": 0.0
+      },
+      "stages": [
+        {
+          "start": "2022-03-05T00:00:46.000Z",
+          "end": "2022-03-05T23:59:46.000Z",
+          "status": "Ended",
+          "type": "IDO",
+          "tokenForSale": 1500000,
+          "icoPriceUsd": "0.1",
+          "personalCap": "TBA",
+          "distributedInIcoPercentage": 0,
+          "access": "Public",
+          "comments": "https://hub.gamefi.org/#/buy-token/122",
+          "fundraisingGoalUsd": "150000",
+          "whereToBuyName": "GameFi",
+          "whereToBuyUrl": "https://hub.gamefi.org/#/buy-token/122",
+          "acceptedCurrency": ""
+        }
+      ]
+    },
+    "isAudited": true,
+    "auditInfos": [
+      {
+        "coinId": "18354",
+        "auditor": "CertiK",
+        "auditStatus": 2,
+        "auditTime": "2022-01-05T22:03:34.000Z",
+        "reportUrl": "https://cmc.certik-skynet.com/redirect?project=rebel-bots"
+      }
+    ],
+    "holders": {},
+    "displayTV": 0,
+    "isInfiniteMaxSupply": 0,
+    "tvCoinSymbol": "RBLS",
+    "supportWalletInfos": [],
+    "holdersFlag": false,
+    "ratingsFlag": false,
+    "analysisFlag": false,
+    "socialsFlag": true,
+    "cryptoRating": [
+      {
+        "type": "CertiK",
+        "score": 76.14,
+        "rating": 3.8,
+        "updateTime": "2024-11-17T00:00:00.000Z",
+        "link": "https://cmc.certik-skynet.com/redirect?project=rebel-bots&utm_source=CMC&utm_campaign=ScoreByCertiKLink"
+      },
+      {
+        "type": "Cyberscope",
+        "score": 64.0,
+        "rating": 3.2,
+        "updateTime": "2024-11-17T11:08:04.000Z",
+        "link": "https://www.cyberscope.io/audits/coin-rebel-bots"
+      },
+      {
+        "type": "Aggregate rating",
+        "score": 70.1,
+        "rating": 3.5,
+        "updateTime": "2024-11-18T01:00:00.179Z"
+      }
+    ],
+    "hasExtraInfoFlag": false,
+    "upcoming": {
+      "status": false
+    },
+    "annotationFlag": false,
+    "similarCoins": [
+      {
+        "id": 10630,
+        "symbol": "GOG"
+      },
+      {
+        "id": 4566,
+        "symbol": "XDB"
+      },
+      {
+        "id": 15585,
+        "symbol": "GF"
+      },
+      {
+        "id": 8420,
+        "symbol": "DAO"
+      },
+      {
+        "id": 3816,
+        "symbol": "VRA"
+      },
+      {
+        "id": 17145,
+        "symbol": "LOKA"
+      }
+    ]
+  },
+  "status": {
+    "timestamp": "2024-11-18T01:09:54.304Z",
+    "error_code": "0",
+    "error_message": "SUCCESS",
+    "elapsed": "12",
+    "credit_count": 0
+  }
+}

@@ -1,0 +1,186 @@
+{
+  "data": {
+    "id": 1899,
+    "name": "YOYOW",
+    "symbol": "YOYOW",
+    "slug": "yoyow",
+    "category": "coin",
+    "description": "YOYOW, or \u201cYou Own Your Own Words\u201d, is a blockchain-based network that aims to quantify participants\u2019 contributions and give reciprocal value to participants in the content creation space with decentralized consensus methods. The goal is to provide incentives and reciprocal returns to content producers, content supporters, curators, and consumers of the content ecosystem.",
+    "dateAdded": "2017-08-19T00:00:00.000Z",
+    "status": "untracked",
+    "notice": "",
+    "alertType": 2,
+    "alertLink": "",
+    "latestUpdateTime": "2023-04-19T18:30:00.000Z",
+    "watchCount": "5883",
+    "watchListRanking": -1,
+    "dateLaunched": "2017-05-20T00:00:00.000Z",
+    "latestAdded": false,
+    "launchPrice": 0.101731,
+    "tags": [
+      {
+        "slug": "media",
+        "name": "Media",
+        "category": "INDUSTRY"
+      },
+      {
+        "slug": "content-creation",
+        "name": "Content Creation",
+        "category": "INDUSTRY"
+      }
+    ],
+    "urls": {
+      "website": [
+        "https://yoyow.org/"
+      ],
+      "technical_doc": [
+        "https://yoyow.org/files/white-paper3_en.pdf"
+      ],
+      "explorer": [
+        "https://explorer.yoyow.org/"
+      ],
+      "source_code": [],
+      "message_board": [],
+      "chat": [
+        "https://t.me/HelloYOYOW"
+      ],
+      "announcement": [
+        "https://steemit.com/beyondbitcoin/@jademont/yoyow-crowdsale-completed-within-3-days-and-raised-about-2-000-btc"
+      ],
+      "reddit": [],
+      "facebook": [],
+      "twitter": [
+        "https://twitter.com/InfoYoyow"
+      ]
+    },
+    "volume": 0.0,
+    "volumeChangePercentage24h": 0.0,
+    "cexVolume": 0.0,
+    "dexVolume": 0.0,
+    "statistics": {
+      "priceChangePercentage1h": 0.0,
+      "priceChangePercentage24h": 0.0,
+      "priceChangePercentage7d": -54.2144287,
+      "priceChangePercentage30d": -97.23879549,
+      "priceChangePercentage60d": -96.64341891,
+      "priceChangePercentage90d": -94.7062149,
+      "priceChangePercentage1y": 0.0,
+      "marketCap": 35451.51,
+      "marketCapChangePercentage24h": 0.0085,
+      "fullyDilutedMarketCap": 71700.27,
+      "fullyDilutedMarketCapChangePercentage24h": 0.0,
+      "circulatingSupply": 0.0,
+      "totalSupply": 1083566209.9724,
+      "marketCapDominance": 0.0,
+      "turnover": 0.0,
+      "ytdPriceChangePercentage": -94.357
+    },
+    "quotes": [],
+    "relatedCoins": [
+      {
+        "id": 2513,
+        "name": "GoldMint",
+        "slug": "goldmint",
+        "price": 0.05065701161697734,
+        "priceChangePercentage24h": -0.83488657,
+        "priceChangePercentage7d": 21.70106268
+      },
+      {
+        "id": 4679,
+        "name": "Band Protocol",
+        "slug": "band-protocol",
+        "price": 1.2924689407590508,
+        "priceChangePercentage24h": -5.51284503,
+        "priceChangePercentage7d": 1.82102584
+      },
+      {
+        "id": 7083,
+        "name": "Uniswap",
+        "slug": "uniswap",
+        "price": 8.907804423933275,
+        "priceChangePercentage24h": -4.39447372,
+        "priceChangePercentage7d": -3.90346035
+      },
+      {
+        "id": 1414,
+        "name": "Firo",
+        "slug": "firo",
+        "price": 1.3454938776288508,
+        "priceChangePercentage24h": 0.21867821,
+        "priceChangePercentage7d": 4.03360084
+      },
+      {
+        "id": 1975,
+        "name": "Chainlink",
+        "slug": "chainlink",
+        "price": 14.028344717813509,
+        "priceChangePercentage24h": -5.25786687,
+        "priceChangePercentage7d": -2.46572024
+      },
+      {
+        "id": 7653,
+        "name": "Oasis",
+        "slug": "oasis-network",
+        "price": 0.08025331330873264,
+        "priceChangePercentage24h": -5.30717197,
+        "priceChangePercentage7d": -4.39563858
+      },
+      {
+        "id": 707,
+        "name": "Blocknet",
+        "slug": "blocknet",
+        "price": 0.017113298239738093,
+        "priceChangePercentage24h": -0.68391562,
+        "priceChangePercentage7d": -3.30053472
+      },
+      {
+        "id": 5864,
+        "name": "yearn.finance",
+        "slug": "yearn-finance",
+        "price": 6192.38803639104,
+        "priceChangePercentage24h": -4.43119421,
+        "priceChangePercentage7d": -11.362147
+      },
+      {
+        "id": 4279,
+        "name": "Solar",
+        "slug": "sxp",
+        "price": 0.36376553390538346,
+        "priceChangePercentage24h": 2.1116243,
+        "priceChangePercentage7d": 18.12789401
+      },
+      {
+        "id": 8043,
+        "name": "MAHA.xyz",
+        "slug": "mahadao",
+        "price": 0.9034865737660874,
+        "priceChangePercentage24h": -2.68820884,
+        "priceChangePercentage7d": -9.89747239
+      }
+    ],
+    "isAudited": false,
+    "holders": {},
+    "displayTV": 0,
+    "isInfiniteMaxSupply": 0,
+    "tvCoinSymbol": "YOYOW",
+    "supportWalletInfos": [],
+    "holdersFlag": false,
+    "ratingsFlag": false,
+    "analysisFlag": true,
+    "socialsFlag": true,
+    "cryptoRating": [],
+    "hasExtraInfoFlag": false,
+    "upcoming": {
+      "status": false
+    },
+    "annotationFlag": false,
+    "similarCoins": []
+  },
+  "status": {
+    "timestamp": "2024-11-18T01:10:05.845Z",
+    "error_code": "0",
+    "error_message": "SUCCESS",
+    "elapsed": "232",
+    "credit_count": 0
+  }
+}

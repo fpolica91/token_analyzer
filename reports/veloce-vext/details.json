@@ -1,0 +1,888 @@
+{
+  "data": {
+    "id": 27862,
+    "name": "Veloce",
+    "symbol": "VEXT",
+    "slug": "veloce-vext",
+    "category": "token",
+    "description": "### WHAT IS VEXT?\n\nVEXT is an ERC-20 governance and utility token that allows its holders to interact with various GameFi products within VEXTVERSE dApp (Veloce ecosystem). Holders can also transact across games and live sports features, receiving rewards like tokens, merchandise, tickets to real-world events and more. The dApp, powered by VEXT, developed in conjunction with Veloce partners, completes the brand transformation into a decentralised community and offers additional utility to onboard users and rewards early adopters.\n\n### WHAT IS VELOCE MEDIA GROUP?\n\nVeloce Media Group is the world's leading digital racing media network. It has entered the Web3 space with the launch of its dApp (VEXTVERSE) and governance & utility token (VEXT). The dApp utilises the token which empowers the Veloce community to influence and govern key decentralised assets within the Veloce brand, which includes Veloce Esports (a top gaming and racing platform) and Veloce Racing (the Extreme E championship team). With the largest digital racing audience globally, reaching 37+ million subscribers and 650M+ monthly views, Veloce is leveraging its extensive reach and credibility to promote mass adoption within Web3. \n\n### WHAT MAKES VEXT UNIQUE?\n\nVEXT is built on top of an existing gaming and sports media company that has been operating for 6+ years as a business, with an established audience, Intellectual Property (IP) and real-world sporting assets.\n\nVEXT is one of the first examples of disrupting the ownership model of traditional sporting and entertainment media groups. In today\u2019s world sport plays a pivotal role in society. Sports contains the largest and most passionate fanbase in the world. However, as the industry has evolved, teams have become more centralised, leaving fans left on the side. We want to empower the next generation of fandom amongst gamers and motorsport enthusiasts, and VEXT allows us to do just that!\n\n### HOW MANY VEXT ARE THERE IN CIRCULATION?\n\nThe all-time total available VEXT is 300,000,000 VEXT. The initial number of VEXT in circulation is forecast to be 17.28M VEXT. In addition to the VEXT circulating as per the above, Veloce has modelled a release of additional VEXT from Treasury, both to fund continued investment in the Vextverse and programmatically released governance rewards.\n\n### HOW IS THE VEXT NETWORK SECURED?\n\nVEXT is an ERC-20 token on both Polygon and Ethereum. Polygon is the leading scaling solution for Ethereum. Polygon provides for fast, low-cost and secure transactions on its side chains with finality achieved on the mainchain, Ethereum. The use of multiple side chains helps the network to achieve a high throughput of transactions. ERC-20 is a token standard most new tokens follow when publishing on EVM-compatible blockchains. Ethereum is one of the most popular blockchains and the go-to solution for many decentralized applications. As a result, it is secured by Ethereum\u2019s proof-of-stake (POS) consensus mechanism.\n\n### WHERE CAN YOU BUY VEXT?\n\nVEXT token can be bought directly through our on/off ramp provider partner when creating a custodial wallet in VEXTVERSE dApp (https://app.vextoken.io) or through various leading centralised and decentralised exchanges.",
+    "dateAdded": "2023-09-04T10:04:03.000Z",
+    "status": "active",
+    "subStatus": "normal",
+    "notice": "",
+    "alertType": 2,
+    "alertLink": "",
+    "latestUpdateTime": "2024-11-18T01:09:00.000Z",
+    "watchCount": "105894",
+    "watchListRanking": 464,
+    "dateLaunched": "2023-09-04T00:00:00.000Z",
+    "latestAdded": false,
+    "launchPrice": 0.4,
+    "tags": [
+      {
+        "slug": "platform",
+        "name": "Platform",
+        "category": "CATEGORY"
+      },
+      {
+        "slug": "sports",
+        "name": "Sports",
+        "category": "INDUSTRY"
+      },
+      {
+        "slug": "communications-social-media",
+        "name": "Communications & Social Media",
+        "category": "INDUSTRY"
+      },
+      {
+        "slug": "loyalty",
+        "name": "Loyalty",
+        "category": "INDUSTRY"
+      },
+      {
+        "slug": "gaming",
+        "name": "Gaming",
+        "category": "INDUSTRY"
+      },
+      {
+        "slug": "entertainment",
+        "name": "Entertainment",
+        "category": "INDUSTRY"
+      },
+      {
+        "slug": "dapp",
+        "name": "DApp",
+        "category": "CATEGORY"
+      },
+      {
+        "slug": "ethereum-ecosystem",
+        "name": "Ethereum Ecosystem",
+        "category": "PLATFORM"
+      },
+      {
+        "slug": "polygon-ecosystem",
+        "name": "Polygon Ecosystem",
+        "category": "PLATFORM"
+      },
+      {
+        "slug": "web3",
+        "name": "Web3",
+        "category": "INDUSTRY"
+      },
+      {
+        "slug": "real-world-assets",
+        "name": "Real World Assets",
+        "category": "CATEGORY"
+      }
+    ],
+    "selfReportedTags": [
+      "Platform",
+      "Services",
+      "Sports",
+      "Communications & Social Media",
+      "Content Creation",
+      "Entertainment",
+      "DAO",
+      "DApp",
+      "Ethereum Ecosystem",
+      "Software",
+      "Polygon Ecosystem",
+      "Web3"
+    ],
+    "selfReportedCirculatingSupply": "251447549.57",
+    "urls": {
+      "website": [
+        "https://www.velocemediagroup.com/vext",
+        "https://www.veloce.gg/"
+      ],
+      "technical_doc": [
+        "https://docs.velocemediagroup.com/whitepaper"
+      ],
+      "explorer": [
+        "https://etherscan.io/token/0xB2492E97a68a6E4B9E9a11B99F6C42E5aCCD38c7",
+        "https://polygonscan.com/token/0x27842334C55c01DDFE81Bf687425F906816c5141"
+      ],
+      "source_code": [],
+      "message_board": [
+        "https://www.velocemediagroup.com/news"
+      ],
+      "chat": [
+        "https://t.me/vextoken_community",
+        "https://t.me/vextoken"
+      ],
+      "announcement": [
+        "https://www.velocemediagroup.com/news"
+      ],
+      "reddit": [],
+      "facebook": [],
+      "twitter": [
+        "https://twitter.com/vextoken"
+      ]
+    },
+    "volume": 407629.02413776,
+    "volumeChangePercentage24h": 84.3696,
+    "cexVolume": 394020.5366096,
+    "dexVolume": 13608.48752816,
+    "statistics": {
+      "price": 0.0044975638165237145,
+      "priceChangePercentage1h": -0.07646645,
+      "priceChangePercentage24h": -1.29328253,
+      "priceChangePercentage7d": -0.27529472,
+      "priceChangePercentage30d": 5.72096543,
+      "priceChangePercentage60d": -14.94511223,
+      "priceChangePercentage90d": -39.67578023,
+      "priceChangePercentage1y": -98.71926042,
+      "priceChangePercentageAll": -99.303597062023,
+      "marketCap": 991581.84,
+      "marketCapChangePercentage24h": 0.299,
+      "fullyDilutedMarketCap": 1349269.14,
+      "fullyDilutedMarketCapChangePercentage24h": -1.29,
+      "circulatingSupply": 220470876.49,
+      "totalSupply": 300000000.0,
+      "maxSupply": 300000000.0,
+      "marketCapDominance": 0.0,
+      "rank": 1870,
+      "roi": -98.87562176,
+      "low24h": 0.004466087032291248,
+      "high24h": 0.005585926893366323,
+      "low7d": 0.004436668827355673,
+      "high7d": 0.005585926893366323,
+      "low30d": 0.003926196908819746,
+      "high30d": 0.005585926893366323,
+      "low90d": 0.003926196908819746,
+      "high90d": 0.00988043107226144,
+      "low52w": 0.003926196908819746,
+      "high52w": 0.501026415098521,
+      "lowAllTime": 0.003926196908819746,
+      "highAllTime": 0.7169465101476871,
+      "lowAllTimeChangePercentage": 14.55,
+      "highAllTimeChangePercentage": -99.37,
+      "lowAllTimeTimestamp": "2024-10-27T12:19:00.000Z",
+      "highAllTimeTimestamp": "2023-09-04T22:24:00.000Z",
+      "lowYesterday": 0.004466087032291248,
+      "highYesterday": 0.005585926893366323,
+      "openYesterday": 0.004556941898538146,
+      "closeYesterday": 0.004490341645285518,
+      "priceChangePercentageYesterday": -1.46,
+      "volumeYesterday": 405104.34,
+      "turnover": 0.41108964,
+      "ytdPriceChangePercentage": -98.7452,
+      "volumeRank": 1686,
+      "volumeMcRank": 736,
+      "mcTotalNum": 10049,
+      "volumeTotalNum": 10049,
+      "volumeMcTotalNum": 10049
+    },
+    "quotes": [],
+    "platforms": [
+      {
+        "contractId": 1027,
+        "contractAddress": "0xB2492E97a68a6E4B9E9a11B99F6C42E5aCCD38c7",
+        "contractPlatform": "Ethereum",
+        "contractPlatformId": 1,
+        "contractChainId": 1,
+        "contractRpcUrl": [
+          "https://bsc-dataseed1.binance.org",
+          "https://bsc-dataseed.binance.org/",
+          "https://bsc-dataseed1.binance.org:443"
+        ],
+        "contractNativeCurrencyName": "Ethereum",
+        "contractNativeCurrencySymbol": "ETH",
+        "contractNativeCurrencyDecimals": 18,
+        "contractBlockExplorerUrl": "https://etherscan.io",
+        "contractExplorerUrl": "https://etherscan.io/token/0xB2492E97a68a6E4B9E9a11B99F6C42E5aCCD38c7",
+        "contractDecimals": 18,
+        "platformCryptoId": 1027,
+        "sort": 0,
+        "wallets": [
+          {
+            "id": 9025
+          }
+        ]
+      },
+      {
+        "contractId": 3890,
+        "contractAddress": "0x27842334C55c01DDFE81Bf687425F906816c5141",
+        "contractPlatform": "Polygon",
+        "contractPlatformId": 25,
+        "contractChainId": 137,
+        "contractRpcUrl": [
+          "https://rpc-mainnet.maticvigil.com"
+        ],
+        "contractNativeCurrencyName": "MATIC",
+        "contractNativeCurrencySymbol": "MATIC",
+        "contractNativeCurrencyDecimals": 18,
+        "contractBlockExplorerUrl": "https://polygonscan.com",
+        "contractExplorerUrl": "https://polygonscan.com/token/0x27842334C55c01DDFE81Bf687425F906816c5141",
+        "contractDecimals": 18,
+        "platformCryptoId": 3890,
+        "sort": 0,
+        "wallets": [
+          {
+            "id": 9025
+          }
+        ]
+      }
+    ],
+    "relatedCoins": [
+      {
+        "id": 2513,
+        "name": "GoldMint",
+        "slug": "goldmint",
+        "price": 0.05065701161697734,
+        "priceChangePercentage24h": -0.83488657,
+        "priceChangePercentage7d": 21.70106268
+      },
+      {
+        "id": 4679,
+        "name": "Band Protocol",
+        "slug": "band-protocol",
+        "price": 1.2924689407590508,
+        "priceChangePercentage24h": -5.51284503,
+        "priceChangePercentage7d": 1.82102584
+      },
+      {
+        "id": 7083,
+        "name": "Uniswap",
+        "slug": "uniswap",
+        "price": 8.907804423933275,
+        "priceChangePercentage24h": -4.39447372,
+        "priceChangePercentage7d": -3.90346035
+      },
+      {
+        "id": 1414,
+        "name": "Firo",
+        "slug": "firo",
+        "price": 1.3454938776288508,
+        "priceChangePercentage24h": 0.21867821,
+        "priceChangePercentage7d": 4.03360084
+      },
+      {
+        "id": 1975,
+        "name": "Chainlink",
+        "slug": "chainlink",
+        "price": 14.028344717813509,
+        "priceChangePercentage24h": -5.25786687,
+        "priceChangePercentage7d": -2.46572024
+      },
+      {
+        "id": 7653,
+        "name": "Oasis",
+        "slug": "oasis-network",
+        "price": 0.08025331330873264,
+        "priceChangePercentage24h": -5.30717197,
+        "priceChangePercentage7d": -4.39563858
+      },
+      {
+        "id": 707,
+        "name": "Blocknet",
+        "slug": "blocknet",
+        "price": 0.017113298239738093,
+        "priceChangePercentage24h": -0.68391562,
+        "priceChangePercentage7d": -3.30053472
+      },
+      {
+        "id": 5864,
+        "name": "yearn.finance",
+        "slug": "yearn-finance",
+        "price": 6192.38803639104,
+        "priceChangePercentage24h": -4.43119421,
+        "priceChangePercentage7d": -11.362147
+      },
+      {
+        "id": 4279,
+        "name": "Solar",
+        "slug": "sxp",
+        "price": 0.36376553390538346,
+        "priceChangePercentage24h": 2.1116243,
+        "priceChangePercentage7d": 18.12789401
+      },
+      {
+        "id": 8043,
+        "name": "MAHA.xyz",
+        "slug": "mahadao",
+        "price": 0.9034865737660874,
+        "priceChangePercentage24h": -2.68820884,
+        "priceChangePercentage7d": -9.89747239
+      }
+    ],
+    "isAudited": false,
+    "holders": {
+      "holderCount": 331,
+      "holderList": [
+        {
+          "address": "0x6a955df8f99d2a3054f9e270658b8f4bf4fdde08",
+          "balance": 11108917.15,
+          "share": 35.86
+        },
+        {
+          "address": "0x48ec5560bfd59b95859965cce48cc244cfdf6b0c",
+          "balance": 10860067.97693117,
+          "share": 35.06
+        },
+        {
+          "address": "0x0d0707963952f2fba59dd06f2b425ace40b492fe",
+          "balance": 2142388.8612396317,
+          "share": 6.92
+        },
+        {
+          "address": "0x30d769d73171b46e79409f54e83ecfd44aa2241c",
+          "balance": 1009024.7339999889,
+          "share": 3.26
+        },
+        {
+          "address": "0xec8ec848f74e1470a60170902222f5926af70d31",
+          "balance": 983079.39,
+          "share": 3.17
+        },
+        {
+          "address": "0x15bf7ca8b1ee7c5672214cd713da6a1a72c483f8",
+          "balance": 960727.16159899,
+          "share": 3.1
+        },
+        {
+          "address": "0xeddf2a2f27bb7ef7212dd239d9308b6bd1cdd59c",
+          "balance": 559209.93,
+          "share": 1.81
+        },
+        {
+          "address": "0x5a3130de74d50facc47ad3dbe8c1dd297db89030",
+          "balance": 417110.106841,
+          "share": 1.35
+        },
+        {
+          "address": "0x1085c710cf5113fcc9db34978e70c98332bb6b3a",
+          "balance": 397623.98,
+          "share": 1.28
+        },
+        {
+          "address": "0x72e5263ff33d2494692d7f94a758aa9f82062f73",
+          "balance": 348604.8505724026,
+          "share": 1.13
+        },
+        {
+          "address": "0xac74320fb08274a864e459186098371bdcdca228",
+          "balance": 339687.1359,
+          "share": 1.1
+        },
+        {
+          "address": "0x8e93cb3564dbec88e09b58296895fcabcd1641eb",
+          "balance": 312542.0423,
+          "share": 1.01
+        },
+        {
+          "address": "0x2070dd16c423f1ef10b7f998e3b8f8b75616c500",
+          "balance": 200000.00758310113,
+          "share": 0.65
+        },
+        {
+          "address": "0xb8001c3ec9aa1985f6c747e25c28324e4a361ec1",
+          "balance": 171335.91662451724,
+          "share": 0.55
+        },
+        {
+          "address": "0xf619e6345e8270edf68d45448ea05ba94d69f4c6",
+          "balance": 169873.4733,
+          "share": 0.55
+        },
+        {
+          "address": "0xdd5c39fac0969a44a5bd12a71feb7c041a6ef605",
+          "balance": 128809.62549215625,
+          "share": 0.42
+        },
+        {
+          "address": "0x39f6a6c85d39d5abad8a398310c52e7c374f2ba3",
+          "balance": 122644.83634459249,
+          "share": 0.4
+        },
+        {
+          "address": "0xc2f7144eea2617dd0969fb09cdd16be3f932ccaf",
+          "balance": 49367.69738341562,
+          "share": 0.16
+        },
+        {
+          "address": "0x62f45e767979ba4a31127a1b58724b05794c16ec",
+          "balance": 48061.68,
+          "share": 0.16
+        },
+        {
+          "address": "0x502a0944b9342b8951606e5889c34e3b2e90277c",
+          "balance": 30454.26479601313,
+          "share": 0.1
+        },
+        {
+          "address": "0x13307b8854a95946b54a904100afd0767a7a577b",
+          "balance": 24885.561196043767,
+          "share": 0.08
+        },
+        {
+          "address": "0xc2745a5c5e6047c9256f8009bf364d493373a598",
+          "balance": 23424.11142497798,
+          "share": 0.08
+        },
+        {
+          "address": "0xd54157fbca06b6ff9e08aff7e59134077d6c185f",
+          "balance": 20782.06571942338,
+          "share": 0.07
+        },
+        {
+          "address": "0xaa87ad02698fef3fe9bbb49f3e0a1a492c8bcc8c",
+          "balance": 19828.621101703455,
+          "share": 0.06
+        },
+        {
+          "address": "0x2705502283c52ec0d8473df943fa2254faf7fb9f",
+          "balance": 18575.695496791548,
+          "share": 0.06
+        },
+        {
+          "address": "0x64693b5877bae23d651ce92046a1829d397b9378",
+          "balance": 17000.0,
+          "share": 0.05
+        },
+        {
+          "address": "0xce459d9cd68b57262cc2604e608e00c353ae00ef",
+          "balance": 16594.308014902133,
+          "share": 0.05
+        },
+        {
+          "address": "0x866861d1952fa010c2a5d0264947c5d097aa838f",
+          "balance": 16004,
+          "share": 0.05
+        },
+        {
+          "address": "0x0cafac05a3a7f7e8314f1a528513b703e22b3ef3",
+          "balance": 15000.0,
+          "share": 0.05
+        },
+        {
+          "address": "0x84fc489b5a244b8557e13b1fc3a8ed5f4a1431d3",
+          "balance": 15000.0,
+          "share": 0.05
+        },
+        {
+          "address": "0x23a32f1dad2dd807d8957e8faac51d5d1bab15ef",
+          "balance": 14567.9678186,
+          "share": 0.05
+        },
+        {
+          "address": "0x651c1018f8ecdcc57d24ea20dc0f4b46209e6d2e",
+          "balance": 13419.93074399,
+          "share": 0.04
+        },
+        {
+          "address": "0x7089a3bb716092ed9f5eef3496199997f58d3b8b",
+          "balance": 13294.027646433335,
+          "share": 0.04
+        },
+        {
+          "address": "0xa450941a985982e4a1fe4de6e6d9fe305b16d45f",
+          "balance": 13211.096422793677,
+          "share": 0.04
+        },
+        {
+          "address": "0x7eb6079b89593eae6b3c6c69f464b953041f1c76",
+          "balance": 12888.412189850795,
+          "share": 0.04
+        },
+        {
+          "address": "0xd7d2ce5627b8fcd45a2304f380e21113a3186f4e",
+          "balance": 12284.697767567137,
+          "share": 0.04
+        },
+        {
+          "address": "0x0c0ef39e407240835396042a34c8a8cb0c70c1a3",
+          "balance": 10507.008992572286,
+          "share": 0.03
+        },
+        {
+          "address": "0xadaf0da2f42bf54e2ccf455f795a04ecd744138b",
+          "balance": 10149.650383,
+          "share": 0.03
+        },
+        {
+          "address": "0x87752f318b4da8c0703deb11f2022ffbe57f4445",
+          "balance": 10060.58045774,
+          "share": 0.03
+        },
+        {
+          "address": "0x39ea50b52c7965a2c07c73b3a211315dbe090610",
+          "balance": 10000.0,
+          "share": 0.03
+        },
+        {
+          "address": "0xde7adbb368c2616df8c5c0e986933bee8f660add",
+          "balance": 9842,
+          "share": 0.03
+        },
+        {
+          "address": "0x94e45894da1878a871dc74d951fd263cc565545e",
+          "balance": 9478.549507722455,
+          "share": 0.03
+        },
+        {
+          "address": "0xbb4d1dc5c1abec4ea11166ec97e714862863ad1d",
+          "balance": 8857.33452145,
+          "share": 0.03
+        },
+        {
+          "address": "0xbdf0857479df33377c291397ed2e22fec92189e8",
+          "balance": 8659.989273048894,
+          "share": 0.03
+        },
+        {
+          "address": "0x721aea384dd95cb25b1017992e84b97879129375",
+          "balance": 8396.783646219277,
+          "share": 0.03
+        },
+        {
+          "address": "0x4902a46363bbfe7587293c65df693e6ab5e50219",
+          "balance": 8156.087578372435,
+          "share": 0.03
+        },
+        {
+          "address": "0x3214bff63cff2e42df5b7b934468e7ffe601f414",
+          "balance": 7628.443655989464,
+          "share": 0.02
+        },
+        {
+          "address": "0x8393ff970366ed0f23fa813a60560e84e3ef997e",
+          "balance": 7464.498664009724,
+          "share": 0.02
+        },
+        {
+          "address": "0x0e865019922740da4ea10ce7b0da945426730367",
+          "balance": 7447.1196177546,
+          "share": 0.02
+        },
+        {
+          "address": "0x5271a6d57faf7ce80ee110ac11d7d80c45a64cac",
+          "balance": 7277.183266518462,
+          "share": 0.02
+        },
+        {
+          "address": "0x1be69ffc0e218fa32bd9d1224ae1a8605d3374c2",
+          "balance": 6599.022734559559,
+          "share": 0.02
+        },
+        {
+          "address": "0x39889ebae2bcc641f9fea9646ec668e4987534bf",
+          "balance": 6460.580875948385,
+          "share": 0.02
+        },
+        {
+          "address": "0xb0f6c122e24aadab0c622224bd0eaea368a1e9b3",
+          "balance": 6420.625420418994,
+          "share": 0.02
+        },
+        {
+          "address": "0xee9d945fc461f21d7f6b4f9e0d1708da42749b4d",
+          "balance": 6096.41303772774,
+          "share": 0.02
+        },
+        {
+          "address": "0x94d8d121cc937837807bb9c9f914014ea64a760d",
+          "balance": 5613.929985562389,
+          "share": 0.02
+        },
+        {
+          "address": "0x0ec309582baf79d4475e85f1f3d4da4208519bbe",
+          "balance": 5555,
+          "share": 0.02
+        },
+        {
+          "address": "0xb6f481b221b15401d2e411ebf0940be75118c0fa",
+          "balance": 5188.100894876407,
+          "share": 0.02
+        },
+        {
+          "address": "0x54c58196dea40e442ff8cc4d445bb6ae5efa1d2a",
+          "balance": 5068.332015396108,
+          "share": 0.02
+        },
+        {
+          "address": "0xd1515029f6ffe2e852149b3ce90eb2334ccff6b9",
+          "balance": 4942.964381391254,
+          "share": 0.02
+        },
+        {
+          "address": "0xbaf3d7ebb081f009071006eda62039144f9e63ad",
+          "balance": 4857.713423,
+          "share": 0.02
+        },
+        {
+          "address": "0x6a5b80a7d867b539b0af192718d7ca2888cf63d7",
+          "balance": 4236.055606339195,
+          "share": 0.01
+        },
+        {
+          "address": "0x2872de71b0aaba76adae1416d2951b9f1ffc438c",
+          "balance": 4010.4686841899775,
+          "share": 0.01
+        },
+        {
+          "address": "0xbc0030f19a16efc212977fc180ef5c1220e5a57f",
+          "balance": 4000.0,
+          "share": 0.01
+        },
+        {
+          "address": "0xc3084a2c7921ffb952fa0c75de61da95b7c0bdba",
+          "balance": 3703.9653780666454,
+          "share": 0.01
+        },
+        {
+          "address": "0x8b4573f1d42cf0072b93f3bec16d1cdfd004e7ec",
+          "balance": 3361.856846492183,
+          "share": 0.01
+        },
+        {
+          "address": "0x8477dac5216ef20a38443f3640414abb39bdc988",
+          "balance": 3136.17610094743,
+          "share": 0.01
+        },
+        {
+          "address": "0xc7d3e036d36a169cb1045db0d50418e87112f865",
+          "balance": 2798.920105121673,
+          "share": 0.01
+        },
+        {
+          "address": "0x2d7fdf1b2af4a1d7892c29d4c78744b0dbe502cd",
+          "balance": 2731.7160047589396,
+          "share": 0.01
+        },
+        {
+          "address": "0xf329f579fd25fa637445cb4ceb42dd7cc6d6fe9a",
+          "balance": 2722.7311602620284,
+          "share": 0.01
+        },
+        {
+          "address": "0x9323d3659d0fe86bec58206d32f9b0cac6c119e9",
+          "balance": 2671.486117369339,
+          "share": 0.01
+        },
+        {
+          "address": "0x796ac191d5477ead36e178c1f1c991d839ad2087",
+          "balance": 2649.4677709114335,
+          "share": 0.01
+        },
+        {
+          "address": "0x6e21c9ed431c46c0abbdf6b856629063ca7395dc",
+          "balance": 2502.686001301585,
+          "share": 0.01
+        },
+        {
+          "address": "0x873b73e38d5ef6db3d2a07ee0e0ebe9710154ea4",
+          "balance": 2452.9394357511187,
+          "share": 0.01
+        },
+        {
+          "address": "0x36954082f27c840a2cab972d04d16c32e6abfb21",
+          "balance": 2428.303539430664,
+          "share": 0.01
+        },
+        {
+          "address": "0x20fd529330934dad52b4449b32e180b9116016ac",
+          "balance": 2421.99983,
+          "share": 0.01
+        },
+        {
+          "address": "0x5ff8484606d2c0a7c47c77d9fa6ca94e33cac227",
+          "balance": 2398.190488800976,
+          "share": 0.01
+        },
+        {
+          "address": "0x2f9272fe4e122761d948d1c2e09dcc67a3272ce9",
+          "balance": 2393.462887986183,
+          "share": 0.01
+        },
+        {
+          "address": "0x2b9d1467cca33ff938d5065c693fcc8f886dd9ea",
+          "balance": 2391.584354500936,
+          "share": 0.01
+        },
+        {
+          "address": "0xcc3d40255b828414591ca5f3c41dad0d6a74040e",
+          "balance": 2294.918963097714,
+          "share": 0.01
+        },
+        {
+          "address": "0xc41c774a0614a0699d6e75e1840d8a9504527199",
+          "balance": 2224.6858271779206,
+          "share": 0.01
+        },
+        {
+          "address": "0xbe00ed39e9935071fa0d2b3cfff7ea312c888aef",
+          "balance": 2198.519481233755,
+          "share": 0.01
+        },
+        {
+          "address": "0xa851906795263bc4237ee9d1b5dc128067832828",
+          "balance": 2105.181801359128,
+          "share": 0.01
+        },
+        {
+          "address": "0x0db605eaa43ff7f44ca29f8b63930b22292cb30f",
+          "balance": 2027.558922612751,
+          "share": 0.01
+        },
+        {
+          "address": "0x7eb5f70aa585f59a4443e5bb55676fb6ba29ed82",
+          "balance": 2020.8976429136185,
+          "share": 0.01
+        },
+        {
+          "address": "0xc76c95a85bb94257de19d6007c329ec3e40b5e5c",
+          "balance": 2000.0,
+          "share": 0.01
+        },
+        {
+          "address": "0x6cc79d69c5faa686297ac878c96e09a47707b9cc",
+          "balance": 2000.0,
+          "share": 0.01
+        },
+        {
+          "address": "0x1355bc2eb51f08b0aa6dbefd8732bfd12b663d09",
+          "balance": 1976.553290928409,
+          "share": 0.01
+        },
+        {
+          "address": "0xfeefef0bc3ae78de993086eab91c45461e387d28",
+          "balance": 1935.2423529156479,
+          "share": 0.01
+        },
+        {
+          "address": "0x6c00feacc3405ee5c5fbd62383bcddffd765bd49",
+          "balance": 1922.0776078098604,
+          "share": 0.01
+        },
+        {
+          "address": "0xbecc062d974ea9933c41388abf733d1a11163eb7",
+          "balance": 1912.02,
+          "share": 0.01
+        },
+        {
+          "address": "0xa7db690d8e49ea6674d058178da6b4fb08e5bd70",
+          "balance": 1872.017945649931,
+          "share": 0.01
+        },
+        {
+          "address": "0x88e3aed068e8f793d07e78057de8a292561e9e17",
+          "balance": 1867.3958412700965,
+          "share": 0.01
+        },
+        {
+          "address": "0xfabc5234e84ff000ac1a46dfd7071da88200fbc2",
+          "balance": 1801.1025811782065,
+          "share": 0.01
+        },
+        {
+          "address": "0xdcbc0c22eb301fd12266892bdc21b316b88f494a",
+          "balance": 1796.64021018435,
+          "share": 0.01
+        },
+        {
+          "address": "0xc01fde615a687f8f7cbc88594c761c6892dad307",
+          "balance": 1770.1494287146397,
+          "share": 0.01
+        },
+        {
+          "address": "0x302c66bf0dc3b0f8f15088fab908380ab54ea02d",
+          "balance": 1757.757994582245,
+          "share": 0.01
+        },
+        {
+          "address": "0xd6687b4b4582a55e17ea0b41db73261a727ae1dc",
+          "balance": 1752.6936483692139,
+          "share": 0.01
+        },
+        {
+          "address": "0xc25c965e35b2c12c6711e6d0f1910c78633fae58",
+          "balance": 1699.3794734679848,
+          "share": 0.01
+        },
+        {
+          "address": "0x86088c26697b668f953940bc070e8c3266bbd496",
+          "balance": 1688.5360456262645,
+          "share": 0.01
+        },
+        {
+          "address": "0x2b67f0fb619c08e1a17356c9d7a5071e0defc988",
+          "balance": 1617.8633793385684,
+          "share": 0.01
+        }
+      ],
+      "topTenHolderRatio": 92.94,
+      "topTwentyHolderRatio": 98.04,
+      "topFiftyHolderRatio": 99.27,
+      "topHundredHolderRatio": 99.87
+    },
+    "displayTV": 1,
+    "isInfiniteMaxSupply": 0,
+    "tvCoinSymbol": "VEXT",
+    "supportWalletInfos": [],
+    "holdersFlag": true,
+    "ratingsFlag": false,
+    "analysisFlag": false,
+    "socialsFlag": true,
+    "cryptoRating": [
+      {
+        "type": "CertiK",
+        "score": 68.4,
+        "rating": 3.4,
+        "updateTime": "2024-11-17T00:00:00.000Z",
+        "link": "https://cmc.certik-skynet.com/redirect?project=veloce-vext&utm_source=CMC&utm_campaign=ScoreByCertiKLink"
+      },
+      {
+        "type": "Cyberscope",
+        "score": 63.0,
+        "rating": 3.2,
+        "updateTime": "2024-11-17T09:50:59.000Z",
+        "link": "https://www.cyberscope.io/audits/coin-veloce-vext"
+      },
+      {
+        "type": "Aggregate rating",
+        "score": 65.7,
+        "rating": 3.3,
+        "updateTime": "2024-11-18T01:00:00.219Z"
+      }
+    ],
+    "hasExtraInfoFlag": false,
+    "upcoming": {
+      "status": false
+    },
+    "annotationFlag": false,
+    "similarCoins": [
+      {
+        "id": 22289,
+        "symbol": "MYRIA"
+      },
+      {
+        "id": 22710,
+        "symbol": "VIDT"
+      },
+      {
+        "id": 3035,
+        "symbol": "BST"
+      },
+      {
+        "id": 27565,
+        "symbol": "ARKM"
+      },
+      {
+        "id": 28675,
+        "symbol": "COQ"
+      },
+      {
+        "id": 29555,
+        "symbol": "PORTAL"
+      }
+    ]
+  },
+  "status": {
+    "timestamp": "2024-11-18T01:09:53.626Z",
+    "error_code": "0",
+    "error_message": "SUCCESS",
+    "elapsed": "14",
+    "credit_count": 0
+  }
+}

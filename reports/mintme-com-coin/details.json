@@ -1,0 +1,333 @@
+{
+  "data": {
+    "id": 3361,
+    "name": "MintMe.com Coin",
+    "symbol": "MINTME",
+    "slug": "mintme-com-coin",
+    "category": "coin",
+    "description": "Launched on 8 May 2018, MintMe Coin aims to allow everyone to create their own coin for free at mintme.com with the click of a button. MintMe Coin was launched as Webchain and later rebranded to better represent the focus of the coin. MintMe Coin has an egalitarian approach to mining, which is why it was created as a CPU minable coin to be mined via websites and on devices with computational resources (Internet of Things). MintMe encourages people to help others through mutually-beneficial donations.",
+    "dateAdded": "2018-09-30T00:00:00.000Z",
+    "status": "active",
+    "subStatus": "normal",
+    "notice": "",
+    "alertType": 2,
+    "alertLink": "",
+    "latestUpdateTime": "2024-11-18T01:09:00.000Z",
+    "watchCount": "12293",
+    "watchListRanking": 2009,
+    "dateLaunched": "2018-05-08T00:00:00.000Z",
+    "latestAdded": false,
+    "launchPrice": 0.0016428,
+    "tags": [
+      {
+        "slug": "mineable",
+        "name": "Mineable",
+        "category": "OTHERS"
+      },
+      {
+        "slug": "memes",
+        "name": "Memes",
+        "category": "INDUSTRY"
+      }
+    ],
+    "selfReportedTags": [
+      "Memes",
+      "Presale Memes"
+    ],
+    "urls": {
+      "website": [
+        "https://www.mintme.com/"
+      ],
+      "technical_doc": [
+        "https://github.com/mintme-com/wiki/wiki/White-Paper"
+      ],
+      "explorer": [
+        "https://www.mintme.com/explorer/home"
+      ],
+      "source_code": [
+        "https://github.com/mintme-com"
+      ],
+      "message_board": [
+        "https://www.mintme.com/coin/news"
+      ],
+      "chat": [
+        "https://discord.com/invite/uuZXhCn",
+        "https://t.me/joinchat/Hzio4lCr-95bHcbB1-RX9Q"
+      ],
+      "announcement": [
+        "https://bitcointalk.org/index.php?topic=3649170.0;all"
+      ],
+      "reddit": [
+        "https://reddit.com/r/MintMeCom/"
+      ],
+      "facebook": [
+        "https://www.facebook.com/mintmeproject"
+      ],
+      "twitter": [
+        "https://twitter.com/mintmeproject"
+      ]
+    },
+    "volume": 264.83251381,
+    "volumeChangePercentage24h": 669.68,
+    "cexVolume": 264.83251381,
+    "dexVolume": 0.0,
+    "statistics": {
+      "price": 0.004120367300868515,
+      "priceChangePercentage1h": 0.00238095,
+      "priceChangePercentage24h": -0.02746809,
+      "priceChangePercentage7d": -8.34757911,
+      "priceChangePercentage30d": -22.23714049,
+      "priceChangePercentage60d": -13.97003781,
+      "priceChangePercentage90d": -19.28188273,
+      "priceChangePercentage1y": -27.23919645,
+      "priceChangePercentageAll": 150.813690094261,
+      "marketCap": 764699.56,
+      "marketCapChangePercentage24h": -0.0275,
+      "fullyDilutedMarketCap": 2323887.16,
+      "fullyDilutedMarketCapChangePercentage24h": -0.03,
+      "circulatingSupply": 185590144.337203,
+      "totalSupply": 542125600.1702707,
+      "maxSupply": 564000000.0,
+      "marketCapDominance": 0.0,
+      "rank": 1956,
+      "roi": 150.81369009,
+      "low24h": 0.004119121437327146,
+      "high24h": 0.004201201597924433,
+      "low7d": 0.003994883111991992,
+      "high7d": 0.004510448881218905,
+      "low30d": 0.003013270890903995,
+      "high30d": 0.006008840730124155,
+      "low90d": 0.002958075096721172,
+      "high90d": 0.007998368217891271,
+      "low52w": 0.002000518924516142,
+      "high52w": 0.009508495122176091,
+      "lowAllTime": 0.0,
+      "highAllTime": 0.10648523591438647,
+      "lowAllTimeChangePercentage": 0,
+      "highAllTimeChangePercentage": -96.13,
+      "lowAllTimeTimestamp": "2021-03-02T06:04:04.000Z",
+      "highAllTimeTimestamp": "2022-10-29T19:10:00.000Z",
+      "lowYesterday": 0.004119121437327146,
+      "highYesterday": 0.004201201597924433,
+      "openYesterday": 0.004121208176595027,
+      "closeYesterday": 0.004120952469472585,
+      "priceChangePercentageYesterday": -0.01,
+      "volumeYesterday": 265.94,
+      "turnover": 0.00034632,
+      "ytdPriceChangePercentage": -5.3937,
+      "volumeRank": 6871,
+      "volumeMcRank": 6964,
+      "mcTotalNum": 10049,
+      "volumeTotalNum": 10049,
+      "volumeMcTotalNum": 10049
+    },
+    "quotes": [],
+    "relatedCoins": [
+      {
+        "id": 2513,
+        "name": "GoldMint",
+        "slug": "goldmint",
+        "price": 0.05065701161697734,
+        "priceChangePercentage24h": -0.83488657,
+        "priceChangePercentage7d": 21.70106268
+      },
+      {
+        "id": 4679,
+        "name": "Band Protocol",
+        "slug": "band-protocol",
+        "price": 1.2924689407590508,
+        "priceChangePercentage24h": -5.51284503,
+        "priceChangePercentage7d": 1.82102584
+      },
+      {
+        "id": 7083,
+        "name": "Uniswap",
+        "slug": "uniswap",
+        "price": 8.907804423933275,
+        "priceChangePercentage24h": -4.39447372,
+        "priceChangePercentage7d": -3.90346035
+      },
+      {
+        "id": 1414,
+        "name": "Firo",
+        "slug": "firo",
+        "price": 1.3454938776288508,
+        "priceChangePercentage24h": 0.21867821,
+        "priceChangePercentage7d": 4.03360084
+      },
+      {
+        "id": 1975,
+        "name": "Chainlink",
+        "slug": "chainlink",
+        "price": 14.028344717813509,
+        "priceChangePercentage24h": -5.25786687,
+        "priceChangePercentage7d": -2.46572024
+      },
+      {
+        "id": 7653,
+        "name": "Oasis",
+        "slug": "oasis-network",
+        "price": 0.08025331330873264,
+        "priceChangePercentage24h": -5.30717197,
+        "priceChangePercentage7d": -4.39563858
+      },
+      {
+        "id": 707,
+        "name": "Blocknet",
+        "slug": "blocknet",
+        "price": 0.017113298239738093,
+        "priceChangePercentage24h": -0.68391562,
+        "priceChangePercentage7d": -3.30053472
+      },
+      {
+        "id": 5864,
+        "name": "yearn.finance",
+        "slug": "yearn-finance",
+        "price": 6192.38803639104,
+        "priceChangePercentage24h": -4.43119421,
+        "priceChangePercentage7d": -11.362147
+      },
+      {
+        "id": 4279,
+        "name": "Solar",
+        "slug": "sxp",
+        "price": 0.36376553390538346,
+        "priceChangePercentage24h": 2.1116243,
+        "priceChangePercentage7d": 18.12789401
+      },
+      {
+        "id": 8043,
+        "name": "MAHA.xyz",
+        "slug": "mahadao",
+        "price": 0.9034865737660874,
+        "priceChangePercentage24h": -2.68820884,
+        "priceChangePercentage7d": -9.89747239
+      }
+    ],
+    "isAudited": false,
+    "holders": {
+      "holderCount": 10,
+      "holderList": [
+        {
+          "address": "0x87a8b5b248b0d3d00f8182512d8b262e8e027c74",
+          "balance": 47569.569492,
+          "share": 40.31
+        },
+        {
+          "address": "0xebe31e4c0e4fb9e288cb523b0017bfdc550c3ce7",
+          "balance": 30539.03617063595,
+          "share": 25.88
+        },
+        {
+          "address": "0x3ff37b256c0de946c301f78db00c68d994143dff",
+          "balance": 24943.298780933907,
+          "share": 21.14
+        },
+        {
+          "address": "0x0cf44962596a884d8cc28bc1ef767352eab591e7",
+          "balance": 10889.411328237124,
+          "share": 9.23
+        },
+        {
+          "address": "0x7e2bdd0837a497513a4650ac477adf7475d87ece",
+          "balance": 1818.8026668528692,
+          "share": 1.54
+        },
+        {
+          "address": "0x1f636f4388399fb4987288daa2d3f1ff7084a463",
+          "balance": 1559.7072954032592,
+          "share": 1.32
+        },
+        {
+          "address": "0x3c5ae2b58c8a6c7b6afcabe41a5863cba545f032",
+          "balance": 680.424538328424,
+          "share": 0.58
+        },
+        {
+          "address": "0x169b0a0af452fe66ce28fdd4090652dd67444fb4",
+          "balance": 8.02028104246371,
+          "share": 0.01
+        },
+        {
+          "address": "0xd1f02f69b9ca9fd4ac52fed6c55db92c8f81ce90",
+          "balance": 0.2149828693497831,
+          "share": 0
+        },
+        {
+          "address": "0x65a8f07bd9a8598e1b5b6c0a88f4779dbc077675",
+          "balance": 0.04003148262910726,
+          "share": 0
+        }
+      ],
+      "topTenHolderRatio": 100.01
+    },
+    "displayTV": 0,
+    "isInfiniteMaxSupply": 0,
+    "tvCoinSymbol": "MINTME",
+    "supportWalletInfos": [],
+    "holdersFlag": true,
+    "ratingsFlag": false,
+    "analysisFlag": false,
+    "socialsFlag": true,
+    "cryptoRating": [
+      {
+        "type": "CertiK",
+        "score": 74.41,
+        "rating": 3.7,
+        "updateTime": "2024-11-17T00:00:00.000Z",
+        "link": "https://cmc.certik-skynet.com/redirect?project=mintme-com-coin&utm_source=CMC&utm_campaign=ScoreByCertiKLink"
+      },
+      {
+        "type": "Cyberscope",
+        "score": 61.0,
+        "rating": 3.1,
+        "updateTime": "2024-11-17T10:57:42.000Z",
+        "link": "https://www.cyberscope.io/audits/coin-mintme-com-coin"
+      },
+      {
+        "type": "Aggregate rating",
+        "score": 67.7,
+        "rating": 3.4,
+        "updateTime": "2024-11-18T01:00:00.186Z"
+      }
+    ],
+    "hasExtraInfoFlag": false,
+    "upcoming": {
+      "status": false
+    },
+    "annotationFlag": false,
+    "similarCoins": [
+      {
+        "id": 3625,
+        "symbol": "EQUAD"
+      },
+      {
+        "id": 1669,
+        "symbol": "HMQ"
+      },
+      {
+        "id": 2717,
+        "symbol": "BOUTS"
+      },
+      {
+        "id": 3334,
+        "symbol": "XCASH"
+      },
+      {
+        "id": 2934,
+        "symbol": "KAN"
+      },
+      {
+        "id": 2540,
+        "symbol": "LCC"
+      }
+    ]
+  },
+  "status": {
+    "timestamp": "2024-11-18T01:10:01.577Z",
+    "error_code": "0",
+    "error_message": "SUCCESS",
+    "elapsed": "13",
+    "credit_count": 0
+  }
+}

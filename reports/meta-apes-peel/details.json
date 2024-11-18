@@ -1,0 +1,362 @@
+{
+  "data": {
+    "id": 21013,
+    "name": "Meta Apes",
+    "symbol": "PEEL",
+    "slug": "meta-apes-peel",
+    "category": "token",
+    "description": "Meta Apes is a free-to-play, play-and-earn MMO strategy game designed for mobile. It is set in a post-apocalyptic world, in which humanity has ended and a new era ruled by Apes has begun. Next on the agenda is space domination. Each player will have to work closely with his or her Gang to become the strongest Clan and win the ultimate race to space.",
+    "dateAdded": "2022-07-17T19:30:37.000Z",
+    "status": "active",
+    "subStatus": "normal",
+    "icoStatus": "active_ico",
+    "notice": "",
+    "alertType": 2,
+    "alertLink": "",
+    "latestUpdateTime": "2024-11-18T01:09:00.000Z",
+    "watchCount": "2260",
+    "watchListRanking": 4691,
+    "dateLaunched": "2022-05-30T00:00:00.000Z",
+    "latestAdded": false,
+    "launchPrice": 0.04,
+    "tags": [],
+    "selfReportedCirculatingSupply": "176247660.316843",
+    "urls": {
+      "website": [
+        "https://metaapesgame.com/",
+        "https://plat.metaapesgame.com/market"
+      ],
+      "technical_doc": [
+        "https://meta-apes.gitbook.io/meta-apes-whitepaper/introduction/meta-apes"
+      ],
+      "explorer": [
+        "https://bscscan.com/token/0x734548a9e43d2D564600b1B2ed5bE9C2b911c6aB"
+      ],
+      "source_code": [],
+      "message_board": [],
+      "chat": [
+        "https://discord.com/invite/metaapesgame"
+      ],
+      "announcement": [],
+      "reddit": [],
+      "facebook": [],
+      "twitter": [
+        "https://twitter.com/MetaApesGame"
+      ]
+    },
+    "volume": 2133.9119382,
+    "volumeChangePercentage24h": 102.0942,
+    "cexVolume": 1532.62647731,
+    "dexVolume": 601.28546089,
+    "statistics": {
+      "price": 0.006049602013112338,
+      "priceChangePercentage1h": -0.00298859,
+      "priceChangePercentage24h": 7.45349841,
+      "priceChangePercentage7d": -45.32773625,
+      "priceChangePercentage30d": -52.0309483,
+      "priceChangePercentage60d": -64.88061498,
+      "priceChangePercentage90d": -45.0737835,
+      "priceChangePercentage1y": -85.60265494,
+      "priceChangePercentageAll": -89.68684574088,
+      "marketCap": 928073.97,
+      "marketCapChangePercentage24h": 7.4535,
+      "fullyDilutedMarketCap": 6049602.01,
+      "fullyDilutedMarketCapChangePercentage24h": 7.45,
+      "circulatingSupply": 153410747.892404,
+      "totalSupply": 202916818.699306,
+      "maxSupply": 1000000000.0,
+      "marketCapDominance": 0.0,
+      "rank": 1891,
+      "roi": -84.87599497,
+      "low24h": 0.005248054082846049,
+      "high24h": 0.006439610587071067,
+      "low7d": 0.004563364506625159,
+      "high7d": 0.011067174661451145,
+      "low30d": 0.003592249413079275,
+      "high30d": 0.013533019416517744,
+      "low90d": 0.003592249413079275,
+      "high90d": 0.021193191462661447,
+      "low52w": 0.001034751764649077,
+      "high52w": 0.055063953411286934,
+      "lowAllTime": 0.001034751764649077,
+      "highAllTime": 15.119010349495072,
+      "lowAllTimeChangePercentage": 484.64,
+      "highAllTimeChangePercentage": -99.96,
+      "lowAllTimeTimestamp": "2024-01-31T01:49:00.000Z",
+      "highAllTimeTimestamp": "2022-08-04T13:35:00.000Z",
+      "lowYesterday": 0.005248054082846049,
+      "highYesterday": 0.006439610587071067,
+      "openYesterday": 0.005646978487733865,
+      "closeYesterday": 0.006049470830386173,
+      "priceChangePercentageYesterday": 7.13,
+      "volumeYesterday": 2130.11,
+      "turnover": 0.00229929,
+      "ytdPriceChangePercentage": -84.4712,
+      "volumeRank": 5485,
+      "volumeMcRank": 5960,
+      "mcTotalNum": 10049,
+      "volumeTotalNum": 10049,
+      "volumeMcTotalNum": 10049
+    },
+    "quotes": [],
+    "platforms": [
+      {
+        "contractId": 1839,
+        "contractAddress": "0x734548a9e43d2D564600b1B2ed5bE9C2b911c6aB",
+        "contractPlatform": "BNB Smart Chain (BEP20)",
+        "contractPlatformId": 14,
+        "contractChainId": 56,
+        "contractRpcUrl": [
+          "https://bsc-dataseed1.binance.org",
+          "https://bsc-dataseed.binance.org/",
+          "https://bsc-dataseed1.binance.org:443"
+        ],
+        "contractNativeCurrencyName": "Binance Chain Native Token",
+        "contractNativeCurrencySymbol": "BNB",
+        "contractNativeCurrencyDecimals": 18,
+        "contractBlockExplorerUrl": "https://bscscan.com/",
+        "contractExplorerUrl": "https://bscscan.com/token/0x734548a9e43d2D564600b1B2ed5bE9C2b911c6aB",
+        "contractDecimals": 18,
+        "platformCryptoId": 1839,
+        "sort": 0,
+        "wallets": [
+          {
+            "id": 9025
+          }
+        ]
+      }
+    ],
+    "relatedCoins": [
+      {
+        "id": 2513,
+        "name": "GoldMint",
+        "slug": "goldmint",
+        "price": 0.05065701161697734,
+        "priceChangePercentage24h": -0.83488657,
+        "priceChangePercentage7d": 21.70106268
+      },
+      {
+        "id": 4679,
+        "name": "Band Protocol",
+        "slug": "band-protocol",
+        "price": 1.2924689407590508,
+        "priceChangePercentage24h": -5.51284503,
+        "priceChangePercentage7d": 1.82102584
+      },
+      {
+        "id": 7083,
+        "name": "Uniswap",
+        "slug": "uniswap",
+        "price": 8.907804423933275,
+        "priceChangePercentage24h": -4.39447372,
+        "priceChangePercentage7d": -3.90346035
+      },
+      {
+        "id": 1414,
+        "name": "Firo",
+        "slug": "firo",
+        "price": 1.3454938776288508,
+        "priceChangePercentage24h": 0.21867821,
+        "priceChangePercentage7d": 4.03360084
+      },
+      {
+        "id": 1975,
+        "name": "Chainlink",
+        "slug": "chainlink",
+        "price": 14.028344717813509,
+        "priceChangePercentage24h": -5.25786687,
+        "priceChangePercentage7d": -2.46572024
+      },
+      {
+        "id": 7653,
+        "name": "Oasis",
+        "slug": "oasis-network",
+        "price": 0.08025331330873264,
+        "priceChangePercentage24h": -5.30717197,
+        "priceChangePercentage7d": -4.39563858
+      },
+      {
+        "id": 707,
+        "name": "Blocknet",
+        "slug": "blocknet",
+        "price": 0.017113298239738093,
+        "priceChangePercentage24h": -0.68391562,
+        "priceChangePercentage7d": -3.30053472
+      },
+      {
+        "id": 5864,
+        "name": "yearn.finance",
+        "slug": "yearn-finance",
+        "price": 6192.38803639104,
+        "priceChangePercentage24h": -4.43119421,
+        "priceChangePercentage7d": -11.362147
+      },
+      {
+        "id": 4279,
+        "name": "Solar",
+        "slug": "sxp",
+        "price": 0.36376553390538346,
+        "priceChangePercentage24h": 2.1116243,
+        "priceChangePercentage7d": 18.12789401
+      },
+      {
+        "id": 8043,
+        "name": "MAHA.xyz",
+        "slug": "mahadao",
+        "price": 0.9034865737660874,
+        "priceChangePercentage24h": -2.68820884,
+        "priceChangePercentage7d": -9.89747239
+      }
+    ],
+    "ico": {
+      "cryptoId": 21013,
+      "cryptoSymbol": "PEEL",
+      "status": "Ended",
+      "cryptoStatus": 8,
+      "name": "Meta Apes",
+      "statistic": {
+        "tokensForSale": 50000000.0,
+        "raisedInUsd": 0.0
+      },
+      "stages": [
+        {
+          "start": "2022-08-04T11:00:00.000Z",
+          "end": "2022-08-04T12:00:00.000Z",
+          "status": "Ended",
+          "type": "IFO",
+          "tokenForSale": 50000000,
+          "icoPriceUsd": "0.04",
+          "personalCap": "N/A",
+          "distributedInIcoPercentage": 5.0,
+          "access": "Public",
+          "comments": "https://pancakeswap.finance/voting/proposal/bafkreibomj5nilvyckdro7ztmm62syt55dcfnonxs63ji6hm2ijq35lru4",
+          "fundraisingGoalUsd": "2000000",
+          "whereToBuyName": "PancakeSwap",
+          "whereToBuyUrl": "https://pancakeswap.finance/",
+          "acceptedCurrency": ""
+        }
+      ]
+    },
+    "isAudited": true,
+    "auditInfos": [
+      {
+        "coinId": "21013",
+        "auditor": "Salus",
+        "auditStatus": 2,
+        "auditTime": "2023-02-06T00:00:00Z",
+        "reportUrl": "https://audit.salusec.io/api/v1/salus/contract/certificate/full/2023/META-Apes_audit_report_2023-04-14.pdf",
+        "contractAddress": "0x734548a9e43d2D564600b1B2ed5bE9C2b911c6aB",
+        "contractPlatform": "BNB Smart Chain (BEP20)"
+      }
+    ],
+    "holders": {},
+    "displayTV": 1,
+    "isInfiniteMaxSupply": 0,
+    "tvCoinSymbol": "PEEL",
+    "supportWalletInfos": [],
+    "holdersFlag": false,
+    "ratingsFlag": false,
+    "analysisFlag": false,
+    "socialsFlag": true,
+    "cryptoRating": [
+      {
+        "type": "CertiK",
+        "score": 65.94,
+        "rating": 3.3,
+        "updateTime": "2024-11-17T00:00:00.000Z",
+        "link": "https://cmc.certik-skynet.com/redirect?project=meta-apes-peel&utm_source=CMC&utm_campaign=ScoreByCertiKLink"
+      },
+      {
+        "type": "Cyberscope",
+        "score": 74.0,
+        "rating": 3.7,
+        "updateTime": "2024-11-17T11:08:21.000Z",
+        "link": "https://www.cyberscope.io/audits/coin-meta-apes-peel"
+      },
+      {
+        "type": "Aggregate rating",
+        "score": 70.0,
+        "rating": 3.5,
+        "updateTime": "2024-11-18T01:00:00.191Z"
+      }
+    ],
+    "tokenUnlockLatest": {
+      "cryptoId": 21013,
+      "totalUnlockedPercentage": 71.22,
+      "tokenUnlockedAmount": 712166425.0000002,
+      "tokenLockedAmount": 287802449.9999998,
+      "tokenUntrackedAmount": 31125.0,
+      "nextUnlocked": {
+        "tokenAmount": 18970975.00000001,
+        "tokenAmountUsd": 114766.8485507039,
+        "tokenAmountPercentage": 1.9,
+        "date": 1733270400000
+      },
+      "nextUnlockedDetail": [
+        {
+          "tokenAmount": 3114100.0,
+          "tokenAmountUsd": 18839.06562903313,
+          "allocationName": "Private Round",
+          "vestingType": "linear"
+        },
+        {
+          "tokenAmount": 2950200.0,
+          "tokenAmountUsd": 17847.53585908402,
+          "allocationName": "Team",
+          "vestingType": "linear"
+        },
+        {
+          "tokenAmount": 7906275.00000001,
+          "tokenAmountUsd": 47829.81715621981,
+          "allocationName": "Community Rewards",
+          "vestingType": "linear"
+        },
+        {
+          "tokenAmount": 5000400.0,
+          "tokenAmountUsd": 30250.429906366935,
+          "allocationName": "Ecosystem Fund",
+          "vestingType": "linear"
+        }
+      ],
+      "updateTime": "2024-11-18T01:04:07.706Z"
+    },
+    "hasExtraInfoFlag": false,
+    "upcoming": {
+      "status": false
+    },
+    "annotationFlag": false,
+    "similarCoins": [
+      {
+        "id": 1154,
+        "symbol": "VAL"
+      },
+      {
+        "id": 3625,
+        "symbol": "EQUAD"
+      },
+      {
+        "id": 5266,
+        "symbol": "MLK"
+      },
+      {
+        "id": 4956,
+        "symbol": "MAPO"
+      },
+      {
+        "id": 18895,
+        "symbol": "MBX"
+      },
+      {
+        "id": 2341,
+        "symbol": "SWFTC"
+      }
+    ]
+  },
+  "status": {
+    "timestamp": "2024-11-18T01:09:55.603Z",
+    "error_code": "0",
+    "error_message": "SUCCESS",
+    "elapsed": "14",
+    "credit_count": 0
+  }
+}

@@ -1,0 +1,548 @@
+{
+  "data": {
+    "id": 5274,
+    "name": "Edgeware",
+    "symbol": "EDG",
+    "slug": "edgeware",
+    "category": "coin",
+    "description": "Edgeware is a scalable, sovereign and cooperatively owned smart contract platform with a large public treasury, strong governing community, and a focus on DAO deployments.\n\nMainnet launch on 02/17/20, by Commonwealth Labs, based in the United States, Edgeware aims to provide a smart contract platform designated the first on Polkadot Network.\n\nTo learn more about this project, check out our deep dive of [Edgeware](https://coinmarketcap.com/alexandria/article/what-is-edgeware).",
+    "dateAdded": "2020-03-09T00:00:00.000Z",
+    "status": "active",
+    "subStatus": "normal",
+    "notice": "",
+    "alertType": 2,
+    "alertLink": "",
+    "latestUpdateTime": "2024-11-18T01:09:00.000Z",
+    "watchCount": "19856",
+    "watchListRanking": 1475,
+    "dateLaunched": "2020-02-17T00:00:00.000Z",
+    "latestAdded": false,
+    "launchPrice": 0.00318467,
+    "tags": [
+      {
+        "slug": "smart-contracts",
+        "name": "Smart Contracts",
+        "category": "CATEGORY"
+      },
+      {
+        "slug": "dao",
+        "name": "DAO",
+        "category": "CATEGORY"
+      },
+      {
+        "slug": "substrate",
+        "name": "Substrate",
+        "category": "CATEGORY"
+      },
+      {
+        "slug": "polkadot",
+        "name": "Polkadot",
+        "category": "PLATFORM"
+      },
+      {
+        "slug": "coinbase-ventures-portfolio",
+        "name": "Coinbase Ventures Portfolio",
+        "category": "CATEGORY"
+      },
+      {
+        "slug": "framework-ventures-portfolio",
+        "name": "Framework Ventures Portfolio",
+        "category": "CATEGORY"
+      },
+      {
+        "slug": "hashkey-capital-portfolio",
+        "name": "Hashkey Capital Portfolio",
+        "category": "CATEGORY"
+      },
+      {
+        "slug": "ledgerprime-portfolio",
+        "name": "LedgerPrime Portfolio",
+        "category": "CATEGORY"
+      }
+    ],
+    "selfReportedTags": [
+      "Smart Contracts",
+      "DAO",
+      "Substrate",
+      "Polkadot",
+      "Polkadot Ecosystem",
+      "Governance",
+      "Web3"
+    ],
+    "urls": {
+      "website": [
+        "https://edgeware.io",
+        "https://edgeware.community"
+      ],
+      "technical_doc": [
+        "https://www.edgeware.io/assets/whitepaper/edgeware-whitepaper.pdf"
+      ],
+      "explorer": [
+        "https://edgscan.ink/",
+        "https://edgscan.live"
+      ],
+      "source_code": [
+        "https://github.com/edgeware-network"
+      ],
+      "message_board": [
+        "https://commonwealth.im/edgeware/"
+      ],
+      "chat": [
+        "https://discord.gg/4pnzjWTJ9b",
+        "https://t.me/heyedgeware"
+      ],
+      "announcement": [],
+      "reddit": [
+        "https://reddit.com/r/edgeware"
+      ],
+      "facebook": [],
+      "twitter": [
+        "https://twitter.com/EdgewareDAO"
+      ]
+    },
+    "volume": 420.82006732,
+    "volumeChangePercentage24h": 6.1508,
+    "cexVolume": 420.82006732,
+    "dexVolume": 0.0,
+    "statistics": {
+      "price": 0.0001236165238077567,
+      "priceChangePercentage1h": -0.01048576,
+      "priceChangePercentage24h": 3.3783962,
+      "priceChangePercentage7d": 4.62320734,
+      "priceChangePercentage30d": 43.94755449,
+      "priceChangePercentage60d": 15.56951344,
+      "priceChangePercentage90d": -20.2724589,
+      "priceChangePercentage1y": -37.24897817,
+      "priceChangePercentageAll": -96.182292892336,
+      "marketCap": 784985.67,
+      "marketCapChangePercentage24h": 3.3784,
+      "fullyDilutedMarketCap": 1080100.5,
+      "fullyDilutedMarketCapChangePercentage24h": 3.38,
+      "circulatingSupply": 6350167832.0,
+      "totalSupply": 8737509087.0,
+      "marketCapDominance": 0.0,
+      "rank": 1942,
+      "roi": -96.1186507,
+      "low24h": 0.000115776350029894,
+      "high24h": 0.000123650733985131,
+      "low7d": 0.000109521631142646,
+      "high7d": 0.000123650733985131,
+      "low30d": 6.8363133198329e-05,
+      "high30d": 0.000123650733985131,
+      "low90d": 6.8226640776636e-05,
+      "high90d": 0.000181048089299842,
+      "low52w": 6.8226640776636e-05,
+      "high52w": 0.000667477573475639,
+      "lowAllTime": 6.8226640776636e-05,
+      "highAllTime": 0.05620293,
+      "lowAllTimeChangePercentage": 81.19,
+      "highAllTimeChangePercentage": -99.78,
+      "lowAllTimeTimestamp": "2024-10-29T16:48:00.000Z",
+      "highAllTimeTimestamp": "2021-03-30T00:39:03.000Z",
+      "lowYesterday": 0.000115776350029894,
+      "highYesterday": 0.000123650733985131,
+      "openYesterday": 0.000119562921324601,
+      "closeYesterday": 0.000123634489432973,
+      "priceChangePercentageYesterday": 3.41,
+      "volumeYesterday": 420.91,
+      "turnover": 0.00053609,
+      "ytdPriceChangePercentage": -71.0087,
+      "volumeRank": 6565,
+      "volumeMcRank": 6778,
+      "mcTotalNum": 10049,
+      "volumeTotalNum": 10049,
+      "volumeMcTotalNum": 10049
+    },
+    "quotes": [],
+    "platforms": [
+      {
+        "contractId": 1839,
+        "contractAddress": "0x4e0da40b9063dc48364c1c0ffb4ae9d091fc2270",
+        "contractPlatform": "BNB Smart Chain (BEP20)",
+        "contractPlatformId": 14,
+        "contractChainId": 56,
+        "contractRpcUrl": [
+          "https://bsc-dataseed1.binance.org",
+          "https://bsc-dataseed.binance.org/",
+          "https://bsc-dataseed1.binance.org:443"
+        ],
+        "contractNativeCurrencyName": "Binance Chain Native Token",
+        "contractNativeCurrencySymbol": "BNB",
+        "contractNativeCurrencyDecimals": 18,
+        "contractBlockExplorerUrl": "https://bscscan.com/",
+        "contractExplorerUrl": "https://bscscan.com/token/0x4e0da40b9063dc48364c1c0ffb4ae9d091fc2270",
+        "contractDecimals": 18,
+        "platformCryptoId": 1839,
+        "sort": 0,
+        "wallets": [
+          {
+            "id": 9025
+          }
+        ]
+      },
+      {
+        "contractId": 3890,
+        "contractAddress": "0x4e0da40b9063dc48364c1c0ffb4ae9d091fc2270",
+        "contractPlatform": "Polygon",
+        "contractPlatformId": 25,
+        "contractChainId": 137,
+        "contractRpcUrl": [
+          "https://rpc-mainnet.maticvigil.com"
+        ],
+        "contractNativeCurrencyName": "MATIC",
+        "contractNativeCurrencySymbol": "MATIC",
+        "contractNativeCurrencyDecimals": 18,
+        "contractBlockExplorerUrl": "https://polygonscan.com",
+        "contractExplorerUrl": "https://polygonscan.com/token/0x4e0da40b9063dc48364c1c0ffb4ae9d091fc2270",
+        "contractDecimals": 18,
+        "platformCryptoId": 3890,
+        "sort": 0,
+        "wallets": [
+          {
+            "id": 9025
+          }
+        ]
+      },
+      {
+        "contractId": 11841,
+        "contractAddress": "0x4e0da40b9063dc48364c1c0ffb4ae9d091fc2270",
+        "contractPlatform": "Arbitrum",
+        "contractPlatformId": 51,
+        "contractChainId": 42161,
+        "contractRpcUrl": [],
+        "contractNativeCurrencyName": "",
+        "contractNativeCurrencySymbol": "",
+        "contractNativeCurrencyDecimals": -1,
+        "contractBlockExplorerUrl": "",
+        "contractExplorerUrl": "https://arbiscan.io/token/0x4e0da40b9063dc48364c1c0ffb4ae9d091fc2270",
+        "contractDecimals": 18,
+        "platformCryptoId": 11841,
+        "sort": 0,
+        "wallets": [
+          {
+            "id": 9025
+          }
+        ]
+      },
+      {
+        "contractId": 27657,
+        "contractAddress": "0x4e0da40b9063dc48364c1c0ffb4ae9d091fc2270",
+        "contractPlatform": "Linea",
+        "contractPlatformId": 198,
+        "contractChainId": 59144,
+        "contractRpcUrl": [],
+        "contractNativeCurrencyName": "",
+        "contractNativeCurrencySymbol": "",
+        "contractNativeCurrencyDecimals": -1,
+        "contractBlockExplorerUrl": "",
+        "contractExplorerUrl": "https://lineascan.build/token/0x4e0da40b9063dc48364c1c0ffb4ae9d091fc2270",
+        "contractDecimals": 18,
+        "platformCryptoId": 27657,
+        "sort": 0,
+        "wallets": [
+          {
+            "id": 9025
+          }
+        ]
+      },
+      {
+        "contractId": 27716,
+        "contractAddress": "0x4e0da40b9063dc48364c1c0ffb4ae9d091fc2270",
+        "contractPlatform": "Base",
+        "contractPlatformId": 199,
+        "contractChainId": 8453,
+        "contractRpcUrl": [],
+        "contractNativeCurrencyName": "",
+        "contractNativeCurrencySymbol": "",
+        "contractNativeCurrencyDecimals": -1,
+        "contractBlockExplorerUrl": "",
+        "contractExplorerUrl": "https://basescan.org/token/0x4e0da40b9063dc48364c1c0ffb4ae9d091fc2270",
+        "contractDecimals": 18,
+        "platformCryptoId": 27716,
+        "sort": 0,
+        "wallets": [
+          {
+            "id": 9025
+          }
+        ]
+      }
+    ],
+    "relatedCoins": [
+      {
+        "id": 2513,
+        "name": "GoldMint",
+        "slug": "goldmint",
+        "price": 0.05065701161697734,
+        "priceChangePercentage24h": -0.83488657,
+        "priceChangePercentage7d": 21.70106268
+      },
+      {
+        "id": 4679,
+        "name": "Band Protocol",
+        "slug": "band-protocol",
+        "price": 1.2924689407590508,
+        "priceChangePercentage24h": -5.51284503,
+        "priceChangePercentage7d": 1.82102584
+      },
+      {
+        "id": 7083,
+        "name": "Uniswap",
+        "slug": "uniswap",
+        "price": 8.907804423933275,
+        "priceChangePercentage24h": -4.39447372,
+        "priceChangePercentage7d": -3.90346035
+      },
+      {
+        "id": 1414,
+        "name": "Firo",
+        "slug": "firo",
+        "price": 1.3454938776288508,
+        "priceChangePercentage24h": 0.21867821,
+        "priceChangePercentage7d": 4.03360084
+      },
+      {
+        "id": 1975,
+        "name": "Chainlink",
+        "slug": "chainlink",
+        "price": 14.028344717813509,
+        "priceChangePercentage24h": -5.25786687,
+        "priceChangePercentage7d": -2.46572024
+      },
+      {
+        "id": 7653,
+        "name": "Oasis",
+        "slug": "oasis-network",
+        "price": 0.08025331330873264,
+        "priceChangePercentage24h": -5.30717197,
+        "priceChangePercentage7d": -4.39563858
+      },
+      {
+        "id": 707,
+        "name": "Blocknet",
+        "slug": "blocknet",
+        "price": 0.017113298239738093,
+        "priceChangePercentage24h": -0.68391562,
+        "priceChangePercentage7d": -3.30053472
+      },
+      {
+        "id": 5864,
+        "name": "yearn.finance",
+        "slug": "yearn-finance",
+        "price": 6192.38803639104,
+        "priceChangePercentage24h": -4.43119421,
+        "priceChangePercentage7d": -11.362147
+      },
+      {
+        "id": 4279,
+        "name": "Solar",
+        "slug": "sxp",
+        "price": 0.36376553390538346,
+        "priceChangePercentage24h": 2.1116243,
+        "priceChangePercentage7d": 18.12789401
+      },
+      {
+        "id": 8043,
+        "name": "MAHA.xyz",
+        "slug": "mahadao",
+        "price": 0.9034865737660874,
+        "priceChangePercentage24h": -2.68820884,
+        "priceChangePercentage7d": -9.89747239
+      }
+    ],
+    "wallets": [
+      {
+        "id": 9017,
+        "name": "Ledger",
+        "tier": 1,
+        "url": "https://www.ledger.com/",
+        "chains": "BTC,ETH,NEO,ZEC,QTUM,BAN",
+        "types": "hardware",
+        "introduction": "",
+        "star": 3.0,
+        "security": 4.0,
+        "easyToUse": 3.0,
+        "decentration": false,
+        "focusNumber": 0,
+        "rank": 2,
+        "logo": "9017.png",
+        "multipleChain": true
+      },
+      {
+        "id": 9020,
+        "name": "Trezor",
+        "tier": 1,
+        "url": "https://www.trezor.io/",
+        "chains": "BTC,ETH,LTC,ETC,ZEC,AXE,ETZ",
+        "types": "hardware",
+        "introduction": "",
+        "star": 2.0,
+        "security": 4.0,
+        "easyToUse": 3.0,
+        "decentration": false,
+        "focusNumber": 0,
+        "rank": 1000004,
+        "logo": "9020.png",
+        "multipleChain": true
+      },
+      {
+        "id": 9058,
+        "name": "Math Wallet",
+        "url": "http://www.mathwallet.org/cn/",
+        "chains": "BTC,ETH,EOS,NEO,ONT,IRIS,EVT,ESN,YAS",
+        "types": "app,trade",
+        "introduction": "",
+        "star": 2.0,
+        "security": 3.0,
+        "easyToUse": 3.0,
+        "decentration": false,
+        "focusNumber": 2,
+        "rank": 1000005,
+        "logo": "9058.png",
+        "multipleChain": true
+      },
+      {
+        "id": 9021,
+        "name": "keepkey",
+        "tier": 1,
+        "url": "https://www.keepkey.com/",
+        "chains": "BTC",
+        "types": "hardware",
+        "introduction": "",
+        "star": 1.0,
+        "security": 3.0,
+        "easyToUse": 1.0,
+        "decentration": false,
+        "focusNumber": 0,
+        "rank": 1000007,
+        "logo": "9021.png",
+        "multipleChain": false
+      }
+    ],
+    "isAudited": true,
+    "auditInfos": [
+      {
+        "coinId": "5274",
+        "auditor": "Quantstamp",
+        "auditStatus": 2,
+        "score": "N/A",
+        "auditTime": "2019-10-15",
+        "reportUrl": "https://certificate.quantstamp.com/view/edgeware-lockdrop"
+      }
+    ],
+    "holders": {},
+    "displayTV": 1,
+    "isInfiniteMaxSupply": 0,
+    "tvCoinSymbol": "EDG",
+    "supportWalletInfos": [
+      {
+        "id": 9017,
+        "name": "Ledger",
+        "url": "https://www.ledger.com/",
+        "chains": "BTC,ETH,NEO,ZEC,QTUM,BAN",
+        "decentration": false,
+        "logo": "9017.png",
+        "multipleChain": false
+      },
+      {
+        "id": 9020,
+        "name": "Trezor",
+        "url": "https://www.trezor.io/",
+        "chains": "BTC,ETH,LTC,ETC,ZEC,AXE,ETZ",
+        "decentration": false,
+        "logo": "9020.png",
+        "multipleChain": false
+      },
+      {
+        "id": 9021,
+        "name": "keepkey",
+        "url": "https://www.keepkey.com/",
+        "chains": "BTC",
+        "decentration": false,
+        "logo": "9021.png",
+        "multipleChain": false
+      },
+      {
+        "id": 9058,
+        "name": "Math Wallet",
+        "url": "http://www.mathwallet.org/cn/",
+        "chains": "BTC,ETH,EOS,NEO,ONT,IRIS,EVT,ESN,YAS",
+        "decentration": false,
+        "logo": "9058.png",
+        "multipleChain": false
+      }
+    ],
+    "holdersFlag": false,
+    "ratingsFlag": false,
+    "analysisFlag": true,
+    "socialsFlag": true,
+    "cryptoRating": [
+      {
+        "type": "CertiK",
+        "score": 70.1,
+        "rating": 3.5,
+        "updateTime": "2024-11-17T00:00:00.000Z",
+        "link": "https://cmc.certik-skynet.com/redirect?project=edgeware&utm_source=CMC&utm_campaign=ScoreByCertiKLink"
+      },
+      {
+        "type": "Cyberscope",
+        "score": 61.0,
+        "rating": 3.1,
+        "updateTime": "2024-11-17T10:58:49.000Z",
+        "link": "https://www.cyberscope.io/audits/coin-edgeware"
+      },
+      {
+        "type": "Aggregate rating",
+        "score": 65.6,
+        "rating": 3.3,
+        "updateTime": "2024-11-18T01:00:00.194Z"
+      }
+    ],
+    "analysis": {
+      "holdingWhalesPercent": 100.0,
+      "holdingAddressesCount": 2,
+      "addressByTimeHeld": {
+        "holdersPercent": 100.0,
+        "cruisersPercent": 0,
+        "tradersPercent": 0
+      }
+    },
+    "hasExtraInfoFlag": false,
+    "upcoming": {
+      "status": false
+    },
+    "annotationFlag": false,
+    "similarCoins": [
+      {
+        "id": 4134,
+        "symbol": "AKRO"
+      },
+      {
+        "id": 10042,
+        "symbol": "KAR"
+      },
+      {
+        "id": 3930,
+        "symbol": "TT"
+      },
+      {
+        "id": 2675,
+        "symbol": "DOCK"
+      },
+      {
+        "id": 7102,
+        "symbol": "LINA"
+      },
+      {
+        "id": 6951,
+        "symbol": "REEF"
+      }
+    ]
+  },
+  "status": {
+    "timestamp": "2024-11-18T01:10:00.340Z",
+    "error_code": "0",
+    "error_message": "SUCCESS",
+    "elapsed": "11",
+    "credit_count": 0
+  }
+}

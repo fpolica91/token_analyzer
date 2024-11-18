@@ -1,0 +1,280 @@
+{
+  "data": {
+    "id": 1903,
+    "name": "HyperCash",
+    "symbol": "HC",
+    "slug": "hypercash",
+    "category": "coin",
+    "description": "HyperCash (HC), formerly known as Hcash, was designed to facilitate value transfers across different blockchains. It supports zero-hash proofs, DAO governance, and quantum resistance. HyperCash offers two types of wallets: white and black. White addresses are publicly viewable, while black addresses will remain private. The use of zero-knowledge proofs masks the identity of the sender and receiver while verifying transactions. Hcash uses a hybrid blockchain/DAG network and a hybrid PoW/PoS consensus model for governance. ",
+    "dateAdded": "2017-08-20T00:00:00.000Z",
+    "status": "active",
+    "subStatus": "normal",
+    "notice": "",
+    "alertType": 2,
+    "alertLink": "",
+    "latestUpdateTime": "2024-11-18T01:09:00.000Z",
+    "watchCount": "7264",
+    "watchListRanking": 2857,
+    "latestAdded": false,
+    "launchPrice": 4.5,
+    "tags": [
+      {
+        "slug": "mineable",
+        "name": "Mineable",
+        "category": "OTHERS"
+      },
+      {
+        "slug": "marketplace",
+        "name": "Marketplace",
+        "category": "INDUSTRY"
+      },
+      {
+        "slug": "payments",
+        "name": "Payments",
+        "category": "INDUSTRY"
+      },
+      {
+        "slug": "state-channel",
+        "name": "State Channel",
+        "category": "CATEGORY"
+      }
+    ],
+    "urls": {
+      "website": [
+        "https://h.cash/"
+      ],
+      "technical_doc": [
+        "https://h.cash/themes/en/images/Hcash+Whitepaper+V0.8.5.pdf"
+      ],
+      "explorer": [
+        "https://hc-explorer.h.cash/explorer/",
+        "https://hc.tokenview.com/"
+      ],
+      "source_code": [
+        "https://github.com/HcashOrg/hcd"
+      ],
+      "message_board": [
+        "https://medium.com/@media_30378",
+        "https://wiki.h.cash/"
+      ],
+      "chat": [
+        "https://t.me/HcashOfficialEnglish"
+      ],
+      "announcement": [],
+      "reddit": [
+        "https://reddit.com/r/hcash"
+      ],
+      "facebook": [],
+      "twitter": [
+        "https://twitter.com/HcashOfficial"
+      ]
+    },
+    "volume": 60677.08037952,
+    "volumeChangePercentage24h": -3.1477,
+    "cexVolume": 60677.08037952,
+    "dexVolume": 0.0,
+    "statistics": {
+      "price": 0.01791270093570222,
+      "priceChangePercentage1h": 1.18229911,
+      "priceChangePercentage24h": 5.54321633,
+      "priceChangePercentage7d": -6.63814832,
+      "priceChangePercentage30d": -11.45630112,
+      "priceChangePercentage60d": -12.29214408,
+      "priceChangePercentage90d": -11.00200098,
+      "priceChangePercentage1y": -76.60220338,
+      "priceChangePercentageAll": -99.91211638803,
+      "marketCap": 807359.63,
+      "marketCapChangePercentage24h": 5.5432,
+      "fullyDilutedMarketCap": 1504666.88,
+      "fullyDilutedMarketCapChangePercentage24h": 5.54,
+      "circulatingSupply": 45071909.329052,
+      "totalSupply": 45071909.329052,
+      "maxSupply": 84000000.0,
+      "marketCapDominance": 0.0,
+      "rank": 1933,
+      "roi": -99.60194114,
+      "low24h": 0.01692699090023186,
+      "high24h": 0.01817324958340725,
+      "low7d": 0.015984711443391735,
+      "high7d": 0.01978086318185567,
+      "low30d": 0.015984711443391735,
+      "high30d": 0.020231533506486744,
+      "low90d": 0.013997607874755569,
+      "high90d": 0.022024798270239038,
+      "low52w": 0.013997607874755569,
+      "high52w": 0.3439870671192891,
+      "lowAllTime": 0.013997607874755569,
+      "highAllTime": 43.16790008544922,
+      "lowAllTimeChangePercentage": 27.97,
+      "highAllTimeChangePercentage": -99.96,
+      "lowAllTimeTimestamp": "2024-10-10T03:45:00.000Z",
+      "highAllTimeTimestamp": "2017-08-27T02:55:27.000Z",
+      "lowYesterday": 0.01692699090023186,
+      "highYesterday": 0.01817324958340725,
+      "openYesterday": 0.017145547235319147,
+      "closeYesterday": 0.017744456590688806,
+      "priceChangePercentageYesterday": 3.49,
+      "volumeYesterday": 59846.23,
+      "turnover": 0.07515496,
+      "ytdPriceChangePercentage": -83.6608,
+      "volumeRank": 3135,
+      "volumeMcRank": 2204,
+      "mcTotalNum": 10049,
+      "volumeTotalNum": 10049,
+      "volumeMcTotalNum": 10049
+    },
+    "quotes": [],
+    "relatedCoins": [
+      {
+        "id": 2513,
+        "name": "GoldMint",
+        "slug": "goldmint",
+        "price": 0.05065701161697734,
+        "priceChangePercentage24h": -0.83488657,
+        "priceChangePercentage7d": 21.70106268
+      },
+      {
+        "id": 4679,
+        "name": "Band Protocol",
+        "slug": "band-protocol",
+        "price": 1.2924689407590508,
+        "priceChangePercentage24h": -5.51284503,
+        "priceChangePercentage7d": 1.82102584
+      },
+      {
+        "id": 7083,
+        "name": "Uniswap",
+        "slug": "uniswap",
+        "price": 8.907804423933275,
+        "priceChangePercentage24h": -4.39447372,
+        "priceChangePercentage7d": -3.90346035
+      },
+      {
+        "id": 1414,
+        "name": "Firo",
+        "slug": "firo",
+        "price": 1.3454938776288508,
+        "priceChangePercentage24h": 0.21867821,
+        "priceChangePercentage7d": 4.03360084
+      },
+      {
+        "id": 1975,
+        "name": "Chainlink",
+        "slug": "chainlink",
+        "price": 14.028344717813509,
+        "priceChangePercentage24h": -5.25786687,
+        "priceChangePercentage7d": -2.46572024
+      },
+      {
+        "id": 7653,
+        "name": "Oasis",
+        "slug": "oasis-network",
+        "price": 0.08025331330873264,
+        "priceChangePercentage24h": -5.30717197,
+        "priceChangePercentage7d": -4.39563858
+      },
+      {
+        "id": 707,
+        "name": "Blocknet",
+        "slug": "blocknet",
+        "price": 0.017113298239738093,
+        "priceChangePercentage24h": -0.68391562,
+        "priceChangePercentage7d": -3.30053472
+      },
+      {
+        "id": 5864,
+        "name": "yearn.finance",
+        "slug": "yearn-finance",
+        "price": 6192.38803639104,
+        "priceChangePercentage24h": -4.43119421,
+        "priceChangePercentage7d": -11.362147
+      },
+      {
+        "id": 4279,
+        "name": "Solar",
+        "slug": "sxp",
+        "price": 0.36376553390538346,
+        "priceChangePercentage24h": 2.1116243,
+        "priceChangePercentage7d": 18.12789401
+      },
+      {
+        "id": 8043,
+        "name": "MAHA.xyz",
+        "slug": "mahadao",
+        "price": 0.9034865737660874,
+        "priceChangePercentage24h": -2.68820884,
+        "priceChangePercentage7d": -9.89747239
+      }
+    ],
+    "isAudited": false,
+    "holders": {},
+    "displayTV": 1,
+    "isInfiniteMaxSupply": 0,
+    "tvCoinSymbol": "HC",
+    "supportWalletInfos": [],
+    "holdersFlag": false,
+    "ratingsFlag": false,
+    "analysisFlag": false,
+    "socialsFlag": true,
+    "cryptoRating": [
+      {
+        "type": "CertiK",
+        "score": 64.68,
+        "rating": 3.2,
+        "updateTime": "2024-11-17T00:00:00.000Z",
+        "link": "https://cmc.certik-skynet.com/redirect?project=hypercash&utm_source=CMC&utm_campaign=ScoreByCertiKLink"
+      },
+      {
+        "type": "Cyberscope",
+        "score": 66.0,
+        "rating": 3.3,
+        "updateTime": "2024-11-17T11:04:27.000Z",
+        "link": "https://www.cyberscope.io/audits/coin-hypercash"
+      },
+      {
+        "type": "Aggregate rating",
+        "score": 65.3,
+        "rating": 3.3,
+        "updateTime": "2024-11-18T01:00:00.179Z"
+      }
+    ],
+    "hasExtraInfoFlag": false,
+    "upcoming": {
+      "status": false
+    },
+    "annotationFlag": false,
+    "similarCoins": [
+      {
+        "id": 2346,
+        "symbol": "WICC"
+      },
+      {
+        "id": 3704,
+        "symbol": "VSYS"
+      },
+      {
+        "id": 1789,
+        "symbol": "PPT"
+      },
+      {
+        "id": 3709,
+        "symbol": "GRIN"
+      },
+      {
+        "id": 3657,
+        "symbol": "LAMB"
+      },
+      {
+        "id": 3437,
+        "symbol": "ABBC"
+      }
+    ]
+  },
+  "status": {
+    "timestamp": "2024-11-18T01:09:59.572Z",
+    "error_code": "0",
+    "error_message": "SUCCESS",
+    "elapsed": "11",
+    "credit_count": 0
+  }
+}

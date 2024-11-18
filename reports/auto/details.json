@@ -1,0 +1,391 @@
+{
+  "data": {
+    "id": 8387,
+    "name": "Auto",
+    "symbol": "AUTO",
+    "slug": "auto",
+    "category": "token",
+    "description": "## What Is Auto (AUTO)? \n\nAUTO is the native utility and [governance token](https://coinmarketcap.com/alexandria/glossary/governance-token) to the Autofarm protocol, which launched in late December 2020 on the Binance Smart Chain ([BSC](https://coinmarketcap.com/alexandria/article/what-is-binance-smart-chain)). Autofarm is a cross-chain yield aggregator that enables users to get a high return on their assets from yield farming pools by staking in Autofarm vaults.\n\nAutofarm aims to be a leading DEX and yield aggregator on the Binance Smart Chain (BSC) by incorporating yield optimization and [AMM](https://coinmarketcap.com/alexandria/glossary/automated-market-maker-amm) aggregation as a single product: this allows users to have two products within a single platform, solving the problem of registering on multiple protocols. \n\nAutofarm launched its first cross-chain vault on the Huobi ECO Chain in February 2021. Autofarm expanded its ecosystem in March 2021 by [acquiring](https://medium.com/autofarm-network/en-acquisition-of-farmfol-io-portfolio-manager-b73e1d96ff67) Farmfol.io an intelligent portfolio manager designed to simplify how users monitor and track their assets on Binance Smart Chain. \n\nThe AUTO token can be used for proposals voting and will receive fees earned from the protocol. AUTO initiated a community-fair-launched token distribution by ensuring that only vault users will have an opportunity to participate in the AUTO token vault mining programme.\n\n\n### Who Are the Founders of Auto?\n\nAutofarm was founded by the pseudonymous entity known only as [@mildgiraffe](https://twitter.com/_mildgiraffe?s=21). Little is known about him, only that he has knowledge and experience in the crypto space and dealing with codes and [smart contracts](https://coinmarketcap.com/alexandria/glossary/smart-contract).\n\nThe total value locked (TVL) of the protocol went from $5 million to $537 million in less than two months, putting Autofarm on the third spot in TVL within the BSC ecosystem as of April 2021. Consequently, the price of Auto went up 654x during this period of time.  \n\n\n#### What Makes Auto Unique?\n\nA major difference between Autofarm when compared to other yield farm projects like [Beefy.Finance ](https://coinmarketcap.com/currencies/beefy-finance/)and [ACryptoS](https://coinmarketcap.com/currencies/acryptos/) is that it claims to have some of the lowest fees in the market. Autofarm also has cross-chain capabilities, initially starting out on the BSC before expanding to the Huobi ECO Chain (HECO), and more cross-chain products are planned in this roadmap. \n\nAuto has two major products: Vaults and AutoSwap.\n\n\n\n*   Vaults is a [yield farming](https://coinmarketcap.com/alexandria/glossary/yield-farming) platform that compounds yields at optimal intervals and offers excellent yield optimization strategies. Vaults benefit users by socializing gas costs, automating the yield generation and compounding process. \n*   AutoSwap is a [DEX](https://coinmarketcap.com/alexandria/glossary/decentralized-exchange-dex) aggregator that provides users the best prices for their DEX trades. It splits trades across multiple DEXes to ensure the best price value and lowest slippage. \n\nEnd users do not need to be fully versed in the underlying protocols involved or [DeFi](https://coinmarketcap.com/alexandria/article/what-is-decentralized-finance). Vaults represent a passive-investing strategy similar to a crypto hedge fund, aiming to increase the deposited assets of users. \n\n\n#### Related Pages:\n\nLearn about [Beefy.Finance](https://coinmarketcap.com/currencies/beefy-finance/)<span style=\"text-decoration:underline;\">.</span>\n\nLearn about [ACryptoS](https://coinmarketcap.com/currencies/acryptos/)<span style=\"text-decoration:underline;\">.</span>\n\nLearn about Polkadot on [CMC Alexandria](https://coinmarketcap.com/alexandria/article/a-deep-dive-into-polkadot). \n\nLearn more about the world of cryptocurrencies on the [CoinMarketCap](https://coinmarketcap.com/alexandria/categories/blog) blog. \n\n\n#### How Many Auto (AUTO) Coins Are There in Circulation?\n\nAUTO, the proprietary token of the Autofarm ecosystem, is minted linearly from Dec. 15, 2020, and the minting will end in October 2021. As of April 2021, a total of 14,600 AUTO are in circulation, with the max supply pegged at 80,000 AUTO. \n\nThe distribution of the token is as follows: 12% of the tokens generated to the development team to ensure that the protocol can keep innovating while the remaining 88% is allocated for the vault token mining program. \n\n\n### How Is the Auto Network Secured?\n\nAuto is a BEP-20 token and is secured using the [proof-of-stake](https://coinmarketcap.com/alexandria/article/proof-of-work-vs-proof-of-stake) consensus mechanism. Autofarm also performs periodic checks on its smart contracts to ensure that their vaults are not susceptible to exploits or hacks. Autofarm also has a [bug bounty](https://coinmarketcap.com/alexandria/glossary/bug-bounty) program in association with Immunefi, a premier bug bounty platform. The bug bounty program rewards up to $100,000 to community members and developers who detect vulnerabilities on the Autofarm smart contract. \n\n \n\n\n### Where Can You Buy Auto (AUTO)?\n\nAuto (AUTO) can be traded on the following exchanges: \n\n[Binance](https://coinmarketcap.com/exchanges/binance/)\n\n[MXC](https://coinmarketcap.com/exchanges/mxc/)\n\n[PancakeSwap](https://coinmarketcap.com/currencies/pancakeswap/)\n\n[OpeanOcean](https://coinmarketcap.com/exchanges/openocean/)\n\nMake sure to read our guide on how to buy [Bitcoin](https://coinmarketcap.com/currencies/bitcoin/) (BTC) and other cryptocurrencies.\n",
+    "dateAdded": "2021-02-03T00:00:00.000Z",
+    "status": "active",
+    "subStatus": "normal",
+    "notice": "",
+    "alertType": 2,
+    "alertLink": "",
+    "latestUpdateTime": "2024-11-18T01:08:00.000Z",
+    "watchCount": "30258",
+    "watchListRanking": 1091,
+    "latestAdded": false,
+    "tags": [
+      {
+        "slug": "defi",
+        "name": "DeFi",
+        "category": "CATEGORY"
+      },
+      {
+        "slug": "yield-farming",
+        "name": "Yield Farming",
+        "category": "CATEGORY"
+      },
+      {
+        "slug": "amm",
+        "name": "AMM",
+        "category": "CATEGORY"
+      },
+      {
+        "slug": "dex",
+        "name": "DEX",
+        "category": "CATEGORY"
+      },
+      {
+        "slug": "yield-aggregator",
+        "name": "Yield Aggregator",
+        "category": "CATEGORY"
+      },
+      {
+        "slug": "heco-ecosystem",
+        "name": "HECO Ecosystem",
+        "category": "PLATFORM"
+      },
+      {
+        "slug": "polygon-ecosystem",
+        "name": "Polygon Ecosystem",
+        "category": "PLATFORM"
+      },
+      {
+        "slug": "bnb-chain",
+        "name": "BNB Chain",
+        "category": "PLATFORM"
+      }
+    ],
+    "urls": {
+      "website": [
+        "https://autofarm.network/"
+      ],
+      "technical_doc": [
+        "https://autofarm.gitbook.io/autofarm-network/"
+      ],
+      "explorer": [
+        "https://bscscan.com/token/0xa184088a740c695e156f91f5cc086a06bb78b827"
+      ],
+      "source_code": [
+        "https://github.com/autofarm-network/autofarmV2"
+      ],
+      "message_board": [
+        "https://autofarm-network.medium.com/"
+      ],
+      "chat": [
+        "https://t.me/autofarm_network"
+      ],
+      "announcement": [],
+      "reddit": [],
+      "facebook": [],
+      "twitter": [
+        "https://twitter.com/autofarmnetwork"
+      ]
+    },
+    "volume": 63464.22889774,
+    "volumeChangePercentage24h": 5.9926,
+    "cexVolume": 58049.59537846,
+    "dexVolume": 5414.63351928,
+    "statistics": {
+      "price": 12.821765676780467,
+      "priceChangePercentage1h": 0.0446117,
+      "priceChangePercentage24h": -0.65738157,
+      "priceChangePercentage7d": -1.40570266,
+      "priceChangePercentage30d": 10.19793832,
+      "priceChangePercentage60d": 13.98777316,
+      "priceChangePercentage90d": 9.22699762,
+      "priceChangePercentage1y": -29.04323152,
+      "priceChangePercentageAll": -97.35259928532,
+      "marketCap": 982808.76,
+      "marketCapChangePercentage24h": -0.6574,
+      "fullyDilutedMarketCap": 1033921.54,
+      "fullyDilutedMarketCapChangePercentage24h": -0.66,
+      "circulatingSupply": 76651.59231635,
+      "totalSupply": 78173.31404734,
+      "maxSupply": 80638.0,
+      "marketCapDominance": 0.0,
+      "rank": 1873,
+      "low24h": 12.524199439446253,
+      "high24h": 13.099057499385555,
+      "low7d": 12.509232233522864,
+      "high7d": 14.055309400334865,
+      "low30d": 10.710561638437685,
+      "high30d": 14.055309400334865,
+      "low90d": 9.589510838390977,
+      "high90d": 14.055309400334865,
+      "low52w": 9.434971345823296,
+      "high52w": 35.71865068184913,
+      "lowAllTime": 8.638167010138263,
+      "highAllTime": 13532.25332614,
+      "lowAllTimeChangePercentage": 48.43,
+      "highAllTimeChangePercentage": -99.91,
+      "lowAllTimeTimestamp": "2023-10-19T21:40:00.000Z",
+      "highAllTimeTimestamp": "2021-02-19T23:55:05.000Z",
+      "lowYesterday": 12.524199439446253,
+      "highYesterday": 13.099057499385555,
+      "openYesterday": 12.905133456569386,
+      "closeYesterday": 12.816816295788634,
+      "priceChangePercentageYesterday": -0.68,
+      "volumeYesterday": 63151.74,
+      "tvl": 11027685.44191,
+      "tvlRatio": 0.08912194,
+      "turnover": 0.06457434,
+      "ytdPriceChangePercentage": -55.8092,
+      "volumeRank": 3090,
+      "volumeMcRank": 2385,
+      "mcTotalNum": 10049,
+      "volumeTotalNum": 10049,
+      "volumeMcTotalNum": 10049
+    },
+    "quotes": [],
+    "platforms": [
+      {
+        "contractId": 1839,
+        "contractAddress": "0xa184088a740c695e156f91f5cc086a06bb78b827",
+        "contractPlatform": "BNB Smart Chain (BEP20)",
+        "contractPlatformId": 14,
+        "contractChainId": 56,
+        "contractRpcUrl": [
+          "https://bsc-dataseed1.binance.org",
+          "https://bsc-dataseed.binance.org/",
+          "https://bsc-dataseed1.binance.org:443"
+        ],
+        "contractNativeCurrencyName": "Binance Chain Native Token",
+        "contractNativeCurrencySymbol": "BNB",
+        "contractNativeCurrencyDecimals": 18,
+        "contractBlockExplorerUrl": "https://bscscan.com/",
+        "contractExplorerUrl": "https://bscscan.com/token/0xa184088a740c695e156f91f5cc086a06bb78b827",
+        "contractDecimals": 18,
+        "platformCryptoId": 1839,
+        "sort": 0,
+        "wallets": [
+          {
+            "id": 9025
+          }
+        ]
+      }
+    ],
+    "relatedCoins": [
+      {
+        "id": 2513,
+        "name": "GoldMint",
+        "slug": "goldmint",
+        "price": 0.05065701161697734,
+        "priceChangePercentage24h": -0.83488657,
+        "priceChangePercentage7d": 21.70106268
+      },
+      {
+        "id": 4679,
+        "name": "Band Protocol",
+        "slug": "band-protocol",
+        "price": 1.292442957959532,
+        "priceChangePercentage24h": -5.49085976,
+        "priceChangePercentage7d": 1.83894638
+      },
+      {
+        "id": 7083,
+        "name": "Uniswap",
+        "slug": "uniswap",
+        "price": 8.908870316241822,
+        "priceChangePercentage24h": -4.37905662,
+        "priceChangePercentage7d": -3.89720203
+      },
+      {
+        "id": 1414,
+        "name": "Firo",
+        "slug": "firo",
+        "price": 1.3413296028403725,
+        "priceChangePercentage24h": 0.01513146,
+        "priceChangePercentage7d": 3.71161907
+      },
+      {
+        "id": 1975,
+        "name": "Chainlink",
+        "slug": "chainlink",
+        "price": 14.027977104735273,
+        "priceChangePercentage24h": -5.26054782,
+        "priceChangePercentage7d": -2.46384499
+      },
+      {
+        "id": 7653,
+        "name": "Oasis",
+        "slug": "oasis-network",
+        "price": 0.08022292973253188,
+        "priceChangePercentage24h": -5.32975909,
+        "priceChangePercentage7d": -4.28618144
+      },
+      {
+        "id": 707,
+        "name": "Blocknet",
+        "slug": "blocknet",
+        "price": 0.017113298239738093,
+        "priceChangePercentage24h": -0.68391562,
+        "priceChangePercentage7d": -3.37311436
+      },
+      {
+        "id": 5864,
+        "name": "yearn.finance",
+        "slug": "yearn-finance",
+        "price": 6192.400498421924,
+        "priceChangePercentage24h": -4.3906193,
+        "priceChangePercentage7d": -11.35460168
+      },
+      {
+        "id": 4279,
+        "name": "Solar",
+        "slug": "sxp",
+        "price": 0.3644821543238817,
+        "priceChangePercentage24h": 2.3634613,
+        "priceChangePercentage7d": 18.80942314
+      },
+      {
+        "id": 8043,
+        "name": "MAHA.xyz",
+        "slug": "mahadao",
+        "price": 0.903406563175288,
+        "priceChangePercentage24h": -2.69133014,
+        "priceChangePercentage7d": -9.77486233
+      }
+    ],
+    "wallets": [
+      {
+        "id": 9025,
+        "name": "MetaMask",
+        "tier": 1,
+        "url": "https://metamask.io/",
+        "chains": "ETH,ETZ",
+        "types": "pc",
+        "introduction": "",
+        "star": 1.0,
+        "security": 2.0,
+        "easyToUse": 4.0,
+        "decentration": false,
+        "focusNumber": 0,
+        "rank": 1000013,
+        "logo": "9025.png",
+        "multipleChain": true
+      },
+      {
+        "id": 9152,
+        "name": "Binance Chain Wallet",
+        "url": "https://www.binance.org/en/blog/binance-extension-wallet/",
+        "chains": "BNB",
+        "types": "",
+        "introduction": "",
+        "star": 0.0,
+        "security": 0.0,
+        "easyToUse": 0.0,
+        "decentration": false,
+        "focusNumber": 0,
+        "logo": "9152.png",
+        "multipleChain": false
+      }
+    ],
+    "isAudited": true,
+    "auditInfos": [
+      {
+        "coinId": "8387",
+        "auditor": "CertiK",
+        "auditStatus": 2,
+        "auditTime": "2021-03-27T00:00:00.000Z",
+        "reportUrl": "https://cmc.certik-skynet.com/redirect?project=autofarm"
+      },
+      {
+        "coinId": "8387",
+        "auditor": "SlowMist",
+        "auditStatus": 2,
+        "reportUrl": "https://www.slowmist.com/en/security-audit-certificate.html?id=2e21a4e44f7a5f4800c17b97e63459b6c3c441e9abeea3b132f506b6bfc2c59f"
+      }
+    ],
+    "holders": {},
+    "displayTV": 1,
+    "isInfiniteMaxSupply": 0,
+    "tvCoinSymbol": "AUTO",
+    "supportWalletInfos": [
+      {
+        "id": 9025,
+        "name": "MetaMask",
+        "url": "https://metamask.io/",
+        "chains": "ETH,ETZ",
+        "decentration": false,
+        "logo": "9025.png",
+        "multipleChain": false
+      },
+      {
+        "id": 9152,
+        "name": "Binance Chain Wallet",
+        "url": "https://www.binance.org/en/blog/binance-extension-wallet/",
+        "chains": "BNB",
+        "decentration": false,
+        "logo": "9152.png",
+        "multipleChain": false
+      }
+    ],
+    "holdersFlag": false,
+    "ratingsFlag": false,
+    "analysisFlag": false,
+    "socialsFlag": true,
+    "cryptoRating": [
+      {
+        "type": "CertiK",
+        "score": 84.95,
+        "rating": 4.2,
+        "updateTime": "2024-11-17T00:00:00.000Z",
+        "link": "https://cmc.certik-skynet.com/redirect?project=autofarm&utm_source=CMC&utm_campaign=ScoreByCertiKLink"
+      },
+      {
+        "type": "Cyberscope",
+        "score": 69.0,
+        "rating": 3.5,
+        "updateTime": "2024-11-17T10:59:42.000Z",
+        "link": "https://www.cyberscope.io/audits/coin-auto"
+      },
+      {
+        "type": "Aggregate rating",
+        "score": 77.0,
+        "rating": 3.9,
+        "updateTime": "2024-11-18T01:00:00.208Z"
+      }
+    ],
+    "hasExtraInfoFlag": false,
+    "upcoming": {
+      "status": false
+    },
+    "annotationFlag": false,
+    "similarCoins": [
+      {
+        "id": 7288,
+        "symbol": "XVS"
+      },
+      {
+        "id": 8206,
+        "symbol": "QUICK"
+      },
+      {
+        "id": 5957,
+        "symbol": "YFII"
+      },
+      {
+        "id": 6859,
+        "symbol": "FARM"
+      },
+      {
+        "id": 7672,
+        "symbol": "UNFI"
+      },
+      {
+        "id": 8891,
+        "symbol": "BTCST"
+      }
+    ]
+  },
+  "status": {
+    "timestamp": "2024-11-18T01:09:53.900Z",
+    "error_code": "0",
+    "error_message": "SUCCESS",
+    "elapsed": "2",
+    "credit_count": 0
+  }
+}

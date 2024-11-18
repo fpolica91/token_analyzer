@@ -1,0 +1,928 @@
+{
+  "data": {
+    "id": 9889,
+    "name": "Bistroo",
+    "symbol": "BIST",
+    "slug": "bistroo",
+    "category": "token",
+    "description": "# What is Bistroo?\nTakeaway platforms have made it easy to enjoy our favourite meals, but they\u2019ve made life tough for the restaurants we love.\n\nCurrent platforms demand that restaurants pay disproportionate fees, while dictating control over data, pay-out, client relations, loyalty and contact. It\u2019s a stitch-up that results in higher costs for consumers and restaurants.\n\nBistroo puts an end to this, by providing a platform where businesses are back in control. \n\nWe offer better user experience, lower transaction costs and a fairer infrastructure. Our job is to provide the tools, insights and support to facilitate a peer-2-peer relationships for our merchants.\n\n**We facilitate, never dictate**\nWe've created a platform that facilitates the connection between restaurants, food merchants and consumers, instead of controlling it. Merchants are in full control of their payments, product selection, orders, advertising, and analytics. They can speak directly with their customers and are paid out instantly when orders are received.\n\nOur operational product launched on March 3rd 2020 within the Netherlands and has over 25k active and recurring users, generating 250k USD platform turnover monthly (see [HERE](https://bistroo.io/platform) for up-to-date stats).\n\nThe utility will become globally available through the launch of the Bistroo.com instance, eventually providing a platform for every merchant globally to onboard themselves and provide their products online to their customers.\n\n# BIST is the network\u2019s utility token that is used for:\n- Purchase your food using BIST tokens against reduced rates compared to FIAT purchases.\n- Order givebacks: For each order placed using FIAT you receive 1% of the order cost back in BIST token. If you use BIST Tokens to place the order you receive 2% of the order cost back.\n- Data rewards:Share your consumption and order data & you will be rewarded with BIST tokens.\nRatings & reviews: Write community valued reviews for meals & services and be rewarded in BIST for contributing valuable info.\n- Merchant staking: Staking BIST tokens as a merchant will allow you to get discounts on commision fees.\n- Contribute: Be a valuable member of the community by, for example, onboarding your favorite restaurant or inviting your friends & receive BIST tokens as your reward.\n- Shopping: Merchants can use BIST tokens to purchase all kinds of store attributes to enhance their customer experience.\n- Premium features: BIST tokens can be used by merchants to gain access premium dashboard features at a significantly reduced price.\n- Smart advertisement: Merchants can use BIST tokens for advertising to their target customer audience.\n- Community & liquidity staking: Earn rewards for contributing to the network by staking your BIST tokens, or by providing liquidity.\n\n# Who are the founders?\nBistroo was founded by Bas Roos, CEO & Bob Dohmen, CTO late 2018. \n\nOur team has grown to 16 hands-on champions over the course of the last couple of months. With team members in development, marketing, content and communication team members, we are ready for the next leg of growth and development to scale the platform.\n\n# Advisory Board\nChris Dawe - Founder & CEO at Effect.ai\nHans van Tricht - CFO at Jamezz\nJeff Gielen - Strategic Advisor at Kadans Science Partner",
+    "dateAdded": "2021-05-17T00:00:00.000Z",
+    "status": "active",
+    "subStatus": "normal",
+    "notice": "",
+    "alertType": 2,
+    "alertLink": "",
+    "latestUpdateTime": "2024-11-18T01:09:00.000Z",
+    "watchCount": "4037",
+    "watchListRanking": 3701,
+    "dateLaunched": "2021-05-16T00:00:00.000Z",
+    "latestAdded": false,
+    "launchPrice": 0.25,
+    "tags": [
+      {
+        "slug": "food-beverage",
+        "name": "Food & Beverage",
+        "category": "INDUSTRY"
+      },
+      {
+        "slug": "marketplace",
+        "name": "Marketplace",
+        "category": "INDUSTRY"
+      },
+      {
+        "slug": "loyalty",
+        "name": "Loyalty",
+        "category": "INDUSTRY"
+      },
+      {
+        "slug": "e-commerce",
+        "name": "E-commerce",
+        "category": "INDUSTRY"
+      },
+      {
+        "slug": "dapp",
+        "name": "DApp",
+        "category": "CATEGORY"
+      }
+    ],
+    "selfReportedTags": [
+      "DePIN"
+    ],
+    "selfReportedCirculatingSupply": "57402226",
+    "urls": {
+      "website": [
+        "https://www.bistroo.io",
+        "https://www.bistroo.nl"
+      ],
+      "technical_doc": [
+        "https://bistroo.io/whitepaper"
+      ],
+      "explorer": [
+        "https://etherscan.io/token/0x6e8908cfa881c9f6f2c64d3436e7b80b1bf0093f",
+        "https://ethplorer.io/address/0x6e8908cfa881c9f6f2c64d3436e7b80b1bf0093f",
+        "https://bscscan.com/token/0xbd525e51384905c6c0936a431bc7efb6c4903ea0"
+      ],
+      "source_code": [
+        "https://github.com/bistroo"
+      ],
+      "message_board": [
+        "https://bistroo.medium.com/"
+      ],
+      "chat": [
+        "https://t.me/bistroo_comm",
+        "https://discord.com/invite/xRqEeMfQyz"
+      ],
+      "announcement": [],
+      "reddit": [],
+      "facebook": [],
+      "twitter": [
+        "https://twitter.com/BistrooIO"
+      ]
+    },
+    "volume": 612.49878344,
+    "volumeChangePercentage24h": -32.2035,
+    "cexVolume": 612.49878344,
+    "dexVolume": 0.0,
+    "statistics": {
+      "price": 0.014393032875048303,
+      "priceChangePercentage1h": -0.00512233,
+      "priceChangePercentage24h": -2.75465409,
+      "priceChangePercentage7d": 0.05177381,
+      "priceChangePercentage30d": -3.18257927,
+      "priceChangePercentage60d": -16.49893861,
+      "priceChangePercentage90d": -23.12059687,
+      "priceChangePercentage1y": -38.79787666,
+      "priceChangePercentageAll": -95.326787926481,
+      "marketCap": 826192.13,
+      "marketCapChangePercentage24h": -2.7547,
+      "fullyDilutedMarketCap": 1439303.29,
+      "fullyDilutedMarketCapChangePercentage24h": -2.75,
+      "circulatingSupply": 57402226.0,
+      "totalSupply": 100000000.0,
+      "marketCapDominance": 0.0,
+      "rank": 1925,
+      "roi": -94.24278685,
+      "low24h": 0.014343649990693128,
+      "high24h": 0.01480241305927526,
+      "low7d": 0.013984041204818689,
+      "high7d": 0.015318015109511921,
+      "low30d": 0.012493015885346032,
+      "high30d": 0.015318015109511921,
+      "low90d": 0.012493015885346032,
+      "high90d": 0.022885601327065904,
+      "low52w": 0.012493015885346032,
+      "high52w": 0.03436536438419739,
+      "lowAllTime": 0.012312781819241244,
+      "highAllTime": 0.36994173,
+      "lowAllTimeChangePercentage": 16.9,
+      "highAllTimeChangePercentage": -96.11,
+      "lowAllTimeTimestamp": "2022-06-18T20:51:00.000Z",
+      "highAllTimeTimestamp": "2021-05-18T05:17:08.000Z",
+      "lowYesterday": 0.014343649990693128,
+      "highYesterday": 0.01480241305927526,
+      "openYesterday": 0.014799381601608961,
+      "closeYesterday": 0.014394347079050442,
+      "priceChangePercentageYesterday": -2.74,
+      "volumeYesterday": 952.92,
+      "turnover": 0.00074135,
+      "ytdPriceChangePercentage": -37.692,
+      "volumeRank": 6329,
+      "volumeMcRank": 6639,
+      "mcTotalNum": 10049,
+      "volumeTotalNum": 10049,
+      "volumeMcTotalNum": 10049
+    },
+    "quotes": [],
+    "platforms": [
+      {
+        "contractId": 1027,
+        "contractAddress": "0x6e8908cfa881c9f6f2c64d3436e7b80b1bf0093f",
+        "contractPlatform": "Ethereum",
+        "contractPlatformId": 1,
+        "contractChainId": 1,
+        "contractRpcUrl": [
+          "https://bsc-dataseed1.binance.org",
+          "https://bsc-dataseed.binance.org/",
+          "https://bsc-dataseed1.binance.org:443"
+        ],
+        "contractNativeCurrencyName": "Ethereum",
+        "contractNativeCurrencySymbol": "ETH",
+        "contractNativeCurrencyDecimals": 18,
+        "contractBlockExplorerUrl": "https://etherscan.io",
+        "contractExplorerUrl": "https://etherscan.io/token/0x6e8908cfa881c9f6f2c64d3436e7b80b1bf0093f",
+        "contractDecimals": 18,
+        "platformCryptoId": 1027,
+        "sort": 0,
+        "wallets": [
+          {
+            "id": 9025
+          }
+        ]
+      },
+      {
+        "contractId": 1839,
+        "contractAddress": "0xbd525e51384905c6c0936a431bc7efb6c4903ea0",
+        "contractPlatform": "BNB Smart Chain (BEP20)",
+        "contractPlatformId": 14,
+        "contractChainId": 56,
+        "contractRpcUrl": [
+          "https://bsc-dataseed1.binance.org",
+          "https://bsc-dataseed.binance.org/",
+          "https://bsc-dataseed1.binance.org:443"
+        ],
+        "contractNativeCurrencyName": "Binance Chain Native Token",
+        "contractNativeCurrencySymbol": "BNB",
+        "contractNativeCurrencyDecimals": 18,
+        "contractBlockExplorerUrl": "https://bscscan.com/",
+        "contractExplorerUrl": "https://bscscan.com/token/0xbd525e51384905c6c0936a431bc7efb6c4903ea0",
+        "contractDecimals": 18,
+        "platformCryptoId": 1839,
+        "sort": 0,
+        "wallets": [
+          {
+            "id": 9025
+          }
+        ]
+      }
+    ],
+    "relatedCoins": [
+      {
+        "id": 2513,
+        "name": "GoldMint",
+        "slug": "goldmint",
+        "price": 0.05065701161697734,
+        "priceChangePercentage24h": -0.83488657,
+        "priceChangePercentage7d": 21.70106268
+      },
+      {
+        "id": 4679,
+        "name": "Band Protocol",
+        "slug": "band-protocol",
+        "price": 1.2924689407590508,
+        "priceChangePercentage24h": -5.51284503,
+        "priceChangePercentage7d": 1.82102584
+      },
+      {
+        "id": 7083,
+        "name": "Uniswap",
+        "slug": "uniswap",
+        "price": 8.907804423933275,
+        "priceChangePercentage24h": -4.39447372,
+        "priceChangePercentage7d": -3.90346035
+      },
+      {
+        "id": 1414,
+        "name": "Firo",
+        "slug": "firo",
+        "price": 1.3454938776288508,
+        "priceChangePercentage24h": 0.21867821,
+        "priceChangePercentage7d": 4.03360084
+      },
+      {
+        "id": 1975,
+        "name": "Chainlink",
+        "slug": "chainlink",
+        "price": 14.028344717813509,
+        "priceChangePercentage24h": -5.25786687,
+        "priceChangePercentage7d": -2.46572024
+      },
+      {
+        "id": 7653,
+        "name": "Oasis",
+        "slug": "oasis-network",
+        "price": 0.08025331330873264,
+        "priceChangePercentage24h": -5.30717197,
+        "priceChangePercentage7d": -4.39563858
+      },
+      {
+        "id": 707,
+        "name": "Blocknet",
+        "slug": "blocknet",
+        "price": 0.017113298239738093,
+        "priceChangePercentage24h": -0.68391562,
+        "priceChangePercentage7d": -3.30053472
+      },
+      {
+        "id": 5864,
+        "name": "yearn.finance",
+        "slug": "yearn-finance",
+        "price": 6192.38803639104,
+        "priceChangePercentage24h": -4.43119421,
+        "priceChangePercentage7d": -11.362147
+      },
+      {
+        "id": 4279,
+        "name": "Solar",
+        "slug": "sxp",
+        "price": 0.36376553390538346,
+        "priceChangePercentage24h": 2.1116243,
+        "priceChangePercentage7d": 18.12789401
+      },
+      {
+        "id": 8043,
+        "name": "MAHA.xyz",
+        "slug": "mahadao",
+        "price": 0.9034865737660874,
+        "priceChangePercentage24h": -2.68820884,
+        "priceChangePercentage7d": -9.89747239
+      }
+    ],
+    "wallets": [
+      {
+        "id": 9022,
+        "name": "Trust Wallet",
+        "tier": 1,
+        "url": "https://www.trustwallet.com/",
+        "chains": "ETH",
+        "types": "app,trade",
+        "introduction": "",
+        "star": 2.0,
+        "security": 3.0,
+        "easyToUse": 3.0,
+        "decentration": true,
+        "focusNumber": 0,
+        "rank": 1000008,
+        "logo": "9022.png",
+        "multipleChain": true
+      },
+      {
+        "id": 9025,
+        "name": "MetaMask",
+        "tier": 1,
+        "url": "https://metamask.io/",
+        "chains": "ETH,ETZ",
+        "types": "pc",
+        "introduction": "",
+        "star": 1.0,
+        "security": 2.0,
+        "easyToUse": 4.0,
+        "decentration": false,
+        "focusNumber": 0,
+        "rank": 1000013,
+        "logo": "9025.png",
+        "multipleChain": true
+      },
+      {
+        "id": 9152,
+        "name": "Binance Chain Wallet",
+        "url": "https://www.binance.org/en/blog/binance-extension-wallet/",
+        "chains": "BNB",
+        "types": "",
+        "introduction": "",
+        "star": 0.0,
+        "security": 0.0,
+        "easyToUse": 0.0,
+        "decentration": false,
+        "focusNumber": 0,
+        "logo": "9152.png",
+        "multipleChain": false
+      }
+    ],
+    "isAudited": false,
+    "holders": {
+      "holderCount": 1717,
+      "holderList": [
+        {
+          "address": "0x23722664a936b8eae516e2f071cdef09dbce3827",
+          "balance": 10000000.0,
+          "share": 10
+        },
+        {
+          "address": "0x6b054e2acb308d0d3197b18957660a630b0c16f9",
+          "balance": 10000000.0,
+          "share": 10
+        },
+        {
+          "address": "0x3e7f0ae4d21540c0446e85d1bf47891a5d30cffe",
+          "balance": 10000000.0,
+          "share": 10
+        },
+        {
+          "address": "0xe396757ec7e6ac7c8e5abe7285dde47b98f22db8",
+          "balance": 7854290.632983772,
+          "share": 7.85
+        },
+        {
+          "address": "0x75e89d5979e4f6fba9f97c104c2f0afb3f1dcb88",
+          "balance": 7794535.008127276,
+          "share": 7.79
+        },
+        {
+          "address": "0x99a651772477088dffd9da65dddb232854e80acc",
+          "balance": 5342688.354029167,
+          "share": 5.34
+        },
+        {
+          "address": "0x75fc1911ddf3de6db39dd65fe734dc7778fd4539",
+          "balance": 4677191.15799515,
+          "share": 4.68
+        },
+        {
+          "address": "0x066853f575a9d1aa0254c01ecbd55bc85da7fb98",
+          "balance": 3695020.503608647,
+          "share": 3.7
+        },
+        {
+          "address": "0xcc290a463aa1c2afd36990f1eec40b734c3bf3f3",
+          "balance": 3296509.0957999285,
+          "share": 3.3
+        },
+        {
+          "address": "0x5038a3b608b61d996dda1ff73320f7b2b09a5da5",
+          "balance": 2403339.83,
+          "share": 2.4
+        },
+        {
+          "address": "0x913163877c4ca22d64c69573f31f09f8a513215a",
+          "balance": 1868173.0385772956,
+          "share": 1.87
+        },
+        {
+          "address": "0x06eeb3718057c79696b3625002cc78ff65b174c7",
+          "balance": 1776750.0,
+          "share": 1.78
+        },
+        {
+          "address": "0x0b29789dd274223ed21e74633b046494e1d3fcdd",
+          "balance": 1776750.0,
+          "share": 1.78
+        },
+        {
+          "address": "0x3d19ea5acd7f9905d809c4502f0bd45f5ac9a48d",
+          "balance": 1500000.0,
+          "share": 1.5
+        },
+        {
+          "address": "0xe548134efdeace162cda2eb963e731526689e1a5",
+          "balance": 1364501.413509638,
+          "share": 1.36
+        },
+        {
+          "address": "0x19bb320f43efc3f7ca76687d3c71b222a7fb5cb6",
+          "balance": 1264339.046682494,
+          "share": 1.26
+        },
+        {
+          "address": "0x7e33888b8ce93c79c69167e87352da803f3844ae",
+          "balance": 1059450.0,
+          "share": 1.06
+        },
+        {
+          "address": "0x110d350548c14423ba51d9d41da4dd1d2ee303ba",
+          "balance": 949168.483509638,
+          "share": 0.95
+        },
+        {
+          "address": "0x90bdd266d8db3f920883ff1293a467357b5abd24",
+          "balance": 802942.2952910359,
+          "share": 0.8
+        },
+        {
+          "address": "0x098ad87b7afb2235836b639ab12e370da3557971",
+          "balance": 798000.0,
+          "share": 0.8
+        },
+        {
+          "address": "0x8dc17152eaef14efd483b8672f34e34eef8aacf2",
+          "balance": 750000.0,
+          "share": 0.75
+        },
+        {
+          "address": "0x44804195c341c457baa7d759d037f45ca827587c",
+          "balance": 665000.0,
+          "share": 0.67
+        },
+        {
+          "address": "0x9642b23ed1e01df1092b92641051881a322f5d4e",
+          "balance": 558048.2094071454,
+          "share": 0.56
+        },
+        {
+          "address": "0x89fac021fe4164f7b1cd2d04ccd09ff05b015af3",
+          "balance": 439600.0,
+          "share": 0.44
+        },
+        {
+          "address": "0xa6eba518416ec1541789546e29409dec9ea88cb8",
+          "balance": 399000.0,
+          "share": 0.4
+        },
+        {
+          "address": "0xe04b7988d91866e520300cf82eaaeabb5d658568",
+          "balance": 393200.0,
+          "share": 0.39
+        },
+        {
+          "address": "0x7885182861ffc3d5413e7e172302fa08fe7880ea",
+          "balance": 369000.2,
+          "share": 0.37
+        },
+        {
+          "address": "0x4ad46102c6a63fcb6464020f63818f75208830c3",
+          "balance": 364812.9127586796,
+          "share": 0.36
+        },
+        {
+          "address": "0x1a3f00a013670becaf3e51b5db8c0a530b5bf08f",
+          "balance": 357300.7940300398,
+          "share": 0.36
+        },
+        {
+          "address": "0x834e743efcb377e8fd776672f4642aef23e2a056",
+          "balance": 312894.7853022139,
+          "share": 0.31
+        },
+        {
+          "address": "0x4a5788790dab0db4689fc7ffaf2096937ee0b488",
+          "balance": 289574.3886820633,
+          "share": 0.29
+        },
+        {
+          "address": "0x9888c6ed0d5b0220e5c6dd84fb6ac11872ff576f",
+          "balance": 254817.42852260178,
+          "share": 0.25
+        },
+        {
+          "address": "0x978a137822290bd71a40b1355982f85bfec8d211",
+          "balance": 244800.0,
+          "share": 0.24
+        },
+        {
+          "address": "0xdc91329a9da1976d47cdb0fc5b459ac3d5371a81",
+          "balance": 238065.66264046557,
+          "share": 0.24
+        },
+        {
+          "address": "0x6c74b133039beb62b3de7245da142a5af42b1a31",
+          "balance": 234696.5923619453,
+          "share": 0.23
+        },
+        {
+          "address": "0x62a8184de90e2dc1fab2c3df410111a216746e25",
+          "balance": 203550.66122781148,
+          "share": 0.2
+        },
+        {
+          "address": "0x5f96d886b374282942db914d511cff22b762b4c8",
+          "balance": 190811.52966216,
+          "share": 0.19
+        },
+        {
+          "address": "0x86bdab071dcc385eef1436e4d0f5b5f0584abfc3",
+          "balance": 175000.0,
+          "share": 0.18
+        },
+        {
+          "address": "0x4c333c8853f6b6766af0ee357dda74b2c7d06341",
+          "balance": 152015.02821249817,
+          "share": 0.15
+        },
+        {
+          "address": "0xa960f1c9307b456ab8c795ccecea99a4654c2bc8",
+          "balance": 144000.0,
+          "share": 0.14
+        },
+        {
+          "address": "0x0957099aa8f7d6091bfde374d3ba3a8f3c9a2149",
+          "balance": 143132.4173509807,
+          "share": 0.14
+        },
+        {
+          "address": "0xb933531173f54000980c7407acad4823eb03b1b4",
+          "balance": 132336,
+          "share": 0.13
+        },
+        {
+          "address": "0x465df6401b47113a0bcbf5639534216bf9854cb1",
+          "balance": 124381.28964258273,
+          "share": 0.12
+        },
+        {
+          "address": "0xd4c8a811a4a6e164c3f68af0bc92ef6b8d6ea481",
+          "balance": 118917.8301413184,
+          "share": 0.12
+        },
+        {
+          "address": "0x12534daea22445e3b47f09e2e0be3b37e06431ca",
+          "balance": 115200.0,
+          "share": 0.12
+        },
+        {
+          "address": "0x668f56e7da7ba234e75eed7b3de61d085cad9b7c",
+          "balance": 107255.52,
+          "share": 0.11
+        },
+        {
+          "address": "0x87bc52e42de1dfd023dd61375e8bbd5a5e1a9ee8",
+          "balance": 104253.7504,
+          "share": 0.1
+        },
+        {
+          "address": "0x30c9dcfd2b405657c7e7eb6cfce36085f7e30f6a",
+          "balance": 104009.02210809808,
+          "share": 0.1
+        },
+        {
+          "address": "0x9386bb3678f8e73045545c219bb244c1793ca788",
+          "balance": 100669.9812757912,
+          "share": 0.1
+        },
+        {
+          "address": "0xd914dac12575abd2352e624b88ec07fa1ebeffb4",
+          "balance": 100000.0,
+          "share": 0.1
+        },
+        {
+          "address": "0x90d1023d09d4d593501c4548c20b3b92d1f68021",
+          "balance": 100000.0,
+          "share": 0.1
+        },
+        {
+          "address": "0xab9f6d5e804247aef0831bfb18c6550cecfe176a",
+          "balance": 95976.3585312,
+          "share": 0.1
+        },
+        {
+          "address": "0x5541a568af65e23100c0e8ce1f0101f395945cb6",
+          "balance": 86286.74877293911,
+          "share": 0.09
+        },
+        {
+          "address": "0x88f9b910f7b351d09475e06d0d48a7598fca5831",
+          "balance": 85175.49679917448,
+          "share": 0.09
+        },
+        {
+          "address": "0x4bb14e8f67ecdaec644647fcd570aad4f466ed98",
+          "balance": 82156.57180826562,
+          "share": 0.08
+        },
+        {
+          "address": "0x4c9df7e19a25fee83cf623a4e86137d6c3d14c0f",
+          "balance": 81730.71420590913,
+          "share": 0.08
+        },
+        {
+          "address": "0x6d5531de59099586a9b778f79df3a6816621db97",
+          "balance": 81375.5141248,
+          "share": 0.08
+        },
+        {
+          "address": "0x487363c0cf0528c1dad0ed13fcc0674b989cf47f",
+          "balance": 77405.96004672881,
+          "share": 0.08
+        },
+        {
+          "address": "0x98c1f6e3061d9635039b70bd28a98a1798d49dfb",
+          "balance": 73947.06869700184,
+          "share": 0.07
+        },
+        {
+          "address": "0x6844f82ac9b667b7c51dc878d360c918b85eb25b",
+          "balance": 72977.37553851189,
+          "share": 0.07
+        },
+        {
+          "address": "0x6c622ee87c3cadde20d757baa83d4e9b5b76a0aa",
+          "balance": 72618.32152555876,
+          "share": 0.07
+        },
+        {
+          "address": "0xdafb5ad6faad6d225ec494a220e77d58ac8df5ca",
+          "balance": 72000.0,
+          "share": 0.07
+        },
+        {
+          "address": "0x7db16fa74135370c57600696cb1ab8b11a9f8353",
+          "balance": 69700.0,
+          "share": 0.07
+        },
+        {
+          "address": "0x349e975968a56709f7a5f18a8cfd5f8fc54eeb0a",
+          "balance": 69344.01664059269,
+          "share": 0.07
+        },
+        {
+          "address": "0xd26373714cfbe04bdb2e30c60f01e1527ecf083b",
+          "balance": 68832.171144,
+          "share": 0.07
+        },
+        {
+          "address": "0x408c8f2f44167ffd6f96a38bfcff9a77847aae91",
+          "balance": 68728,
+          "share": 0.07
+        },
+        {
+          "address": "0x6cd9e9d855d028464640d1f4c9ce50422c2195ba",
+          "balance": 67571.42984787263,
+          "share": 0.07
+        },
+        {
+          "address": "0x8c6047aca367d49ac55ef8a55abd48d0a9b27fae",
+          "balance": 67153.21959356689,
+          "share": 0.07
+        },
+        {
+          "address": "0x20200556fe38c0f0de467922a81b049cce66db44",
+          "balance": 66343.4554714952,
+          "share": 0.07
+        },
+        {
+          "address": "0xce66944189fb62f154247cc9ba5c468e51704df9",
+          "balance": 64800.0,
+          "share": 0.06
+        },
+        {
+          "address": "0x24191d204a7225bdb807d50003c58825cdd147d4",
+          "balance": 63352.150456,
+          "share": 0.06
+        },
+        {
+          "address": "0xa4a2eae7664f71ec5e3395931dd428eec158433f",
+          "balance": 62202.36610099964,
+          "share": 0.06
+        },
+        {
+          "address": "0x3c2986d3c26ea48765fce87c3cb698ab4b6e8ad3",
+          "balance": 62200.919630955636,
+          "share": 0.06
+        },
+        {
+          "address": "0xbd2f43ee18b21bc6ec5fb9e7ec55f75b30cc0fa5",
+          "balance": 62048.990272937124,
+          "share": 0.06
+        },
+        {
+          "address": "0xffb3e5f52bd7b80aa8c3ae2aac125e6cd1e8d535",
+          "balance": 60999.40316122129,
+          "share": 0.06
+        },
+        {
+          "address": "0x2ba75eccb8d13af2d1f679feb9d9180ae666f683",
+          "balance": 59666.41111009219,
+          "share": 0.06
+        },
+        {
+          "address": "0x43592f7e69978ba172f80c5f900534a5cdd5b38f",
+          "balance": 56512.5559154757,
+          "share": 0.06
+        },
+        {
+          "address": "0x0cc9321df543f7177015e7b4eaa92b599b40e12a",
+          "balance": 54571.08972850095,
+          "share": 0.05
+        },
+        {
+          "address": "0xd58c726d4340b315e7d06605f056260e0ee24537",
+          "balance": 54420.58335423193,
+          "share": 0.05
+        },
+        {
+          "address": "0x3e715e0b5f5cef63a4fdc1473362959b3784563c",
+          "balance": 54007.0577936,
+          "share": 0.05
+        },
+        {
+          "address": "0xbf96aaa75d3a158b99fadf9317b79e56d4cbf3d9",
+          "balance": 54000.0,
+          "share": 0.05
+        },
+        {
+          "address": "0xde1934d39b4b0bf3fbff9c1374a0cc3fde442705",
+          "balance": 52816,
+          "share": 0.05
+        },
+        {
+          "address": "0x4e17248c9d09ad56dd936a6a7cae877a122d0646",
+          "balance": 51552.4,
+          "share": 0.05
+        },
+        {
+          "address": "0x7ea7fcdadbe5eaf5e11217529d96f8686259acc3",
+          "balance": 51084.82819248818,
+          "share": 0.05
+        },
+        {
+          "address": "0xdf6dc30bc460b4702a92b0609f6482b81cfa5849",
+          "balance": 50800.0,
+          "share": 0.05
+        },
+        {
+          "address": "0x8a9173f65a57aafd8d30e8820065fcbd44c7ea36",
+          "balance": 50800.0,
+          "share": 0.05
+        },
+        {
+          "address": "0x6d6a7877493b5aeae3e5b27190c4a707628390e7",
+          "balance": 50800.0,
+          "share": 0.05
+        },
+        {
+          "address": "0x04580b8251760f55566c98a215761443f2690534",
+          "balance": 50400.0,
+          "share": 0.05
+        },
+        {
+          "address": "0xdddac18e31cbd837c37e06be1dc85e1e1b16e42b",
+          "balance": 50400.0,
+          "share": 0.05
+        },
+        {
+          "address": "0x193e5bbcc6948e6e7cfd98e26aed23c606b8e456",
+          "balance": 50400.0,
+          "share": 0.05
+        },
+        {
+          "address": "0x8401dada1828f336b3e56528262cce050041ddd3",
+          "balance": 50400.0,
+          "share": 0.05
+        },
+        {
+          "address": "0xb9392d3b8747279d39f3d0f42a8d4271311b04ea",
+          "balance": 50000.53467610046,
+          "share": 0.05
+        },
+        {
+          "address": "0x9fc5cbcb8d993eb462815fa30ec3697c417504be",
+          "balance": 50000.0,
+          "share": 0.05
+        },
+        {
+          "address": "0xf808ad07dbef0285f87eb01c62b955c5c7a1c141",
+          "balance": 50000.0,
+          "share": 0.05
+        },
+        {
+          "address": "0xc17704c337318f79847c42dc4b7d9ee1f0a1a6e7",
+          "balance": 50000.0,
+          "share": 0.05
+        },
+        {
+          "address": "0x634410e8448cc47145be6e401b420c81062fe2c1",
+          "balance": 50000.0,
+          "share": 0.05
+        },
+        {
+          "address": "0x59319d33ff4e0949d15a834f75763590c096ef89",
+          "balance": 46944,
+          "share": 0.05
+        },
+        {
+          "address": "0xfafdb4377e93a0912df7bb98a4cdb4ecdff3e089",
+          "balance": 46805.57648165217,
+          "share": 0.05
+        },
+        {
+          "address": "0x832b0f66f70dd03d1785d2d7ecc0e35276e2e76b",
+          "balance": 46518.62004,
+          "share": 0.05
+        },
+        {
+          "address": "0x882a47b7b61ca1583f43aef52d887d72d1c99b16",
+          "balance": 44484.98030934046,
+          "share": 0.04
+        }
+      ],
+      "topTenHolderRatio": 65.06,
+      "topTwentyHolderRatio": 78.22,
+      "topFiftyHolderRatio": 86.08,
+      "topHundredHolderRatio": 89.17
+    },
+    "displayTV": 0,
+    "isInfiniteMaxSupply": 0,
+    "tvCoinSymbol": "BIST",
+    "supportWalletInfos": [
+      {
+        "id": 9022,
+        "name": "Trust Wallet",
+        "url": "https://www.trustwallet.com/",
+        "chains": "ETH",
+        "decentration": false,
+        "logo": "9022.png",
+        "multipleChain": false
+      },
+      {
+        "id": 9025,
+        "name": "MetaMask",
+        "url": "https://metamask.io/",
+        "chains": "ETH,ETZ",
+        "decentration": false,
+        "logo": "9025.png",
+        "multipleChain": false
+      },
+      {
+        "id": 9152,
+        "name": "Binance Chain Wallet",
+        "url": "https://www.binance.org/en/blog/binance-extension-wallet/",
+        "chains": "BNB",
+        "decentration": false,
+        "logo": "9152.png",
+        "multipleChain": false
+      }
+    ],
+    "holdersFlag": true,
+    "ratingsFlag": false,
+    "analysisFlag": false,
+    "socialsFlag": true,
+    "cryptoRating": [
+      {
+        "type": "CertiK",
+        "score": 79.63,
+        "rating": 4.0,
+        "updateTime": "2024-11-17T00:00:00.000Z",
+        "link": "https://cmc.certik-skynet.com/redirect?project=bistroo&utm_source=CMC&utm_campaign=ScoreByCertiKLink"
+      },
+      {
+        "type": "Cyberscope",
+        "score": 60.0,
+        "rating": 3.0,
+        "updateTime": "2024-11-17T10:57:32.000Z",
+        "link": "https://www.cyberscope.io/audits/coin-bistroo"
+      },
+      {
+        "type": "Aggregate rating",
+        "score": 69.8,
+        "rating": 3.5,
+        "updateTime": "2024-11-18T01:00:00.213Z"
+      }
+    ],
+    "hasExtraInfoFlag": false,
+    "upcoming": {
+      "status": false
+    },
+    "annotationFlag": false,
+    "similarCoins": [
+      {
+        "id": 1669,
+        "symbol": "HMQ"
+      },
+      {
+        "id": 1834,
+        "symbol": "PLR"
+      },
+      {
+        "id": 5103,
+        "symbol": "IPX"
+      },
+      {
+        "id": 7230,
+        "symbol": "OPIUM"
+      },
+      {
+        "id": 4189,
+        "symbol": "UOS"
+      },
+      {
+        "id": 4747,
+        "symbol": "VLX"
+      }
+    ]
+  },
+  "status": {
+    "timestamp": "2024-11-18T01:09:58.889Z",
+    "error_code": "0",
+    "error_message": "SUCCESS",
+    "elapsed": "13",
+    "credit_count": 0
+  }
+}

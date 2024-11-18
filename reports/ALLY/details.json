@@ -1,0 +1,202 @@
+{
+  "data": {
+    "id": 1877,
+    "name": "Rupaya",
+    "symbol": "RUPX",
+    "slug": "rupaya",
+    "category": "coin",
+    "description": "## What Is Rupaya (RUPX)?\nRupaya is a blockchain-based financial ecosystem designed to address the unique challenges of South Asia's diverse economies. It operates on an EVM-compatible blockchain, using a hybrid consensus mechanism combining Proof-of-Stake (PoS) with Masternode technology for enhanced security and efficiency.\n\nRUPX is the native utility token of the Rupaya ecosystem, used for:\n* Facilitating peer-to-peer transactions within the network\n* Paying transaction fees on the Rupaya blockchain\n* Staking to participate in network security and earn rewards\n* Governance voting to shape the project's future development\n* Serving as collateral for minting localized stablecoins\n\nKey features of Rupaya include:\n* Localized stablecoins (PKRT, INRT, BDTT) pegged to South Asian national currencies\n* Shariah-compliant DeFi services structured to adhere to Islamic financial principles\n* Cross-border remittance solutions for low-cost international transfers within South Asia\n* Community-driven development with a focus on local partnerships and education\n\nRupaya aims to bridge traditional finance and DeFi in South Asia, emphasizing financial inclusion, regulatory compliance, and technological innovation.\n\n## How Many RUPX Coins Are There in Circulation?\nRupaya has a fixed total supply of 100,000,000 RUPX tokens, distributed as follows:\n* 21,000,000 RUPX (21%) - Existing holders from previous blockchain iterations\n* 29,000,000 RUPX (29%) - Community and ecosystem development\n* 15,000,000 RUPX (15%) - Team and advisors (4-year vesting)\n* 15,000,000 RUPX (15%) - Reserve fund\n* 10,000,000 RUPX (10%) - Liquidity provision\n* 7,000,000 RUPX (7%) - Marketing and partnerships\n* 3,000,000 RUPX (3%) - Initial DEX Offering (IDO)\n\nStablecoin stability is maintained through collateralization, algorithmic supply adjustments, liquidity pools, and a stability fund receiving 1% of transaction fees.\n\n## Who Are the Founders of Rupaya?\nRupaya was founded by Aasim, a developer focused on creating inclusive financial solutions for South Asia. The project began in 2014 and has evolved to its current focus on regional financial empowerment through blockchain technology.\n\nThe Rupaya team includes developers, financial experts, and community leaders from across South Asia, bringing expertise in blockchain technology, Islamic finance, and local market dynamics.\n\nKey development milestones:\n* 2014-2018: Initial launch and establishment of the Rupaya blockchain\n* 2018-2020: Deployment of cross-chain bridges and DeFi platform integrations\n* 2021-2024: Development of localized stablecoins and ecosystem expansion\n\nRupaya emphasizes community-driven development and plans to transition towards a fully decentralized governance model, ensuring responsiveness to user needs and adaptability in the evolving DeFi landscape.",
+    "dateAdded": "2017-08-11T00:00:00.000Z",
+    "status": "untracked",
+    "notice": "",
+    "alertType": 2,
+    "alertLink": "",
+    "latestUpdateTime": "2021-01-22T09:21:07.000Z",
+    "watchCount": "86",
+    "watchListRanking": -1,
+    "dateLaunched": "2014-04-01T00:00:00.000Z",
+    "latestAdded": false,
+    "launchPrice": 0.0,
+    "tags": [],
+    "selfReportedCirculatingSupply": "1.0E+8",
+    "urls": {
+      "website": [
+        "https://www.rupaya.io"
+      ],
+      "technical_doc": [
+        "https://github.com/rupaya-project/rupaya-whitepaper/blob/main/whitepaper.md"
+      ],
+      "explorer": [
+        "https://scan.rupaya.io"
+      ],
+      "source_code": [
+        "https://github.com/rupaya-project/rupx"
+      ],
+      "message_board": [],
+      "chat": [
+        "https://discord.com/invite/8tbvMQM",
+        "https://discord.com/invite/8tbvMQM"
+      ],
+      "announcement": [
+        "https://bitcointalk.org/index.php?topic=2956408"
+      ],
+      "reddit": [
+        "https://reddit.com/r/RupayaCoin"
+      ],
+      "facebook": [
+        "https://www.facebook.com/rupayacoin"
+      ],
+      "twitter": [
+        "https://twitter.com/rupayacoin"
+      ]
+    },
+    "volume": 0.0,
+    "volumeChangePercentage24h": 0.0,
+    "cexVolume": 0.0,
+    "dexVolume": 0.0,
+    "statistics": {
+      "priceChangePercentage1h": -0.70452146,
+      "priceChangePercentage24h": -8.40282263,
+      "priceChangePercentage7d": 56.40534207,
+      "priceChangePercentage30d": 140.97356279,
+      "priceChangePercentage60d": 0.0,
+      "priceChangePercentage90d": 0.0,
+      "priceChangePercentage1y": 0.0,
+      "marketCap": 0.0,
+      "marketCapChangePercentage24h": -8.4028,
+      "fullyDilutedMarketCap": 0.0,
+      "fullyDilutedMarketCapChangePercentage24h": 0.0,
+      "circulatingSupply": 0.0,
+      "totalSupply": 71574905.0,
+      "marketCapDominance": 0.0,
+      "turnover": 0.0,
+      "ytdPriceChangePercentage": 0.0
+    },
+    "quotes": [],
+    "platforms": [
+      {
+        "contractId": 11841,
+        "contractAddress": "0x09aA4Df0DC59F8E2a78b25D45bF4A1F4903fc747",
+        "contractPlatform": "Arbitrum",
+        "contractPlatformId": 51,
+        "contractChainId": 42161,
+        "contractRpcUrl": [],
+        "contractNativeCurrencyName": "",
+        "contractNativeCurrencySymbol": "",
+        "contractNativeCurrencyDecimals": -1,
+        "contractBlockExplorerUrl": "",
+        "contractExplorerUrl": "https://arbiscan.io/token/0x09aA4Df0DC59F8E2a78b25D45bF4A1F4903fc747",
+        "contractDecimals": 18,
+        "platformCryptoId": 11841,
+        "sort": 0,
+        "wallets": []
+      }
+    ],
+    "relatedCoins": [
+      {
+        "id": 2513,
+        "name": "GoldMint",
+        "slug": "goldmint",
+        "price": 0.05065701161697734,
+        "priceChangePercentage24h": -0.83488657,
+        "priceChangePercentage7d": 21.70106268
+      },
+      {
+        "id": 4679,
+        "name": "Band Protocol",
+        "slug": "band-protocol",
+        "price": 1.2924689407590508,
+        "priceChangePercentage24h": -5.51284503,
+        "priceChangePercentage7d": 1.82102584
+      },
+      {
+        "id": 7083,
+        "name": "Uniswap",
+        "slug": "uniswap",
+        "price": 8.907804423933275,
+        "priceChangePercentage24h": -4.39447372,
+        "priceChangePercentage7d": -3.90346035
+      },
+      {
+        "id": 1414,
+        "name": "Firo",
+        "slug": "firo",
+        "price": 1.3454938776288508,
+        "priceChangePercentage24h": 0.21867821,
+        "priceChangePercentage7d": 4.03360084
+      },
+      {
+        "id": 1975,
+        "name": "Chainlink",
+        "slug": "chainlink",
+        "price": 14.028344717813509,
+        "priceChangePercentage24h": -5.25786687,
+        "priceChangePercentage7d": -2.46572024
+      },
+      {
+        "id": 7653,
+        "name": "Oasis",
+        "slug": "oasis-network",
+        "price": 0.08025331330873264,
+        "priceChangePercentage24h": -5.30717197,
+        "priceChangePercentage7d": -4.39563858
+      },
+      {
+        "id": 707,
+        "name": "Blocknet",
+        "slug": "blocknet",
+        "price": 0.017113298239738093,
+        "priceChangePercentage24h": -0.68391562,
+        "priceChangePercentage7d": -3.30053472
+      },
+      {
+        "id": 5864,
+        "name": "yearn.finance",
+        "slug": "yearn-finance",
+        "price": 6192.38803639104,
+        "priceChangePercentage24h": -4.43119421,
+        "priceChangePercentage7d": -11.362147
+      },
+      {
+        "id": 4279,
+        "name": "Solar",
+        "slug": "sxp",
+        "price": 0.36376553390538346,
+        "priceChangePercentage24h": 2.1116243,
+        "priceChangePercentage7d": 18.12789401
+      },
+      {
+        "id": 8043,
+        "name": "MAHA.xyz",
+        "slug": "mahadao",
+        "price": 0.9034865737660874,
+        "priceChangePercentage24h": -2.68820884,
+        "priceChangePercentage7d": -9.89747239
+      }
+    ],
+    "isAudited": false,
+    "holders": {},
+    "displayTV": 0,
+    "isInfiniteMaxSupply": 0,
+    "tvCoinSymbol": "RUPX",
+    "supportWalletInfos": [],
+    "holdersFlag": false,
+    "ratingsFlag": false,
+    "analysisFlag": false,
+    "socialsFlag": true,
+    "cryptoRating": [],
+    "hasExtraInfoFlag": false,
+    "upcoming": {
+      "status": false
+    },
+    "annotationFlag": false,
+    "similarCoins": []
+  },
+  "status": {
+    "timestamp": "2024-11-18T01:10:03.727Z",
+    "error_code": "0",
+    "error_message": "SUCCESS",
+    "elapsed": "8",
+    "credit_count": 0
+  }
+}

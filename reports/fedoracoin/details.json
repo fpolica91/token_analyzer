@@ -1,0 +1,263 @@
+{
+  "data": {
+    "id": 87,
+    "name": "FedoraCoin",
+    "symbol": "TIPS",
+    "slug": "fedoracoin",
+    "category": "coin",
+    "description": "FedoraCoin (TIPS) is a cryptocurrency . Users are able to generate TIPS through the process of mining. FedoraCoin has a current supply of 482,759,907,611.124 with 212,269,865,434.283997 in circulation. The last known price of FedoraCoin is 0.00000346 USD and is down -17.19 over the last 24 hours. It is currently trading on 2 active market(s) with $4,143.40 traded over the last 24 hours. More information can be found at https://www.tipsco.in/.",
+    "dateAdded": "2013-12-31T00:00:00.000Z",
+    "status": "active",
+    "subStatus": "normal",
+    "notice": "TIPS has undergone a [swap](https://bitcointalk.org/index.php?topic=5137508.0) to [Fedora Gold](https://coinmarketcap.com/currencies/fedora-gold) (FED).",
+    "alertType": 2,
+    "alertLink": "",
+    "latestUpdateTime": "2024-11-18T01:09:00.000Z",
+    "watchCount": "5635",
+    "watchListRanking": 3222,
+    "latestAdded": false,
+    "launchPrice": 4.21003e-06,
+    "tags": [
+      {
+        "slug": "mineable",
+        "name": "Mineable",
+        "category": "OTHERS"
+      }
+    ],
+    "urls": {
+      "website": [
+        "https://www.tipsco.in/"
+      ],
+      "technical_doc": [
+        "https://drive.google.com/file/d/1B9-ipcoUPlsTJPrh6OY2YbsNrqOHG_Vz/view?usp=sharing"
+      ],
+      "explorer": [
+        "https://tipsbe.netcraft.ch/"
+      ],
+      "source_code": [
+        "https://github.com/jojapoppa/fedoratipscoin/tree/2.5.1"
+      ],
+      "message_board": [],
+      "chat": [
+        "https://t.me/FedoraTipsCoinOfficial",
+        "https://t.me/FedoraTipsCoinOfficialCN"
+      ],
+      "announcement": [
+        "https://bitcointalk.org/index.php?topic=1420302.new#new"
+      ],
+      "reddit": [
+        "https://reddit.com/r/FedoraTipsCoin"
+      ],
+      "facebook": [],
+      "twitter": [
+        "https://twitter.com/FedoraTipscoin"
+      ]
+    },
+    "volume": 4142.97201795,
+    "volumeChangePercentage24h": 0.7025,
+    "cexVolume": 4142.97201795,
+    "dexVolume": 0.0,
+    "statistics": {
+      "price": 3.460375015826832e-06,
+      "priceChangePercentage1h": -3.33124827,
+      "priceChangePercentage24h": -17.18063439,
+      "priceChangePercentage7d": 25.12989401,
+      "priceChangePercentage30d": 29.83572025,
+      "priceChangePercentage60d": 42.01861509,
+      "priceChangePercentage90d": 32.16623228,
+      "priceChangePercentage1y": -22.81580274,
+      "priceChangePercentageAll": -17.805819937187,
+      "marketCap": 734533.34,
+      "marketCapChangePercentage24h": -17.1806,
+      "fullyDilutedMarketCap": 1670530.32,
+      "fullyDilutedMarketCapChangePercentage24h": -17.18,
+      "circulatingSupply": 212269865434.284,
+      "totalSupply": 482759907611.124,
+      "marketCapDominance": 0.0,
+      "rank": 1965,
+      "roi": -17.81174474,
+      "low24h": 3.459473379565e-06,
+      "high24h": 4.178814570907e-06,
+      "low7d": 2.462205353368e-06,
+      "high7d": 4.385089430279e-06,
+      "low30d": 2.292776264105e-06,
+      "high30d": 4.385089430279e-06,
+      "low90d": 2.214027351421e-06,
+      "high90d": 4.385089430279e-06,
+      "low52w": 2.214027351421e-06,
+      "high52w": 1.782421782741e-05,
+      "lowAllTime": 0.0,
+      "highAllTime": 0.000246603012783453,
+      "lowAllTimeChangePercentage": 0,
+      "highAllTimeChangePercentage": -98.6,
+      "lowAllTimeTimestamp": "2021-01-28T11:37:03.000Z",
+      "highAllTimeTimestamp": "2018-01-12T21:34:01.000Z",
+      "lowYesterday": 3.459701095081e-06,
+      "highYesterday": 4.257510713907e-06,
+      "openYesterday": 4.256781683788e-06,
+      "closeYesterday": 3.579749726226e-06,
+      "priceChangePercentageYesterday": -15.9,
+      "volumeYesterday": 3927.86,
+      "turnover": 0.00564028,
+      "ytdPriceChangePercentage": -17.8712,
+      "volumeRank": 5060,
+      "volumeMcRank": 5163,
+      "mcTotalNum": 10049,
+      "volumeTotalNum": 10049,
+      "volumeMcTotalNum": 10049
+    },
+    "quotes": [],
+    "relatedCoins": [
+      {
+        "id": 2513,
+        "name": "GoldMint",
+        "slug": "goldmint",
+        "price": 0.05065701161697734,
+        "priceChangePercentage24h": -0.83488657,
+        "priceChangePercentage7d": 21.70106268
+      },
+      {
+        "id": 4679,
+        "name": "Band Protocol",
+        "slug": "band-protocol",
+        "price": 1.2924689407590508,
+        "priceChangePercentage24h": -5.51284503,
+        "priceChangePercentage7d": 1.82102584
+      },
+      {
+        "id": 7083,
+        "name": "Uniswap",
+        "slug": "uniswap",
+        "price": 8.907804423933275,
+        "priceChangePercentage24h": -4.39447372,
+        "priceChangePercentage7d": -3.90346035
+      },
+      {
+        "id": 1414,
+        "name": "Firo",
+        "slug": "firo",
+        "price": 1.3454938776288508,
+        "priceChangePercentage24h": 0.21867821,
+        "priceChangePercentage7d": 4.03360084
+      },
+      {
+        "id": 1975,
+        "name": "Chainlink",
+        "slug": "chainlink",
+        "price": 14.028344717813509,
+        "priceChangePercentage24h": -5.25786687,
+        "priceChangePercentage7d": -2.46572024
+      },
+      {
+        "id": 7653,
+        "name": "Oasis",
+        "slug": "oasis-network",
+        "price": 0.08025331330873264,
+        "priceChangePercentage24h": -5.30717197,
+        "priceChangePercentage7d": -4.39563858
+      },
+      {
+        "id": 707,
+        "name": "Blocknet",
+        "slug": "blocknet",
+        "price": 0.017113298239738093,
+        "priceChangePercentage24h": -0.68391562,
+        "priceChangePercentage7d": -3.30053472
+      },
+      {
+        "id": 5864,
+        "name": "yearn.finance",
+        "slug": "yearn-finance",
+        "price": 6192.38803639104,
+        "priceChangePercentage24h": -4.43119421,
+        "priceChangePercentage7d": -11.362147
+      },
+      {
+        "id": 4279,
+        "name": "Solar",
+        "slug": "sxp",
+        "price": 0.36376553390538346,
+        "priceChangePercentage24h": 2.1116243,
+        "priceChangePercentage7d": 18.12789401
+      },
+      {
+        "id": 8043,
+        "name": "MAHA.xyz",
+        "slug": "mahadao",
+        "price": 0.9034865737660874,
+        "priceChangePercentage24h": -2.68820884,
+        "priceChangePercentage7d": -9.89747239
+      }
+    ],
+    "isAudited": false,
+    "holders": {},
+    "displayTV": 1,
+    "isInfiniteMaxSupply": 0,
+    "tvCoinSymbol": "TIPS",
+    "supportWalletInfos": [],
+    "holdersFlag": false,
+    "ratingsFlag": false,
+    "analysisFlag": false,
+    "socialsFlag": true,
+    "cryptoRating": [
+      {
+        "type": "CertiK",
+        "score": 61.29,
+        "rating": 3.1,
+        "updateTime": "2024-11-17T00:00:00.000Z",
+        "link": "https://cmc.certik-skynet.com/redirect?project=fedoracoin&utm_source=CMC&utm_campaign=ScoreByCertiKLink"
+      },
+      {
+        "type": "Cyberscope",
+        "score": 58.0,
+        "rating": 2.9,
+        "updateTime": "2024-11-17T10:57:36.000Z",
+        "link": "https://www.cyberscope.io/audits/coin-fedoracoin"
+      },
+      {
+        "type": "Aggregate rating",
+        "score": 59.6,
+        "rating": 3.0,
+        "updateTime": "2024-11-18T01:00:00.172Z"
+      }
+    ],
+    "hasExtraInfoFlag": false,
+    "upcoming": {
+      "status": false
+    },
+    "annotationFlag": false,
+    "similarCoins": [
+      {
+        "id": 3334,
+        "symbol": "XCASH"
+      },
+      {
+        "id": 4793,
+        "symbol": "DILI"
+      },
+      {
+        "id": 2934,
+        "symbol": "KAN"
+      },
+      {
+        "id": 1993,
+        "symbol": "KIN"
+      },
+      {
+        "id": 5103,
+        "symbol": "IPX"
+      },
+      {
+        "id": 3123,
+        "symbol": "GSE"
+      }
+    ]
+  },
+  "status": {
+    "timestamp": "2024-11-18T01:10:02.521Z",
+    "error_code": "0",
+    "error_message": "SUCCESS",
+    "elapsed": "11",
+    "credit_count": 0
+  }
+}

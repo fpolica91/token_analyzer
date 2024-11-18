@@ -1,0 +1,6 @@
+pandas
+numpy
+web3
+bs4
+requests
+praw

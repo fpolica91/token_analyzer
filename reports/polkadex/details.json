@@ -1,0 +1,917 @@
+{
+  "data": {
+    "id": 9017,
+    "name": "Polkadex",
+    "symbol": "PDEX",
+    "slug": "polkadex",
+    "category": "token",
+    "description": "## What Is Polkadex (PDEX)?\n\nPolkadex Orderbook is a non-custodial peer-to-peer trading platform that merges\nthe benefits of both centralized and decentralized exchanges in one product.\nThanks to the unique tech architecture users get the best of both worlds trading\non Polkadex.\n\nTo learn more about this project, check out our deep dive of [Polkadex](https://coinmarketcap.com/alexandria/article/what-is-polkadex).\n\nPolkadex is a cutting-edge decentralized exchange that overcomes such issues of\ntraditional DEXes as front-running, arbitraging, price slippage and high transaction\nfees.\n\n**Polkadex provides:**\n\n\u25cf Highest level of security of user\u2019s funds\n\n\u25cf Lightning-fast speed of up to 500 000 transactions per second and low\nlatency of 20 milliseconds\n\n\u25cf Advanced features like high-frequency trading and trading bots\n\n\u25cf User-friendly design and easy navigation on desktop, mobile and app\n\n\u25cf Zero gas fees and opportunity to reduce swap fees to zero for PDEX stakers\n\n\u25cf Decentralized KYC for large volume traders and institutions\n\n\u25cf Fiat on-ramp\n\n\u25cf Interoperability between blockchains and cross-chain liquidity support\n\nAdditional functionality of Polkadex includes an IDO platform based fully on the\nblockchain (currently, the first on the market), Fungible assets for teams that\nwant to mint their native tokens, NFTs and other features down the line.\nThe goal of Polkadex is to bring masses to DeFi through products that can be used\nby novice and professional crypto traders, institutions and blockchain project\nteams.\n\nPolkadex is part of the Polkadot ecosystem and the first project that uses a\nSubstrate abstraction layer for SGX technology, called SubstraTEE, to build a DEX.\nThe architecture of the Polkadex Orderbook is a combination of multiple\ntechnologies: blockchain, parachain, TEE, IPFS and other latest technologies\navailable in the blockchain industry today.\n\n\n### How Many PDEX Coins Are There in Circulation?\n\nPolkadex has done an IDO on April 16, 2021. The max supply is 20,000,000 PDEX\ncoins. The current circulating supply is 1,963,860 PDEX coins. Detailed tokenomics\ncan be found in the Whitepaper.\n\n\n### Who Are the Founders of Polkadex?\n\nPolkadex has is led by 3 engineers:\n\nVivek Prasannan, Executive Director of Polkadex is an experienced businessman\nwho has founded, developed and successfully exited two start-ups in cloud\ncomputing, infrastructure support, and fintech space. His engineering knowledge\nincludes C++, RUST &amp; Substrate Framework.\n\nGautham J, CEO of Polkadex, developed his own version of a consensus algorithm\nknown as Pebble using Lamport\u2019s vector clocks. The team of developers lead by\nGautham received a blockchain innovation award from the BFSI sector by Banking\nFrontier. Gautham has extensive experience in GoLang, RUST, Python, C++ and\nSubstrate Framework.\n\nDeepansh Singh, COO of Polkadex, has experience developing successful business\nstrategies for multiple early-stage start-ups that made those companies\nprofitable. Together with Gautham, he received an award for the innovative\nPebble consensus algorithm that enables high throughput transactions in\npermissionless networks.\n\nPolkadex is developed by a team of highly skilled specialists from all over the\nworld. The core development team consists of 15 engineers working on Polkadex\ncore blockchain, Subtratee Enclave, High-Frequency Trading Orderbook, website\nand UI/UX frontend, and mobile application. For more\ndetails\u00a0[https://github.com/Polkadex-Substrate](https://github.com/Polkadex-Substrate).\n\n### Where Can I Buy Polkadex (PDEX)?\nPDEX is available for trading on a growing number of exchanges. The top\nexchanges for Polkadex native token are KuCoin and Uniswap.",
+    "dateAdded": "2021-03-30T00:00:00.000Z",
+    "status": "active",
+    "subStatus": "normal",
+    "icoStatus": "active_ico",
+    "notice": "",
+    "alertType": 2,
+    "alertLink": "",
+    "latestUpdateTime": "2024-11-18T01:09:00.000Z",
+    "watchCount": "38067",
+    "watchListRanking": 937,
+    "dateLaunched": "2021-04-15T00:00:00.000Z",
+    "latestAdded": false,
+    "launchPrice": 2.25,
+    "tags": [
+      {
+        "slug": "decentralized-exchange-dex-token",
+        "name": "Decentralized Exchange (DEX) Token",
+        "category": "CATEGORY"
+      },
+      {
+        "slug": "dex",
+        "name": "DEX",
+        "category": "CATEGORY"
+      },
+      {
+        "slug": "polkadot-ecosystem",
+        "name": "Polkadot Ecosystem",
+        "category": "PLATFORM"
+      },
+      {
+        "slug": "polkastarter",
+        "name": "Polkastarter",
+        "category": "CATEGORY"
+      },
+      {
+        "slug": "okx-ventures-portfolio",
+        "name": "OKX Ventures Portfolio",
+        "category": "CATEGORY"
+      }
+    ],
+    "urls": {
+      "website": [
+        "https://www.polkadex.trade/"
+      ],
+      "technical_doc": [
+        "https://docs.polkadex.trade/"
+      ],
+      "explorer": [
+        "polkadex.subscan.com"
+      ],
+      "source_code": [
+        "https://github.com/Polkadex-Substrate"
+      ],
+      "message_board": [
+        "https://polkadex.medium.com/",
+        "https://www.youtube.com/channel/UC6fXRDT4lLKlXG3gP0PP06Q"
+      ],
+      "chat": [
+        "https://t.me/Polkadex",
+        "https://t.me/PolkadexAnnouncements"
+      ],
+      "announcement": [],
+      "reddit": [],
+      "facebook": [],
+      "twitter": [
+        "https://twitter.com/polkadex"
+      ]
+    },
+    "volume": 48706.39877681,
+    "volumeChangePercentage24h": 165.0307,
+    "cexVolume": 48706.39877681,
+    "dexVolume": 0.0,
+    "statistics": {
+      "price": 0.09978279234187715,
+      "priceChangePercentage1h": 3.03660237,
+      "priceChangePercentage24h": 9.57255195,
+      "priceChangePercentage7d": -3.53222555,
+      "priceChangePercentage30d": 6.75384981,
+      "priceChangePercentage60d": -59.48757961,
+      "priceChangePercentage90d": -33.57296659,
+      "priceChangePercentage1y": -90.06671152,
+      "priceChangePercentageAll": -99.84921711095,
+      "marketCap": 834184.14,
+      "marketCapChangePercentage24h": 9.5726,
+      "fullyDilutedMarketCap": 1995655.85,
+      "fullyDilutedMarketCapChangePercentage24h": 9.57,
+      "circulatingSupply": 8360000.0,
+      "totalSupply": 8360000.0,
+      "maxSupply": 20000000.0,
+      "marketCapDominance": 0.0,
+      "rank": 1919,
+      "roi": -95.56547318,
+      "low24h": 0.09038836333800382,
+      "high24h": 0.11533127901980882,
+      "low7d": 0.08077723284392002,
+      "high7d": 0.11533127901980882,
+      "low30d": 0.08077723284392002,
+      "high30d": 0.1549295051883428,
+      "low90d": 0.08077723284392002,
+      "high90d": 0.4892586515644794,
+      "low52w": 0.08077723284392002,
+      "high52w": 1.8298953234489979,
+      "lowAllTime": 0.08077723284392002,
+      "highAllTime": 230.55277983,
+      "lowAllTimeChangePercentage": 23.53,
+      "highAllTimeChangePercentage": -99.96,
+      "lowAllTimeTimestamp": "2024-11-14T05:20:00.000Z",
+      "highAllTimeTimestamp": "2021-04-16T12:40:09.000Z",
+      "lowYesterday": 0.09038836333800382,
+      "highYesterday": 0.11533127901980882,
+      "openYesterday": 0.09115135985569191,
+      "closeYesterday": 0.10104519113248055,
+      "priceChangePercentageYesterday": 10.85,
+      "volumeYesterday": 51715.37,
+      "turnover": 0.05838807,
+      "ytdPriceChangePercentage": -93.7326,
+      "volumeRank": 3378,
+      "volumeMcRank": 2502,
+      "mcTotalNum": 10049,
+      "volumeTotalNum": 10049,
+      "volumeMcTotalNum": 10049
+    },
+    "quotes": [],
+    "platforms": [
+      {
+        "contractId": 1027,
+        "contractAddress": "0xF59ae934f6fe444afC309586cC60a84a0F89Aaea",
+        "contractPlatform": "Ethereum",
+        "contractPlatformId": 1,
+        "contractChainId": 1,
+        "contractRpcUrl": [
+          "https://bsc-dataseed1.binance.org",
+          "https://bsc-dataseed.binance.org/",
+          "https://bsc-dataseed1.binance.org:443"
+        ],
+        "contractNativeCurrencyName": "Ethereum",
+        "contractNativeCurrencySymbol": "ETH",
+        "contractNativeCurrencyDecimals": 18,
+        "contractBlockExplorerUrl": "https://etherscan.io",
+        "contractExplorerUrl": "https://etherscan.io/token/0xF59ae934f6fe444afC309586cC60a84a0F89Aaea",
+        "contractDecimals": 18,
+        "platformCryptoId": 1027,
+        "sort": 0,
+        "wallets": [
+          {
+            "id": 9022,
+            "universalLink": "c60_t0xF59ae934f6fe444afC309586cC60a84a0F89Aaea"
+          },
+          {
+            "id": 9025
+          }
+        ]
+      }
+    ],
+    "relatedCoins": [
+      {
+        "id": 2513,
+        "name": "GoldMint",
+        "slug": "goldmint",
+        "price": 0.05065701161697734,
+        "priceChangePercentage24h": -0.83488657,
+        "priceChangePercentage7d": 21.70106268
+      },
+      {
+        "id": 4679,
+        "name": "Band Protocol",
+        "slug": "band-protocol",
+        "price": 1.2924689407590508,
+        "priceChangePercentage24h": -5.51284503,
+        "priceChangePercentage7d": 1.82102584
+      },
+      {
+        "id": 7083,
+        "name": "Uniswap",
+        "slug": "uniswap",
+        "price": 8.907804423933275,
+        "priceChangePercentage24h": -4.39447372,
+        "priceChangePercentage7d": -3.90346035
+      },
+      {
+        "id": 1414,
+        "name": "Firo",
+        "slug": "firo",
+        "price": 1.3454938776288508,
+        "priceChangePercentage24h": 0.21867821,
+        "priceChangePercentage7d": 4.03360084
+      },
+      {
+        "id": 1975,
+        "name": "Chainlink",
+        "slug": "chainlink",
+        "price": 14.028344717813509,
+        "priceChangePercentage24h": -5.25786687,
+        "priceChangePercentage7d": -2.46572024
+      },
+      {
+        "id": 7653,
+        "name": "Oasis",
+        "slug": "oasis-network",
+        "price": 0.08025331330873264,
+        "priceChangePercentage24h": -5.30717197,
+        "priceChangePercentage7d": -4.39563858
+      },
+      {
+        "id": 707,
+        "name": "Blocknet",
+        "slug": "blocknet",
+        "price": 0.017113298239738093,
+        "priceChangePercentage24h": -0.68391562,
+        "priceChangePercentage7d": -3.30053472
+      },
+      {
+        "id": 5864,
+        "name": "yearn.finance",
+        "slug": "yearn-finance",
+        "price": 6192.38803639104,
+        "priceChangePercentage24h": -4.43119421,
+        "priceChangePercentage7d": -11.362147
+      },
+      {
+        "id": 4279,
+        "name": "Solar",
+        "slug": "sxp",
+        "price": 0.36376553390538346,
+        "priceChangePercentage24h": 2.1116243,
+        "priceChangePercentage7d": 18.12789401
+      },
+      {
+        "id": 8043,
+        "name": "MAHA.xyz",
+        "slug": "mahadao",
+        "price": 0.9034865737660874,
+        "priceChangePercentage24h": -2.68820884,
+        "priceChangePercentage7d": -9.89747239
+      }
+    ],
+    "ico": {
+      "cryptoId": 9017,
+      "cryptoSymbol": "PDEX",
+      "status": "Ended",
+      "cryptoStatus": 8,
+      "name": "Polkadex",
+      "statistic": {
+        "tokensForSale": 125000.0,
+        "raisedInUsd": 0.0
+      },
+      "stages": [
+        {
+          "start": "2021-04-16T09:30:00.000Z",
+          "status": "Ended",
+          "type": "IDO",
+          "tokenForSale": 125000.0,
+          "icoPriceUsd": "2.0",
+          "softCapUsd": 0.0,
+          "personalCap": "TBA",
+          "distributedInIcoPercentage": 0.625,
+          "access": "Public",
+          "comments": "How to participate in Polkadex IDO\n\nPolkadex IDO Whitelist will close at 6.30 pm GMT on the 12th of April.\nPlease note that you have to complete all the whitelist tasks to be qualified to participate in the Polkadex first come, first serve draw on Polkastarter.\n\nIn order to participate in the Polkadex Polkastarter whitelist draw, entrants must:\n\n\u26ab\ufe0f Follow the Polkadex and Polkastarter Twitter accounts Polkadex Twitter  (https://twitter.com/polkadex) and Polkastarter (https://twitter.com/Polkastarter)\n\n\u26ab\ufe0f Join the Polkadex Telegram groups: Polkadex Official (https://t.me/Polkadex) chat and Polkadex Announcements (https://t.me/PolkadexAnnouncements)\n\n\u26ab\ufe0f Fill in your details in the Whitelist Form: https://verify-with.blockpass.org/?clientId=polkadex_ido_7b2de&serviceName=Polkadex%20IDO&env=prod\n\nMake sure you followed all the steps and entered all the required information in the whitelist, including a valid ERC-20 address. Bot entries will be removed prior to a randomized draw of qualified users, who will then be whitelisted for the IDO. Entries that have not completed all of the above steps will be disqualified.\n\nWhitelist first come, first serve draw winners will receive an email from an official @polkadex.trade email address. Good luck, and keep an eye for our emails\ud83d\ude09\n",
+          "fundraisingGoalUsd": "250000.0",
+          "whereToBuyName": "Polkastarter",
+          "whereToBuyUrl": "https://www.polkastarter.com/",
+          "acceptedCurrency": "POLS/ETH"
+        }
+      ]
+    },
+    "wallets": [
+      {
+        "id": 9022,
+        "name": "Trust Wallet",
+        "tier": 1,
+        "url": "https://www.trustwallet.com/",
+        "chains": "ETH",
+        "types": "app,trade",
+        "introduction": "",
+        "star": 2.0,
+        "security": 3.0,
+        "easyToUse": 3.0,
+        "decentration": true,
+        "focusNumber": 0,
+        "rank": 1000008,
+        "logo": "9022.png",
+        "multipleChain": true
+      },
+      {
+        "id": 9025,
+        "name": "MetaMask",
+        "tier": 1,
+        "url": "https://metamask.io/",
+        "chains": "ETH,ETZ",
+        "types": "pc",
+        "introduction": "",
+        "star": 1.0,
+        "security": 2.0,
+        "easyToUse": 4.0,
+        "decentration": false,
+        "focusNumber": 0,
+        "rank": 1000013,
+        "logo": "9025.png",
+        "multipleChain": true
+      }
+    ],
+    "isAudited": true,
+    "auditInfos": [
+      {
+        "coinId": "9017",
+        "auditor": "CertiK",
+        "auditStatus": 2,
+        "auditTime": "2021-07-13T06:14:13.000Z",
+        "reportUrl": "https://cmc.certik-skynet.com/redirect?project=polkadex"
+      }
+    ],
+    "holders": {
+      "holderCount": 4298,
+      "holderList": [
+        {
+          "address": "0x3737373737373737373737373737373737373737",
+          "balance": 1242399.603729662,
+          "share": 39.54
+        },
+        {
+          "address": "0xd8d6ffe342210057bf4dcc31da28d006f253cef0",
+          "balance": 306296.93935519,
+          "share": 9.75
+        },
+        {
+          "address": "0x58edf78281334335effa23101bbe3371b6a36a51",
+          "balance": 241256.9555282362,
+          "share": 7.68
+        },
+        {
+          "address": "0xd6216fc19db775df9774a6e33526131da7d19a2c",
+          "balance": 69677.29835337977,
+          "share": 2.22
+        },
+        {
+          "address": "0x0d0707963952f2fba59dd06f2b425ace40b492fe",
+          "balance": 64651.26283785119,
+          "share": 2.06
+        },
+        {
+          "address": "0xaa3e1c19fca2743c5cac3dbf97659d8dce708eae",
+          "balance": 47495.5901,
+          "share": 1.51
+        },
+        {
+          "address": "0x03ee15456299df9b66fa434167d73303a1298dc4",
+          "balance": 37935.6219,
+          "share": 1.21
+        },
+        {
+          "address": "0x7fee45486ef6545490a57c627f4f9893a3dec3c5",
+          "balance": 35147.1603,
+          "share": 1.12
+        },
+        {
+          "address": "0x40895b2578041a5c284cd3b49b332d3aadf7162e",
+          "balance": 34992.8,
+          "share": 1.11
+        },
+        {
+          "address": "0x8598a0d5309853b07a433b23b9ae9e0a487e7f7a",
+          "balance": 26750.707,
+          "share": 0.85
+        },
+        {
+          "address": "0xe7be620eb9c50ae38b6e1ee743d9407c15e04c9c",
+          "balance": 25110.42287306,
+          "share": 0.8
+        },
+        {
+          "address": "0x026266bf42d56cecf89a46f79710e3b5a4dda740",
+          "balance": 24926.62094068,
+          "share": 0.79
+        },
+        {
+          "address": "0x6e0cedc9bef73bbe9b09b4cb3919526c9d8cb445",
+          "balance": 23211.698093,
+          "share": 0.74
+        },
+        {
+          "address": "0x6baadacc4c5620a62317685217fdd460ffcbf2d7",
+          "balance": 21709.48823884877,
+          "share": 0.69
+        },
+        {
+          "address": "0x76e283ab823e95985e3244137d26b4cdbbdccf43",
+          "balance": 19231.5835,
+          "share": 0.61
+        },
+        {
+          "address": "0xb8067f9837376a004a596c069ab231bb5c56f6a1",
+          "balance": 19184,
+          "share": 0.61
+        },
+        {
+          "address": "0x07bc0bdce673df5a47ee9bc9ed0232b82ae73f15",
+          "balance": 18103.9036,
+          "share": 0.58
+        },
+        {
+          "address": "0x1a1d5183738a711c24510bf3e833bcb8956f7cc6",
+          "balance": 17969.3133,
+          "share": 0.57
+        },
+        {
+          "address": "0x4ec49a6d24053887e02c97fdd18a4ee6264516fe",
+          "balance": 17314.2057,
+          "share": 0.55
+        },
+        {
+          "address": "0x1717f33105648b8040ad060f6d50105b5554e257",
+          "balance": 15250.9271,
+          "share": 0.49
+        },
+        {
+          "address": "0x9671fafaddeda85f0e83387a5c4a20fb0bf058f0",
+          "balance": 15092.2396,
+          "share": 0.48
+        },
+        {
+          "address": "0xea8df77e804788a817a4029dde0ecc7f968fc479",
+          "balance": 13170.0,
+          "share": 0.42
+        },
+        {
+          "address": "0xd21891ef70615505363a5d5a7fb044c33931d899",
+          "balance": 13000.000165060706,
+          "share": 0.41
+        },
+        {
+          "address": "0x6c73b1ca08bbc3f44340603b1fb9e331c2abaca7",
+          "balance": 12958.27,
+          "share": 0.41
+        },
+        {
+          "address": "0x379d16a0dd3ca0e8b9a96fc2ccf372d75ea39a8c",
+          "balance": 11000.00000005,
+          "share": 0.35
+        },
+        {
+          "address": "0xecd3b4b7fd0bc9f52335f29a3e007453de07d2b9",
+          "balance": 9000.0,
+          "share": 0.29
+        },
+        {
+          "address": "0x6e0287bee313dd8c43491fe5d8d212f9dc2f3c6b",
+          "balance": 8827.9715,
+          "share": 0.28
+        },
+        {
+          "address": "0x809b3dc1367160d03b7b25bebeba016f3232965b",
+          "balance": 8082.81326923,
+          "share": 0.26
+        },
+        {
+          "address": "0x0768a9e7bfc799e7bba5fbefce0cee1cb434fc96",
+          "balance": 7649.821155131863,
+          "share": 0.24
+        },
+        {
+          "address": "0x3a43506f77f29fa6496af884a62657da7d2626d6",
+          "balance": 7402.431395254784,
+          "share": 0.24
+        },
+        {
+          "address": "0x9cfffd8f77da3fb8eba702ba2bb7b3db67f2bee1",
+          "balance": 7105.8072,
+          "share": 0.23
+        },
+        {
+          "address": "0xb8f41a794bbe5f3cbfd8f1e15193523f0294897e",
+          "balance": 6865.280211268611,
+          "share": 0.22
+        },
+        {
+          "address": "0x167bceb1a9004300a3e8b7e7423b77fe1bee4b40",
+          "balance": 6774.39456651,
+          "share": 0.22
+        },
+        {
+          "address": "0xaa04972f666c65a0d2aff482471e8cc3e9ee0449",
+          "balance": 6768.7217,
+          "share": 0.22
+        },
+        {
+          "address": "0xce751e69398c1cefba8952ac9aebc09c531af88f",
+          "balance": 6538.9948,
+          "share": 0.21
+        },
+        {
+          "address": "0x6d1e74e0f4aa7685a735685d8ba7233294e42461",
+          "balance": 6259.39342622,
+          "share": 0.2
+        },
+        {
+          "address": "0x7c3cf59c3016c4913f0bc89d203d428050902df6",
+          "balance": 5500.0,
+          "share": 0.18
+        },
+        {
+          "address": "0xa9e6f61e70d5f254307c42471658015db1ae8335",
+          "balance": 5255.9736,
+          "share": 0.17
+        },
+        {
+          "address": "0x44bdb19db1cd29d546597af7dc0549e7f6f9e480",
+          "balance": 5160.927204053086,
+          "share": 0.16
+        },
+        {
+          "address": "0x05488db4c751d9ef852184fed0770d6e6d0890fa",
+          "balance": 5149.00265482,
+          "share": 0.16
+        },
+        {
+          "address": "0x7b089b25ea1179a82cbc8d7de7177cbe5fe3c014",
+          "balance": 5018.12069294,
+          "share": 0.16
+        },
+        {
+          "address": "0x6a6085bcd470907aef6100f2f1e862e77c66f412",
+          "balance": 4888.1,
+          "share": 0.16
+        },
+        {
+          "address": "0x52ec9269bc9b45994c07f760d90a8f6221f69196",
+          "balance": 4667.545789886626,
+          "share": 0.15
+        },
+        {
+          "address": "0xadaf0da2f42bf54e2ccf455f795a04ecd744138b",
+          "balance": 4600.000022497123,
+          "share": 0.15
+        },
+        {
+          "address": "0x324b2541d48a496b02e77f4f0b44b09797da7d1c",
+          "balance": 4585.603671906279,
+          "share": 0.15
+        },
+        {
+          "address": "0xf5c4687a44359400d70f9ba547733f51735ec36b",
+          "balance": 4360.4687,
+          "share": 0.14
+        },
+        {
+          "address": "0x9b087d73781a8325abfe3e29cb36b8d5d7eaae13",
+          "balance": 4125.4166,
+          "share": 0.13
+        },
+        {
+          "address": "0x0c8f1753cf998f011545261bca15ede4ff192efb",
+          "balance": 4005.43885956,
+          "share": 0.13
+        },
+        {
+          "address": "0x6ac5b6be24094f91034285bcd6362736bb9fc7fb",
+          "balance": 3947.850395576823,
+          "share": 0.13
+        },
+        {
+          "address": "0x6877a60f75076eebd9a509db74520e1b75c55c7a",
+          "balance": 3916.6981780794126,
+          "share": 0.12
+        },
+        {
+          "address": "0x8c176c97e7a8ac945c2d6683354654bc49b63475",
+          "balance": 3763.536151709666,
+          "share": 0.12
+        },
+        {
+          "address": "0xeb6c903d2ce84143e2b32a3bb38273f90e13034d",
+          "balance": 3699.92074902,
+          "share": 0.12
+        },
+        {
+          "address": "0x3e69ce6012e5fb862b644986efb19c1e36650262",
+          "balance": 3592,
+          "share": 0.11
+        },
+        {
+          "address": "0x94dfa7f9ed91e5f08c24d12613f59ddbfff0bc80",
+          "balance": 3500.33,
+          "share": 0.11
+        },
+        {
+          "address": "0xddc86fbb738860c7d3e4b7130acaed8cd958711b",
+          "balance": 3330.462913583354,
+          "share": 0.11
+        },
+        {
+          "address": "0xa274ab90c1690c4a2078e426f06fde91c1405b15",
+          "balance": 3277.04115927,
+          "share": 0.1
+        },
+        {
+          "address": "0xd4683425bff6d673e141191dce6b77dfb31ab236",
+          "balance": 3275.8392,
+          "share": 0.1
+        },
+        {
+          "address": "0x3fd187a6b897d7ee89f43be7eec645adf959f54d",
+          "balance": 3153.926507266113,
+          "share": 0.1
+        },
+        {
+          "address": "0x4e359057bd59d8df08c3cc957a7470b9de801791",
+          "balance": 3142.4567,
+          "share": 0.1
+        },
+        {
+          "address": "0xbaa3d110463d56922ba5a4088ead086703c671ee",
+          "balance": 3048.671705784673,
+          "share": 0.1
+        },
+        {
+          "address": "0x4934a7b385ed1acc826b132ebe3c6001435036b0",
+          "balance": 3015.5484,
+          "share": 0.1
+        },
+        {
+          "address": "0x7c937fca34a4621d6a633d60d923e5c6b20a4dc2",
+          "balance": 3000.76304936,
+          "share": 0.1
+        },
+        {
+          "address": "0x198f661262b1cda50b1d2d3f2677d86faf917420",
+          "balance": 2998.9096,
+          "share": 0.1
+        },
+        {
+          "address": "0x54374a69e3569c2bb2de2e066410cc90c8021337",
+          "balance": 2993.2985,
+          "share": 0.1
+        },
+        {
+          "address": "0xf6a2fda5a410ae17608ddd45d3165bba212b6a7e",
+          "balance": 2928.1471,
+          "share": 0.09
+        },
+        {
+          "address": "0x2642d9772f8fb2fd720504edcb273303fe5df83e",
+          "balance": 2812.0756,
+          "share": 0.09
+        },
+        {
+          "address": "0x645e3881efb0fe2eac21ae69e6542e23cda7c750",
+          "balance": 2653.84783297864,
+          "share": 0.08
+        },
+        {
+          "address": "0x7df6728ab204914300deac790daaeb9670286277",
+          "balance": 2651.00664177,
+          "share": 0.08
+        },
+        {
+          "address": "0xbb9892bb754ea717e811945be423ab44bffeade1",
+          "balance": 2621.8773109342405,
+          "share": 0.08
+        },
+        {
+          "address": "0xf916289f0996376c961a8bab5dde4d4ebb4f8baa",
+          "balance": 2617.3005,
+          "share": 0.08
+        },
+        {
+          "address": "0x47caafa7a2ea7d85fb671deb5631d7327d34915b",
+          "balance": 2569.9795,
+          "share": 0.08
+        },
+        {
+          "address": "0x96bf0aa33101eb073a996ec0e0671b697fe14fa2",
+          "balance": 2548.85343109,
+          "share": 0.08
+        },
+        {
+          "address": "0xd3a72f78e75ac353a325e90e2148b8a7bc1871a1",
+          "balance": 2532.1185834111207,
+          "share": 0.08
+        },
+        {
+          "address": "0xa3d588a914c7534356a006ae3c1d8ae19c9694e1",
+          "balance": 2508.828143333382,
+          "share": 0.08
+        },
+        {
+          "address": "0xbe2289baf2528649358c4d77f48b8e6ef215e358",
+          "balance": 2476.0445,
+          "share": 0.08
+        },
+        {
+          "address": "0x4baae34a6200e42e00433d8c0970cc9f4d86a72e",
+          "balance": 2473.0915,
+          "share": 0.08
+        },
+        {
+          "address": "0xc7cdd316192c6ab3764d0c8961beb6b3214d1b8f",
+          "balance": 2373.3755204,
+          "share": 0.08
+        },
+        {
+          "address": "0x672e5b0f35d7ee9451d31f3b42a3d75d301d9a03",
+          "balance": 2342.71157276782,
+          "share": 0.07
+        },
+        {
+          "address": "0x47d29351fc8ee0332ab0aa22e092653fc565f8a8",
+          "balance": 2328.7700333554176,
+          "share": 0.07
+        },
+        {
+          "address": "0xe6af06eecf50cb032739ab61ffd87d130d2d02cc",
+          "balance": 2271.4695,
+          "share": 0.07
+        },
+        {
+          "address": "0x145e36f63424cb6fbf1a0d59e34b7542eac56c05",
+          "balance": 2264.4501491196734,
+          "share": 0.07
+        },
+        {
+          "address": "0x0b0f65dd4d6951d37c1ffb9661fc9a134bee7ad7",
+          "balance": 2242.5830158124677,
+          "share": 0.07
+        },
+        {
+          "address": "0x57ba19c3ef4e0b8a6b4c1aabc9ed1705bc472b94",
+          "balance": 2241.81201976,
+          "share": 0.07
+        },
+        {
+          "address": "0x1593fde27e39a6a7999b241a1b01a573a912b6c0",
+          "balance": 2228.6505,
+          "share": 0.07
+        },
+        {
+          "address": "0xd76a1b6236b62742ab94266110f23382907951f3",
+          "balance": 2217.390352225221,
+          "share": 0.07
+        },
+        {
+          "address": "0x313416870a4da6f12505a550b67bb73c8e21d5d3",
+          "balance": 2212.958799518949,
+          "share": 0.07
+        },
+        {
+          "address": "0x42f0e7d09bd46bec291d81b0ece2ee5c7e5f9e46",
+          "balance": 2173.4017,
+          "share": 0.07
+        },
+        {
+          "address": "0xb54fb2ecae5b7ddf18f3c3705bf0d5b0aaab9d64",
+          "balance": 2167.526071347925,
+          "share": 0.07
+        },
+        {
+          "address": "0x5b6638314423d2da576673eba4eb2b65bc10e75a",
+          "balance": 2163.48871858891,
+          "share": 0.07
+        },
+        {
+          "address": "0x1d1660c4649b120a1c55094df5aef527e521de1d",
+          "balance": 2157.8938,
+          "share": 0.07
+        },
+        {
+          "address": "0x3efe566a7a8d5a9637eb037626792a31c7064bcd",
+          "balance": 2139.841765762231,
+          "share": 0.07
+        },
+        {
+          "address": "0xb43b049eba2cabee97d5091f6cbeac28b90ae8b7",
+          "balance": 2113.6327057,
+          "share": 0.07
+        },
+        {
+          "address": "0x34ea875db8f868754f08676ade5c6355c32f1c4b",
+          "balance": 2095.226339921211,
+          "share": 0.07
+        },
+        {
+          "address": "0x8fe0d837b94bd930d7cb49cb8ab1f578cff3bd1c",
+          "balance": 2088.15197798,
+          "share": 0.07
+        },
+        {
+          "address": "0x18c0a9c1a159f5256844c939505eb3418c5d7af2",
+          "balance": 2069.9668,
+          "share": 0.07
+        },
+        {
+          "address": "0xc993c9f32334bc334e02c4e145a33bc578c5f470",
+          "balance": 2064.9291,
+          "share": 0.07
+        },
+        {
+          "address": "0xbd5d037d13579fb4525ca8a1db36fb10d77db95a",
+          "balance": 2050.1965,
+          "share": 0.07
+        },
+        {
+          "address": "0xb9a049d8ba29e8bf8a3eaa244005d1ebe62d93ac",
+          "balance": 2007.8002,
+          "share": 0.06
+        },
+        {
+          "address": "0xf1f25c79d7f16a141de986fa745e0babf6a35f09",
+          "balance": 1997,
+          "share": 0.06
+        },
+        {
+          "address": "0xa821ddaea0c39d6c6d2ae4f57f30d37398afe822",
+          "balance": 1985,
+          "share": 0.06
+        }
+      ],
+      "topTenHolderRatio": 67.05,
+      "topTwentyHolderRatio": 73.48,
+      "topFiftyHolderRatio": 80.25,
+      "topHundredHolderRatio": 84.36
+    },
+    "displayTV": 1,
+    "isInfiniteMaxSupply": 0,
+    "tvCoinSymbol": "PDEX",
+    "supportWalletInfos": [
+      {
+        "id": 9022,
+        "name": "Trust Wallet",
+        "url": "https://www.trustwallet.com/",
+        "chains": "ETH",
+        "decentration": false,
+        "logo": "9022.png",
+        "multipleChain": false
+      },
+      {
+        "id": 9025,
+        "name": "MetaMask",
+        "url": "https://metamask.io/",
+        "chains": "ETH,ETZ",
+        "decentration": false,
+        "logo": "9025.png",
+        "multipleChain": false
+      }
+    ],
+    "holdersFlag": true,
+    "ratingsFlag": false,
+    "analysisFlag": false,
+    "socialsFlag": true,
+    "cryptoRating": [
+      {
+        "type": "CertiK",
+        "score": 80.03,
+        "rating": 4.0,
+        "updateTime": "2024-11-17T00:00:00.000Z",
+        "link": "https://cmc.certik-skynet.com/redirect?project=polkadex&utm_source=CMC&utm_campaign=ScoreByCertiKLink"
+      },
+      {
+        "type": "Cyberscope",
+        "score": 71.0,
+        "rating": 3.6,
+        "updateTime": "2024-11-17T11:08:24.000Z",
+        "link": "https://www.cyberscope.io/audits/coin-polkadex"
+      },
+      {
+        "type": "Aggregate rating",
+        "score": 75.5,
+        "rating": 3.8,
+        "updateTime": "2024-11-18T01:00:00.211Z"
+      }
+    ],
+    "hasExtraInfoFlag": false,
+    "upcoming": {
+      "status": false
+    },
+    "annotationFlag": false,
+    "similarCoins": [
+      {
+        "id": 7208,
+        "symbol": "POLS"
+      },
+      {
+        "id": 9285,
+        "symbol": "MOVR"
+      },
+      {
+        "id": 8985,
+        "symbol": "EFI"
+      },
+      {
+        "id": 6756,
+        "symbol": "ACA"
+      },
+      {
+        "id": 3816,
+        "symbol": "VRA"
+      },
+      {
+        "id": 6836,
+        "symbol": "GLMR"
+      }
+    ]
+  },
+  "status": {
+    "timestamp": "2024-11-18T01:09:57.958Z",
+    "error_code": "0",
+    "error_message": "SUCCESS",
+    "elapsed": "11",
+    "credit_count": 0
+  }
+}

@@ -1,0 +1,280 @@
+{
+  "data": {
+    "id": 11446,
+    "name": "S.C. Corinthians Fan Token",
+    "symbol": "SCCP",
+    "slug": "sc-corinthians-fan-token",
+    "category": "token",
+    "description": "The S.C. Corinthians Fan Token allows $SCCP fans to have a tokenized share of influence on club decisions, purchased through the consumer-facing platform, Socios.com, fans can engage in a wide variety of club decisions, for example, choosing a goal celebration song or deciding which MMA fighters should face off and in doing so, earn rewards and money can't buy experiences. Experiences like... having the opportunity to meet and greet with players of their favourite club, receiving VIP treatment at their favourite stadium & much much more. To obtain Fan Tokens, fans must purchase Chiliz (CHZ) Tokens via Socios.com which then can be used to buy $SCCP Fan Tokens.\r\n\r\nFan Tokens are initially sold in a Fan Token Offering or FTO. FTOs are the initial sale of Fan Tokens which allows fans to buy the Fan Token at a fixed price.  work in a similar way to flash sales and are designed to be a fair way for new partnerships to launch Fan Tokens on the Socios.com platform at a discount. At pre-launch a proportion of the total Fan Token supply is made available to users before being listed on the worlds first tokenised sports and entertainment exchange, Chiliz.net. This enables dedicated fans to gain early access prior to Fan Token launches which will be made accessible to everyone.\r\n\r\n \r\n\r\nThe growing list of partnerships launching their Fan Tokens on the [Socios.com](http://socios.com) platform include some of the biggest sport organisations in the world from the likes of major European soccer teams FC Barcelona, Paris Saint-Germain, Juventus, AC Milan, Manchester City, MMA giant UFC, NASCAR Roush Fenway Racing, NHL New Jersey Devils, Formula One Aston Martin, and the Argentine Football Association.",
+    "dateAdded": "2021-08-27T08:52:02.000Z",
+    "status": "active",
+    "subStatus": "normal",
+    "notice": "",
+    "alertType": 2,
+    "alertLink": "",
+    "latestUpdateTime": "2024-11-18T01:09:00.000Z",
+    "watchCount": "2549",
+    "watchListRanking": 4471,
+    "dateLaunched": "2021-09-01T00:00:00.000Z",
+    "latestAdded": false,
+    "launchPrice": 2.0,
+    "tags": [
+      {
+        "slug": "sports",
+        "name": "Sports",
+        "category": "INDUSTRY"
+      },
+      {
+        "slug": "fan-token",
+        "name": "Fan Token",
+        "category": "CATEGORY"
+      }
+    ],
+    "urls": {
+      "website": [
+        "https://socios.com/",
+        "https://chiliz.com"
+      ],
+      "technical_doc": [],
+      "explorer": [
+        "https://explorer.chiliz.com/tokens/0x31F0FcDe2854cF19723d522b5ec0313795068e72/token-transfers"
+      ],
+      "source_code": [],
+      "message_board": [],
+      "chat": [],
+      "announcement": [],
+      "reddit": [
+        "https://reddit.com/r/chiliz"
+      ],
+      "facebook": [],
+      "twitter": [
+        "https://twitter.com/chiliz"
+      ]
+    },
+    "volume": 62349.60666892,
+    "volumeChangePercentage24h": -15.312,
+    "cexVolume": 62349.60666892,
+    "dexVolume": 0.0,
+    "statistics": {
+      "price": 0.11061056265445972,
+      "priceChangePercentage1h": 0.02862625,
+      "priceChangePercentage24h": -2.03528403,
+      "priceChangePercentage7d": -3.14980863,
+      "priceChangePercentage30d": -35.97031817,
+      "priceChangePercentage60d": -35.13883279,
+      "priceChangePercentage90d": -39.76645334,
+      "priceChangePercentage1y": -80.00734432,
+      "priceChangePercentageAll": -95.473830451596,
+      "marketCap": 936133.03,
+      "marketCapChangePercentage24h": -2.0353,
+      "fullyDilutedMarketCap": 2212211.25,
+      "fullyDilutedMarketCapChangePercentage24h": -2.04,
+      "circulatingSupply": 8463324.0,
+      "totalSupply": 20000000.0,
+      "maxSupply": 20000000.0,
+      "marketCapDominance": 0.0,
+      "rank": 1887,
+      "roi": -94.46947509,
+      "low24h": 0.10929486681814837,
+      "high24h": 0.11481919149103394,
+      "low7d": 0.10876342202179527,
+      "high7d": 0.1183406235908009,
+      "low30d": 0.10876342202179527,
+      "high30d": 0.17586502223158412,
+      "low90d": 0.10876342202179527,
+      "high90d": 0.21423510614794108,
+      "low52w": 0.10876342202179527,
+      "high52w": 0.6297252755865452,
+      "lowAllTime": 0.0,
+      "highAllTime": 149.7978133807041,
+      "lowAllTimeChangePercentage": 0,
+      "highAllTimeChangePercentage": -99.93,
+      "lowAllTimeTimestamp": "2021-09-20T04:04:04.000Z",
+      "highAllTimeTimestamp": "2021-11-29T15:14:04.000Z",
+      "lowYesterday": 0.10929486681814837,
+      "highYesterday": 0.11537803628502294,
+      "openYesterday": 0.1150432883491874,
+      "closeYesterday": 0.11051093366876487,
+      "priceChangePercentageYesterday": -3.94,
+      "volumeYesterday": 62837.24,
+      "turnover": 0.06660336,
+      "ytdPriceChangePercentage": -77.0894,
+      "volumeRank": 3112,
+      "volumeMcRank": 2340,
+      "mcTotalNum": 10049,
+      "volumeTotalNum": 10049,
+      "volumeMcTotalNum": 10049
+    },
+    "quotes": [],
+    "platforms": [
+      {
+        "contractId": 4066,
+        "contractAddress": "0x31F0FcDe2854cF19723d522b5ec0313795068e72",
+        "contractPlatform": "Chiliz Legacy Chain",
+        "contractPlatformId": 8,
+        "contractChainId": -1,
+        "contractRpcUrl": [],
+        "contractNativeCurrencyName": "",
+        "contractNativeCurrencySymbol": "",
+        "contractNativeCurrencyDecimals": 18,
+        "contractBlockExplorerUrl": "",
+        "contractExplorerUrl": "https://explorer.chiliz.com/address/0x31F0FcDe2854cF19723d522b5ec0313795068e72",
+        "platformCryptoId": 4066,
+        "sort": 0,
+        "wallets": []
+      }
+    ],
+    "relatedCoins": [
+      {
+        "id": 2513,
+        "name": "GoldMint",
+        "slug": "goldmint",
+        "price": 0.05065701161697734,
+        "priceChangePercentage24h": -0.83488657,
+        "priceChangePercentage7d": 21.70106268
+      },
+      {
+        "id": 4679,
+        "name": "Band Protocol",
+        "slug": "band-protocol",
+        "price": 1.2924689407590508,
+        "priceChangePercentage24h": -5.51284503,
+        "priceChangePercentage7d": 1.82102584
+      },
+      {
+        "id": 7083,
+        "name": "Uniswap",
+        "slug": "uniswap",
+        "price": 8.907804423933275,
+        "priceChangePercentage24h": -4.39447372,
+        "priceChangePercentage7d": -3.90346035
+      },
+      {
+        "id": 1414,
+        "name": "Firo",
+        "slug": "firo",
+        "price": 1.3454938776288508,
+        "priceChangePercentage24h": 0.21867821,
+        "priceChangePercentage7d": 4.03360084
+      },
+      {
+        "id": 1975,
+        "name": "Chainlink",
+        "slug": "chainlink",
+        "price": 14.028344717813509,
+        "priceChangePercentage24h": -5.25786687,
+        "priceChangePercentage7d": -2.46572024
+      },
+      {
+        "id": 7653,
+        "name": "Oasis",
+        "slug": "oasis-network",
+        "price": 0.08025331330873264,
+        "priceChangePercentage24h": -5.30717197,
+        "priceChangePercentage7d": -4.39563858
+      },
+      {
+        "id": 707,
+        "name": "Blocknet",
+        "slug": "blocknet",
+        "price": 0.017113298239738093,
+        "priceChangePercentage24h": -0.68391562,
+        "priceChangePercentage7d": -3.30053472
+      },
+      {
+        "id": 5864,
+        "name": "yearn.finance",
+        "slug": "yearn-finance",
+        "price": 6192.38803639104,
+        "priceChangePercentage24h": -4.43119421,
+        "priceChangePercentage7d": -11.362147
+      },
+      {
+        "id": 4279,
+        "name": "Solar",
+        "slug": "sxp",
+        "price": 0.36376553390538346,
+        "priceChangePercentage24h": 2.1116243,
+        "priceChangePercentage7d": 18.12789401
+      },
+      {
+        "id": 8043,
+        "name": "MAHA.xyz",
+        "slug": "mahadao",
+        "price": 0.9034865737660874,
+        "priceChangePercentage24h": -2.68820884,
+        "priceChangePercentage7d": -9.89747239
+      }
+    ],
+    "isAudited": false,
+    "holders": {},
+    "displayTV": 0,
+    "isInfiniteMaxSupply": 0,
+    "tvCoinSymbol": "SCCP",
+    "supportWalletInfos": [],
+    "holdersFlag": false,
+    "ratingsFlag": false,
+    "analysisFlag": false,
+    "socialsFlag": true,
+    "cryptoRating": [
+      {
+        "type": "CertiK",
+        "score": 59.48,
+        "rating": 3.0,
+        "updateTime": "2024-11-17T00:00:00.000Z",
+        "link": "https://cmc.certik-skynet.com/redirect?project=sc-corinthians-fan-token&utm_source=CMC&utm_campaign=ScoreByCertiKLink"
+      },
+      {
+        "type": "Cyberscope",
+        "score": 76.0,
+        "rating": 3.8,
+        "updateTime": "2024-11-17T11:00:05.000Z",
+        "link": "https://www.cyberscope.io/audits/coin-sc-corinthians-fan-token"
+      },
+      {
+        "type": "Aggregate rating",
+        "score": 67.7,
+        "rating": 3.4,
+        "updateTime": "2024-11-18T01:00:00.219Z"
+      }
+    ],
+    "hasExtraInfoFlag": false,
+    "upcoming": {
+      "status": false
+    },
+    "annotationFlag": false,
+    "similarCoins": [
+      {
+        "id": 5226,
+        "symbol": "PSG"
+      },
+      {
+        "id": 10049,
+        "symbol": "CITY"
+      },
+      {
+        "id": 15248,
+        "symbol": "SANTOS"
+      },
+      {
+        "id": 4388,
+        "symbol": "EXCC"
+      },
+      {
+        "id": 9638,
+        "symbol": "SDAO"
+      },
+      {
+        "id": 18112,
+        "symbol": "ALPINE"
+      }
+    ]
+  },
+  "status": {
+    "timestamp": "2024-11-18T01:09:55.276Z",
+    "error_code": "0",
+    "error_message": "SUCCESS",
+    "elapsed": "10",
+    "credit_count": 0
+  }
+}

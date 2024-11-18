@@ -1,0 +1,778 @@
+{
+  "data": {
+    "id": 30431,
+    "name": "Love Power Market",
+    "symbol": "LPM",
+    "slug": "lovepowercoin",
+    "category": "token",
+    "description": "## What is Love Power Market\r\n\r\nThe Love Power Ecosystem is a decentralized, autonomous ecosystem that creates an independent community of digital creators and also offers a set of tools for monetizing the creativity of artists, designers, illustrators, and others.\r\n\r\n## What is the Love Power NFT Collection?\r\n\r\nThe Love Power NFT Collection is a unique collection of NFT tokens created by open community artists and designed to promote values such as love, beauty, and the triumph of good over evil through kindness and understanding. The collection is currently available on the OpenSea and Rarible marketplaces.\r\n\r\n## What is LOVE token? \r\n\r\nLOVE token is a native token of the Love Power Ecosystem. It is used for internal transactions on the marketplace, and will also be used to reward artists, active community members, ambassadors and others. Today LOVE token is available on the decentralized Uniswap platform.\r\n\r\n## What is  Love Power Marketplace?\r\nLove Power Marketplace is a specialized marketplace for selling, buying, mincing and creating NFTs on the Ethereum blockchain in one click. A P2P exchange feature for NFT tokens will also be launched in the future.",
+    "dateAdded": "2024-04-05T09:49:05.000Z",
+    "status": "active",
+    "subStatus": "normal",
+    "notice": "Love Power Coin (LOVE) has been rebranded to Love Power Movement (LPM). Read the [announcement](https://x.com/bitgetglobal/status/1804106996360319070?s=52)",
+    "alertType": 2,
+    "alertLink": "",
+    "latestUpdateTime": "2024-11-17T23:29:00.000Z",
+    "watchCount": "409",
+    "watchListRanking": 7711,
+    "dateLaunched": "2022-11-10T00:00:00.000Z",
+    "latestAdded": false,
+    "tags": [
+      {
+        "slug": "collectibles-nfts",
+        "name": "Collectibles & NFTs",
+        "category": "CATEGORY"
+      },
+      {
+        "slug": "entertainment",
+        "name": "Entertainment",
+        "category": "INDUSTRY"
+      }
+    ],
+    "urls": {
+      "website": [
+        "https://lpm.is/"
+      ],
+      "technical_doc": [
+        "https://lpm.is/docs/whitepaper.pdf"
+      ],
+      "explorer": [
+        "https://etherscan.io/token/0x504624040e0642921c2c266a9ac37cafbd8cda4e"
+      ],
+      "source_code": [],
+      "message_board": [],
+      "chat": [
+        "https://discord.com/invite/lovepowermarket",
+        "https://t.me/LovePowerMarket"
+      ],
+      "announcement": [
+        "https://t.me/LovePowerMarketChannel"
+      ],
+      "reddit": [],
+      "facebook": [],
+      "twitter": [
+        "https://twitter.com/LovePowerCoin"
+      ]
+    },
+    "volume": 165041.12750228,
+    "volumeChangePercentage24h": 33.5599,
+    "cexVolume": 160752.42647378,
+    "dexVolume": 4288.7010285,
+    "statistics": {
+      "price": 4.027935151512234,
+      "priceChangePercentage1h": 1.47354463,
+      "priceChangePercentage24h": 0.14293145,
+      "priceChangePercentage7d": -28.42241249,
+      "priceChangePercentage30d": -61.67180247,
+      "priceChangePercentage60d": -82.09831728,
+      "priceChangePercentage90d": -65.70559907,
+      "priceChangePercentage1y": -34.97726044,
+      "priceChangePercentageAll": -34.977260440308,
+      "marketCap": 1005740.37,
+      "marketCapChangePercentage24h": 0.1429,
+      "fullyDilutedMarketCap": 4027935.15,
+      "fullyDilutedMarketCapChangePercentage24h": 0.14,
+      "circulatingSupply": 249691.30138271,
+      "totalSupply": 1000000.0,
+      "maxSupply": 1000000.0,
+      "marketCapDominance": 0.0,
+      "rank": 1868,
+      "low24h": 3.9575969547623115,
+      "high24h": 4.029694471043221,
+      "low7d": 3.858628575825177,
+      "high7d": 5.650015166871881,
+      "low30d": 3.858628575825177,
+      "high30d": 10.509598466560176,
+      "low90d": 3.858628575825177,
+      "high90d": 29.135553745063042,
+      "low52w": 1.891584503228949,
+      "high52w": 49.85400453793368,
+      "lowAllTime": 1.891584503228949,
+      "highAllTime": 49.85400453793368,
+      "lowAllTimeChangePercentage": 112.94,
+      "highAllTimeChangePercentage": -91.92,
+      "lowAllTimeTimestamp": "2024-05-15T12:04:00.000Z",
+      "highAllTimeTimestamp": "2024-06-24T09:04:00.000Z",
+      "lowYesterday": 4.01486299516607,
+      "highYesterday": 4.082401272618717,
+      "openYesterday": 4.065285421465536,
+      "closeYesterday": 4.015217780247499,
+      "priceChangePercentageYesterday": -1.23,
+      "volumeYesterday": 122655.7,
+      "turnover": 0.16409914,
+      "ytdPriceChangePercentage": 0.0,
+      "volumeRank": 2336,
+      "volumeMcRank": 1382,
+      "mcTotalNum": 10049,
+      "volumeTotalNum": 10049,
+      "volumeMcTotalNum": 10049
+    },
+    "quotes": [],
+    "platforms": [
+      {
+        "contractId": 1027,
+        "contractAddress": "0x504624040e0642921C2c266a9aC37CafBd8cDa4e",
+        "contractPlatform": "Ethereum",
+        "contractPlatformId": 1,
+        "contractChainId": 1,
+        "contractRpcUrl": [
+          "https://bsc-dataseed1.binance.org",
+          "https://bsc-dataseed.binance.org/",
+          "https://bsc-dataseed1.binance.org:443"
+        ],
+        "contractNativeCurrencyName": "Ethereum",
+        "contractNativeCurrencySymbol": "ETH",
+        "contractNativeCurrencyDecimals": 18,
+        "contractBlockExplorerUrl": "https://etherscan.io",
+        "contractExplorerUrl": "https://etherscan.io/token/0x504624040e0642921C2c266a9aC37CafBd8cDa4e",
+        "contractDecimals": 18,
+        "platformCryptoId": 1027,
+        "sort": 0,
+        "wallets": [
+          {
+            "id": 9025
+          }
+        ]
+      }
+    ],
+    "relatedCoins": [
+      {
+        "id": 2513,
+        "name": "GoldMint",
+        "slug": "goldmint",
+        "price": 0.050373095792819844,
+        "priceChangePercentage24h": -1.17082459,
+        "priceChangePercentage7d": 21.16304368
+      },
+      {
+        "id": 4679,
+        "name": "Band Protocol",
+        "slug": "band-protocol",
+        "price": 1.28135607712129,
+        "priceChangePercentage24h": -5.6172676,
+        "priceChangePercentage7d": 2.10880802
+      },
+      {
+        "id": 7083,
+        "name": "Uniswap",
+        "slug": "uniswap",
+        "price": 8.67107812286967,
+        "priceChangePercentage24h": -4.12598431,
+        "priceChangePercentage7d": -5.33532546
+      },
+      {
+        "id": 1414,
+        "name": "Firo",
+        "slug": "firo",
+        "price": 1.3255495493107414,
+        "priceChangePercentage24h": 0.21733024,
+        "priceChangePercentage7d": 3.46708984
+      },
+      {
+        "id": 1975,
+        "name": "Chainlink",
+        "slug": "chainlink",
+        "price": 13.740658370708077,
+        "priceChangePercentage24h": -5.25025012,
+        "priceChangePercentage7d": -3.36047348
+      },
+      {
+        "id": 7653,
+        "name": "Oasis",
+        "slug": "oasis-network",
+        "price": 0.07914896311292505,
+        "priceChangePercentage24h": -6.79582172,
+        "priceChangePercentage7d": -2.95752892
+      },
+      {
+        "id": 707,
+        "name": "Blocknet",
+        "slug": "blocknet",
+        "price": 0.017045179027667664,
+        "priceChangePercentage24h": -0.88664542,
+        "priceChangePercentage7d": -3.60798722
+      },
+      {
+        "id": 5864,
+        "name": "yearn.finance",
+        "slug": "yearn-finance",
+        "price": 6102.965436787473,
+        "priceChangePercentage24h": -5.56243374,
+        "priceChangePercentage7d": -12.27715958
+      },
+      {
+        "id": 4279,
+        "name": "Solar",
+        "slug": "sxp",
+        "price": 0.3463451774106145,
+        "priceChangePercentage24h": -3.68610024,
+        "priceChangePercentage7d": 12.31260412
+      },
+      {
+        "id": 8043,
+        "name": "MAHA.xyz",
+        "slug": "mahadao",
+        "price": 0.9010289214955264,
+        "priceChangePercentage24h": -2.95833359,
+        "priceChangePercentage7d": -10.01824097
+      }
+    ],
+    "isAudited": false,
+    "holders": {
+      "holderCount": 3534,
+      "holderList": [
+        {
+          "address": "0x0d6f043296c9e950ae5aaf8add002358cd24bd46",
+          "balance": 455750.6094653953,
+          "share": 45.58
+        },
+        {
+          "address": "0x561ab28645104bab61118c5c6c8a6b3075b1c428",
+          "balance": 276823.38865188987,
+          "share": 27.68
+        },
+        {
+          "address": "0x1ab4973a48dc892cd9971ece8e01dcc7688f8f23",
+          "balance": 137467.7731406313,
+          "share": 13.75
+        },
+        {
+          "address": "0x5e4f459be0d7ce56039b9514421ff9cd192bc415",
+          "balance": 20352.39764795881,
+          "share": 2.04
+        },
+        {
+          "address": "0xf6e16c6424685d672d636b9146714ca9e9e458da",
+          "balance": 17734.7005,
+          "share": 1.77
+        },
+        {
+          "address": "0xf7c153e84a71c14c20a9d970a96a141fa71e574e",
+          "balance": 14994.452249127926,
+          "share": 1.5
+        },
+        {
+          "address": "0x61b88c0b7b6602df0e08cdb12a2c64e7a4a6537f",
+          "balance": 13953.979429987066,
+          "share": 1.4
+        },
+        {
+          "address": "0xdf3e5a1c305a7d41a595d4be1de3e963a41036e0",
+          "balance": 13295.710066125124,
+          "share": 1.33
+        },
+        {
+          "address": "0x9cd1e0793ced49f5e592d77328967fffc6ea7516",
+          "balance": 12601.606628364552,
+          "share": 1.26
+        },
+        {
+          "address": "0xcb95ca610c91629c835b129355999b7acdc4cc06",
+          "balance": 8395.121034276808,
+          "share": 0.84
+        },
+        {
+          "address": "0x9642b23ed1e01df1092b92641051881a322f5d4e",
+          "balance": 6350.897200415242,
+          "share": 0.64
+        },
+        {
+          "address": "0xb49158524ed3f14bf948652bdf719610bd956c3a",
+          "balance": 5116.801862410193,
+          "share": 0.51
+        },
+        {
+          "address": "0xd38cf87f114f2a0582c329fb9df4f7044ce71330",
+          "balance": 2825.82388282,
+          "share": 0.28
+        },
+        {
+          "address": "0xbd19c1af254953188ed78ee35904b6d26b18e5ee",
+          "balance": 1993.4132613957079,
+          "share": 0.2
+        },
+        {
+          "address": "0x75e89d5979e4f6fba9f97c104c2f0afb3f1dcb88",
+          "balance": 1171.847755276148,
+          "share": 0.12
+        },
+        {
+          "address": "0x48bd822a53d98a0f655ac2ff82d39337478d1602",
+          "balance": 935.120059458778,
+          "share": 0.09
+        },
+        {
+          "address": "0x37abc6d08a1916f89c6d9766e73766d0f1825fce",
+          "balance": 914.6672136149006,
+          "share": 0.09
+        },
+        {
+          "address": "0x8a2558585e196f52bb8554f2f0db93a07fdeecc3",
+          "balance": 544.380343600382,
+          "share": 0.05
+        },
+        {
+          "address": "0x3c80ebdc6044feb8e07dacf94a11b6c8b58f193f",
+          "balance": 285.0963206864836,
+          "share": 0.03
+        },
+        {
+          "address": "0x93a1e1f4847dd89306a3ad8a7db5983d2dd89f2a",
+          "balance": 236.33777272,
+          "share": 0.02
+        },
+        {
+          "address": "0xb9ac09a290c2edc0fdc995ae85dd0842728e61bc",
+          "balance": 234.63971984217625,
+          "share": 0.02
+        },
+        {
+          "address": "0x5be9a5f9973918e16e08ab320e96cf7b5142a239",
+          "balance": 224.16757536747875,
+          "share": 0.02
+        },
+        {
+          "address": "0xc062666934259268def3fe415f767cebc60c80ef",
+          "balance": 212.90100793772697,
+          "share": 0.02
+        },
+        {
+          "address": "0x36a7b4df59435d48482156527d74eb794561b6f9",
+          "balance": 156.32962969056902,
+          "share": 0.02
+        },
+        {
+          "address": "0x694de013718ab14da11eebffe94ad4457158b45e",
+          "balance": 151.9948196408024,
+          "share": 0.02
+        },
+        {
+          "address": "0xf328c2a767ccffb6c392989a604969a259f85422",
+          "balance": 139.9572607083437,
+          "share": 0.01
+        },
+        {
+          "address": "0xb1b2d032aa2f52347fbcfd08e5c3cc55216e8404",
+          "balance": 122.35319856254237,
+          "share": 0.01
+        },
+        {
+          "address": "0x757c0f3c57a44f7f6765594133e70ab36011f141",
+          "balance": 104.23956043,
+          "share": 0.01
+        },
+        {
+          "address": "0x785119243fb83412b8fd94c9962e058165aff34a",
+          "balance": 103.53127814,
+          "share": 0.01
+        },
+        {
+          "address": "0x9933d3f237222bba7985908ab846164cc642d051",
+          "balance": 87.95614424477952,
+          "share": 0.01
+        },
+        {
+          "address": "0x504624040e0642921c2c266a9ac37cafbd8cda4e",
+          "balance": 84.474356,
+          "share": 0.01
+        },
+        {
+          "address": "0x62d63efdfdc7804666725f4cc8cb45c1a41a0809",
+          "balance": 74.84567221,
+          "share": 0.01
+        },
+        {
+          "address": "0xda5dd51a8869aa961b13a3fcae5ef5e2cd565bef",
+          "balance": 64.41709291887578,
+          "share": 0.01
+        },
+        {
+          "address": "0x59a2d74da202b5b5937c26e881ecb803d435a6f3",
+          "balance": 61.855334,
+          "share": 0.01
+        },
+        {
+          "address": "0x26d72396e47b9d3e7c9a9f071f2dcf2a0d9a46ca",
+          "balance": 59.59399321,
+          "share": 0.01
+        },
+        {
+          "address": "0x06b4d5b1aa3fd390527b71538d8d48cba085b2fc",
+          "balance": 57.75,
+          "share": 0.01
+        },
+        {
+          "address": "0xc04d2252ef9493667055ac930e301f28e7f8a3c1",
+          "balance": 57.17005514998118,
+          "share": 0.01
+        },
+        {
+          "address": "0x5c2f2ba6ba4c22313c9d15d6c46024e9b043ec07",
+          "balance": 50.0,
+          "share": 0.01
+        },
+        {
+          "address": "0xf95b9d65226f0127ece6e0f243a714afd064f241",
+          "balance": 48.79849883,
+          "share": 0
+        },
+        {
+          "address": "0xabfee2bbb00f1626d9cccd83f4f218408e7c1394",
+          "balance": 47.948255,
+          "share": 0
+        },
+        {
+          "address": "0x24fb36bddee8faa59224b49cb4d842d3dbdd7e60",
+          "balance": 46.318709866997644,
+          "share": 0
+        },
+        {
+          "address": "0xe2f2560226e21aee8701d8087ba3e925df32d820",
+          "balance": 42.59272287918063,
+          "share": 0
+        },
+        {
+          "address": "0x068cf71e9dd07277a7be3fa715f8a4b67409a773",
+          "balance": 41.36735417128399,
+          "share": 0
+        },
+        {
+          "address": "0xbd9cfe10861a27efce8bf77acc651bed5a4b025b",
+          "balance": 40.22173193068872,
+          "share": 0
+        },
+        {
+          "address": "0xf49c7a4fa6fbfecad83a56a06b2ba53352e7ce5b",
+          "balance": 36.08533248960542,
+          "share": 0
+        },
+        {
+          "address": "0xd57fc0c2609e3bd64f2c0529cee0ccfd33fbf9eb",
+          "balance": 34.33112797461209,
+          "share": 0
+        },
+        {
+          "address": "0xec8918f026f91b177e249e328f6f7c177384d921",
+          "balance": 32.54927786492625,
+          "share": 0
+        },
+        {
+          "address": "0x0ceb27e804177de1be7b62ee9fc81c73e91c3885",
+          "balance": 30.543677,
+          "share": 0
+        },
+        {
+          "address": "0x488db5b2f8a9fbb9f50ac113ce9f88c721fd4eec",
+          "balance": 30.40527068933455,
+          "share": 0
+        },
+        {
+          "address": "0xd62ebc0927932c4bcded041cba83fd12b76cdb0a",
+          "balance": 29.77573854276654,
+          "share": 0
+        },
+        {
+          "address": "0xe6539e68c2881af9cb56427c8a006dc85d2cde5d",
+          "balance": 29.095042138239624,
+          "share": 0
+        },
+        {
+          "address": "0x9ca5f37d1debadd83c16b20865d3400732e3b248",
+          "balance": 28.302065573551367,
+          "share": 0
+        },
+        {
+          "address": "0x0a42d414094b79f610bb8b922a8e0d8c8e167be2",
+          "balance": 27.361202859241235,
+          "share": 0
+        },
+        {
+          "address": "0xfabf60faa00f8f761508f4ae0adf4ead01932919",
+          "balance": 26.92159790128347,
+          "share": 0
+        },
+        {
+          "address": "0x7d45bb646895556b4f2a65c80a43c7440c40a47c",
+          "balance": 25,
+          "share": 0
+        },
+        {
+          "address": "0x2a49e810f4a17a19d893846f69a3dfba7259b95c",
+          "balance": 24.227127091202572,
+          "share": 0
+        },
+        {
+          "address": "0x80f40d72ff7356c64c85df2ad98139aab6ec1d76",
+          "balance": 23.59933555036011,
+          "share": 0
+        },
+        {
+          "address": "0x4e5978f2b27ffb86bc4c576a30bb371e54e30c4e",
+          "balance": 23.1,
+          "share": 0
+        },
+        {
+          "address": "0x55206268c0daec618c42f04539516a0e43acf31b",
+          "balance": 21.326401571313962,
+          "share": 0
+        },
+        {
+          "address": "0x6f9dce35600374668d03a10eff012ec4c82b5219",
+          "balance": 21.191,
+          "share": 0
+        },
+        {
+          "address": "0x3e8b7afb54e354875eb79c5e640f670139a038ef",
+          "balance": 20.66060471,
+          "share": 0
+        },
+        {
+          "address": "0x734719dd5e05d95fb3065c6ab6be5c3f1de85b38",
+          "balance": 20.08351648087775,
+          "share": 0
+        },
+        {
+          "address": "0xbe36600c3c28edf3ac2368430b8281a885feaf95",
+          "balance": 20.01787213367331,
+          "share": 0
+        },
+        {
+          "address": "0xdaaaff07f1b96fbe92f3470a65dca108158c5e9b",
+          "balance": 20.0,
+          "share": 0
+        },
+        {
+          "address": "0x3516fb493bf132352260861edfa203195adc3151",
+          "balance": 20.0,
+          "share": 0
+        },
+        {
+          "address": "0x9bef529f4d04d993a424808beb9b0161933193eb",
+          "balance": 20.0,
+          "share": 0
+        },
+        {
+          "address": "0x9550f537a30c77721f1e20139ebf182796cffcb1",
+          "balance": 19.61279013737441,
+          "share": 0
+        },
+        {
+          "address": "0x45e31174663a986547a9265e2e0f39bea935cf51",
+          "balance": 18.8,
+          "share": 0
+        },
+        {
+          "address": "0x6a4bb16bd4a11b352018b5be43d60876b5bf23b1",
+          "balance": 18.766466,
+          "share": 0
+        },
+        {
+          "address": "0xdb4de348e361e2f52cda0620eec2fb2e48cf7d0d",
+          "balance": 18.12975225634541,
+          "share": 0
+        },
+        {
+          "address": "0x2359b97bc38fa2fd1b1454ab090248b36de6fcda",
+          "balance": 18.126477270933055,
+          "share": 0
+        },
+        {
+          "address": "0x60b1a091f0b94b57ac16ae63eb082069ea695c3c",
+          "balance": 18,
+          "share": 0
+        },
+        {
+          "address": "0x9c9312a592193cf2dd37ea55172d84ddcab3ac27",
+          "balance": 17.48435074377246,
+          "share": 0
+        },
+        {
+          "address": "0x5794f7de490ea3f193ca8b60373db91a86fda811",
+          "balance": 17.000905501154875,
+          "share": 0
+        },
+        {
+          "address": "0x1c5d32053157195396b45b65152f8baade712d23",
+          "balance": 16.619543469612623,
+          "share": 0
+        },
+        {
+          "address": "0xb3c3cac4ddaabb4a4b2affbdf0034ff6bd4535b8",
+          "balance": 15.997505310492622,
+          "share": 0
+        },
+        {
+          "address": "0x14949b8c8a4f780ba240c2ca7b99756138f43d22",
+          "balance": 15.708882803122137,
+          "share": 0
+        },
+        {
+          "address": "0x15b1b448351a27ae3c4195f6b6668cc15ba2fee8",
+          "balance": 15.57605685774724,
+          "share": 0
+        },
+        {
+          "address": "0x463aa46484d19dc769c8295e4ec0f050ff206953",
+          "balance": 15.433351550891699,
+          "share": 0
+        },
+        {
+          "address": "0x96fd1615072fcb7d4c356f9256cda2e89b4d3131",
+          "balance": 15.254514549321502,
+          "share": 0
+        },
+        {
+          "address": "0x0be23d08f9e5ca9f56c3c891f2cc3ade3a00feb0",
+          "balance": 15.143973272683462,
+          "share": 0
+        },
+        {
+          "address": "0x7ef87c84af1961e227c9b604ede650c597332771",
+          "balance": 15.050178625856306,
+          "share": 0
+        },
+        {
+          "address": "0xa96c4007bdc9048726b1da6df8b319db00ccb05d",
+          "balance": 15,
+          "share": 0
+        },
+        {
+          "address": "0xc30d90dc7be459bfc16f1269340d0d223b7c2a38",
+          "balance": 14.899290711827659,
+          "share": 0
+        },
+        {
+          "address": "0x20c5b10046808c331e7aabf202b0c20ca526cc0b",
+          "balance": 14.723080891998247,
+          "share": 0
+        },
+        {
+          "address": "0x46f4f9eb80158adedc4722a9d4732b7ac8cb90d4",
+          "balance": 14.558004518198787,
+          "share": 0
+        },
+        {
+          "address": "0x22bd77017a9e83341accadebb3e770388dc71a49",
+          "balance": 14.47004539891322,
+          "share": 0
+        },
+        {
+          "address": "0xdd9b121b4bb7dc221827ae39450276ae1058c672",
+          "balance": 14.306062994253624,
+          "share": 0
+        },
+        {
+          "address": "0x8b9815a1324e86b19b60783af8a8607cf08298f0",
+          "balance": 14.08166117529801,
+          "share": 0
+        },
+        {
+          "address": "0x4fae4dd2c7fe7a0b905425bb723b5cbdae360fca",
+          "balance": 14,
+          "share": 0
+        },
+        {
+          "address": "0x6d1e6bab4710bac9d0f8395e6de7b4ebc1e165dc",
+          "balance": 13.4,
+          "share": 0
+        },
+        {
+          "address": "0xa3a935fa287a1acc8498e90117c9aad9f1630ea3",
+          "balance": 13.14,
+          "share": 0
+        },
+        {
+          "address": "0xb362775d03caa3cf183c4ffa32f977d802a4214c",
+          "balance": 13.12224583880065,
+          "share": 0
+        },
+        {
+          "address": "0x5dc9c8406e1acb1178c5fe9926977beadb846408",
+          "balance": 13.00212122,
+          "share": 0
+        },
+        {
+          "address": "0x8ffeb1f761904459fec329141bd30160a8ba83cf",
+          "balance": 12.53480116511117,
+          "share": 0
+        },
+        {
+          "address": "0x29c0786fcfcb81be8e98e19231ba606dbd9cda8f",
+          "balance": 12.395205648041886,
+          "share": 0
+        },
+        {
+          "address": "0xcc21abf00a0c589c9818e6ac438d8759ca5e611d",
+          "balance": 12.370569449783837,
+          "share": 0
+        },
+        {
+          "address": "0x1a25ae262824636b91f8909356d7718281ea24bd",
+          "balance": 12.1873065,
+          "share": 0
+        },
+        {
+          "address": "0x671e5668e4650cd621b48c0be7582716f9f1ff6e",
+          "balance": 12.097225243880771,
+          "share": 0
+        },
+        {
+          "address": "0x20d7f9a0d0b6814b6698ed1834770097e120428f",
+          "balance": 11.166,
+          "share": 0
+        }
+      ],
+      "topTenHolderRatio": 97.15,
+      "topTwentyHolderRatio": 99.18,
+      "topFiftyHolderRatio": 99.41,
+      "topHundredHolderRatio": 99.41
+    },
+    "displayTV": 1,
+    "isInfiniteMaxSupply": 0,
+    "tvCoinSymbol": "LPM",
+    "supportWalletInfos": [],
+    "holdersFlag": true,
+    "ratingsFlag": false,
+    "analysisFlag": false,
+    "socialsFlag": true,
+    "cryptoRating": [],
+    "hasExtraInfoFlag": false,
+    "upcoming": {
+      "status": false
+    },
+    "annotationFlag": false,
+    "similarCoins": [
+      {
+        "id": 2717,
+        "symbol": "BOUTS"
+      },
+      {
+        "id": 3304,
+        "symbol": "MOLK"
+      },
+      {
+        "id": 1135,
+        "symbol": "CLUB"
+      },
+      {
+        "id": 4388,
+        "symbol": "EXCC"
+      },
+      {
+        "id": 8911,
+        "symbol": "STRK"
+      },
+      {
+        "id": 27009,
+        "symbol": "UNIBOT"
+      }
+    ]
+  },
+  "status": {
+    "timestamp": "2024-11-17T23:29:58.499Z",
+    "error_code": "0",
+    "error_message": "SUCCESS",
+    "elapsed": "10",
+    "credit_count": 0
+  }
+}

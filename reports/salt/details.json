@@ -1,0 +1,868 @@
+{
+  "data": {
+    "id": 1996,
+    "name": "SALT",
+    "symbol": "SALT",
+    "slug": "salt",
+    "category": "token",
+    "description": "## What Is SALT Lending (SALT)?\n\nSALT Lending is a blockchain-based lending platform that offers users cryptocurrency-backed loans. Users deposit any combination of accepted tokens \u2014 such as Bitcoin (BTC), Ether (ETH), Litecoin (LTC), Doge (DOGE), DASH (DASH) or SALT (SALT) \u2014 as collateral to receive a loan in the form of a fiat currency or stablecoin.\n\nSALT Lending has a native token, called SALT, that can be spent to reduce the interest rate on a loan and can be used as a secondary form of loan collateral. Currently, SALT is redeemable at a $7.50 value for interest reductions on loans, a policy and valuation which are subject to change.\n\nThe company was launched in 2016 and is operated by Salt Blockchain Inc., a for profit entity, Salt Lending LLC: Salt Master Fund II, LLC \u2013 NMLS 1711910.\n\n## Who Are the Founders of SALT?\n\nSALT was founded in 2016 in Denver, Colorado by a group of Bitcoin enthusiasts and finance professionals, who aimed to bring to the market a product that enabled its users the ability to leverage their cryptocurrency to secure a cash loan while retaining ownership. SALT introduced asset backed lending to the cryptocurrency marketplace with the original blockchain-backed loan, providing a new level of versatility to digital asset holders seeking liquidity.\n \nFast-forward to today and you discover a regulated and licensed company that builds not only crypto-backed lending technology but also scalable, insured institutional-grade crypto custody and blockchain monitoring products. SALT now has over a 40 person team of core employees, technical developers and advisors with experience in various spheres.\n\n## What Makes SALT Unique?\n\nAccording to its whitepaper, SALT was the first provider of cryptocurrency-backed loans creating the niche lending market. The company is regulated and holds numerous lending, collection and loan servicing licenses.\n\nSALT enables multi-collateral loans with fixed rates, flexible terms and several loan to value (LTV) ratio options. Payouts are available in both cash and stablecoin. Prepayment penalties and bank-style origination fees are waived. The maximum loan-to-value (LTV) ratio ranges from 30% to 70%. The interest rates vary based on the selected loan term and LTV. The platform also functions as an insured cold storage wallet, and hosts its own SALT token which users can leverage to decrease loan interest rates among other things. The company lends in the United States and internationally, to individuals and institutional entities such as mining businesses and hedge funds. The company has live customer service, client support and best-in-class compliance programs to meet the needs of its users.\n\nThe SALT Platform was designed with the volatility of cryptocurrency and wealth preservation in mind. In the event of a margin call, assets are automatically converted to a stablecoin in lieu of liquidation, a unique feature in the lending space. \n\nHere's how it works:  \n\n* When a loan reaches a forced liquidation LTV, instead of immediately selling collateral assets to restore the health of the loan, the SALT Platform converts some portion of the collateral assets to a stablecoin thus preserving collateral value.\n* Once the health of the loan has been restored, the borrower can ask to convert the loan collateral back to the original cryptocurrency assets, such as BTC, ETH, LTC, etc\u2026\n* This gives users the opportunity to convert assets as the market is coming back up, creating the potential for users to not only preserve wealth, but grow it.\n\nThe SALT Platform has a loan health notification system consisting of email, phone, text and app alerts, available in both iOS and Android. Notwithstanding a general policy of giving borrowers notice of a margin deficiency. The system may liquidate or convert pledged assets without notice to borrowers to ensure that minimum maintenance requirements of the loan are satisfied. The liquidation or conversion of pledged assets could result in adverse tax consequences. SALT advises borrowers to consult their tax advisor in order to fully understand the implications associated with pledging digital assets as loan collateral.\n\n## How Many SALT (SALT) Coins Are There in Circulation?\n\nSALT has a fixed supply of 120,000,000 tokens. \n\nThe native token of the SALT Lending platform is SALT. It performs a number of user-related functions and is freely tradable outside the platform.\n\nSALT had an initial coin offering (ICO) in 2017. The presale and crowdsale took approximately 67% of the token supply, with the remainder currently held in treasury by SALT Blockchain Inc.\n\nIn September 2020, SALT paid a $250,000 fine and reached a settlement with the SEC related an investigation of its ICO. As a result, SALT Blockchain Inc. agreed to publicly register the SALT token as a class of security under Section 12(g) of the Securities Exchange Act of 1934 and to inform ICO purchasers of their right to submit a claim to recover the consideration paid, amongst other settlement terms.\n\n## How Is the SALT Network Secured?\n\nThe Salt Platform holds assets within insured cold storage and is responsible for the security of its networks and user funds. Within the Salt Platform, keys are generated offline, stored offline, and transactions are signed offline, which the company reports drastically reduce cyber security threats as keys are never exposed to a network-connected device. The multi-signature security process ensures that no single party can move user funds. Key encryption and layers of distribution secure user funds against both internal and external threats. The Salt Platform utilizes a custody framework for safekeeping cryptoassets with people, processes, and technology.\n\nIts native token, SALT, is an ERC-20 token issued on the Ethereum blockchain, meaning that any on-chain SALT transactions are validated and secured by the Ethereum mainnet. Miners compete among each other to add new blocks to the blockchain, and a majority of all nodes in the network must validate a record for it to be posted.\n \n\n## Related Pages:\n\nLearn about NEXO, another crypto-collateralized lending platform.\n\nLearn about CEL, another crypto-collateralized lending platform.\n\nLearn about Compound, another popular crypto lending platform.\n\nCurious about oracles? Read an in-depth guide on Alexandria, CoinMarketCap's online educational resource.\n\nStay up to date on the latest in decentralized finance and crypto lending with the CoinMarketCap Blog.\n \n",
+    "dateAdded": "2017-09-29T00:00:00.000Z",
+    "status": "active",
+    "subStatus": "normal",
+    "notice": "",
+    "alertType": 2,
+    "alertLink": "",
+    "latestUpdateTime": "2024-11-18T01:09:00.000Z",
+    "watchCount": "7233",
+    "watchListRanking": 2864,
+    "latestAdded": false,
+    "launchPrice": 6.90986,
+    "tags": [
+      {
+        "slug": "platform",
+        "name": "Platform",
+        "category": "CATEGORY"
+      },
+      {
+        "slug": "smart-contracts",
+        "name": "Smart Contracts",
+        "category": "CATEGORY"
+      },
+      {
+        "slug": "alleged-sec-securities",
+        "name": "Alleged SEC Securities",
+        "category": "CATEGORY"
+      }
+    ],
+    "urls": {
+      "website": [
+        "https://www.saltlending.com/"
+      ],
+      "technical_doc": [],
+      "explorer": [
+        "https://etherscan.io/token/0x4156D3342D5c385a87D264F90653733592000581",
+        "https://ethplorer.io/address/0x4156d3342d5c385a87d264f90653733592000581"
+      ],
+      "source_code": [],
+      "message_board": [
+        "https://blog.saltlending.com/"
+      ],
+      "chat": [
+        "https://t.me/SALTofficial_discussion",
+        "https://discordapp.com/invite/4S9eFBK"
+      ],
+      "announcement": [],
+      "reddit": [],
+      "facebook": [],
+      "twitter": [
+        "https://twitter.com/SaltLending"
+      ]
+    },
+    "volume": 575.54167098,
+    "volumeChangePercentage24h": -48.153,
+    "cexVolume": 575.54167098,
+    "dexVolume": 0.0,
+    "statistics": {
+      "price": 0.007563771316050316,
+      "priceChangePercentage1h": 0.03855941,
+      "priceChangePercentage24h": -0.86206482,
+      "priceChangePercentage7d": -2.64902168,
+      "priceChangePercentage30d": -37.29229767,
+      "priceChangePercentage60d": -41.53981753,
+      "priceChangePercentage90d": -53.57665817,
+      "priceChangePercentage1y": -74.73622718,
+      "priceChangePercentageAll": -99.890536549666,
+      "marketCap": 907652.52,
+      "marketCapChangePercentage24h": -0.8621,
+      "fullyDilutedMarketCap": 907652.56,
+      "fullyDilutedMarketCapChangePercentage24h": -0.86,
+      "circulatingSupply": 119999995.19035298,
+      "totalSupply": 120000000.0,
+      "marketCapDominance": 0.0,
+      "rank": 1897,
+      "roi": -99.89054183,
+      "low24h": 0.007421033547635982,
+      "high24h": 0.008056209985227937,
+      "low7d": 0.006828263042431084,
+      "high7d": 0.011736883851522939,
+      "low30d": 0.006644284242947091,
+      "high30d": 0.015960752929634156,
+      "low90d": 0.006644284242947091,
+      "high90d": 0.028910293018524266,
+      "low52w": 0.006644284242947091,
+      "high52w": 0.05353060448005872,
+      "lowAllTime": 0.006644284242947091,
+      "highAllTime": 17.742300033569336,
+      "lowAllTimeChangePercentage": 13.84,
+      "highAllTimeChangePercentage": -99.96,
+      "lowAllTimeTimestamp": "2024-11-09T09:51:00.000Z",
+      "highAllTimeTimestamp": "2017-12-29T06:19:14.000Z",
+      "lowYesterday": 0.007421033547635982,
+      "highYesterday": 0.008056209985227937,
+      "openYesterday": 0.00761679453361171,
+      "closeYesterday": 0.007560841282989838,
+      "priceChangePercentageYesterday": -0.73,
+      "volumeYesterday": 575.39,
+      "turnover": 0.0006341,
+      "ytdPriceChangePercentage": -75.2798,
+      "volumeRank": 6364,
+      "volumeMcRank": 6712,
+      "mcTotalNum": 10049,
+      "volumeTotalNum": 10049,
+      "volumeMcTotalNum": 10049
+    },
+    "quotes": [],
+    "platforms": [
+      {
+        "contractId": 1027,
+        "contractAddress": "0x4156D3342D5c385a87D264F90653733592000581",
+        "contractPlatform": "Ethereum",
+        "contractPlatformId": 1,
+        "contractChainId": 1,
+        "contractRpcUrl": [
+          "https://bsc-dataseed1.binance.org",
+          "https://bsc-dataseed.binance.org/",
+          "https://bsc-dataseed1.binance.org:443"
+        ],
+        "contractNativeCurrencyName": "Ethereum",
+        "contractNativeCurrencySymbol": "ETH",
+        "contractNativeCurrencyDecimals": 18,
+        "contractBlockExplorerUrl": "https://etherscan.io",
+        "contractExplorerUrl": "https://etherscan.io/token/0x4156D3342D5c385a87D264F90653733592000581",
+        "contractDecimals": 8,
+        "platformCryptoId": 1027,
+        "sort": 0,
+        "wallets": [
+          {
+            "id": 9025
+          }
+        ]
+      }
+    ],
+    "relatedCoins": [
+      {
+        "id": 2513,
+        "name": "GoldMint",
+        "slug": "goldmint",
+        "price": 0.05065701161697734,
+        "priceChangePercentage24h": -0.83488657,
+        "priceChangePercentage7d": 21.70106268
+      },
+      {
+        "id": 4679,
+        "name": "Band Protocol",
+        "slug": "band-protocol",
+        "price": 1.2924689407590508,
+        "priceChangePercentage24h": -5.51284503,
+        "priceChangePercentage7d": 1.82102584
+      },
+      {
+        "id": 7083,
+        "name": "Uniswap",
+        "slug": "uniswap",
+        "price": 8.907804423933275,
+        "priceChangePercentage24h": -4.39447372,
+        "priceChangePercentage7d": -3.90346035
+      },
+      {
+        "id": 1414,
+        "name": "Firo",
+        "slug": "firo",
+        "price": 1.3454938776288508,
+        "priceChangePercentage24h": 0.21867821,
+        "priceChangePercentage7d": 4.03360084
+      },
+      {
+        "id": 1975,
+        "name": "Chainlink",
+        "slug": "chainlink",
+        "price": 14.028344717813509,
+        "priceChangePercentage24h": -5.25786687,
+        "priceChangePercentage7d": -2.46572024
+      },
+      {
+        "id": 7653,
+        "name": "Oasis",
+        "slug": "oasis-network",
+        "price": 0.08025331330873264,
+        "priceChangePercentage24h": -5.30717197,
+        "priceChangePercentage7d": -4.39563858
+      },
+      {
+        "id": 707,
+        "name": "Blocknet",
+        "slug": "blocknet",
+        "price": 0.017113298239738093,
+        "priceChangePercentage24h": -0.68391562,
+        "priceChangePercentage7d": -3.30053472
+      },
+      {
+        "id": 5864,
+        "name": "yearn.finance",
+        "slug": "yearn-finance",
+        "price": 6192.38803639104,
+        "priceChangePercentage24h": -4.43119421,
+        "priceChangePercentage7d": -11.362147
+      },
+      {
+        "id": 4279,
+        "name": "Solar",
+        "slug": "sxp",
+        "price": 0.36376553390538346,
+        "priceChangePercentage24h": 2.1116243,
+        "priceChangePercentage7d": 18.12789401
+      },
+      {
+        "id": 8043,
+        "name": "MAHA.xyz",
+        "slug": "mahadao",
+        "price": 0.9034865737660874,
+        "priceChangePercentage24h": -2.68820884,
+        "priceChangePercentage7d": -9.89747239
+      }
+    ],
+    "wallets": [
+      {
+        "id": 9022,
+        "name": "Trust Wallet",
+        "tier": 1,
+        "url": "https://www.trustwallet.com/",
+        "chains": "ETH",
+        "types": "app,trade",
+        "introduction": "",
+        "star": 2.0,
+        "security": 3.0,
+        "easyToUse": 3.0,
+        "decentration": true,
+        "focusNumber": 0,
+        "rank": 1000008,
+        "logo": "9022.png",
+        "multipleChain": true
+      },
+      {
+        "id": 9025,
+        "name": "MetaMask",
+        "tier": 1,
+        "url": "https://metamask.io/",
+        "chains": "ETH,ETZ",
+        "types": "pc",
+        "introduction": "",
+        "star": 1.0,
+        "security": 2.0,
+        "easyToUse": 4.0,
+        "decentration": false,
+        "focusNumber": 0,
+        "rank": 1000013,
+        "logo": "9025.png",
+        "multipleChain": true
+      }
+    ],
+    "isAudited": true,
+    "auditInfos": [
+      {
+        "coinId": "1996",
+        "auditor": "CertiK",
+        "auditStatus": 2,
+        "auditTime": "2021-03-01T00:00:00.000Z",
+        "reportUrl": "https://cmc.certik-skynet.com/redirect?project=saltswap"
+      }
+    ],
+    "holders": {
+      "holderCount": 68474,
+      "dailyActive": 31,
+      "holderList": [
+        {
+          "address": "0x057f90823d207d3a665b2bebc9cde1b542e9c5c6",
+          "balance": 45725921.01595802,
+          "share": 38.1
+        },
+        {
+          "address": "0x43becd97249057dfe944ea78c07eb9ff226fb589",
+          "balance": 7091199.01280006,
+          "share": 5.91
+        },
+        {
+          "address": "0xc2ca2a70e5ade3305d4c5deda662daec518bee48",
+          "balance": 5000000,
+          "share": 4.17
+        },
+        {
+          "address": "0xf977814e90da44bfa03b6295a0616a897441acec",
+          "balance": 4041865.60814721,
+          "share": 3.37
+        },
+        {
+          "address": "0xfbb1b73c4f0bda4f67dca266ce6ef42f520fbb98",
+          "balance": 2975417.50365145,
+          "share": 2.48
+        },
+        {
+          "address": "0xb3d89a1bb0c881ed0ad79efc7c92169d294755f3",
+          "balance": 2000000,
+          "share": 1.67
+        },
+        {
+          "address": "0x18709e89bd403f470088abdacebe86cc60dda12e",
+          "balance": 1708795.0942013,
+          "share": 1.42
+        },
+        {
+          "address": "0xc14ea0ea4a7f1aa0485e8f4d31c3b148d056324d",
+          "balance": 1454536.09429573,
+          "share": 1.21
+        },
+        {
+          "address": "0xcb0760c9f73e6a1b9b106777e98acc0a7cf091fd",
+          "balance": 1450564.16408903,
+          "share": 1.21
+        },
+        {
+          "address": "0xb4eac158a00b0c3929a63161478ec77f19b7cf2d",
+          "balance": 1267322.3076364,
+          "share": 1.06
+        },
+        {
+          "address": "0x3264e5dd546c1ae7bb2a141fc1aa12b70fecaf83",
+          "balance": 1240629.53816425,
+          "share": 1.03
+        },
+        {
+          "address": "0x15f850bd82ba57e8fb4e122e9cd3bfc9aac3420d",
+          "balance": 1097115.58314754,
+          "share": 0.91
+        },
+        {
+          "address": "0x3cd48a0cb9c82608e743086b1ffda59741beef3f",
+          "balance": 1091886,
+          "share": 0.91
+        },
+        {
+          "address": "0xa07a2319fcb589701f1e2103520c3fba31b50d2d",
+          "balance": 1008895.51208825,
+          "share": 0.84
+        },
+        {
+          "address": "0xc54c9b579b0faaa04a47606cb4c217a7392d2e08",
+          "balance": 963512.24917672,
+          "share": 0.8
+        },
+        {
+          "address": "0x7d64034f5b359a2a5abee7a558f0db34a36e54bc",
+          "balance": 895898.80000001,
+          "share": 0.75
+        },
+        {
+          "address": "0x5318d7b2482dfe1ba3954a1a74d4547adaaa6ce5",
+          "balance": 833333,
+          "share": 0.69
+        },
+        {
+          "address": "0x360b352617ea50ae081dbe816320aec65b92e61f",
+          "balance": 750000.00537274,
+          "share": 0.63
+        },
+        {
+          "address": "0x4b5b73a3c9ca4ef6459e764459b43cc8abbcc5e2",
+          "balance": 623478.18200698,
+          "share": 0.52
+        },
+        {
+          "address": "0xcafe9cdea7b78741790948449e87b4251d6b5f82",
+          "balance": 559554.60518821,
+          "share": 0.47
+        },
+        {
+          "address": "0x0d27be0a89712dac06e7c013c74476d3d09248fe",
+          "balance": 539499,
+          "share": 0.45
+        },
+        {
+          "address": "0x13307b8854a95946b54a904100afd0767a7a577b",
+          "balance": 522530.21694211,
+          "share": 0.44
+        },
+        {
+          "address": "0xa98f8fda8cc449e99183229bb906cefb246a7ef3",
+          "balance": 510000,
+          "share": 0.43
+        },
+        {
+          "address": "0xb87f05a56b1d61887a7e00bba7ce4879174b9c26",
+          "balance": 475248.16820827,
+          "share": 0.4
+        },
+        {
+          "address": "0xfa4fbbbf57a8f8bdc1ee79db4a7b89eab7522d1e",
+          "balance": 430000.69147994,
+          "share": 0.36
+        },
+        {
+          "address": "0x562416b5db3222fb3ee6afdbc069a6d3bfbf0ff8",
+          "balance": 405263.49825777,
+          "share": 0.34
+        },
+        {
+          "address": "0xfbdde113c0b23d97cc5df37ce38b93ac30dac90a",
+          "balance": 400000.00000001,
+          "share": 0.33
+        },
+        {
+          "address": "0x86529404440ae8223997bf3e3f0185d7680fb38b",
+          "balance": 382347.45324401,
+          "share": 0.32
+        },
+        {
+          "address": "0xa701f9db977c98f9043b20225b4322f94dbd50db",
+          "balance": 378720.46250754,
+          "share": 0.32
+        },
+        {
+          "address": "0xd0be1fded5d964619b92b3672c08c43305529be0",
+          "balance": 368794.72055523,
+          "share": 0.31
+        },
+        {
+          "address": "0xefec32786054b0f6ce76f83926b828c22bbd696c",
+          "balance": 365856.51518509,
+          "share": 0.3
+        },
+        {
+          "address": "0x0d0707963952f2fba59dd06f2b425ace40b492fe",
+          "balance": 356028.90131307,
+          "share": 0.3
+        },
+        {
+          "address": "0x0db1a0061270418037fd9839dff08b8377b55e1d",
+          "balance": 347438.14946586,
+          "share": 0.29
+        },
+        {
+          "address": "0x99da12a1152725525029c0675e251002c35879c5",
+          "balance": 342302.26967341,
+          "share": 0.29
+        },
+        {
+          "address": "0x05c46d117d54e1f194dc997470d0eb19de35c605",
+          "balance": 339965.4194,
+          "share": 0.28
+        },
+        {
+          "address": "0x21a31ee1afc51d94c2efccaa2092ad1028285549",
+          "balance": 314779.99315972,
+          "share": 0.26
+        },
+        {
+          "address": "0xdb6fdc30ab61c7cca742d4c13d1b035f3f82019a",
+          "balance": 297851.66928257,
+          "share": 0.25
+        },
+        {
+          "address": "0x274b56e812b7951b737e450a22e849860c8ada11",
+          "balance": 268211.98628976,
+          "share": 0.22
+        },
+        {
+          "address": "0x0038962f80a9218b2c11c8562a661dc2457302fd",
+          "balance": 252961.58506185,
+          "share": 0.21
+        },
+        {
+          "address": "0x2588c1e7aba4529d620e27595e314c2c92b3386e",
+          "balance": 238884.14837619,
+          "share": 0.2
+        },
+        {
+          "address": "0x32c27143b4306431832a81707a7727453411405c",
+          "balance": 233011.18255564,
+          "share": 0.19
+        },
+        {
+          "address": "0xb0c9c64e9ad7aeb2aed4d63e73f7bfa7acc2f71c",
+          "balance": 219721.74973151,
+          "share": 0.18
+        },
+        {
+          "address": "0xb63729055f5b4963f2b26239cc07da034c6ae479",
+          "balance": 215899.50590051,
+          "share": 0.18
+        },
+        {
+          "address": "0xa22efec40937868d646d7c2444515ab461e24793",
+          "balance": 210769.58760932,
+          "share": 0.18
+        },
+        {
+          "address": "0x93de8d02e0625d5e5223cceeaca6cd636525fb4f",
+          "balance": 199026,
+          "share": 0.17
+        },
+        {
+          "address": "0xeb413988a42cb359603d42bf3a6b6e5b24c69346",
+          "balance": 198988.30302211,
+          "share": 0.17
+        },
+        {
+          "address": "0xe68baf8094988bc7631e8c3ba6ea62a69a0e59c2",
+          "balance": 192080.92193966,
+          "share": 0.16
+        },
+        {
+          "address": "0x086116f4a1c7137a8593c2d2831847a561d5bb92",
+          "balance": 185299.78922411,
+          "share": 0.15
+        },
+        {
+          "address": "0xf33f86c27d4b5d26bcab05daf2270c46b1964873",
+          "balance": 183503.4,
+          "share": 0.15
+        },
+        {
+          "address": "0x6e0311773b957295425cb495032d6054dd302297",
+          "balance": 183184,
+          "share": 0.15
+        },
+        {
+          "address": "0xaf40fdc468c30116bd3307bcbf4a451a7ebf1deb",
+          "balance": 181951.51326914,
+          "share": 0.15
+        },
+        {
+          "address": "0x1c4b70a3968436b9a0a9cf5205c787eb81bb558c",
+          "balance": 172916.12685666,
+          "share": 0.14
+        },
+        {
+          "address": "0x638f52d406db849df639ea12a871ffacf902c04f",
+          "balance": 172261.48982625,
+          "share": 0.14
+        },
+        {
+          "address": "0x119e4cef0573c9d329d8bc30555eca3278ba19b0",
+          "balance": 171158.48740262,
+          "share": 0.14
+        },
+        {
+          "address": "0x783dcb42dbf8e71ee7ebb502ea032bfd6ce31c10",
+          "balance": 165570.95824532,
+          "share": 0.14
+        },
+        {
+          "address": "0x1c11ba15939e1c16ec7ca1678df6160ea2063bc5",
+          "balance": 164898.57,
+          "share": 0.14
+        },
+        {
+          "address": "0x11e330f494a2d3a17d559b95a03a956f1256f437",
+          "balance": 163580.9637427,
+          "share": 0.14
+        },
+        {
+          "address": "0x80787af194c33b74a811f5e5c549316269d7ee1a",
+          "balance": 149000,
+          "share": 0.12
+        },
+        {
+          "address": "0x41ccc5a8cb6aebbb35d444ac4cdd52fd680a933d",
+          "balance": 146211.67082958,
+          "share": 0.12
+        },
+        {
+          "address": "0xdfd5293d8e347dfe59e90efd55b2956a1343963d",
+          "balance": 145600.04464,
+          "share": 0.12
+        },
+        {
+          "address": "0xdccf7b6e287449ccea35b31a26039a633e011164",
+          "balance": 142995.14133,
+          "share": 0.12
+        },
+        {
+          "address": "0x4a3d4ac80690c89527c899915dded45f4b16c9d3",
+          "balance": 142879.12451355,
+          "share": 0.12
+        },
+        {
+          "address": "0x9cbc2935dfa09e047f9a215f998a91b80dba1103",
+          "balance": 127147.78,
+          "share": 0.11
+        },
+        {
+          "address": "0x28c6c06298d514db089934071355e5743bf21d60",
+          "balance": 126908.35905866,
+          "share": 0.11
+        },
+        {
+          "address": "0xa533574c3199db25bb91184ecc37e254fa08bee3",
+          "balance": 122105.72051474,
+          "share": 0.1
+        },
+        {
+          "address": "0xde8a498c8a1716b38f37869f61371b6777ab4453",
+          "balance": 120371.479728,
+          "share": 0.1
+        },
+        {
+          "address": "0xf94c1affecf821615fc8d488186a588bdf857226",
+          "balance": 115139.2780482,
+          "share": 0.1
+        },
+        {
+          "address": "0x1318c400aa7097a247fd7d857d531d962231313e",
+          "balance": 114595.46071636,
+          "share": 0.1
+        },
+        {
+          "address": "0xaa42b8013a3757e887f1e4030ccc4caa27cfcaf8",
+          "balance": 114046.63289609,
+          "share": 0.1
+        },
+        {
+          "address": "0xf53b10be50d94fbb653d1a5463412642e5ae765d",
+          "balance": 112334,
+          "share": 0.09
+        },
+        {
+          "address": "0xdccf62c85a431c45bd3534ae6811894ab5db3b4e",
+          "balance": 107266.17725568,
+          "share": 0.09
+        },
+        {
+          "address": "0xc9b87f35e80a59e6bf02391f7fd4d4f13bc3a007",
+          "balance": 103043.693,
+          "share": 0.09
+        },
+        {
+          "address": "0x6226403ab5aaed11d8a8f29df5c53d192f34a6a7",
+          "balance": 102477.83,
+          "share": 0.09
+        },
+        {
+          "address": "0x502a0944b9342b8951606e5889c34e3b2e90277c",
+          "balance": 100190.15776404,
+          "share": 0.08
+        },
+        {
+          "address": "0x4327d57c6ad63c25e4ebc997ce25fbba11360999",
+          "balance": 100049.47008744,
+          "share": 0.08
+        },
+        {
+          "address": "0x63b8f2b8343c4a550f61b8c202fae507f603d1d1",
+          "balance": 100000,
+          "share": 0.08
+        },
+        {
+          "address": "0xc4e7bedaf1bc2ac574857008b1c3557ac5b52adc",
+          "balance": 100000,
+          "share": 0.08
+        },
+        {
+          "address": "0x3411233d5c5c8dd03a7d872fb973c8aa5a55055e",
+          "balance": 100000,
+          "share": 0.08
+        },
+        {
+          "address": "0x74ababf3bdca63e0e45cfa9dd1bb2409e2c85ef9",
+          "balance": 92598.88111059,
+          "share": 0.08
+        },
+        {
+          "address": "0x306e6267d94f23a9b37cb110f20852208fbbf1aa",
+          "balance": 92213.15,
+          "share": 0.08
+        },
+        {
+          "address": "0x2d891fa5f3e73ebea82b794ea3c915d0d9aeb4a0",
+          "balance": 91470.51001868,
+          "share": 0.08
+        },
+        {
+          "address": "0xd0fe18210b3333141040f9db3fecc5407d0c62ba",
+          "balance": 90000,
+          "share": 0.08
+        },
+        {
+          "address": "0x5f80729acac31146c954cd359d00faffd3133c61",
+          "balance": 87513.12811273,
+          "share": 0.07
+        },
+        {
+          "address": "0x38b75883fd345f9a9c349a844cb53bfa9b55bb16",
+          "balance": 86976,
+          "share": 0.07
+        },
+        {
+          "address": "0xfb7a818119b08975266a74cce909807f544a860f",
+          "balance": 86825.8,
+          "share": 0.07
+        },
+        {
+          "address": "0x7eabc3f8f851c5c34afde2ff5ac8f145a7eb8a99",
+          "balance": 85627.141615,
+          "share": 0.07
+        },
+        {
+          "address": "0xe2721f1d0b1caa862f9257b639010c239dc5ca1c",
+          "balance": 84253.48201425,
+          "share": 0.07
+        },
+        {
+          "address": "0xa2bb97fda2674729f51a589fe3814f58a9619065",
+          "balance": 83020.73,
+          "share": 0.07
+        },
+        {
+          "address": "0xf35d30901f85fb97835c0309586a9170342b0b8e",
+          "balance": 82280.34847941,
+          "share": 0.07
+        },
+        {
+          "address": "0x6775a255aeaa9b49477a3c1f2c0592aaa7aff1fa",
+          "balance": 81625.490265,
+          "share": 0.07
+        },
+        {
+          "address": "0x0d5fbca98dcc863a09c2746f237e8949777c527b",
+          "balance": 80706.66094648,
+          "share": 0.07
+        },
+        {
+          "address": "0xa81011ae274ef6debd3bdab634102c7b6c2c452d",
+          "balance": 80649.4788187,
+          "share": 0.07
+        },
+        {
+          "address": "0xeaaf4b027e482c9751681f6f27a50f7ead5e3cbe",
+          "balance": 79175,
+          "share": 0.07
+        },
+        {
+          "address": "0x6f8a6dc0791291ca77abf39bc0e701d3279a4e84",
+          "balance": 78297.73880512,
+          "share": 0.07
+        },
+        {
+          "address": "0xfeb826545aa6fab9fd47d8cc464548bffe2ab520",
+          "balance": 78113.3689031,
+          "share": 0.07
+        },
+        {
+          "address": "0xde5902674ee6a5a5746593ef1e41022c74abab91",
+          "balance": 77634.37799211,
+          "share": 0.06
+        },
+        {
+          "address": "0x64d2b8547831c4835ebc8606508430bbe506f4ce",
+          "balance": 76843.57,
+          "share": 0.06
+        },
+        {
+          "address": "0xa2cddc7764dee18dd0c1e2efe4a1126db407fa9b",
+          "balance": 76597.79925035,
+          "share": 0.06
+        },
+        {
+          "address": "0x4838ef0c564b3868a5eefb9eefb9b2b925da7420",
+          "balance": 76226.28020567,
+          "share": 0.06
+        },
+        {
+          "address": "0x06be912e106cf459b3a91dcad30f5c1d221d16e4",
+          "balance": 75850.08238826,
+          "share": 0.06
+        }
+      ],
+      "topTenHolderRatio": 60.6,
+      "topTwentyHolderRatio": 68.15,
+      "topFiftyHolderRatio": 76.13,
+      "topHundredHolderRatio": 80.73
+    },
+    "displayTV": 1,
+    "isInfiniteMaxSupply": 0,
+    "tvCoinSymbol": "SALT",
+    "supportWalletInfos": [
+      {
+        "id": 9022,
+        "name": "Trust Wallet",
+        "url": "https://www.trustwallet.com/",
+        "chains": "ETH",
+        "decentration": false,
+        "logo": "9022.png",
+        "multipleChain": false
+      },
+      {
+        "id": 9025,
+        "name": "MetaMask",
+        "url": "https://metamask.io/",
+        "chains": "ETH,ETZ",
+        "decentration": false,
+        "logo": "9025.png",
+        "multipleChain": false
+      }
+    ],
+    "holdersFlag": true,
+    "ratingsFlag": false,
+    "analysisFlag": false,
+    "socialsFlag": true,
+    "cryptoRating": [
+      {
+        "type": "CertiK",
+        "score": 72.01,
+        "rating": 3.6,
+        "updateTime": "2024-11-17T00:00:00.000Z",
+        "link": "https://cmc.certik-skynet.com/redirect?project=saltswap&utm_source=CMC&utm_campaign=ScoreByCertiKLink"
+      },
+      {
+        "type": "Cyberscope",
+        "score": 65.0,
+        "rating": 3.3,
+        "updateTime": "2024-11-17T11:06:53.000Z",
+        "link": "https://www.cyberscope.io/audits/coin-salt"
+      },
+      {
+        "type": "Aggregate rating",
+        "score": 68.5,
+        "rating": 3.5,
+        "updateTime": "2024-11-18T01:00:00.179Z"
+      }
+    ],
+    "hasExtraInfoFlag": false,
+    "upcoming": {
+      "status": false
+    },
+    "annotationFlag": false,
+    "similarCoins": [
+      {
+        "id": 1758,
+        "symbol": "PAY"
+      },
+      {
+        "id": 1834,
+        "symbol": "PLR"
+      },
+      {
+        "id": 5328,
+        "symbol": "WOM"
+      },
+      {
+        "id": 2447,
+        "symbol": "CRPT"
+      },
+      {
+        "id": 1230,
+        "symbol": "STEEM"
+      },
+      {
+        "id": 1993,
+        "symbol": "KIN"
+      }
+    ]
+  },
+  "status": {
+    "timestamp": "2024-11-18T01:09:56.163Z",
+    "error_code": "0",
+    "error_message": "SUCCESS",
+    "elapsed": "12",
+    "credit_count": 0
+  }
+}
